@@ -22,7 +22,7 @@ jobs:
         run: npx playwright install chromium --with-deps
 
       - name: Run scrapers
-        run: npx tsx scripts/scrape.ts
+        run: npm run scrape
         env:
           FB_EMAIL: ${{ secrets.FB_EMAIL }}
           FB_PASSWORD: ${{ secrets.FB_PASSWORD }}

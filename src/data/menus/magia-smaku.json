@@ -1,48 +1,29 @@
 {
   "id": "magia-smaku",
   "name": "Magia Smaku",
-  "url": "https://www.magiasmakubielsko.pl",
+  "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-02-05T06:00:00Z",
+  "scrapedAt": "2026-02-06T13:17:10.167Z",
   "menus": [
-    {
-      "date": "2026-02-02",
-      "items": [
-        { "name": "Krem z batatów z grzankami", "price": 18 },
-        { "name": "Stek z polędwicy z ziemniakami gratin", "price": 42 },
-        { "name": "Tarta z owocami sezonowymi", "price": 20 }
-      ]
-    },
-    {
-      "date": "2026-02-03",
-      "items": [
-        { "name": "Zupa cebulowa z grzanką serową", "price": 18 },
-        { "name": "Risotto z grzybami leśnymi", "price": 34 },
-        { "name": "Panna cotta z malinami", "price": 18 }
-      ]
-    },
-    {
-      "date": "2026-02-04",
-      "items": [
-        { "name": "Gazpacho z bazylią", "price": 18 },
-        { "name": "Pierś z kaczki z sosem pomarańczowym", "price": 40 },
-        { "name": "Brownie z lodami", "price": 20 }
-      ]
-    },
-    {
-      "date": "2026-02-05",
-      "items": [
-        { "name": "Krem szparagowy", "price": 18 },
-        { "name": "Łosoś na szpinaku z risotto", "price": 38 },
-        { "name": "Sernik z sosem malinowym", "price": 18 }
-      ]
-    },
     {
       "date": "2026-02-06",
       "items": [
-        { "name": "Zupa borowikowa", "price": 20 },
-        { "name": "Polędwiczki wieprzowe w sosie grzybowym", "price": 36 },
-        { "name": "Szarlotka z lodami", "price": 18 }
+        {
+          "name": "Rosół",
+          "price": 9
+        },
+        {
+          "name": "Pieczarkowa",
+          "price": 8
+        },
+        {
+          "name": "Eskalopki drobiowe z sosem pieczarkowym , ziemniaki, surówki ,kompot +zupa",
+          "price": 29
+        },
+        {
+          "name": "Rybka panierowana ( morszczuk), ziemniaki, surówki, kompot + zupa",
+          "price": 35
+        }
       ]
     }
   ]

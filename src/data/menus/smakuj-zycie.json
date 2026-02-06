@@ -3,47 +3,6 @@
   "name": "Smakuj Życie",
   "url": "https://www.facebook.com/p/Smakuj-%C5%BCycie-61551705328071/",
   "phone": "+48 730 370 453",
-  "scrapedAt": "2026-02-05T06:00:00Z",
-  "menus": [
-    {
-      "date": "2026-02-02",
-      "items": [
-        { "name": "Zupa dnia + drugie danie", "price": 25 },
-        { "name": "Pierogi z jagodami (porcja)", "price": 20 },
-        { "name": "Leniwe z masłem i cukrem", "price": 18 }
-      ]
-    },
-    {
-      "date": "2026-02-03",
-      "items": [
-        { "name": "Zupa dnia + drugie danie", "price": 25 },
-        { "name": "Kopytka z sosem grzybowym", "price": 22 },
-        { "name": "Sałatka z grillowanym halloumi", "price": 26 }
-      ]
-    },
-    {
-      "date": "2026-02-04",
-      "items": [
-        { "name": "Zupa dnia + drugie danie", "price": 25 },
-        { "name": "Wrapy z kurczakiem i warzywami", "price": 24 },
-        { "name": "Bowl z quinoa i awokado", "price": 28 }
-      ]
-    },
-    {
-      "date": "2026-02-05",
-      "items": [
-        { "name": "Zupa dnia + drugie danie", "price": 25 },
-        { "name": "Zapiekanka makaronowa z warzywami", "price": 22 },
-        { "name": "Burger wołowy z frytkami", "price": 30 }
-      ]
-    },
-    {
-      "date": "2026-02-06",
-      "items": [
-        { "name": "Zupa dnia + drugie danie", "price": 25 },
-        { "name": "Fish tacos z salsą", "price": 28 },
-        { "name": "Racuchy z jabłkami", "price": 18 }
-      ]
-    }
-  ]
+  "scrapedAt": "2026-02-06T13:17:47.291Z",
+  "menus": []
 }

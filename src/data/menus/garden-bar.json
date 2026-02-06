@@ -3,46 +3,35 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-05T06:00:00Z",
+  "scrapedAt": "2026-02-06T13:16:50.726Z",
   "menus": [
-    {
-      "date": "2026-02-02",
-      "items": [
-        { "name": "Żurek na zakwasie z jajkiem", "price": 16 },
-        { "name": "Filet z kurczaka z frytkami", "price": 28 },
-        { "name": "Sałatka cezar", "price": 24 }
-      ]
-    },
-    {
-      "date": "2026-02-03",
-      "items": [
-        { "name": "Krem z pieczarek", "price": 14 },
-        { "name": "Schabowy z ziemniakami", "price": 26 },
-        { "name": "Pierogi z mięsem (10 szt.)", "price": 22 }
-      ]
-    },
-    {
-      "date": "2026-02-04",
-      "items": [
-        { "name": "Rosół z makaronem", "price": 14 },
-        { "name": "Kotlet mielony z purée", "price": 24 },
-        { "name": "Naleśniki z dżemem", "price": 20 }
-      ]
-    },
-    {
-      "date": "2026-02-05",
-      "items": [
-        { "name": "Zupa ogórkowa", "price": 14 },
-        { "name": "Ryba smażona z frytkami", "price": 30 },
-        { "name": "Placki ziemniaczane", "price": 20 }
-      ]
-    },
     {
       "date": "2026-02-06",
       "items": [
-        { "name": "Zupa pomidorowa z ryżem", "price": 14 },
-        { "name": "Gulasz wieprzowy z kaszą", "price": 28 },
-        { "name": "Sałatka z tuńczykiem", "price": 26 }
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki",
+          "price": 34
+        },
+        {
+          "name": "Kartacze z mięsem 4 szt, surowki",
+          "price": 27
+        },
+        {
+          "name": "Kaszanka z cebulką, ziemniaki, kapusta kiszona zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Jarzynowa",
+          "price": 8
+        },
+        {
+          "name": "Filet z dorsza atlantyckiego w panierce smażony, frytki, zestaw surówek",
+          "price": 42
+        },
+        {
+          "name": "Pstrag cały zawijany w boczku, frytki, zestaw surówek",
+          "price": 39
+        }
       ]
     }
   ]

@@ -1,4 +1,4 @@
-import { chromium, type BrowserContext } from "playwright";
+import {chromium, type Browser} from "playwright";
 
 export interface FacebookScrapeOptions {
   url: string;
@@ -11,117 +11,72 @@ export interface FacebookScrapeResult {
 }
 
 export async function scrapeFacebookPage(
-  options: FacebookScrapeOptions
+  options: FacebookScrapeOptions,
 ): Promise<FacebookScrapeResult> {
-  const { url, headless = true } = options;
+  const {url, headless = true} = options;
 
   const email = process.env.FB_EMAIL;
   const password = process.env.FB_PASSWORD;
   if (!email || !password) {
-    return { text: null, error: "FB_EMAIL and FB_PASSWORD env vars are required" };
+    return {
+      text: null,
+      error: "FB_EMAIL and FB_PASSWORD env vars are required",
+    };
   }
 
-  let context: BrowserContext | undefined;
+  let browser: Browser | undefined;
 
   try {
-    const browser = await chromium.launch({ headless });
+    browser = await chromium.launch({headless});
+    const page = await browser.newPage();
 
-    context = await browser.newContext({
-      userAgent:
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-      locale: "pl-PL",
-      viewport: { width: 1280, height: 900 },
+    // Go to Facebook and dismiss cookie dialog if present
+    await page.goto("https://www.facebook.com/", {
+      waitUntil: "domcontentloaded",
     });
+    try {
+      const dialog = page.getByTestId("cookie-policy-manage-dialog");
+      await dialog.waitFor({timeout: 5000});
+      await dialog
+        .locator(
+          '[role="button"][aria-label="Zezwól na wszystkie pliki cookie"]',
+        )
+        .last()
+        .click({timeout: 5000});
+    } catch {
+      // Cookie dialog not present or already dismissed, continue
+    }
 
-    const page = await context.newPage();
+    // Log in
+    await page.getByTestId("royal-email").click();
+    await page.getByTestId("royal-email").fill(email);
+    await page.locator("#passContainer").click();
+    await page.getByTestId("royal-pass").fill(password);
+    await page.getByTestId("royal-login-button").click();
 
-    // Log in to Facebook
-    await login(page, email, password);
+    // Wait for feed to confirm login succeeded
+    await page.locator('[role="navigation"]').first().waitFor({timeout: 15000});
 
     // Navigate to target page
-    await page.goto(url, { waitUntil: "networkidle" });
+    await page.goto(url, {waitUntil: "domcontentloaded"});
 
-    // Extract latest post text
-    const text = await extractLatestPostText(page);
+    // Expand truncated post
+    await page.getByRole("button", {name: "Wyświetl więcej"}).nth(1).click();
 
-    await context.close();
+    // Extract post text
+    const text = await page
+      .locator("[data-ad-preview='message']")
+      .first()
+      .innerText();
 
-    return { text, error: null };
+    console.log(text);
+
+    await browser.close();
+
+    return {text: text.trim() || null, error: null};
   } catch (err) {
     const message = err instanceof Error ? err.message : String(err);
-    await context?.close().catch(() => {});
-    return { text: null, error: message };
+    await browser?.close().catch(() => {});
+    return {text: null, error: message};
   }
-}
-
-async function login(page: import("playwright").Page, email: string, password: string) {
-  await page.goto("https://www.facebook.com/login", { waitUntil: "networkidle" });
-
-  // Accept cookies dialog if present
-  for (const label of ["Allow all cookies", "Zezwól na wszystkie ciasteczka", "Accept all"]) {
-    try {
-      const btn = page.getByRole("button", { name: label });
-      await btn.click({ timeout: 2000 });
-      await page.waitForTimeout(500);
-      break;
-    } catch {
-      // Not found, try next
-    }
-  }
-
-  await page.fill('input[name="email"]', email);
-  await page.fill('input[name="pass"]', password);
-  await page.click('button[name="login"]');
-
-  // Wait for navigation after login
-  await page.waitForURL((url) => !url.pathname.includes("/login"), { timeout: 15000 });
-  await page.waitForTimeout(1000);
-}
-
-async function expandTruncatedPosts(page: import("playwright").Page) {
-  for (const label of ["Wyświetl więcej", "See more"]) {
-    try {
-      const link = page.locator('[role="article"]').first().getByText(label, { exact: true });
-      if (await link.count() > 0) {
-        await link.first().click({ timeout: 3000 });
-        await page.waitForTimeout(1000);
-        return;
-      }
-    } catch {
-      // Not found or click failed, try next
-    }
-  }
-}
-
-async function extractLatestPostText(
-  page: import("playwright").Page
-): Promise<string | null> {
-  // Expand truncated posts first
-  await expandTruncatedPosts(page);
-
-  // Strategy 1: role="article" elements (standard FB post containers)
-  try {
-    const articles = page.locator('[role="article"]');
-    const count = await articles.count();
-    if (count > 0) {
-      const text = await articles.first().innerText({ timeout: 5000 });
-      if (text.trim()) return text.trim();
-    }
-  } catch {
-    // Fall through to next strategy
-  }
-
-  // Strategy 2: data-ad-preview="message" (alternative post selector)
-  try {
-    const messages = page.locator('[data-ad-preview="message"]');
-    const count = await messages.count();
-    if (count > 0) {
-      const text = await messages.first().innerText({ timeout: 5000 });
-      if (text.trim()) return text.trim();
-    }
-  } catch {
-    // Fall through
-  }
-
-  return null;
 }

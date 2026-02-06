@@ -1,5 +1,6 @@
 import type {Provider, DayMenu} from "../types.js";
 import {scrapeFacebookPage} from "../lib/facebook.js";
+import {parseMenuText} from "../ai/parse-menu.js";
 
 const provider: Provider = {
   config: {
@@ -17,14 +18,13 @@ const provider: Provider = {
       return [];
     }
 
-    if (result.text) {
-      console.log(`[magia-smaku] Extracted ${result.text.length} chars of text`);
-    } else {
+    if (!result.text) {
       console.log(`[magia-smaku] No post text found`);
+      return [];
     }
 
-    // TODO: parse menu text into DayMenu[]
-    return [];
+    console.log(`[magia-smaku] Extracted ${result.text.length} chars of text`);
+    return parseMenuText(result.text);
   },
 };
 
