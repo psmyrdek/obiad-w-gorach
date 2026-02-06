@@ -56,7 +56,7 @@ function sortItemsByPrice(items: DayMenu["items"]): DayMenu["items"] {
     if (a.price === null && b.price === null) return 0;
     if (a.price === null) return 1;
     if (b.price === null) return -1;
-    return a.price - b.price;
+    return b.price - a.price;
   });
 }
 
