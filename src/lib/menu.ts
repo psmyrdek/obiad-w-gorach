@@ -51,6 +51,15 @@ export function getMenuForDate(
   return restaurant.menus.find((m) => m.date === date);
 }
 
+function sortItemsByPrice(items: DayMenu["items"]): DayMenu["items"] {
+  return [...items].sort((a, b) => {
+    if (a.price === null && b.price === null) return 0;
+    if (a.price === null) return 1;
+    if (b.price === null) return -1;
+    return a.price - b.price;
+  });
+}
+
 export function getRestaurantsWithMenuForDate(
   restaurants: RestaurantData[],
   date: string
@@ -59,7 +68,10 @@ export function getRestaurantsWithMenuForDate(
   for (const restaurant of restaurants) {
     const menu = getMenuForDate(restaurant, date);
     if (menu && menu.items.length > 0) {
-      results.push({ restaurant, menu });
+      results.push({
+        restaurant,
+        menu: { ...menu, items: sortItemsByPrice(menu.items) },
+      });
     }
   }
   return results;
