@@ -1,0 +1,49 @@
+{
+  "id": "cubus-beskidy",
+  "name": "Cubus Beskidy",
+  "url": "https://cubus-beskidy.pl",
+  "phone": "+48 33 863 13 05",
+  "scrapedAt": "2026-02-05T06:00:00Z",
+  "menus": [
+    {
+      "date": "2026-02-02",
+      "items": [
+        { "name": "Zupa jarzynowa", "price": 12 },
+        { "name": "Danie dnia: kurczak z ryżem", "price": 24 },
+        { "name": "Surówka do dania", "price": null }
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "items": [
+        { "name": "Krem z pomidorów", "price": 12 },
+        { "name": "Danie dnia: schabowy z ziemniakami", "price": 24 },
+        { "name": "Surówka do dania", "price": null }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "items": [
+        { "name": "Zupa szczawiowa z jajkiem", "price": 14 },
+        { "name": "Danie dnia: gulasz z kaszą", "price": 26 },
+        { "name": "Surówka do dania", "price": null }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "items": [
+        { "name": "Rosół z kołdunami", "price": 14 },
+        { "name": "Danie dnia: ryba z frytkami", "price": 28 },
+        { "name": "Surówka do dania", "price": null }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "items": [
+        { "name": "Grochówka wojskowa", "price": 14 },
+        { "name": "Danie dnia: kotlet mielony z purée", "price": 24 },
+        { "name": "Surówka do dania", "price": null }
+      ]
+    }
+  ]
+}
