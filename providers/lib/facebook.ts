@@ -61,16 +61,25 @@ export async function scrapeFacebookPage(
     // Navigate to target page
     await page.goto(url, {waitUntil: "domcontentloaded"});
 
-    // Expand truncated post (skip pinned post if present)
-    const showMoreIndex = hasPinnedPost ? 2 : 1;
-    await page.getByRole("button", {name: "Wyświetl więcej"}).nth(showMoreIndex).click();
-
-    // Extract post text (skip pinned post if present)
+    // Find the target post (skip pinned post if present)
     const postIndex = hasPinnedPost ? 1 : 0;
-    const text = await page
-      .locator("[data-ad-preview='message']")
-      .nth(postIndex)
-      .innerText();
+    const targetPost = page.locator("[data-ad-preview='message']").nth(postIndex);
+    await targetPost.waitFor({timeout: 10000});
+
+    // Expand truncated post by finding "Wyświetl więcej" relative to the target post.
+    // We walk up the DOM from the post element to find the nearest ancestor that
+    // contains the expand button, avoiding accidental clicks on unrelated buttons.
+    try {
+      const expandBtn = targetPost
+        .locator("xpath=ancestor::div[.//div[@role='button'][contains(., 'Wyświetl więcej')]][1]")
+        .getByRole("button", {name: "Wyświetl więcej"});
+      await expandBtn.click({timeout: 5000});
+    } catch {
+      // Post might not be truncated, continue
+    }
+
+    // Extract expanded post text
+    const text = await targetPost.innerText();
 
     console.log(text);
 
