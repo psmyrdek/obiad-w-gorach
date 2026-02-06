@@ -11,18 +11,47 @@ const { title } = Astro.props;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Lunch menu z restauracji w okolicy" />
+    <meta name="description" content="Lunch menu z restauracji w Beskidach" />
+    <meta name="theme-color" content="#f9f6f1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet" />
     <title>{title}</title>
   </head>
-  <body class="bg-gray-50 min-h-screen">
-    <header class="bg-white border-b border-gray-200">
-      <div class="max-w-2xl mx-auto px-4 py-4">
-        <h1 class="text-xl font-bold text-gray-900">Obiad w Górach 🏔️</h1>
-        <p class="text-sm text-gray-500">Menu lunchowe na ten tydzień</p>
-      </div>
-    </header>
-    <main class="max-w-2xl mx-auto px-4 py-6">
-      <slot />
-    </main>
+  <body class="bg-paper-100 min-h-screen font-body text-ink-700 paper-texture">
+    <div class="min-h-screen flex flex-col">
+      <header class="border-b border-paper-300 bg-paper-50/80 backdrop-blur-sm sticky top-0 z-10">
+        <div class="max-w-2xl mx-auto px-5 py-4 sm:py-5">
+          <div class="flex items-baseline justify-between">
+            <div>
+              <h1 class="font-display text-2xl sm:text-3xl font-semibold text-ink-800 tracking-tight">
+                Obiad w&nbsp;Górach
+              </h1>
+              <p class="text-ink-400 text-sm mt-0.5 font-medium">
+                Menu lunchowe · Beskidy
+              </p>
+            </div>
+            <div class="text-right hidden sm:block">
+              <p class="text-xs text-ink-400 uppercase tracking-widest font-semibold">
+                Tydzień
+              </p>
+              <p class="font-display text-lg text-ink-600">
+                {new Date().toLocaleDateString('pl-PL', { day: 'numeric', month: 'short' })}
+              </p>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <main class="flex-1 max-w-2xl mx-auto w-full px-5 py-6 sm:py-8">
+        <slot />
+      </main>
+
+      <footer class="border-t border-paper-300 py-6 mt-auto">
+        <p class="text-center text-ink-400 text-xs tracking-wide">
+          Smacznego!
+        </p>
+      </footer>
+    </div>
   </body>
 </html>

@@ -6,7 +6,7 @@ import DayMenu from "./DayMenu";
 
 interface Props {
   restaurants: RestaurantData[];
-  today: string; // YYYY-MM-DD, passed from server
+  today: string;
 }
 
 export default function MenuPage({ restaurants, today }: Props) {
@@ -15,13 +15,15 @@ export default function MenuPage({ restaurants, today }: Props) {
   const [selectedDate, setSelectedDate] = useState(initialDate);
 
   return (
-    <div className="space-y-6">
+    <div>
       <WeekNav
         dates={weekDates}
         selected={selectedDate}
         onSelect={setSelectedDate}
       />
-      <DayMenu restaurants={restaurants} date={selectedDate} />
+      <div key={selectedDate} className="animate-fadeIn">
+        <DayMenu restaurants={restaurants} date={selectedDate} />
+      </div>
     </div>
   );
 }

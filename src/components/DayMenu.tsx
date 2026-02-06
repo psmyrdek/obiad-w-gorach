@@ -16,14 +16,27 @@ export default function DayMenu({ restaurants, date }: Props) {
   }
 
   return (
-    <div className="space-y-4">
-      {entries.map(({ restaurant, menu }) => (
-        <RestaurantCard
-          key={restaurant.id}
-          restaurant={restaurant}
-          menu={menu}
-        />
-      ))}
+    <div>
+      {/* Restaurant list with dividers */}
+      <div className="divide-y-0">
+        {entries.map(({ restaurant, menu }, index) => (
+          <div
+            key={restaurant.id}
+            className={index > 0 ? "pt-8 mt-8 border-t border-paper-300" : ""}
+          >
+            <RestaurantCard
+              restaurant={restaurant}
+              menu={menu}
+              index={index}
+            />
+          </div>
+        ))}
+      </div>
+
+      {/* Footer count */}
+      <p className="text-center text-ink-400 text-xs pt-8 mt-8 border-t border-paper-200">
+        {entries.length} {entries.length === 1 ? "restauracja" : entries.length < 5 ? "restauracje" : "restauracji"} z menu
+      </p>
     </div>
   );
 }
