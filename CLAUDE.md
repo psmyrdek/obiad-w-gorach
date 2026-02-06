@@ -159,7 +159,7 @@ Tailwind config extends defaults with these custom tokens. See `tailwind.config.
 
 - **Polish UI:** All user-facing text is in Polish. Day labels are Pn/Wt/Śr/Cz/Pt. Currency is "zł".
 - **Weekdays only:** The app shows Mon-Fri menus. No weekend support.
-- **Price null = "w cenie":** A `null` price means the item is included in a set meal price, displayed as "w cenie".
+- **Price null = "nie podano":** A `null` price means the item is included in a set meal price, displayed as "nie podano".
 - **Sorting:** Menu items are sorted by price descending (most expensive first), nulls last.
 - **TypeScript:** Strict mode via `astro/tsconfigs/strict`. ESM modules (`"type": "module"`).
 - **No linter/formatter configured:** No ESLint or Prettier in the project.

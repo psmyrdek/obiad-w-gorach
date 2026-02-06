@@ -1,6 +1,4 @@
 import type { Provider, DayMenu } from "../types.js";
-import { scrapeFacebookPage } from "../lib/facebook.js";
-import { parseMenuText } from "../ai/parse-menu.js";
 
 const provider: Provider = {
   config: {
@@ -11,20 +9,8 @@ const provider: Provider = {
   },
 
   async scrape(): Promise<DayMenu[]> {
-    const result = await scrapeFacebookPage({ url: this.config.url });
-
-    if (result.error) {
-      console.log(`[smakuj-zycie] Scrape error: ${result.error}`);
-      return [];
-    }
-
-    if (!result.text) {
-      console.log(`[smakuj-zycie] No post text found`);
-      return [];
-    }
-
-    console.log(`[smakuj-zycie] Extracted ${result.text.length} chars of text`);
-    return parseMenuText(result.text);
+    console.log(`[smakuj-zycie] Disabled — no RSS feed available`);
+    return [];
   },
 };
 

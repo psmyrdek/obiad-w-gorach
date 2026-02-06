@@ -16,6 +16,12 @@ export async function runAllProviders(): Promise<void> {
 
     try {
       const menus = await provider.scrape();
+
+      if (menus === null) {
+        console.log(`  -> Feed unchanged, keeping existing JSON`);
+        continue;
+      }
+
       const result: RestaurantMenu = {
         id: config.id,
         name: config.name,

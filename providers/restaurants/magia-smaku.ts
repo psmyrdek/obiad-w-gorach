@@ -1,6 +1,6 @@
-import type {Provider, DayMenu} from "../types.js";
-import {scrapeFacebookPage} from "../lib/facebook.js";
-import {parseMenuText} from "../ai/parse-menu.js";
+import type { Provider, DayMenu } from "../types.js";
+import { fetchRssFeed, loadCachedFeed, saveFeed, RSS_FEEDS } from "../lib/rss.js";
+import { parseMenuText } from "../ai/parse-menu.js";
 
 const provider: Provider = {
   config: {
@@ -10,21 +10,18 @@ const provider: Provider = {
     phone: "+48 33 497 08 05",
   },
 
-  async scrape(): Promise<DayMenu[]> {
-    const result = await scrapeFacebookPage({ url: this.config.url });
+  async scrape(): Promise<DayMenu[] | null> {
+    const text = await fetchRssFeed(RSS_FEEDS.MAGIA_SMAKU);
+    console.log(`[magia-smaku] Fetched ${text.length} chars from RSS`);
 
-    if (result.error) {
-      console.log(`[magia-smaku] Scrape error: ${result.error}`);
-      return [];
+    const cached = loadCachedFeed("magia-smaku");
+    if (cached === text) {
+      console.log(`[magia-smaku] RSS unchanged, skipping AI parsing`);
+      return null;
     }
 
-    if (!result.text) {
-      console.log(`[magia-smaku] No post text found`);
-      return [];
-    }
-
-    console.log(`[magia-smaku] Extracted ${result.text.length} chars of text`);
-    return parseMenuText(result.text);
+    saveFeed("magia-smaku", text);
+    return parseMenuText(text);
   },
 };
 

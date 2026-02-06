@@ -1,6 +1,9 @@
-export interface ParsingPromptInputs {
+export interface WeekContext {
   weekDates: [string, string, string, string, string];
   today: string;
+}
+
+export interface ParsingPromptInputs extends WeekContext {
   menuText: string;
 }
 
@@ -56,4 +59,27 @@ U nas dziś jak zawsze pachnący, domowy rosołek, który rozgrzewa od pierwszej
   - Dania główne (Makaron penne, Łosoś grillowany, Kotlet schabowy, Nugetsy z frytkami)
   - Dania dnia (Ramen Polski)
   `;
+}
+
+export function buildImageParsingPrompt({
+  weekDates,
+  today,
+}: WeekContext): string {
+  return `Przeanalizuj poniższe zdjęcia menu restauracji. Wyodrębnij nazwy dań i ceny w złotych (PLN).
+
+Wybieraj wyłącznie dania dnia oraz zupy. Pomiń dania z menu głównego (stałego).
+
+Jeśli danie nie ma ceny, ustaw cenę na null.
+
+Dzisiejsza data to: ${today}
+
+Dopasuj daty do dni tygodnia:
+  Poniedziałek = ${weekDates[0]},
+  Wtorek = ${weekDates[1]},
+  Środa = ${weekDates[2]},
+  Czwartek = ${weekDates[3]},
+  Piątek = ${weekDates[4]},
+
+Jeśli zdjęcie wyraźnie wskazuje dzień tygodnia, użyj odpowiedniej daty.
+Jeśli nie wskazuje konkretnego dnia, załóż że dotyczy dnia dzisiejszego (${today}).`;
 }

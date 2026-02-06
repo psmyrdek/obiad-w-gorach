@@ -26,5 +26,5 @@ export interface RestaurantMenu {
 
 export interface Provider {
   config: ProviderConfig;
-  scrape: () => Promise<DayMenu[]>;
+  scrape: () => Promise<DayMenu[] | null>;
 }

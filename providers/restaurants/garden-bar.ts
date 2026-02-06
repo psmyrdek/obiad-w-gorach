@@ -1,5 +1,5 @@
 import type { Provider, DayMenu } from "../types.js";
-import { scrapeFacebookPage } from "../lib/facebook.js";
+import { fetchRssFeed, loadCachedFeed, saveFeed, RSS_FEEDS } from "../lib/rss.js";
 import { parseMenuText } from "../ai/parse-menu.js";
 
 const provider: Provider = {
@@ -10,21 +10,18 @@ const provider: Provider = {
     phone: "+48 691 409 510",
   },
 
-  async scrape(): Promise<DayMenu[]> {
-    const result = await scrapeFacebookPage({ url: this.config.url });
+  async scrape(): Promise<DayMenu[] | null> {
+    const text = await fetchRssFeed(RSS_FEEDS.GARDEN_BAR);
+    console.log(`[garden-bar] Fetched ${text.length} chars from RSS`);
 
-    if (result.error) {
-      console.log(`[garden-bar] Scrape error: ${result.error}`);
-      return [];
+    const cached = loadCachedFeed("garden-bar");
+    if (cached === text) {
+      console.log(`[garden-bar] RSS unchanged, skipping AI parsing`);
+      return null;
     }
 
-    if (!result.text) {
-      console.log(`[garden-bar] No post text found`);
-      return [];
-    }
-
-    console.log(`[garden-bar] Extracted ${result.text.length} chars of text`);
-    return parseMenuText(result.text);
+    saveFeed("garden-bar", text);
+    return parseMenuText(text);
   },
 };
 

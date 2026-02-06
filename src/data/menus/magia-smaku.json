@@ -3,6 +3,91 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-02-06T21:16:35.525Z",
-  "menus": []
+  "scrapedAt": "2026-02-06T22:40:10.730Z",
+  "menus": [
+    {
+      "date": "2026-02-06",
+      "items": [
+        {
+          "name": "Rosół",
+          "price": 9
+        },
+        {
+          "name": "Zupa Pieczarkowa",
+          "price": 8
+        },
+        {
+          "name": "Eskalopki drobiowe z sosem pieczarkowym, ziemniaki, surówki, kompot + zupa",
+          "price": 29
+        },
+        {
+          "name": "Rybka panierowana (morszczuk), ziemniaki, surówki, kompot + zupa",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "items": [
+        {
+          "name": "Zupa Pieczarkowa",
+          "price": 9
+        },
+        {
+          "name": "Zupa Pomidorowa",
+          "price": 8
+        },
+        {
+          "name": "Wątróbka drobiowa z jabłkiem i cebulą, ziemniaki, surówki, kompot + zupa",
+          "price": 28
+        },
+        {
+          "name": "Rolada wieprzowa z kluskami śląskimi, surówki, kompot + zupa",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "items": [
+        {
+          "name": "Zupa Pomidorowa z ryżem",
+          "price": 9
+        },
+        {
+          "name": "Barszcz czerwony zabielany",
+          "price": 8
+        },
+        {
+          "name": "Gyros wieprzowy z ryżem, surówki, kompot + zupa",
+          "price": 28
+        },
+        {
+          "name": "Podudzia w chrupiącej panierce z frytkami i sosem kentaky, surówki, kompot + zupa",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "items": [
+        {
+          "name": "Barszcz czerwony zabielany",
+          "price": 9
+        },
+        {
+          "name": "Krupnik",
+          "price": 8
+        },
+        {
+          "name": "Sztuka mięsa w sosie chrzanowym, ziemniaki, surówki, kompot + zupa",
+          "price": 28
+        },
+        {
+          "name": "Devolay z masłem czosnkowym, ziemniaki, surówki, kompot + zupa",
+          "price": 35
+        }
+      ]
+    }
+  ]
 }

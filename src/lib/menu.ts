@@ -1,4 +1,4 @@
-import type { RestaurantData, DayMenu } from "./types";
+import type {RestaurantData, DayMenu} from "./types";
 
 const POLISH_DAYS = ["Pn", "Wt", "Śr", "Cz", "Pt"] as const;
 
@@ -15,7 +15,7 @@ export function getWeekDates(today: Date = new Date()): string[] {
   const monday = new Date(today);
   monday.setDate(today.getDate() - (day === 0 ? 6 : day - 1));
 
-  return Array.from({ length: 5 }, (_, i) => {
+  return Array.from({length: 5}, (_, i) => {
     const d = new Date(monday);
     d.setDate(monday.getDate() + i);
     return d.toISOString().split("T")[0];
@@ -40,13 +40,13 @@ export function formatDate(dateStr: string): string {
 }
 
 export function formatPrice(price: number | null): string {
-  if (price === null) return "w cenie";
+  if (price === null) return "nie podano";
   return `${price} zł`;
 }
 
 export function getMenuForDate(
   restaurant: RestaurantData,
-  date: string
+  date: string,
 ): DayMenu | undefined {
   return restaurant.menus.find((m) => m.date === date);
 }
@@ -62,15 +62,15 @@ function sortItemsByPrice(items: DayMenu["items"]): DayMenu["items"] {
 
 export function getRestaurantsWithMenuForDate(
   restaurants: RestaurantData[],
-  date: string
-): { restaurant: RestaurantData; menu: DayMenu }[] {
-  const results: { restaurant: RestaurantData; menu: DayMenu }[] = [];
+  date: string,
+): {restaurant: RestaurantData; menu: DayMenu}[] {
+  const results: {restaurant: RestaurantData; menu: DayMenu}[] = [];
   for (const restaurant of restaurants) {
     const menu = getMenuForDate(restaurant, date);
     if (menu && menu.items.length > 0) {
       results.push({
         restaurant,
-        menu: { ...menu, items: sortItemsByPrice(menu.items) },
+        menu: {...menu, items: sortItemsByPrice(menu.items)},
       });
     }
   }

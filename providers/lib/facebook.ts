@@ -1,8 +1,8 @@
-import {chromium} from "playwright-extra";
+import {chromium} from "playwright";
 import type {Browser} from "playwright";
-import stealth from "puppeteer-extra-plugin-stealth";
 
-chromium.use(stealth());
+const MOBILE_USER_AGENT =
+  "Mozilla/5.0 (Linux; U; Android 4.0.2; en-us; Galaxy Nexus Build/ICL53F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
 
 export interface FacebookScrapeOptions {
   url: string;
@@ -13,6 +13,25 @@ export interface FacebookScrapeOptions {
 export interface FacebookScrapeResult {
   text: string | null;
   error: string | null;
+}
+
+/**
+ * Convert a www.facebook.com URL to mbasic.facebook.com.
+ * Handles /p/Name-ID/ URLs by extracting the numeric ID and
+ * converting to profile.php?id=ID format.
+ */
+function toMbasicUrl(url: string): string {
+  const parsed = new URL(url);
+  parsed.hostname = "mbasic.facebook.com";
+
+  // /p/Name-123456/ → /profile.php?id=123456
+  const pMatch = parsed.pathname.match(/^\/p\/.*?(\d+)\/?$/);
+  if (pMatch) {
+    parsed.pathname = "/profile.php";
+    parsed.searchParams.set("id", pMatch[1]);
+  }
+
+  return parsed.toString();
 }
 
 export async function scrapeFacebookPage(
@@ -33,56 +52,32 @@ export async function scrapeFacebookPage(
 
   try {
     browser = await chromium.launch({headless});
-    const page = await browser.newPage();
+    const context = await browser.newContext({userAgent: MOBILE_USER_AGENT});
+    const page = await context.newPage();
 
-    // Go to Facebook and dismiss cookie dialog if present
-    await page.goto("https://www.facebook.com/", {
+    // Log in via mbasic login page
+    await page.goto("https://mbasic.facebook.com/login/", {
       waitUntil: "domcontentloaded",
     });
-    try {
-      const dialog = page.getByTestId("cookie-policy-manage-dialog");
-      await dialog.waitFor({timeout: 5000});
-      await dialog
-        .locator(
-          '[role="button"][aria-label="Zezwól na wszystkie pliki cookie"]',
-        )
-        .last()
-        .click({timeout: 5000});
-    } catch {
-      // Cookie dialog not present or already dismissed, continue
-    }
 
-    // Log in
-    await page.getByTestId("royal-email").click();
-    await page.getByTestId("royal-email").fill(email);
-    await page.locator("#passContainer").click();
-    await page.getByTestId("royal-pass").fill(password);
-    await page.getByTestId("royal-login-button").click();
+    await page.locator('input[name="email"]').fill(email);
+    await page.locator('input[name="pass"]').fill(password);
+    await page.locator('button[name="login"]').click();
 
-    // Wait for feed to confirm login succeeded
-    await page.locator('[role="navigation"]').first().waitFor({timeout: 15000});
+    // Wait for login to complete — mbasic redirects to a page without the login form
+    await page.waitForURL((u) => !u.pathname.includes("/login"), {
+      timeout: 15000,
+    });
 
-    // Navigate to target page
-    await page.goto(url, {waitUntil: "domcontentloaded"});
+    // Navigate to target page on mbasic
+    const mbasicUrl = toMbasicUrl(url);
+    await page.goto(mbasicUrl, {waitUntil: "domcontentloaded"});
 
-    // Find the target post (skip pinned post if present)
+    // Extract post text — mbasic renders posts as <article> elements
     const postIndex = hasPinnedPost ? 1 : 0;
-    const targetPost = page.locator("[data-ad-preview='message']").nth(postIndex);
+    const targetPost = page.locator("article").nth(postIndex);
     await targetPost.waitFor({timeout: 10000});
 
-    // Expand truncated post by finding "Wyświetl więcej" relative to the target post.
-    // We walk up the DOM from the post element to find the nearest ancestor that
-    // contains the expand button, avoiding accidental clicks on unrelated buttons.
-    try {
-      const expandBtn = targetPost
-        .locator("xpath=ancestor::div[.//div[@role='button'][contains(., 'Wyświetl więcej')]][1]")
-        .getByRole("button", {name: "Wyświetl więcej"});
-      await expandBtn.click({timeout: 5000});
-    } catch {
-      // Post might not be truncated, continue
-    }
-
-    // Extract expanded post text
     const text = await targetPost.innerText();
 
     console.log(text);
