@@ -1,0 +1,41 @@
+{
+  "id": "maczanka",
+  "name": "Maczanka Krakowska",
+  "url": "https://facebook.com/maczankakrakowska",
+  "phone": "+48 12 634 98 21",
+  "scrapedAt": "2026-02-05T06:00:00Z",
+  "menus": [
+    {
+      "date": "2026-02-02",
+      "items": [
+        { "name": "Zupa dnia: Krupnik", "price": null },
+        { "name": "Maczanka krakowska", "price": 26 },
+        { "name": "Bigos staropolski", "price": 24 }
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "items": [
+        { "name": "Zupa dnia: Grochówka", "price": null },
+        { "name": "Kiełbasa z grilla z chlebem", "price": 22 },
+        { "name": "Gołąbki w sosie pomidorowym", "price": 28 }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "items": [
+        { "name": "Zupa dnia: Ogórkowa", "price": null },
+        { "name": "Maczanka krakowska", "price": 26 },
+        { "name": "Pierogi z mięsem (10 szt.)", "price": 24 }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "items": [
+        { "name": "Zupa dnia: Pomidorowa", "price": null },
+        { "name": "Żeberka BBQ z frytkami", "price": 34 },
+        { "name": "Zapiekanka krakowska", "price": 18 }
+      ]
+    }
+  ]
+}

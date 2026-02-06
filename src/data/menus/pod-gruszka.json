@@ -1,0 +1,49 @@
+{
+  "id": "pod-gruszka",
+  "name": "Restauracja Pod Gruszką",
+  "url": "https://facebook.com/restauracjapodgruszka",
+  "phone": "+48 12 422 68 60",
+  "scrapedAt": "2026-02-05T06:00:00Z",
+  "menus": [
+    {
+      "date": "2026-02-02",
+      "items": [
+        { "name": "Żurek z jajkiem i kiełbasą", "price": 18 },
+        { "name": "Schabowy z ziemniakami i surówką", "price": 28 },
+        { "name": "Pierogi ruskie (12 szt.)", "price": 24 }
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "items": [
+        { "name": "Zupa pomidorowa z makaronem", "price": 16 },
+        { "name": "Kotlet mielony z purée", "price": 26 },
+        { "name": "Naleśniki z serem", "price": 22 }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "items": [
+        { "name": "Rosół z kury z makaronem", "price": 16 },
+        { "name": "Gulasz wołowy z kaszą", "price": 32 },
+        { "name": "Sałatka grecka", "price": 24 }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "items": [
+        { "name": "Krem z brokułów", "price": 16 },
+        { "name": "Łosoś z ryżem i warzywami", "price": 36 },
+        { "name": "Placki ziemniaczane ze śmietaną", "price": 22 }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "items": [
+        { "name": "Zupa rybna", "price": 18 },
+        { "name": "Fish & chips", "price": 30 },
+        { "name": "Sałatka z grillowanym kurczakiem", "price": 28 }
+      ]
+    }
+  ]
+}

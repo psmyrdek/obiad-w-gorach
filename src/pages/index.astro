@@ -1,0 +1,15 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import MenuPage from "../components/MenuPage";
+import type { RestaurantData } from "../lib/types";
+import { getTodayDate } from "../lib/menu";
+
+const entries = await getCollection("menus");
+const restaurants: RestaurantData[] = entries.map((entry) => entry.data as RestaurantData);
+const today = getTodayDate(new Date());
+---
+
+<Layout title="Obiad w Górach 🏔️">
+  <MenuPage client:load restaurants={restaurants} today={today} />
+</Layout>
