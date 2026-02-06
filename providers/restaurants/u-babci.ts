@@ -11,7 +11,7 @@ const provider: Provider = {
   },
 
   async scrape(): Promise<DayMenu[]> {
-    const result = await scrapeFacebookPage({ url: this.config.url });
+    const result = await scrapeFacebookPage({ url: this.config.url, hasPinnedPost: true });
 
     if (result.error) {
       console.log(`[u-babci] Scrape error: ${result.error}`);

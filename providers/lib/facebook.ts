@@ -3,6 +3,7 @@ import {chromium, type Browser} from "playwright";
 export interface FacebookScrapeOptions {
   url: string;
   headless?: boolean;
+  hasPinnedPost?: boolean;
 }
 
 export interface FacebookScrapeResult {
@@ -13,7 +14,7 @@ export interface FacebookScrapeResult {
 export async function scrapeFacebookPage(
   options: FacebookScrapeOptions,
 ): Promise<FacebookScrapeResult> {
-  const {url, headless = true} = options;
+  const {url, headless = true, hasPinnedPost = false} = options;
 
   const email = process.env.FB_EMAIL;
   const password = process.env.FB_PASSWORD;
@@ -60,13 +61,15 @@ export async function scrapeFacebookPage(
     // Navigate to target page
     await page.goto(url, {waitUntil: "domcontentloaded"});
 
-    // Expand truncated post
-    await page.getByRole("button", {name: "Wyświetl więcej"}).nth(1).click();
+    // Expand truncated post (skip pinned post if present)
+    const showMoreIndex = hasPinnedPost ? 2 : 1;
+    await page.getByRole("button", {name: "Wyświetl więcej"}).nth(showMoreIndex).click();
 
-    // Extract post text
+    // Extract post text (skip pinned post if present)
+    const postIndex = hasPinnedPost ? 1 : 0;
     const text = await page
       .locator("[data-ad-preview='message']")
-      .first()
+      .nth(postIndex)
       .innerText();
 
     console.log(text);
