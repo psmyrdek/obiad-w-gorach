@@ -1,10 +1,12 @@
 export interface ParsingPromptInputs {
   weekDates: [string, string, string, string, string];
+  today: string;
   menuText: string;
 }
 
 export function buildParsingPrompt({
   weekDates,
+  today,
   menuText,
 }: ParsingPromptInputs): string {
   return `
@@ -16,12 +18,17 @@ export function buildParsingPrompt({
 
   Jeśli danie nie ma ceny, ustaw cenę na null.
 
+  Dzisiejsza data to: ${today}
+
   Dopasuj daty do dni tygodnia:
     Poniedziałek = ${weekDates[0]},
     Wtorek = ${weekDates[1]},
     Środa = ${weekDates[2]},
     Czwartek = ${weekDates[3]},
     Piątek = ${weekDates[4]},
+
+  Jeśli post wyraźnie wskazuje dzień tygodnia (np. "Poniedziałek", "Wtorek", "Piątek"), użyj odpowiedniej daty z powyższego mapowania.
+  Jeśli post nie wskazuje konkretnego dnia, załóż że dotyczy dnia dzisiejszego (${today}).
 
   PRZYKŁADOWY WPIS:
 

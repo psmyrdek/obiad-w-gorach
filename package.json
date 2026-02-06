@@ -16,6 +16,8 @@
     "@openrouter/ai-sdk-provider": "^2.1.1",
     "ai": "^6.0.73",
     "astro": "^5.3.0",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

@@ -40,7 +40,7 @@ export async function parseMenuText(text: string): Promise<DayMenu[]> {
   const {output} = await generateText({
     model: openrouter(MODEL_NAME),
     output: Output.array({element: dayMenuItemSchema}),
-    prompt: buildParsingPrompt({weekDates, menuText: text}),
+    prompt: buildParsingPrompt({weekDates, today: today.toISOString().split("T")[0], menuText: text}),
   });
 
   return (output ?? []) as DayMenu[];

@@ -1,4 +1,8 @@
-import {chromium, type Browser} from "playwright";
+import {chromium} from "playwright-extra";
+import type {Browser} from "playwright";
+import stealth from "puppeteer-extra-plugin-stealth";
+
+chromium.use(stealth());
 
 export interface FacebookScrapeOptions {
   url: string;
