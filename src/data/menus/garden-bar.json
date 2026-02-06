@@ -3,36 +3,6 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-06T13:16:50.726Z",
-  "menus": [
-    {
-      "date": "2026-02-06",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki",
-          "price": 34
-        },
-        {
-          "name": "Kartacze z mięsem 4 szt, surowki",
-          "price": 27
-        },
-        {
-          "name": "Kaszanka z cebulką, ziemniaki, kapusta kiszona zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Jarzynowa",
-          "price": 8
-        },
-        {
-          "name": "Filet z dorsza atlantyckiego w panierce smażony, frytki, zestaw surówek",
-          "price": 42
-        },
-        {
-          "name": "Pstrag cały zawijany w boczku, frytki, zestaw surówek",
-          "price": 39
-        }
-      ]
-    }
-  ]
+  "scrapedAt": "2026-02-06T18:25:23.481Z",
+  "menus": []
 }

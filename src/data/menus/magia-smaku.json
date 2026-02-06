@@ -3,28 +3,6 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-02-06T13:17:10.167Z",
-  "menus": [
-    {
-      "date": "2026-02-06",
-      "items": [
-        {
-          "name": "Rosół",
-          "price": 9
-        },
-        {
-          "name": "Pieczarkowa",
-          "price": 8
-        },
-        {
-          "name": "Eskalopki drobiowe z sosem pieczarkowym , ziemniaki, surówki ,kompot +zupa",
-          "price": 29
-        },
-        {
-          "name": "Rybka panierowana ( morszczuk), ziemniaki, surówki, kompot + zupa",
-          "price": 35
-        }
-      ]
-    }
-  ]
+  "scrapedAt": "2026-02-06T18:26:12.236Z",
+  "menus": []
 }
