@@ -11,7 +11,7 @@ interface Props {
 
 export default function MenuPage({ restaurants, today }: Props) {
   const weekDates = getWeekDates(new Date(today + "T12:00:00"));
-  const initialDate = weekDates.includes(today) ? today : weekDates[0];
+  const initialDate = weekDates.includes(today) ? today : weekDates[weekDates.length - 1];
   const [selectedDate, setSelectedDate] = useState(initialDate);
 
   return (
