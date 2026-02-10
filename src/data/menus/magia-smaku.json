@@ -3,6 +3,45 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-02-10T12:17:51.963Z",
-  "menus": []
+  "scrapedAt": "2026-02-10T12:21:10.960Z",
+  "menus": [
+    {
+      "date": "2026-02-09",
+      "items": [
+        {
+          "name": "Zupa jarzynowa",
+          "price": 9
+        },
+        {
+          "name": "Gulasz z indyka z kaszą jęczmienną, surówki, kompot + zupa",
+          "price": 28
+        },
+        {
+          "name": "Szaszłyk z camembertem z kurczakiem panierowanym z sosem czosnkowym z frytkami, surówki, kompot + zupa",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "items": [
+        {
+          "name": "Rosół",
+          "price": 9
+        },
+        {
+          "name": "Zupa pieczarkowa",
+          "price": 8
+        },
+        {
+          "name": "Eskalopki drobiowe z sosem pieczarkowym, ziemniaki, surówki, kompot + zupa",
+          "price": 29
+        },
+        {
+          "name": "Rybka panierowana (morszczuk), ziemniaki, surówki, kompot + zupa",
+          "price": 35
+        }
+      ]
+    }
+  ]
 }

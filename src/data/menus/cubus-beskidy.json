@@ -3,6 +3,72 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-10T12:17:54.373Z",
-  "menus": []
+  "scrapedAt": "2026-02-10T12:21:17.306Z",
+  "menus": [
+    {
+      "date": "2026-02-09",
+      "items": [
+        {
+          "name": "Żurek",
+          "price": null
+        },
+        {
+          "name": "Gołąbki w sosie pomidorowym",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "items": [
+        {
+          "name": "Krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Ryba, ziemniaki, kapusta kiszona",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "items": [
+        {
+          "name": "Barszcz zabielany",
+          "price": null
+        },
+        {
+          "name": "Stek drobiowy, szyszki ziemniaczane, coleslaw z czerwonej kapusty",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "items": [
+        {
+          "name": "Zupa ogórkowa",
+          "price": null
+        },
+        {
+          "name": "Gulasz wieprzowy, knedel, biała kapusta",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "items": [
+        {
+          "name": "Krem z pieczonego kalafiora",
+          "price": null
+        },
+        {
+          "name": "Roladka drobiowa (pieczarki, ser), ziemniaki, colesław",
+          "price": null
+        }
+      ]
+    }
+  ]
 }
