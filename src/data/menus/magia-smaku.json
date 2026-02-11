@@ -3,13 +3,13 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-02-10T12:21:10.960Z",
+  "scrapedAt": "2026-02-11T09:15:16.907Z",
   "menus": [
     {
       "date": "2026-02-09",
       "items": [
         {
-          "name": "Zupa jarzynowa",
+          "name": "Jarzynowa",
           "price": 9
         },
         {
@@ -30,7 +30,7 @@
           "price": 9
         },
         {
-          "name": "Zupa pieczarkowa",
+          "name": "Pieczarkowa",
           "price": 8
         },
         {

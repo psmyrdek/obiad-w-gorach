@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-10T12:21:17.306Z",
+  "scrapedAt": "2026-02-11T09:15:22.307Z",
   "menus": [
     {
       "date": "2026-02-09",
@@ -19,27 +19,14 @@
       ]
     },
     {
-      "date": "2026-02-13",
+      "date": "2026-02-10",
       "items": [
         {
-          "name": "Krem z dyni",
+          "name": "Krem z pieczonego kalafiora",
           "price": null
         },
         {
-          "name": "Ryba, ziemniaki, kapusta kiszona",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-12",
-      "items": [
-        {
-          "name": "Barszcz zabielany",
-          "price": null
-        },
-        {
-          "name": "Stek drobiowy, szyszki ziemniaczane, coleslaw z czerwonej kapusty",
+          "name": "Roladka drobiowa (pieczarki, ser), ziemniaki, colesław",
           "price": null
         }
       ]
@@ -58,14 +45,27 @@
       ]
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-12",
       "items": [
         {
-          "name": "Krem z pieczonego kalafiora",
+          "name": "Barszcz zabielany",
           "price": null
         },
         {
-          "name": "Roladka drobiowa (pieczarki, ser), ziemniaki, colesław",
+          "name": "Stek drobiowy, szyszki ziemniaczane, coleslaw z czerwonej kapusty",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "items": [
+        {
+          "name": "Krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Ryba, ziemniaki, kapusta kiszona",
           "price": null
         }
       ]
