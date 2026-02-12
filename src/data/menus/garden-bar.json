@@ -3,13 +3,35 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-11T09:15:09.409Z",
+  "scrapedAt": "2026-02-12T05:40:48.287Z",
   "menus": [
+    {
+      "date": "2026-02-12",
+      "items": [
+        {
+          "name": "Pączki z Cukierni S. Zdrowak",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "items": [
+        {
+          "name": "Schab z pieca w sosie myśliwskim, placki Rosti, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Krupnik z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-02-10",
       "items": [
         {
-          "name": "Bryzol wieprzowo - wołowy z duszoną cebulą (zestaw)",
+          "name": "Bryzol wieprzowo - wołowy z duszoną cebulą, ziemniaki lub frytki, zestaw surówek lub kapusta słodka zasmażana",
           "price": 25
         },
         {
@@ -22,53 +44,11 @@
       "date": "2026-02-09",
       "items": [
         {
-          "name": "Kotlet schabowy nacierany marynatą z mleka i cebuli (zestaw)",
+          "name": "Kotlet schabowy nacierany marynatą z mleka i cebuli, ziemniaki lub frytki, zestaw surówek lub kapusta słodką zasmażana",
           "price": 25
         },
         {
-          "name": "Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-11",
-      "items": [
-        {
-          "name": "Polędwiczki wieprzowe w sosie na czerwonym winie (zestaw)",
-          "price": 37
-        },
-        {
-          "name": "Rosół z makaronem",
-          "price": 8
-        },
-        {
-          "name": "Schab w sosie ciemnym ze śliwką i żurawiną (zestaw)",
-          "price": 37
-        },
-        {
-          "name": "Ogórkowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-13",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce (zestaw)",
-          "price": 34
-        },
-        {
-          "name": "Kartacze z mięsem 4 szt",
-          "price": 27
-        },
-        {
-          "name": "Kaszanka z cebulką (zestaw)",
-          "price": 25
-        },
-        {
-          "name": "Jarzynowa",
+          "name": "Zupa Pomidorowa",
           "price": 8
         }
       ]

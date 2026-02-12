@@ -3,8 +3,34 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-11T09:15:22.307Z",
+  "scrapedAt": "2026-02-12T05:41:13.395Z",
   "menus": [
+    {
+      "date": "2026-02-11",
+      "items": [
+        {
+          "name": "Krem z kukurydzy",
+          "price": null
+        },
+        {
+          "name": "Policzki wieprzowe w sosie chrzanowym, zapiekanka z kaszy gryczanej, buraki",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "items": [
+        {
+          "name": "Zupa jarzynowa",
+          "price": null
+        },
+        {
+          "name": "Eskalopki w cieście piwnym, frytki, wiosenna z sosem miodowo musztardowym",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-02-09",
       "items": [
@@ -19,27 +45,14 @@
       ]
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-13",
       "items": [
         {
-          "name": "Krem z pieczonego kalafiora",
+          "name": "Krem z dyni",
           "price": null
         },
         {
-          "name": "Roladka drobiowa (pieczarki, ser), ziemniaki, colesław",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-11",
-      "items": [
-        {
-          "name": "Zupa ogórkowa",
-          "price": null
-        },
-        {
-          "name": "Gulasz wieprzowy, knedel, biała kapusta",
+          "name": "Ryba, ziemniaki, kapusta kiszona",
           "price": null
         }
       ]
@@ -53,19 +66,6 @@
         },
         {
           "name": "Stek drobiowy, szyszki ziemniaczane, coleslaw z czerwonej kapusty",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-13",
-      "items": [
-        {
-          "name": "Krem z dyni",
-          "price": null
-        },
-        {
-          "name": "Ryba, ziemniaki, kapusta kiszona",
           "price": null
         }
       ]

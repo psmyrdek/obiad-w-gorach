@@ -3,8 +3,21 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-02-11T09:15:13.499Z",
+  "scrapedAt": "2026-02-12T05:40:53.970Z",
   "menus": [
+    {
+      "date": "2026-02-10",
+      "items": [
+        {
+          "name": "Zupa kalafiorowa",
+          "price": null
+        },
+        {
+          "name": "Bitki wieprzowe ziemniaki surówki",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-02-09",
       "items": [
@@ -19,14 +32,14 @@
       ]
     },
     {
-      "date": "2026-02-13",
+      "date": "2026-02-06",
       "items": [
         {
-          "name": "Kotleciki rybne z ziemniakami i surówką",
+          "name": "Barszcz zabielany z jajkiem",
           "price": 35
         },
         {
-          "name": "Barszcz zabielany z jajkiem",
+          "name": "Kotleciki rybne z ziemniakami i surówką",
           "price": 35
         }
       ]
@@ -35,11 +48,11 @@
       "date": "2026-02-12",
       "items": [
         {
-          "name": "Wątróbka z cebulką, ziemniaki, surówki",
+          "name": "Grochówka",
           "price": null
         },
         {
-          "name": "Grochówka",
+          "name": "Wątróbka z cebulką, ziemniaki, surówki",
           "price": null
         }
       ]
@@ -54,19 +67,6 @@
         {
           "name": "Krem z brokułów",
           "price": 31
-        }
-      ]
-    },
-    {
-      "date": "2026-02-10",
-      "items": [
-        {
-          "name": "Żeberko pieczone z kapustą zasmażaną",
-          "price": 35
-        },
-        {
-          "name": "Zupa ogórkowa",
-          "price": 35
         }
       ]
     }
