@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-02-12T05:40:53.970Z",
+  "scrapedAt": "2026-02-12T09:14:45.484Z",
   "menus": [
     {
       "date": "2026-02-10",
@@ -22,11 +22,11 @@
       "date": "2026-02-09",
       "items": [
         {
-          "name": "Stek z karczku podawany z ziemniakami i świeżymi surówkami",
+          "name": "Zupa pomidorowa",
           "price": null
         },
         {
-          "name": "Zupa pomidorowa",
+          "name": "Stek z karczku podawany z ziemniakami i świeżymi surówkami",
           "price": null
         }
       ]
@@ -36,7 +36,7 @@
       "items": [
         {
           "name": "Barszcz zabielany z jajkiem",
-          "price": 35
+          "price": null
         },
         {
           "name": "Kotleciki rybne z ziemniakami i surówką",
@@ -61,11 +61,11 @@
       "date": "2026-02-11",
       "items": [
         {
-          "name": "Gołąbki jarskie z kaszą i grzybami",
-          "price": 31
+          "name": "Krem z brokułów",
+          "price": null
         },
         {
-          "name": "Krem z brokułów",
+          "name": "Gołąbki jarskie z kaszą i grzybami",
           "price": 31
         }
       ]

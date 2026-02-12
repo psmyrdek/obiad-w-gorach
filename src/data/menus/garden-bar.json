@@ -3,22 +3,13 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-12T05:40:48.287Z",
+  "scrapedAt": "2026-02-12T09:14:35.520Z",
   "menus": [
-    {
-      "date": "2026-02-12",
-      "items": [
-        {
-          "name": "Pączki z Cukierni S. Zdrowak",
-          "price": null
-        }
-      ]
-    },
     {
       "date": "2026-02-11",
       "items": [
         {
-          "name": "Schab z pieca w sosie myśliwskim, placki Rosti, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Schab z pieca w sosie myśliwskim, placki Rosti",
           "price": 25
         },
         {
@@ -31,7 +22,7 @@
       "date": "2026-02-10",
       "items": [
         {
-          "name": "Bryzol wieprzowo - wołowy z duszoną cebulą, ziemniaki lub frytki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Bryzol wieprzowo - wołowy z duszoną cebulą",
           "price": 25
         },
         {
@@ -44,12 +35,34 @@
       "date": "2026-02-09",
       "items": [
         {
-          "name": "Kotlet schabowy nacierany marynatą z mleka i cebuli, ziemniaki lub frytki, zestaw surówek lub kapusta słodką zasmażana",
+          "name": "Kotlet schabowy nacierany marynatą z mleka i cebuli",
           "price": 25
         },
         {
           "name": "Zupa Pomidorowa",
           "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-08",
+      "items": [
+        {
+          "name": "Polędwiczki wieprzowe w sosie na czerwonym winie",
+          "price": 37
+        },
+        {
+          "name": "Rosół z makaronem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "items": [
+        {
+          "name": "Pączek (Tłusty czwartek)",
+          "price": null
         }
       ]
     }
