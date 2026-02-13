@@ -3,56 +3,29 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-12T09:14:35.520Z",
+  "scrapedAt": "2026-02-13T09:13:12.240Z",
   "menus": [
     {
-      "date": "2026-02-11",
+      "date": "2026-02-13",
       "items": [
         {
-          "name": "Schab z pieca w sosie myśliwskim, placki Rosti",
+          "name": "Filet z morszczuka w panierce, dodatki",
+          "price": 34
+        },
+        {
+          "name": "Kartacze z mięsem 4 szt, zestaw surówek",
+          "price": 27
+        },
+        {
+          "name": "Kaszanka z cebulką, dodatki",
           "price": 25
         },
         {
-          "name": "Krupnik z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-10",
-      "items": [
-        {
-          "name": "Bryzol wieprzowo - wołowy z duszoną cebulą",
-          "price": 25
+          "name": "Devolaj z szynką i serem, dodatki",
+          "price": 35
         },
         {
-          "name": "Krem warzywny z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-09",
-      "items": [
-        {
-          "name": "Kotlet schabowy nacierany marynatą z mleka i cebuli",
-          "price": 25
-        },
-        {
-          "name": "Zupa Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-08",
-      "items": [
-        {
-          "name": "Polędwiczki wieprzowe w sosie na czerwonym winie",
-          "price": 37
-        },
-        {
-          "name": "Rosół z makaronem",
+          "name": "Zupa dnia: Kapuśniak z ziemniakami",
           "price": 8
         }
       ]
@@ -61,8 +34,38 @@
       "date": "2026-02-12",
       "items": [
         {
-          "name": "Pączek (Tłusty czwartek)",
-          "price": null
+          "name": "Kotlet Pożarski drobiowy mielony łączony z żółtym serem, dodatki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Grochówka z chlebem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "items": [
+        {
+          "name": "Schab z pieca w sosie myśliwskim, placki Rosti, dodatki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krupnik z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "items": [
+        {
+          "name": "Bryzol wieprzowo - wołowy z duszoną cebulą, dodatki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem warzywny z grzanką",
+          "price": 8
         }
       ]
     }

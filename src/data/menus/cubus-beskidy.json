@@ -3,8 +3,21 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-12T09:15:00.696Z",
+  "scrapedAt": "2026-02-13T09:13:30.288Z",
   "menus": [
+    {
+      "date": "2026-02-12",
+      "items": [
+        {
+          "name": "Kwaśnica",
+          "price": null
+        },
+        {
+          "name": "Kotlet de volaille, ziemniaki, marchewka z groszkiem",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-02-11",
       "items": [
@@ -53,19 +66,6 @@
         },
         {
           "name": "Ryba, ziemniaki, kapusta kiszona",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-12",
-      "items": [
-        {
-          "name": "Barszcz zabielany",
-          "price": null
-        },
-        {
-          "name": "Stek drobiowy, szyszki ziemniaczane, coleslaw z czerwonej kapusty",
           "price": null
         }
       ]

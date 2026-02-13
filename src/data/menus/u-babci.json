@@ -3,8 +3,34 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-02-12T09:14:45.484Z",
+  "scrapedAt": "2026-02-13T09:13:17.998Z",
   "menus": [
+    {
+      "date": "2026-02-13",
+      "items": [
+        {
+          "name": "Dorsz z ziemniakami i surówkami",
+          "price": 35
+        },
+        {
+          "name": "Zupa pieczarkowa",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "items": [
+        {
+          "name": "Krupnik",
+          "price": null
+        },
+        {
+          "name": "Łazanki",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-02-10",
       "items": [
@@ -22,51 +48,12 @@
       "date": "2026-02-09",
       "items": [
         {
-          "name": "Zupa pomidorowa",
-          "price": null
-        },
-        {
           "name": "Stek z karczku podawany z ziemniakami i świeżymi surówkami",
           "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-06",
-      "items": [
-        {
-          "name": "Barszcz zabielany z jajkiem",
-          "price": null
         },
         {
-          "name": "Kotleciki rybne z ziemniakami i surówką",
-          "price": 35
-        }
-      ]
-    },
-    {
-      "date": "2026-02-12",
-      "items": [
-        {
-          "name": "Grochówka",
+          "name": "Zupa pomidorowa",
           "price": null
-        },
-        {
-          "name": "Wątróbka z cebulką, ziemniaki, surówki",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-11",
-      "items": [
-        {
-          "name": "Krem z brokułów",
-          "price": null
-        },
-        {
-          "name": "Gołąbki jarskie z kaszą i grzybami",
-          "price": 31
         }
       ]
     }
