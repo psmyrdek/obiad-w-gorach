@@ -4,6 +4,7 @@ import tailwind from "@astrojs/tailwind";
 import cloudflare from "@astrojs/cloudflare";
 
 export default defineConfig({
+  site: "https://obiadwgorach.pl",
   output: "server",
   adapter: cloudflare(),
   server: {

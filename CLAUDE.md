@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **Tech stack:** Astro 5 (SSR) + React 19 + Tailwind CSS 3, hosted on Cloudflare Pages. Scraping uses RSS feeds via FetchRSS service and Vercel AI SDK for LLM parsing.
 
-**Production URL:** https://obiadwgorach.pages.dev
+**Production URL:** https://obiadwgorach.pl
 
 ## Commands
 
