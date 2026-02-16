@@ -3,49 +3,10 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-13T09:13:30.288Z",
+  "scrapedAt": "2026-02-16T09:14:45.715Z",
   "menus": [
     {
-      "date": "2026-02-12",
-      "items": [
-        {
-          "name": "Kwaśnica",
-          "price": null
-        },
-        {
-          "name": "Kotlet de volaille, ziemniaki, marchewka z groszkiem",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-11",
-      "items": [
-        {
-          "name": "Krem z kukurydzy",
-          "price": null
-        },
-        {
-          "name": "Policzki wieprzowe w sosie chrzanowym, zapiekanka z kaszy gryczanej, buraki",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-10",
-      "items": [
-        {
-          "name": "Zupa jarzynowa",
-          "price": null
-        },
-        {
-          "name": "Eskalopki w cieście piwnym, frytki, wiosenna z sosem miodowo musztardowym",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-09",
+      "date": "2026-02-16",
       "items": [
         {
           "name": "Żurek",
@@ -58,14 +19,53 @@
       ]
     },
     {
-      "date": "2026-02-13",
+      "date": "2026-02-17",
       "items": [
         {
-          "name": "Krem z dyni",
+          "name": "Zupa jarzynowa",
           "price": null
         },
         {
-          "name": "Ryba, ziemniaki, kapusta kiszona",
+          "name": "Eskalopki w cieście piwnym, frytki, wiosenna z sosem miodowo musztardowym",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "items": [
+        {
+          "name": "Krem z kukurydzy",
+          "price": null
+        },
+        {
+          "name": "Policzki wieprzowe w sosie chrzanowym, zapiekanka z kaszy gryczanej, buraki",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "items": [
+        {
+          "name": "Kwaśnica",
+          "price": null
+        },
+        {
+          "name": "Kotlet de volaille, ziemniaki, marchewka z groszkiem",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "items": [
+        {
+          "name": "Zupa pomidorowa",
+          "price": null
+        },
+        {
+          "name": "Morszczuk, ziemniaki, kapusta kiszona",
           "price": null
         }
       ]

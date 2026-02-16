@@ -3,23 +3,36 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-02-13T09:13:17.998Z",
+  "scrapedAt": "2026-02-16T09:14:33.524Z",
   "menus": [
     {
-      "date": "2026-02-13",
+      "date": "2026-02-16",
       "items": [
         {
-          "name": "Dorsz z ziemniakami i surówkami",
-          "price": 35
+          "name": "Kapuśniak",
+          "price": null
         },
         {
-          "name": "Zupa pieczarkowa",
+          "name": "Schabowy z ziemniakami",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-20",
+      "items": [
+        {
+          "name": "Zupa pieczarkowa",
+          "price": null
+        },
+        {
+          "name": "Dorsz z ziemniakami i surówkami",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-02-19",
       "items": [
         {
           "name": "Krupnik",
@@ -32,7 +45,7 @@
       ]
     },
     {
-      "date": "2026-02-10",
+      "date": "2026-02-17",
       "items": [
         {
           "name": "Zupa kalafiorowa",
@@ -40,19 +53,6 @@
         },
         {
           "name": "Bitki wieprzowe ziemniaki surówki",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-09",
-      "items": [
-        {
-          "name": "Stek z karczku podawany z ziemniakami i świeżymi surówkami",
-          "price": null
-        },
-        {
-          "name": "Zupa pomidorowa",
           "price": null
         }
       ]

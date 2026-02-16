@@ -3,13 +3,52 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-13T09:13:12.240Z",
+  "scrapedAt": "2026-02-16T09:14:28.878Z",
   "menus": [
+    {
+      "date": "2026-02-16",
+      "items": [
+        {
+          "name": "Kotlet schabowy chrzanowy, ziemniaki lub frytki, surówki lub kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-15",
+      "items": [
+        {
+          "name": "Nowość: Policzki wieprzowe w sosie chrzanowym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 37
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-14",
+      "items": [
+        {
+          "name": "Devolaj z masłem i serem, frytki lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 37
+        },
+        {
+          "name": "Zupa dnia: Barszcz ukraiński z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-02-13",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, dodatki",
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
           "price": 34
         },
         {
@@ -17,11 +56,11 @@
           "price": 27
         },
         {
-          "name": "Kaszanka z cebulką, dodatki",
+          "name": "Kaszanka z cebulką, ziemniaki i kapusta kiszona zasmażana",
           "price": 25
         },
         {
-          "name": "Devolaj z szynką i serem, dodatki",
+          "name": "Devolaj z szynką i serem, frytki lub ziemniaki, zestaw surówek",
           "price": 35
         },
         {
@@ -34,37 +73,11 @@
       "date": "2026-02-12",
       "items": [
         {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z żółtym serem, dodatki",
+          "name": "Kotlet Pożarski drobiowy mielony łączony z żółtym serem, frytki lub ziemniaki, fasolka zielona z mini marchewką i masłem lub surówki albo kspusta zasmażana",
           "price": 25
         },
         {
           "name": "Zupa dnia: Grochówka z chlebem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-11",
-      "items": [
-        {
-          "name": "Schab z pieca w sosie myśliwskim, placki Rosti, dodatki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krupnik z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-10",
-      "items": [
-        {
-          "name": "Bryzol wieprzowo - wołowy z duszoną cebulą, dodatki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem warzywny z grzanką",
           "price": 8
         }
       ]
