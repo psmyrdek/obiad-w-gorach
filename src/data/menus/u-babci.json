@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-02-16T09:14:33.524Z",
+  "scrapedAt": "2026-02-17T09:14:09.804Z",
   "menus": [
     {
       "date": "2026-02-16",
@@ -22,17 +22,17 @@
       "date": "2026-02-20",
       "items": [
         {
-          "name": "Zupa pieczarkowa",
-          "price": null
+          "name": "Dorsz z ziemniakami i surówkami",
+          "price": 35
         },
         {
-          "name": "Dorsz z ziemniakami i surówkami",
+          "name": "Zupa pieczarkowa",
           "price": 35
         }
       ]
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-12",
       "items": [
         {
           "name": "Krupnik",

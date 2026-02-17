@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-16T09:14:28.878Z",
+  "scrapedAt": "2026-02-17T09:14:07.242Z",
   "menus": [
     {
       "date": "2026-02-16",
@@ -13,39 +13,13 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-02-15",
-      "items": [
-        {
-          "name": "Nowość: Policzki wieprzowe w sosie chrzanowym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 37
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-14",
-      "items": [
-        {
-          "name": "Devolaj z masłem i serem, frytki lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 37
-        },
-        {
-          "name": "Zupa dnia: Barszcz ukraiński z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-13",
+      "date": "2026-02-20",
       "items": [
         {
           "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
@@ -60,24 +34,20 @@
           "price": 25
         },
         {
-          "name": "Devolaj z szynką i serem, frytki lub ziemniaki, zestaw surówek",
-          "price": 35
-        },
-        {
-          "name": "Zupa dnia: Kapuśniak z ziemniakami",
+          "name": "Zupa dnia : Kapuśniak z ziemniakami",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-02-12",
+      "date": "2026-02-19",
       "items": [
         {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z żółtym serem, frytki lub ziemniaki, fasolka zielona z mini marchewką i masłem lub surówki albo kspusta zasmażana",
+          "name": "Kotlet Pożarski drobiowy mielony łączony z żółtym serem, frytki lub ziemniaki, dodatki",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Grochówka z chlebem",
+          "name": "Zupa dnia : Grochówka z chlebem",
           "price": 8
         }
       ]
