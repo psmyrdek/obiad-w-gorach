@@ -7,7 +7,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "scrape": "tsx scripts/scrape.ts"
+    "scrape": "tsx scripts/scrape.ts",
+    "fetch-fb-posts": "tsx scripts/fetch-facebook-posts.ts"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.0.0",
