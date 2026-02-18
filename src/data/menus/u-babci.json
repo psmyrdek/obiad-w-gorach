@@ -3,8 +3,34 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-02-17T09:14:09.804Z",
+  "scrapedAt": "2026-02-18T09:14:08.627Z",
   "menus": [
+    {
+      "date": "2026-02-18",
+      "items": [
+        {
+          "name": "Żurek z jajkiem",
+          "price": null
+        },
+        {
+          "name": "Mielony z ziemniakami i surówkami",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "items": [
+        {
+          "name": "Barszcz ukraiński",
+          "price": null
+        },
+        {
+          "name": "Kotleciki pożarskie",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-02-16",
       "items": [
@@ -19,14 +45,14 @@
       ]
     },
     {
-      "date": "2026-02-20",
+      "date": "2026-02-13",
       "items": [
         {
-          "name": "Dorsz z ziemniakami i surówkami",
+          "name": "Pieczarkowa",
           "price": 35
         },
         {
-          "name": "Zupa pieczarkowa",
+          "name": "Dorsz z ziemniakami i surówkami",
           "price": 35
         }
       ]
@@ -40,19 +66,6 @@
         },
         {
           "name": "Łazanki",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-17",
-      "items": [
-        {
-          "name": "Zupa kalafiorowa",
-          "price": null
-        },
-        {
-          "name": "Bitki wieprzowe ziemniaki surówki",
           "price": null
         }
       ]

@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-17T09:14:21.184Z",
+  "scrapedAt": "2026-02-18T09:14:22.215Z",
   "menus": [
     {
       "date": "2026-02-16",
       "items": [
         {
-          "name": "Żurek",
+          "name": "Krem z pieczonej kapusty",
           "price": null
         },
         {
-          "name": "Gołąbki w sosie pomidorowym",
+          "name": "Filet grillowany w sosie serowym, ryż, marchewka z selerem",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-02-17",
       "items": [
         {
-          "name": "Zupa jarzynowa",
+          "name": "Zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "Eskalopki w cieście piwnym, frytki, wiosenna z sosem miodowo musztardowym",
+          "name": "Roladka ze schabu, ziemniaki, sałatka szwedzka",
           "price": null
         }
       ]
@@ -35,11 +35,15 @@
       "date": "2026-02-18",
       "items": [
         {
-          "name": "Krem z kukurydzy",
+          "name": "Barszcz ukraiński",
           "price": null
         },
         {
-          "name": "Policzki wieprzowe w sosie chrzanowym, zapiekanka z kaszy gryczanej, buraki",
+          "name": "Morszczuk z frytkami i surówką z kapusty kiszonej",
+          "price": null
+        },
+        {
+          "name": "Naleśniki z serem",
           "price": null
         }
       ]

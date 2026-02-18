@@ -3,17 +3,17 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-02-17T09:14:13.940Z",
+  "scrapedAt": "2026-02-18T09:14:13.728Z",
   "menus": [
     {
       "date": "2026-02-19",
       "items": [
         {
-          "name": "Ogórkowa",
+          "name": "Zupa: Ogórkowa",
           "price": 9
         },
         {
-          "name": "Krem z kolorowych warzyw z grzankami",
+          "name": "Zupa: Krem z kolorowych warzyw z grzankami",
           "price": 8
         },
         {
@@ -30,11 +30,11 @@
       "date": "2026-02-18",
       "items": [
         {
-          "name": "Krem z kolorowych warzyw",
+          "name": "Zupa: Krem z kolorowych warzyw",
           "price": 9
         },
         {
-          "name": "Żurek",
+          "name": "Zupa: Żurek",
           "price": 8
         },
         {
@@ -55,11 +55,11 @@
       "date": "2026-02-17",
       "items": [
         {
-          "name": "Żurek",
+          "name": "Zupa: Żurek",
           "price": 9
         },
         {
-          "name": "Jarzynowa",
+          "name": "Zupa: Jarzynowa",
           "price": 8
         },
         {

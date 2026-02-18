@@ -3,8 +3,50 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-17T09:14:07.242Z",
+  "scrapedAt": "2026-02-18T09:13:59.687Z",
   "menus": [
+    {
+      "date": "2026-02-18",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia: Ogórkowa",
+          "price": 3
+        },
+        {
+          "name": "Rumsztyk wołowy z grilla pod pieczarkami z patelni plus łódeczki ziemniaczane i zestaw surówek",
+          "price": 39
+        },
+        {
+          "name": "Oferta wege: Kotlety z kalafiora 2 szt, dip czosnkowy, frytki lub ziemniaki, zestaw surówek",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "items": [
+        {
+          "name": "Stek ze schabu zapiekany z duszoną papryką i mozzarellą z domowym dipem pomidorowym, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem pieczarkowy z grzanką",
+          "price": 3
+        },
+        {
+          "name": "Oferta specjalna: Schab z grilla z masłem czosnkowym, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 35
+        },
+        {
+          "name": "Oferta wege: Paluszki z mozzarelli w panierce, dip czosnkowy, frytki, zestaw surówek",
+          "price": 30
+        }
+      ]
+    },
     {
       "date": "2026-02-16",
       "items": [
@@ -13,42 +55,12 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-20",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 34
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 3
         },
         {
-          "name": "Kartacze z mięsem 4 szt, zestaw surówek",
-          "price": 27
-        },
-        {
-          "name": "Kaszanka z cebulką, ziemniaki i kapusta kiszona zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Kapuśniak z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-19",
-      "items": [
-        {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z żółtym serem, frytki lub ziemniaki, dodatki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Grochówka z chlebem",
-          "price": 8
+          "name": "Danie wege: Kotlety warzywne 3 szt, dip czosnkowy, frytki, surówki",
+          "price": 30
         }
       ]
     }
