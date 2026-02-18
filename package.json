@@ -7,7 +7,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "scrape": "tsx scripts/scrape.ts"
+    "scrape": "tsx scripts/scrape.ts",
+    "fetch-fb-posts": "tsx scripts/fetch-facebook-posts.ts"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.0.0",
@@ -22,6 +23,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.58.1",
+    "@types/node": "^25.2.3",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "dotenv": "^17.2.4",
