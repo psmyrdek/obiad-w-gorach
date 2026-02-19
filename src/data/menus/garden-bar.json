@@ -3,25 +3,29 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-18T09:13:59.687Z",
+  "scrapedAt": "2026-02-19T09:13:17.530Z",
   "menus": [
     {
       "date": "2026-02-18",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Filet z morszczuka w panierce, dodatki",
           "price": 34
         },
         {
-          "name": "Zupa dnia: Ogórkowa",
+          "name": "Zupa dnia: Ogórkowa (do dania głównego)",
           "price": 3
         },
         {
-          "name": "Rumsztyk wołowy z grilla pod pieczarkami z patelni plus łódeczki ziemniaczane i zestaw surówek",
+          "name": "Zupa dnia: Ogórkowa (solo)",
+          "price": 8
+        },
+        {
+          "name": "Rumsztyk wołowy z grilla (oferta specjalna)",
           "price": 39
         },
         {
-          "name": "Oferta wege: Kotlety z kalafiora 2 szt, dip czosnkowy, frytki lub ziemniaki, zestaw surówek",
+          "name": "Kotlety z kalafiora (oferta wege)",
           "price": 30
         }
       ]
@@ -30,19 +34,23 @@
       "date": "2026-02-17",
       "items": [
         {
-          "name": "Stek ze schabu zapiekany z duszoną papryką i mozzarellą z domowym dipem pomidorowym, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Stek ze schabu zapiekany z papryką i mozzarellą",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem pieczarkowy z grzanką",
+          "name": "Zupa dnia: Krem pieczarkowy z grzanką (do dania głównego)",
           "price": 3
         },
         {
-          "name": "Oferta specjalna: Schab z grilla z masłem czosnkowym, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Zupa dnia: Krem pieczarkowy z grzanką (solo)",
+          "price": 8
+        },
+        {
+          "name": "Schab z grilla z masłem czosnkowym (oferta specjalna)",
           "price": 35
         },
         {
-          "name": "Oferta wege: Paluszki z mozzarelli w panierce, dip czosnkowy, frytki, zestaw surówek",
+          "name": "Paluszki z mozzarelli w panierce (oferta wege)",
           "price": 30
         }
       ]
@@ -51,15 +59,19 @@
       "date": "2026-02-16",
       "items": [
         {
-          "name": "Kotlet schabowy chrzanowy, ziemniaki lub frytki, surówki lub kapusta zasmażana",
+          "name": "Kotlet schabowy chrzanowy",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa (do dania głównego)",
           "price": 3
         },
         {
-          "name": "Danie wege: Kotlety warzywne 3 szt, dip czosnkowy, frytki, surówki",
+          "name": "Zupa dnia: Pomidorowa (solo)",
+          "price": 8
+        },
+        {
+          "name": "Kotlety warzywne (danie wege)",
           "price": 30
         }
       ]
