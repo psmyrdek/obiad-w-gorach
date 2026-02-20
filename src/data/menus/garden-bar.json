@@ -3,8 +3,42 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-19T09:13:17.530Z",
+  "scrapedAt": "2026-02-20T09:10:57.395Z",
   "menus": [
+    {
+      "date": "2026-02-20",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, dodatki",
+          "price": 34
+        },
+        {
+          "name": "Kartacze z mięsem 4 szt plus zestaw surówek",
+          "price": 27
+        },
+        {
+          "name": "Kaszanka z cebulką, ziemniaki, kapusta kiszona zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Soljanka z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "items": [
+        {
+          "name": "Filet z udźca kurczaka po hawajsku, dodatki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Kalafiorowo-porowa z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-02-18",
       "items": [
@@ -13,20 +47,8 @@
           "price": 34
         },
         {
-          "name": "Zupa dnia: Ogórkowa (do dania głównego)",
+          "name": "Zupa dnia: Ogórkowa",
           "price": 3
-        },
-        {
-          "name": "Zupa dnia: Ogórkowa (solo)",
-          "price": 8
-        },
-        {
-          "name": "Rumsztyk wołowy z grilla (oferta specjalna)",
-          "price": 39
-        },
-        {
-          "name": "Kotlety z kalafiora (oferta wege)",
-          "price": 30
         }
       ]
     },
@@ -34,24 +56,12 @@
       "date": "2026-02-17",
       "items": [
         {
-          "name": "Stek ze schabu zapiekany z papryką i mozzarellą",
+          "name": "Stek ze schabu zapiekany z duszoną papryką i mozzarellą, dodatki",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem pieczarkowy z grzanką (do dania głównego)",
-          "price": 3
-        },
-        {
-          "name": "Zupa dnia: Krem pieczarkowy z grzanką (solo)",
+          "name": "Zupa dnia: Krem pieczarkowy z grzanką",
           "price": 8
-        },
-        {
-          "name": "Schab z grilla z masłem czosnkowym (oferta specjalna)",
-          "price": 35
-        },
-        {
-          "name": "Paluszki z mozzarelli w panierce (oferta wege)",
-          "price": 30
         }
       ]
     },
@@ -59,20 +69,12 @@
       "date": "2026-02-16",
       "items": [
         {
-          "name": "Kotlet schabowy chrzanowy",
+          "name": "Kotlet schabowy chrzanowy, dodatki",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa (do dania głównego)",
-          "price": 3
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa (solo)",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
-        },
-        {
-          "name": "Kotlety warzywne (danie wege)",
-          "price": 30
         }
       ]
     }

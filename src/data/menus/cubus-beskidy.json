@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-19T09:13:33.082Z",
+  "scrapedAt": "2026-02-20T09:11:16.333Z",
   "menus": [
     {
       "date": "2026-02-16",
@@ -52,11 +52,11 @@
       "date": "2026-02-19",
       "items": [
         {
-          "name": "Kwaśnica",
+          "name": "Krem z białych warzyw",
           "price": null
         },
         {
-          "name": "Kotlet de volaille, ziemniaki, marchewka z groszkiem",
+          "name": "Żeberka wieprzowe duszone w sosie własnym z ziemniakami z pieca i czerwoną kapustą",
           "price": null
         }
       ]
@@ -65,11 +65,11 @@
       "date": "2026-02-20",
       "items": [
         {
-          "name": "Zupa pomidorowa",
+          "name": "ZUPA POROWA Z MAKARONEM",
           "price": null
         },
         {
-          "name": "Morszczuk, ziemniaki, kapusta kiszona",
+          "name": "ŁOSOŚ W TEMPURZE, FRYTKI BELGIJSKIE, WIOSENNA Z SOSEM MIODOWO-MUSZTARDOWYM",
           "price": null
         }
       ]
