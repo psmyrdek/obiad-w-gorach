@@ -3,23 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-20T09:11:16.333Z",
+  "scrapedAt": "2026-02-23T09:15:06.669Z",
   "menus": [
     {
-      "date": "2026-02-16",
+      "date": "2026-02-23",
       "items": [
         {
-          "name": "Krem z pieczonej kapusty",
+          "name": "Zupa koperkowa",
           "price": null
         },
         {
-          "name": "Filet grillowany w sosie serowym, ryż, marchewka z selerem",
+          "name": "Filet z kurczaka w panko z frytkami i surówką z kapusty pekińskiej",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-02-17",
+      "date": "2026-02-24",
       "items": [
         {
           "name": "Zupa kalafiorowa",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-25",
       "items": [
         {
           "name": "Barszcz ukraiński",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-26",
       "items": [
         {
           "name": "Krem z białych warzyw",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "date": "2026-02-20",
+      "date": "2026-02-27",
       "items": [
         {
           "name": "ZUPA POROWA Z MAKARONEM",

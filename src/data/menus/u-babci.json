@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-02-20T09:11:01.557Z",
+  "scrapedAt": "2026-02-23T09:14:54.062Z",
   "menus": [
     {
       "date": "2026-02-18",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-02-16",
+      "date": "2026-02-23",
       "items": [
         {
           "name": "Kapuśniak",
@@ -45,10 +45,10 @@
       ]
     },
     {
-      "date": "2026-02-20",
+      "date": "2026-02-27",
       "items": [
         {
-          "name": "Pieczarkowa",
+          "name": "Zupa pieczarkowa",
           "price": null
         },
         {

@@ -3,13 +3,52 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-20T09:10:57.395Z",
+  "scrapedAt": "2026-02-23T09:14:49.828Z",
   "menus": [
     {
-      "date": "2026-02-20",
+      "date": "2026-02-23",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, dodatki",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-22",
+      "items": [
+        {
+          "name": "Polędwiczki z indyka w sosie śmietanowym, kluski śląskie lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "price": 37
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-21",
+      "items": [
+        {
+          "name": "Schab z pieca w sosie szparagowo-serowym z parmezanem i grillowanym boczkiem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 37
+        },
+        {
+          "name": "Zupa dnia: Jarzynowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
           "price": 34
         },
         {
@@ -27,53 +66,14 @@
       ]
     },
     {
-      "date": "2026-02-19",
+      "date": "2026-02-26",
       "items": [
         {
-          "name": "Filet z udźca kurczaka po hawajsku, dodatki",
+          "name": "Filet z udźca kurczaka po hawajsku zapiekany z ananasem, serem i żurawiną, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
           "name": "Zupa dnia: Kalafiorowo-porowa z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-18",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, dodatki",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia: Ogórkowa",
-          "price": 3
-        }
-      ]
-    },
-    {
-      "date": "2026-02-17",
-      "items": [
-        {
-          "name": "Stek ze schabu zapiekany z duszoną papryką i mozzarellą, dodatki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem pieczarkowy z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-16",
-      "items": [
-        {
-          "name": "Kotlet schabowy chrzanowy, dodatki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]
