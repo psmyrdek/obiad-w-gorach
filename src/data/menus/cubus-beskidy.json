@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-23T09:15:06.669Z",
+  "scrapedAt": "2026-02-24T09:15:11.294Z",
   "menus": [
     {
       "date": "2026-02-23",
@@ -22,11 +22,11 @@
       "date": "2026-02-24",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
+          "name": "Krem z cebuli",
           "price": null
         },
         {
-          "name": "Roladka ze schabu, ziemniaki, sałatka szwedzka",
+          "name": "Kurczak w sosie curry, kopytka z batatów, surówka z białej kapusty",
           "price": null
         }
       ]
@@ -39,11 +39,7 @@
           "price": null
         },
         {
-          "name": "Morszczuk z frytkami i surówką z kapusty kiszonej",
-          "price": null
-        },
-        {
-          "name": "Naleśniki z serem",
+          "name": "Morszczuk z frytkami i surówką z kapusty kiszonej LUB Naleśniki z serem",
           "price": null
         }
       ]

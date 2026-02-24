@@ -3,10 +3,10 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-02-23T09:14:54.062Z",
+  "scrapedAt": "2026-02-24T09:14:56.583Z",
   "menus": [
     {
-      "date": "2026-02-18",
+      "date": "2026-02-24",
       "items": [
         {
           "name": "Żurek z jajkiem",
@@ -15,12 +15,7 @@
         {
           "name": "Mielony z ziemniakami i surówkami",
           "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-17",
-      "items": [
+        },
         {
           "name": "Barszcz ukraiński",
           "price": null
@@ -48,8 +43,8 @@
       "date": "2026-02-27",
       "items": [
         {
-          "name": "Zupa pieczarkowa",
-          "price": null
+          "name": "Pieczarkowa",
+          "price": 35
         },
         {
           "name": "Dorsz z ziemniakami i surówkami",
