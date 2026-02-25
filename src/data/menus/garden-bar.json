@@ -3,8 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-24T09:14:51.302Z",
+  "scrapedAt": "2026-02-25T09:14:58.488Z",
   "menus": [
+    {
+      "date": "2026-02-25",
+      "items": [
+        {
+          "name": "Golonka wieprzowa gotowana z warzywami plus ziemniaki, kapusta kiszona zasmażana lub zestaw surówek",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Ogórkowa z ryżem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "items": [
+        {
+          "name": "Soczysty schab wolno gotowany w sosie pieczarkowym, placki Rosti surówki lub kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Krem warzywny z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-02-23",
       "items": [
@@ -13,7 +39,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
         }
       ]
@@ -26,7 +52,7 @@
           "price": 37
         },
         {
-          "name": "Zupa dnia: Rosół z makaronem",
+          "name": "Zupa dnia : Rosół z makaronem",
           "price": 8
         }
       ]
@@ -40,40 +66,6 @@
         },
         {
           "name": "Zupa dnia: Jarzynowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-20",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 34
-        },
-        {
-          "name": "Kartacze z mięsem 4 szt plus zestaw surówek",
-          "price": 27
-        },
-        {
-          "name": "Kaszanka z cebulką, ziemniaki kapusta kiszona zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Soljanka z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-26",
-      "items": [
-        {
-          "name": "Filet z udźca kurczaka po hawajsku zapiekany z ananasem, serem i żurawiną, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Kalafiorowo-porowa z ziemniakami",
           "price": 8
         }
       ]
