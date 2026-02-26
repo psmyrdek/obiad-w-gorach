@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-25T09:14:58.488Z",
+  "scrapedAt": "2026-02-26T09:14:01.297Z",
   "menus": [
     {
       "date": "2026-02-25",
@@ -54,6 +54,10 @@
         {
           "name": "Zupa dnia : Rosół z makaronem",
           "price": 8
+        },
+        {
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
         }
       ]
     },
@@ -65,8 +69,12 @@
           "price": 37
         },
         {
-          "name": "Zupa dnia: Jarzynowa",
+          "name": "Zupa dnia : Jarzynowa",
           "price": 8
+        },
+        {
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
         }
       ]
     }

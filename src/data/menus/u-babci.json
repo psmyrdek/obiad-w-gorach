@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-02-25T09:15:04.617Z",
+  "scrapedAt": "2026-02-26T09:14:04.798Z",
   "menus": [
     {
       "date": "2026-02-24",
@@ -13,13 +13,22 @@
           "price": null
         },
         {
-          "name": "Domowe pulpeciki w aksamitnym sosie z kaszą gryczaną i zestawem surówek",
+          "name": "Domowe pulpeciki w sosie z kaszą gryczaną i surówkami",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-02-18",
+      "date": "2026-02-26",
+      "items": [
+        {
+          "name": "Zestaw dnia",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "date": "2026-02-25",
       "items": [
         {
           "name": "Żurek z jajkiem",
@@ -45,7 +54,7 @@
       ]
     },
     {
-      "date": "2026-02-16",
+      "date": "2026-02-23",
       "items": [
         {
           "name": "Kapuśniak",
