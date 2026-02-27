@@ -3,34 +3,8 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-02-26T09:14:16.107Z",
+  "scrapedAt": "2026-02-27T09:11:39.244Z",
   "menus": [
-    {
-      "date": "2026-02-23",
-      "items": [
-        {
-          "name": "Zupa koperkowa",
-          "price": null
-        },
-        {
-          "name": "Filet z kurczaka w panko z frytkami i surówką z kapusty pekińskiej",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-24",
-      "items": [
-        {
-          "name": "Krem z cebuli",
-          "price": null
-        },
-        {
-          "name": "Kurczak w sosie curry, kopytka z batatów, surówka z białej kapusty",
-          "price": null
-        }
-      ]
-    },
     {
       "date": "2026-02-25",
       "items": [
@@ -48,11 +22,11 @@
       "date": "2026-02-26",
       "items": [
         {
-          "name": "Krem z białych warzyw",
+          "name": "Zupa meksykańska",
           "price": null
         },
         {
-          "name": "Żeberka wieprzowe duszone w sosie własnym z ziemniakami z pieca i czerwoną kapustą",
+          "name": "Pieczeń w sosie pieczeniowym , kasza gryczana , buraki",
           "price": null
         }
       ]
@@ -61,11 +35,11 @@
       "date": "2026-02-27",
       "items": [
         {
-          "name": "ZUPA POROWA Z MAKARONEM",
+          "name": "Krem brokułowy",
           "price": null
         },
         {
-          "name": "ŁOSOŚ W TEMPURZE, FRYTKI BELGIJSKIE, WIOSENNA Z SOSEM MIODOWO-MUSZTARDOWYM",
+          "name": "Ryba, ziemniaki i surówka z kiszonej kapusty",
           "price": null
         }
       ]

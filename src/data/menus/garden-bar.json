@@ -3,8 +3,42 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-02-26T09:14:01.297Z",
+  "scrapedAt": "2026-02-27T09:11:20.180Z",
   "menus": [
+    {
+      "date": "2026-02-27",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "price": 34
+        },
+        {
+          "name": "Kartacze z mięsem 4 szt, zestaw surówek",
+          "price": 27
+        },
+        {
+          "name": "Kaszanka z cebulką, ziemniaki, kapusta kiszona zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Kapuśniak z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "items": [
+        {
+          "name": "Schab po bolońsku : schab soute zapiekany z mięsem bolognesse oraz serem, frytki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Pieczarkowa",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-02-25",
       "items": [
@@ -22,7 +56,7 @@
       "date": "2026-02-24",
       "items": [
         {
-          "name": "Soczysty schab wolno gotowany w sosie pieczarkowym, placki Rosti surówki lub kapusta zasmażana",
+          "name": "Soczysty schab wolno gotowany w sosie pieczarkowym, placki Rosti, surówki lub kapusta zasmażana",
           "price": 25
         },
         {
@@ -41,40 +75,6 @@
         {
           "name": "Zupa dnia : Pomidorowa",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-02-22",
-      "items": [
-        {
-          "name": "Polędwiczki z indyka w sosie śmietanowym, kluski śląskie lub ziemniaki, surówki lub kapusta kiszona zasmażna",
-          "price": 37
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
-        }
-      ]
-    },
-    {
-      "date": "2026-02-21",
-      "items": [
-        {
-          "name": "Schab z pieca w sosie szparagowo-serowym z parmezanem i grillowanym boczkiem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 37
-        },
-        {
-          "name": "Zupa dnia : Jarzynowa",
-          "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     }
