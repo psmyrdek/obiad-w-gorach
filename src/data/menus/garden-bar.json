@@ -3,17 +3,17 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-05T09:11:11.063Z",
+  "scrapedAt": "2026-03-06T09:08:17.989Z",
   "menus": [
     {
       "date": "2026-03-04",
       "items": [
         {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z serem, ziemniaki lub frytki, fasolka zielona z mini marchewką",
+          "name": "Kotlet Pożarski drobiowy mielony łączony z serem, ziemniaki lub frytki i dodatki",
           "price": 25
         },
         {
-          "name": "Pejzanka na wędzonce",
+          "name": "Pejzanka na wędzonce (zupa dnia)",
           "price": 8
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-03-03",
       "items": [
         {
-          "name": "Filet drobiowy w cieście serowym, ziemniaki lub frytki, marchewka z groszkiem na maśle lub zestaw surówek",
+          "name": "Filet drobiowy w cieście serowym, ziemniaki lub frytki i dodatki",
           "price": 25
         },
         {
-          "name": "Krem z zielonych warzyw z grzanką",
+          "name": "Krem z zielonych warzyw z grzanką (zupa dnia)",
           "price": 8
         }
       ]
@@ -35,24 +35,24 @@
       "date": "2026-03-02",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany, ziemniaki lub frytki, surówki lub kapusta zasmażana",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany, dodatki",
           "price": 25
         },
         {
-          "name": "Zupa pomidorowa",
+          "name": "Zupa pomidorowa (zupa dnia)",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-03-05",
+      "date": "2026-03-01",
       "items": [
         {
-          "name": "Polędwiczka wieprzowa Wellington zawijana z pieczarkami w cieście francuskim, frytki, zestaw surówek",
+          "name": "Polędwiczka wieprzowa Wellington w cieście francuskim z frytkami i surówkami",
           "price": 40
         },
         {
-          "name": "Rosół z makaronem",
+          "name": "Rosół z makaronem (zupa dnia)",
           "price": 8
         }
       ]
