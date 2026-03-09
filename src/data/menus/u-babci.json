@@ -3,10 +3,44 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-03-06T09:08:21.437Z",
+  "scrapedAt": "2026-03-09T09:12:25.158Z",
   "menus": [
     {
-      "date": "2026-03-03",
+      "date": "2026-03-09",
+      "items": [
+        {
+          "name": "Zupa koperkowa",
+          "price": null
+        },
+        {
+          "name": "Wątróbka z ziemniakami i surówkami",
+          "price": null
+        },
+        {
+          "name": "Zupa pomidorowa",
+          "price": null
+        },
+        {
+          "name": "Udko pieczone z ziemniakami i zestawem surówek",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "items": [
+        {
+          "name": "Zupa serowo-porowa",
+          "price": null
+        },
+        {
+          "name": "Domowe gołąbki",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
       "items": [
         {
           "name": "Grochówka",
@@ -19,20 +53,7 @@
       ]
     },
     {
-      "date": "2026-03-02",
-      "items": [
-        {
-          "name": "Zupa pomidorowa",
-          "price": null
-        },
-        {
-          "name": "Udko pieczone z ziemniakami i zestawem surówek",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-26",
+      "date": "2026-03-12",
       "items": [
         {
           "name": "Domowy krupnik",
@@ -41,28 +62,6 @@
         {
           "name": "Mielone z surówkami i ziemniakami",
           "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-24",
-      "items": [
-        {
-          "name": "Pomidorowa z makaronem",
-          "price": null
-        },
-        {
-          "name": "Domowe pulpeciki w sosie z kaszą gryczaną i zestawem surówek",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-02-19",
-      "items": [
-        {
-          "name": "Zestaw dnia",
-          "price": 33
         }
       ]
     }

@@ -3,36 +3,40 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-06T09:08:33.137Z",
+  "scrapedAt": "2026-03-09T09:12:40.115Z",
   "menus": [
     {
-      "date": "2026-03-02",
+      "date": "2026-03-09",
       "items": [
         {
-          "name": "Zupa ogórkowa",
+          "name": "ZUPA POMIDOROWA Z RYŻEM",
           "price": null
         },
         {
-          "name": "Kurczak z suszonymi pomidorami i szpinakiem w cieście francuskim, gnocchi, coleslaw",
+          "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE I ZESTAW SURÓWEK",
+          "price": null
+        },
+        {
+          "name": "Krem z palonego kalafiora/ wędzony twaróg/krążek cebulowy",
+          "price": 23
+        },
+        {
+          "name": "Krem z kapusty kiszonej /ziemniak /żeberko /bekon",
+          "price": 25
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "items": [
+        {
+          "name": "Wtorek - obrazek nieobecny",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-03-03",
-      "items": [
-        {
-          "name": "Krem z buraka",
-          "price": null
-        },
-        {
-          "name": "Stek drobiowy z frytkami i mixem sałat z sosem czosnkowym",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-04",
+      "date": "2026-03-11",
       "items": [
         {
           "name": "Krupnik",
@@ -45,14 +49,27 @@
       ]
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-12",
       "items": [
         {
-          "name": "Krem brokułowy",
+          "name": "Zupa fasolowa",
           "price": null
         },
         {
-          "name": "Ryba, ziemniaki i surówka z kiszonej kapusty",
+          "name": "Kotlet schabowy z ziemniakami i kapustą zasmażaną",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "items": [
+        {
+          "name": "Zupa z fasolki szparagowej",
+          "price": null
+        },
+        {
+          "name": "Morszczuk w cieście piwnym z ziemniakami opiekanymi i kapustą kiszoną",
           "price": null
         }
       ]

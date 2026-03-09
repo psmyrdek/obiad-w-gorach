@@ -3,56 +3,43 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-06T09:08:17.989Z",
+  "scrapedAt": "2026-03-09T09:12:20.183Z",
   "menus": [
     {
-      "date": "2026-03-04",
+      "date": "2026-03-09",
       "items": [
         {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z serem, ziemniaki lub frytki i dodatki",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki, kapusta zasmażana lub surówki",
           "price": 25
         },
         {
-          "name": "Pejzanka na wędzonce (zupa dnia)",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-03-03",
+      "date": "2026-03-13",
       "items": [
         {
-          "name": "Filet drobiowy w cieście serowym, ziemniaki lub frytki i dodatki",
-          "price": 25
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek",
+          "price": 34
         },
         {
-          "name": "Krem z zielonych warzyw z grzanką (zupa dnia)",
+          "name": "Zupa dnia: Jarzynowa",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-03-02",
+      "date": "2026-03-12",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany, dodatki",
+          "name": "Roladka wieprzowa z farszem śląskim w sosie ciemnym, kluski lub ziemniaki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa pomidorowa (zupa dnia)",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-01",
-      "items": [
-        {
-          "name": "Polędwiczka wieprzowa Wellington w cieście francuskim z frytkami i surówkami",
-          "price": 40
-        },
-        {
-          "name": "Rosół z makaronem (zupa dnia)",
+          "name": "Zupa dnia: Kalafiorowo-porowa z makaronem",
           "price": 8
         }
       ]
