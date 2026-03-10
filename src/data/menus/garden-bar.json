@@ -3,13 +3,13 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-09T09:12:20.183Z",
+  "scrapedAt": "2026-03-10T09:11:21.340Z",
   "menus": [
     {
       "date": "2026-03-09",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki, kapusta zasmażana lub surówki",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki lub frytki, kapusta zasmażana lub surówki",
           "price": 25
         },
         {
@@ -19,10 +19,36 @@
       ]
     },
     {
+      "date": "2026-03-08",
+      "items": [
+        {
+          "name": "Soczysty schab długo gotowany podany w sosie serowym z parmezanem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta zasmażana",
+          "price": 37
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "items": [
+        {
+          "name": "Devolaj z pieczarkami i serem, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "price": 35
+        },
+        {
+          "name": "Zupa dnia: Ogórkowa",
+          "price": 8
+        }
+      ]
+    },
+    {
       "date": "2026-03-13",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek",
+          "name": "Zestaw dnia: Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek",
           "price": 34
         },
         {

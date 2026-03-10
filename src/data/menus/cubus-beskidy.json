@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-09T09:12:40.115Z",
+  "scrapedAt": "2026-03-10T09:11:37.405Z",
   "menus": [
     {
       "date": "2026-03-09",
@@ -15,14 +15,6 @@
         {
           "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE I ZESTAW SURÓWEK",
           "price": null
-        },
-        {
-          "name": "Krem z palonego kalafiora/ wędzony twaróg/krążek cebulowy",
-          "price": 23
-        },
-        {
-          "name": "Krem z kapusty kiszonej /ziemniak /żeberko /bekon",
-          "price": 25
         }
       ]
     },
@@ -30,8 +22,12 @@
       "date": "2026-03-10",
       "items": [
         {
-          "name": "Wtorek - obrazek nieobecny",
-          "price": null
+          "name": "Krem z palonego kalafiora/ wędzony twaróg/krążek cebulowy",
+          "price": 23
+        },
+        {
+          "name": "Krem z kapusty kiszonej /ziemniak /żeberko /bekon",
+          "price": 25
         }
       ]
     },
@@ -56,7 +52,7 @@
           "price": null
         },
         {
-          "name": "Kotlet schabowy z ziemniakami i kapustą zasmażaną",
+          "name": "Kotlet schabowy z ziemniaki i kapustą zasmażaną",
           "price": null
         }
       ]
