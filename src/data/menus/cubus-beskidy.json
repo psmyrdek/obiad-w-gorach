@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-10T09:11:37.405Z",
+  "scrapedAt": "2026-03-11T09:11:42.873Z",
   "menus": [
     {
       "date": "2026-03-09",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA Z RYŻEM",
+          "name": "Zupa pomidorowa z ryżem",
           "price": null
         },
         {
-          "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE I ZESTAW SURÓWEK",
+          "name": "Schab w sosie myśliwskim, kluski śląskie i zestaw surówek",
           "price": null
         }
       ]
@@ -22,12 +22,12 @@
       "date": "2026-03-10",
       "items": [
         {
-          "name": "Krem z palonego kalafiora/ wędzony twaróg/krążek cebulowy",
-          "price": 23
+          "name": "Zupa kalafiorowa",
+          "price": null
         },
         {
-          "name": "Krem z kapusty kiszonej /ziemniak /żeberko /bekon",
-          "price": 25
+          "name": "Eskalopki w cieście, frytki, sałatka z kapusty pekińskiej",
+          "price": null
         }
       ]
     },
@@ -35,25 +35,20 @@
       "date": "2026-03-11",
       "items": [
         {
-          "name": "Krupnik",
+          "name": "Kapuśniak",
           "price": null
         },
         {
-          "name": "Roladka z oscypkiem, ziemniaki, colesław z czerwonej kapusty",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-12",
-      "items": [
-        {
-          "name": "Zupa fasolowa",
+          "name": "Kulka drobiowa z bekonem, ziemniaki puree, sałatka szwedzka",
           "price": null
         },
         {
-          "name": "Kotlet schabowy z ziemniaki i kapustą zasmażaną",
-          "price": null
+          "name": "Krem z palonego kalafiora/ wędzony twaróg/krążek cebulowy",
+          "price": 23
+        },
+        {
+          "name": "Krem z kapusty kiszonej /ziemniak /żeberko /bekon",
+          "price": 25
         }
       ]
     },

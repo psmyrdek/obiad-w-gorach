@@ -3,8 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-10T09:11:21.340Z",
+  "scrapedAt": "2026-03-11T09:11:21.261Z",
   "menus": [
+    {
+      "date": "2026-03-11",
+      "items": [
+        {
+          "name": "Filet z udźca kurczaka po hawajsku z ananasem, serem i żurawiną, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Szpinakowo-serowa z ryżem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "items": [
+        {
+          "name": "Kotlet szarpany drobiowy w cieście z warzywami smażony, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem warzywny z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-03-09",
       "items": [
@@ -27,45 +53,6 @@
         },
         {
           "name": "Zupa dnia: Rosół z makaronem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-07",
-      "items": [
-        {
-          "name": "Devolaj z pieczarkami i serem, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
-          "price": 35
-        },
-        {
-          "name": "Zupa dnia: Ogórkowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-13",
-      "items": [
-        {
-          "name": "Zestaw dnia: Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia: Jarzynowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-12",
-      "items": [
-        {
-          "name": "Roladka wieprzowa z farszem śląskim w sosie ciemnym, kluski lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Kalafiorowo-porowa z makaronem",
           "price": 8
         }
       ]
