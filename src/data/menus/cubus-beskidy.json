@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-11T09:11:42.873Z",
+  "scrapedAt": "2026-03-12T09:12:38.546Z",
   "menus": [
     {
       "date": "2026-03-09",
       "items": [
         {
-          "name": "Zupa pomidorowa z ryżem",
+          "name": "ZUPA POMIDOROWA Z RYŻEM",
           "price": null
         },
         {
-          "name": "Schab w sosie myśliwskim, kluski śląskie i zestaw surówek",
+          "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE I ZESTAW SURÓWEK",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-03-10",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
+          "name": "ZUPA KALAFIOROWA",
           "price": null
         },
         {
-          "name": "Eskalopki w cieście, frytki, sałatka z kapusty pekińskiej",
+          "name": "ESKALOPKI W CIEŚCIE, FRYTKI, SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
           "price": null
         }
       ]
@@ -35,20 +35,25 @@
       "date": "2026-03-11",
       "items": [
         {
-          "name": "Kapuśniak",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "Kulka drobiowa z bekonem, ziemniaki puree, sałatka szwedzka",
+          "name": "KULKA DROBIOWA Z BEKONEM, ZIEMNIAKI PUREE, SAŁATKA SZWEDZKA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "items": [
+        {
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "Krem z palonego kalafiora/ wędzony twaróg/krążek cebulowy",
-          "price": 23
-        },
-        {
-          "name": "Krem z kapusty kiszonej /ziemniak /żeberko /bekon",
-          "price": 25
+          "name": "PULPETY W SOSIE POMIDOROWO - PAPRYKOWYM, ZAPIEKANKA ZIEMNIACZANA, KAPUSTA CZERWONA",
+          "price": null
         }
       ]
     },

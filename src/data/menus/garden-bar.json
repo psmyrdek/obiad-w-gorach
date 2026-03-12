@@ -3,8 +3,21 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-11T09:11:21.261Z",
+  "scrapedAt": "2026-03-12T09:12:17.037Z",
   "menus": [
+    {
+      "date": "2026-03-12",
+      "items": [
+        {
+          "name": "Frykadelka drobiowa mielona, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Soljanka na wędzonce",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-03-11",
       "items": [
@@ -27,32 +40,6 @@
         },
         {
           "name": "Zupa dnia: Krem warzywny z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-09",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki lub frytki, kapusta zasmażana lub surówki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-08",
-      "items": [
-        {
-          "name": "Soczysty schab długo gotowany podany w sosie serowym z parmezanem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta zasmażana",
-          "price": 37
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem",
           "price": 8
         }
       ]
