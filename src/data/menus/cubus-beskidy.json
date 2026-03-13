@@ -3,30 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-12T09:12:38.546Z",
+  "scrapedAt": "2026-03-13T09:10:06.925Z",
   "menus": [
     {
-      "date": "2026-03-09",
+      "date": "2026-03-12",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA Z RYŻEM",
+          "name": "Zupa pieczarkowa",
           "price": null
         },
         {
-          "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE I ZESTAW SURÓWEK",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-10",
-      "items": [
-        {
-          "name": "ZUPA KALAFIOROWA",
-          "price": null
-        },
-        {
-          "name": "ESKALOPKI W CIEŚCIE, FRYTKI, SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
+          "name": "Pulpety w sosie pomidorowo-paprykowym, zapiekanka ziemniaczana, kapusta czerwona",
           "price": null
         }
       ]
@@ -35,24 +22,37 @@
       "date": "2026-03-11",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "Kapuśniak",
           "price": null
         },
         {
-          "name": "KULKA DROBIOWA Z BEKONEM, ZIEMNIAKI PUREE, SAŁATKA SZWEDZKA",
+          "name": "Kulka drobiowa z bekonem, ziemniaki puree, sałatka szwedzka",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-03-12",
+      "date": "2026-03-10",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "Zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "PULPETY W SOSIE POMIDOROWO - PAPRYKOWYM, ZAPIEKANKA ZIEMNIACZANA, KAPUSTA CZERWONA",
+          "name": "Eskalopki w cieście, frytki, sałatka z kapusty pekińskiej",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "items": [
+        {
+          "name": "Zupa pomidorowa z ryżem",
+          "price": null
+        },
+        {
+          "name": "Schab w sosie myśliwskim, kluski śląskie i zestaw surówek",
           "price": null
         }
       ]
