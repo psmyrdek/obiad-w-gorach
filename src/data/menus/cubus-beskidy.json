@@ -3,36 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-13T09:10:06.925Z",
+  "scrapedAt": "2026-03-16T09:18:53.750Z",
   "menus": [
     {
-      "date": "2026-03-12",
+      "date": "2026-03-16",
       "items": [
         {
-          "name": "Zupa pieczarkowa",
+          "name": "Kwaśnica",
           "price": null
         },
         {
-          "name": "Pulpety w sosie pomidorowo-paprykowym, zapiekanka ziemniaczana, kapusta czerwona",
+          "name": "Roladka wieprzowa z porem i bekonem, ziemniaki, buraki",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-03-11",
-      "items": [
-        {
-          "name": "Kapuśniak",
-          "price": null
-        },
-        {
-          "name": "Kulka drobiowa z bekonem, ziemniaki puree, sałatka szwedzka",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-10",
+      "date": "2026-03-17",
       "items": [
         {
           "name": "Zupa kalafiorowa",
@@ -45,27 +32,44 @@
       ]
     },
     {
-      "date": "2026-03-09",
+      "date": "2026-03-18",
       "items": [
         {
-          "name": "Zupa pomidorowa z ryżem",
+          "name": "Kapuśniak",
           "price": null
         },
         {
-          "name": "Schab w sosie myśliwskim, kluski śląskie i zestaw surówek",
+          "name": "Kulka drobiowa z bekonem, ziemniaki puree, sałatka szwedzka",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-03-13",
+      "date": "2026-03-19",
       "items": [
         {
-          "name": "Zupa z fasolki szparagowej",
+          "name": "Zupa pieczarkowa",
           "price": null
         },
         {
-          "name": "Morszczuk w cieście piwnym z ziemniakami opiekanymi i kapustą kiszoną",
+          "name": "Pulpety w sosie pomidorowo-paprykowym, zapiekanka ziemniaczana, kapusta czerwona",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "items": [
+        {
+          "name": "Barszcz zabielany",
+          "price": null
+        },
+        {
+          "name": "Morszczuk, frytki i kiszona kapusta",
+          "price": null
+        },
+        {
+          "name": "Naleśniki z serem",
           "price": null
         }
       ]

@@ -3,13 +3,13 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-03-13T09:09:58.511Z",
+  "scrapedAt": "2026-03-16T09:18:44.807Z",
   "menus": [
     {
-      "date": "2026-03-12",
+      "date": "2026-03-19",
       "items": [
         {
-          "name": "Zupa Ogórkowa",
+          "name": "Ogórkowa",
           "price": 9
         },
         {
@@ -17,17 +17,17 @@
           "price": 8
         },
         {
-          "name": "Medalion z piersi z kurczaka pod brokułową pierzynką, ziemniaki, surówki, kompot + zupa",
+          "name": "Medalion z piersi z kurczaka pod brokułową pierzynką, ziemniaki, surówki, kompot +zupa",
           "price": 29
         },
         {
-          "name": "Jadło drwala, surówki, kompot + zupa",
+          "name": "Jadło drwala ,surówki, kompot + zupa",
           "price": 35
         }
       ]
     },
     {
-      "date": "2026-03-11",
+      "date": "2026-03-18",
       "items": [
         {
           "name": "Krem z kolorowych warzyw",
@@ -38,11 +38,11 @@
           "price": 8
         },
         {
-          "name": "Mielony z kapustą zasmażaną, ziemniaki, kompot + zupa",
+          "name": "Mielony z kapustą zasmażaną, ziemniaki,kompot +zupa",
           "price": 28
         },
         {
-          "name": "Stripsy z kurczaka w panko z sosem czosnkowym, ziemniaki, surówki, kompot + zupa",
+          "name": "Stripsy z kurczaka w panko z sosem czosnkowym, ziemniaki ,surówki, kompot + zupa",
           "price": 35
         },
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "date": "2026-03-10",
+      "date": "2026-03-17",
       "items": [
         {
           "name": "Żurek",
@@ -63,7 +63,7 @@
           "price": 8
         },
         {
-          "name": "Pieczeń z karczku faszerowany czosnkiem w sosie pieczeniowym, ziemniaki, surówki, kompot + zupa",
+          "name": "Pieczeń z karczku faszerowany czosnkiem w sosie pieczeniowym , ziemniaki, surówki ,kompot +zupa",
           "price": 28
         },
         {

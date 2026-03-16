@@ -3,64 +3,50 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-03-13T09:09:54.239Z",
+  "scrapedAt": "2026-03-16T09:18:39.442Z",
   "menus": [
     {
-      "date": "2026-03-11",
+      "date": "2026-03-20",
       "items": [
         {
-          "name": "pilaw",
-          "price": 34
+          "name": "Kotleciki rybne",
+          "price": 36
         },
         {
-          "name": "zupa dyniowa",
+          "name": "Rosół",
+          "price": null
+        },
+        {
+          "name": "Zupa koperkowa",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-03-10",
+      "date": "2026-03-16",
       "items": [
         {
-          "name": "zupa grzybowa",
+          "name": "Pilaw",
           "price": 34
         },
         {
-          "name": "kotleciki pożarskie",
+          "name": "Zupa dyniowa",
           "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-09",
-      "items": [
+        },
         {
-          "name": "pieczone żeberka z ziemniakami i kapustą zasmażaną",
+          "name": "Kotleciki pożarskie",
+          "price": 34
+        },
+        {
+          "name": "Zupa grzybowa",
+          "price": null
+        },
+        {
+          "name": "Pieczone żeberka",
           "price": 35
         },
         {
           "name": "Zupa Szefa",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-13",
-      "items": [
-        {
-          "name": "zupa koperkowa",
-          "price": null
-        },
-        {
-          "name": "wątróbka z ziemniakami i surówkami",
-          "price": null
-        },
-        {
-          "name": "zupa serowo-porowa",
-          "price": 31
-        },
-        {
-          "name": "domowe gołąbki",
           "price": null
         }
       ]

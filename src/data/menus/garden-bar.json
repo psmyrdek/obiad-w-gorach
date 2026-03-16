@@ -3,10 +3,36 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-13T09:09:50.877Z",
+  "scrapedAt": "2026-03-16T09:18:33.457Z",
   "menus": [
     {
-      "date": "2026-03-12",
+      "date": "2026-03-16",
+      "items": [
+        {
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki lub frytki, surówki lub kapusta kiszona zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki, zestaw surówek",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia: Krupnik z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-19",
       "items": [
         {
           "name": "Frykadelka drobiowa mielona, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
@@ -14,32 +40,6 @@
         },
         {
           "name": "Zupa dnia: Soljanka na wędzonce",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-11",
-      "items": [
-        {
-          "name": "Filet z udźca kurczaka po hawajsku z ananasem, serem i żurawiną, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Szpinakowo-serowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-10",
-      "items": [
-        {
-          "name": "Kotlet szarpany drobiowy w cieście z warzywami smażony, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem warzywny z grzanką",
           "price": 8
         }
       ]
