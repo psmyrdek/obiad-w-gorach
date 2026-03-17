@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-03-16T09:18:39.442Z",
+  "scrapedAt": "2026-03-17T09:15:13.508Z",
   "menus": [
     {
       "date": "2026-03-20",
@@ -23,7 +23,16 @@
       ]
     },
     {
-      "date": "2026-03-16",
+      "date": "2026-03-19",
+      "items": [
+        {
+          "name": "Zestaw dnia",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "date": "2026-03-18",
       "items": [
         {
           "name": "Pilaw",
@@ -32,7 +41,12 @@
         {
           "name": "Zupa dyniowa",
           "price": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "items": [
         {
           "name": "Kotleciki pożarskie",
           "price": 34
@@ -40,9 +54,14 @@
         {
           "name": "Zupa grzybowa",
           "price": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "items": [
         {
-          "name": "Pieczone żeberka",
+          "name": "Pieczone żeberka z ziemniakami i kapustą zasmażaną",
           "price": 35
         },
         {
