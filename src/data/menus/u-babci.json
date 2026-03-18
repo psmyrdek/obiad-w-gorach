@@ -3,56 +3,17 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-03-17T09:15:13.508Z",
+  "scrapedAt": "2026-03-18T09:14:49.238Z",
   "menus": [
-    {
-      "date": "2026-03-20",
-      "items": [
-        {
-          "name": "Kotleciki rybne",
-          "price": 36
-        },
-        {
-          "name": "Rosół",
-          "price": null
-        },
-        {
-          "name": "Zupa koperkowa",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-19",
-      "items": [
-        {
-          "name": "Zestaw dnia",
-          "price": 33
-        }
-      ]
-    },
-    {
-      "date": "2026-03-18",
-      "items": [
-        {
-          "name": "Pilaw",
-          "price": 34
-        },
-        {
-          "name": "Zupa dyniowa",
-          "price": null
-        }
-      ]
-    },
     {
       "date": "2026-03-17",
       "items": [
         {
-          "name": "Kotleciki pożarskie",
-          "price": 34
+          "name": "Krupnik",
+          "price": null
         },
         {
-          "name": "Zupa grzybowa",
+          "name": "Klopsy w sosie z ziemniaczkami i surówkami",
           "price": null
         }
       ]
@@ -61,12 +22,51 @@
       "date": "2026-03-16",
       "items": [
         {
-          "name": "Pieczone żeberka z ziemniakami i kapustą zasmażaną",
-          "price": 35
+          "name": "Zupa ogórkowa",
+          "price": null
         },
         {
-          "name": "Zupa Szefa",
+          "name": "Stek z cebulką w zestawie z ziemniakami i surówkami",
           "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "items": [
+        {
+          "name": "Rosół",
+          "price": null
+        },
+        {
+          "name": "Zupa koperkowa",
+          "price": null
+        },
+        {
+          "name": "Kotleciki rybne (Full obiad)",
+          "price": 36
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "items": [
+        {
+          "name": "Full obiad",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "items": [
+        {
+          "name": "Zupa dyniowa",
+          "price": null
+        },
+        {
+          "name": "Pilaw",
+          "price": 34
         }
       ]
     }

@@ -3,86 +3,44 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-17T09:15:09.520Z",
+  "scrapedAt": "2026-03-18T09:14:44.372Z",
   "menus": [
+    {
+      "date": "2026-03-18",
+      "items": [
+        {
+          "name": "Kotlet Pasterski wieprzowy zawijany z żółtym serem, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Jarzynowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "items": [
+        {
+          "name": "Zraz drobiowy mielony w sosie śmietanowo-serowym z brokułami, ryż lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem warzywny z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-03-16",
       "items": [
         {
-          "name": "Danie dnia: Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki, surówki lub kapusta kiszona zasmażana",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki lub frytki, surówki lub kapusta kiszona zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa (solo)",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa (do dania głównego)",
-          "price": 3
-        }
-      ]
-    },
-    {
-      "date": "2026-03-15",
-      "items": [
-        {
-          "name": "Danie dnia: Polędwiczki wieprzowe w sosie grzybowym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem (solo)",
-          "price": 10
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem (do dania głównego)",
-          "price": 5
-        }
-      ]
-    },
-    {
-      "date": "2026-03-14",
-      "items": [
-        {
-          "name": "Danie dnia: Żeberko wieprzowe wolno gotowane / waga ok. 350 g/ sos ciemny, ziemniaki lub frytki scopsy, kapusta zasmażana lub zestaw surówek",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem (solo)",
-          "price": 10
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem (do dania głównego)",
-          "price": 5
-        }
-      ]
-    },
-    {
-      "date": "2026-03-20",
-      "items": [
-        {
-          "name": "Zupa dnia: Krupnik z ziemniakami (solo)",
-          "price": 8
-        },
-        {
-          "name": "Zupa dnia: Krupnik z ziemniakami (do dania głównego)",
-          "price": 3
-        }
-      ]
-    },
-    {
-      "date": "2026-03-19",
-      "items": [
-        {
-          "name": "Danie dnia: Frykadelka drobiowa mielona, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Soljanka na wędzonce (solo)",
-          "price": 8
-        },
-        {
-          "name": "Zupa dnia: Soljanka na wędzonce (do dania głównego)",
-          "price": 3
         }
       ]
     }
