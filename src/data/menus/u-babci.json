@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-03-18T09:14:49.238Z",
+  "scrapedAt": "2026-03-19T09:12:18.557Z",
   "menus": [
     {
       "date": "2026-03-17",
@@ -13,7 +13,7 @@
           "price": null
         },
         {
-          "name": "Klopsy w sosie z ziemniaczkami i surówkami",
+          "name": "Klopsy w sosie z ziemniakami i surówkami",
           "price": null
         }
       ]
@@ -32,37 +32,28 @@
       ]
     },
     {
-      "date": "2026-03-13",
+      "date": "2026-03-20",
       "items": [
         {
           "name": "Rosół",
-          "price": null
+          "price": 36
         },
         {
           "name": "Zupa koperkowa",
-          "price": null
+          "price": 36
         },
         {
-          "name": "Kotleciki rybne (Full obiad)",
+          "name": "Kotleciki rybne",
           "price": 36
         }
       ]
     },
     {
-      "date": "2026-03-12",
-      "items": [
-        {
-          "name": "Full obiad",
-          "price": 33
-        }
-      ]
-    },
-    {
-      "date": "2026-03-11",
+      "date": "2026-03-19",
       "items": [
         {
           "name": "Zupa dyniowa",
-          "price": null
+          "price": 34
         },
         {
           "name": "Pilaw",

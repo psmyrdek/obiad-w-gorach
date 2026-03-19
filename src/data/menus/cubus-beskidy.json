@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-18T09:15:01.066Z",
+  "scrapedAt": "2026-03-19T09:12:30.700Z",
   "menus": [
     {
       "date": "2026-03-16",
       "items": [
         {
-          "name": "Kwaśnica",
+          "name": "KWAŚNICA",
           "price": null
         },
         {
-          "name": "Roladka wieprzowa z porem i bekonem, ziemniaki, buraki",
+          "name": "ROLADKA WIEPRZOWA Z POREM I BEKONEM, ZIEMNIAKI, BURAKI",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-03-17",
       "items": [
         {
-          "name": "Żurek",
+          "name": "ŻUREK",
           "price": null
         },
         {
-          "name": "Filet zapiekany z pieczarkami i serem, frytki i zestaw surówek",
+          "name": "FILET ZAPIEKANY Z PIECZARKAMI I SEREM, FRYTKI I ZESTAW SURÓWEK",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-03-18",
       "items": [
         {
-          "name": "Krem pomidorowy",
+          "name": "KREM POMIDOROWY",
           "price": null
         },
         {
-          "name": "Pieczeń wieprzowa w sosie własnym, kopytka, czerwona kapusta",
+          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM, KOPYTKA CZERWONA KAPUSTA",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-03-19",
       "items": [
         {
-          "name": "Zupa pieczarkowa",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "Pulpety w sosie pomidorowo-paprykowym, zapiekanka ziemniaczana, kapusta czerwona",
+          "name": "PULPETY W SOSIE POMIDOROWO - PAPRYKOWYM, ZAPIEKANKA ZIEMNIACZANA, KAPUSTA CZERWONA",
           "price": null
         }
       ]
@@ -61,15 +61,11 @@
       "date": "2026-03-20",
       "items": [
         {
-          "name": "Barszcz zabielany",
+          "name": "BARSZCZ ZABIELANY",
           "price": null
         },
         {
-          "name": "Morszczuk, frytki i kiszona kapusta",
-          "price": null
-        },
-        {
-          "name": "Naleśniki z serem",
+          "name": "MORSZCZUK , FRYTKI I KISZONA KAPUSTA LUB NALEŚNIKI Z SEREM",
           "price": null
         }
       ]

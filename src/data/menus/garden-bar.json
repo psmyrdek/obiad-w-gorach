@@ -3,13 +3,13 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-18T09:14:44.372Z",
+  "scrapedAt": "2026-03-19T09:12:15.035Z",
   "menus": [
     {
       "date": "2026-03-18",
       "items": [
         {
-          "name": "Kotlet Pasterski wieprzowy zawijany z żółtym serem, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "name": "Kotlet Pasterski wieprzowy zawijany z żółtym serem, dodatki",
           "price": 25
         },
         {
@@ -22,7 +22,7 @@
       "date": "2026-03-17",
       "items": [
         {
-          "name": "Zraz drobiowy mielony w sosie śmietanowo-serowym z brokułami, ryż lub ziemniaki, surówki lub kapusta zasmażana",
+          "name": "Zraz drobiowy mielony w sosie śmietanowo-serowym z brokułami, dodatki",
           "price": 25
         },
         {
@@ -35,7 +35,7 @@
       "date": "2026-03-16",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki lub frytki, surówki lub kapusta kiszona zasmażana",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, dodatki",
           "price": 25
         },
         {
