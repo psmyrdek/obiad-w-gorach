@@ -3,21 +3,8 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-19T09:12:30.700Z",
+  "scrapedAt": "2026-03-20T09:10:43.684Z",
   "menus": [
-    {
-      "date": "2026-03-16",
-      "items": [
-        {
-          "name": "KWAŚNICA",
-          "price": null
-        },
-        {
-          "name": "ROLADKA WIEPRZOWA Z POREM I BEKONEM, ZIEMNIAKI, BURAKI",
-          "price": null
-        }
-      ]
-    },
     {
       "date": "2026-03-17",
       "items": [
@@ -48,11 +35,11 @@
       "date": "2026-03-19",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "PULPETY W SOSIE POMIDOROWO - PAPRYKOWYM, ZAPIEKANKA ZIEMNIACZANA, KAPUSTA CZERWONA",
+          "name": "FILET GRILLOWANY W SOSIE SEROWYM, RYŻ Z WARZYWAMI, WIOSENNA Z VINEGRETEM",
           "price": null
         }
       ]
@@ -61,11 +48,11 @@
       "date": "2026-03-20",
       "items": [
         {
-          "name": "BARSZCZ ZABIELANY",
+          "name": "ZUPA OGÓRKOWA",
           "price": null
         },
         {
-          "name": "MORSZCZUK , FRYTKI I KISZONA KAPUSTA LUB NALEŚNIKI Z SEREM",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KISZONĄ KAPUSTĄ",
           "price": null
         }
       ]
