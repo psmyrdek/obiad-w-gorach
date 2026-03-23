@@ -3,36 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-20T09:10:43.684Z",
+  "scrapedAt": "2026-03-23T09:17:44.518Z",
   "menus": [
     {
-      "date": "2026-03-17",
+      "date": "2026-03-23",
       "items": [
         {
-          "name": "ŻUREK",
+          "name": "GROCHÓWKA",
           "price": null
         },
         {
-          "name": "FILET ZAPIEKANY Z PIECZARKAMI I SEREM, FRYTKI I ZESTAW SURÓWEK",
+          "name": "FILET Z KURCZAKA W PANIERCE PANKO, ZIEMNIAKI PUREE, COLESŁAW",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-03-18",
-      "items": [
-        {
-          "name": "KREM POMIDOROWY",
-          "price": null
-        },
-        {
-          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM, KOPYTKA CZERWONA KAPUSTA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-19",
+      "date": "2026-03-26",
       "items": [
         {
           "name": "ZUPA JARZYNOWA",
@@ -45,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-03-20",
+      "date": "2026-03-27",
       "items": [
         {
           "name": "ZUPA OGÓRKOWA",

@@ -3,73 +3,44 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-20T09:10:25.358Z",
+  "scrapedAt": "2026-03-23T09:17:23.134Z",
   "menus": [
     {
-      "date": "2026-03-20",
+      "date": "2026-03-23",
       "items": [
         {
-          "name": "Grochówka z grzanką",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki lub frytki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "items": [
+        {
+          "name": "Zupa dnia : Grochówka z grzanką",
           "price": 8
         },
         {
-          "name": "Grochówka z grzanką (do drugiego dania)",
-          "price": 3
-        },
-        {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek",
+          "name": "Danie dnia : Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek",
           "price": 34
         }
       ]
     },
     {
-      "date": "2026-03-19",
+      "date": "2026-03-26",
       "items": [
         {
-          "name": "Soczysty schab gotowany podany z sosem pieczarkowym, placki Rosti lub ziemniaki, surówki lub kapusta zasmażana",
+          "name": "Soczysty schab gotowany podany z sosem pieczarkowym placki Rosti lub ziemniaki surówki lub kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Barszcz ukraiński",
+          "name": "Zupa dnia : Barszcz ukraiński",
           "price": 8
-        },
-        {
-          "name": "Barszcz ukraiński (do drugiego dania)",
-          "price": 3
-        }
-      ]
-    },
-    {
-      "date": "2026-03-18",
-      "items": [
-        {
-          "name": "Kotlet Pasterski wieprzowy zawijany z żółtym serem, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Jarzynowa",
-          "price": 8
-        },
-        {
-          "name": "Jarzynowa (do drugiego dania)",
-          "price": 3
-        }
-      ]
-    },
-    {
-      "date": "2026-03-17",
-      "items": [
-        {
-          "name": "Zraz drobiowy mielony w sosie śmietanowo-serowym z brokułami, ryż lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Krem warzywny z grzanką",
-          "price": 8
-        },
-        {
-          "name": "Krem warzywny z grzanką (do drugiego dania)",
-          "price": 3
         }
       ]
     }
