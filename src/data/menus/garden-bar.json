@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-23T09:17:23.134Z",
+  "scrapedAt": "2026-03-24T09:14:53.165Z",
   "menus": [
     {
       "date": "2026-03-23",
@@ -13,8 +13,37 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
+        },
+        {
+          "name": "Zupa dnia: Pomidorowa do dania drugiego",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "items": [
+        {
+          "name": "Devolaj z pieczarkami frytki scoopsy, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Rosół z makaronem solo",
+          "price": 10
+        },
+        {
+          "name": "Rosół z makaronem do dania drugiego",
+          "price": 5
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
+        },
+        {
+          "name": "Łopatka wieprzowa wolno gotowana podana z sosem grzybowym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 40
         }
       ]
     },
@@ -22,11 +51,15 @@
       "date": "2026-03-27",
       "items": [
         {
-          "name": "Zupa dnia : Grochówka z grzanką",
+          "name": "Zupa dnia: Grochówka z grzanką solo",
           "price": 8
         },
         {
-          "name": "Danie dnia : Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek",
+          "name": "Zupa dnia: Grochówka z grzanką do dania drugiego",
+          "price": 3
+        },
+        {
+          "name": "Danie dnia: Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek",
           "price": 34
         }
       ]
@@ -39,8 +72,12 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Barszcz ukraiński",
+          "name": "Zupa dnia: Barszcz ukraiński solo",
           "price": 8
+        },
+        {
+          "name": "Zupa dnia: Barszcz ukraiński do dania drugiego",
+          "price": 3
         }
       ]
     }
