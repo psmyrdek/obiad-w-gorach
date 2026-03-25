@@ -3,22 +3,18 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-24T09:14:53.165Z",
+  "scrapedAt": "2026-03-25T09:14:48.426Z",
   "menus": [
     {
-      "date": "2026-03-23",
+      "date": "2026-03-25",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki lub frytki, zestaw surówek lub kapusta kiszona zasmażana",
+          "name": "Kotlet \"Garden\" z fileta kurczaka obłożony plastrami boczku, frytki, zestaw surówek lub kapusta",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia: Pejzanka na wędzonce",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa do dania drugiego",
-          "price": 3
         }
       ]
     },
@@ -26,58 +22,51 @@
       "date": "2026-03-24",
       "items": [
         {
-          "name": "Devolaj z pieczarkami frytki scoopsy, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Rosół z makaronem solo",
-          "price": 10
-        },
-        {
-          "name": "Rosół z makaronem do dania drugiego",
-          "price": 5
-        },
-        {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
-          "price": 12
-        },
-        {
-          "name": "Łopatka wieprzowa wolno gotowana podana z sosem grzybowym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
-        }
-      ]
-    },
-    {
-      "date": "2026-03-27",
-      "items": [
-        {
-          "name": "Zupa dnia: Grochówka z grzanką solo",
-          "price": 8
-        },
-        {
-          "name": "Zupa dnia: Grochówka z grzanką do dania drugiego",
-          "price": 3
-        },
-        {
-          "name": "Danie dnia: Filet z morszczuka w panierce, frytki lub ziemniaki, zestaw surówek",
-          "price": 34
-        }
-      ]
-    },
-    {
-      "date": "2026-03-26",
-      "items": [
-        {
-          "name": "Soczysty schab gotowany podany z sosem pieczarkowym placki Rosti lub ziemniaki surówki lub kapusta zasmażana",
+          "name": "Kotlet Paryski wieprzowy w cieście serowym, frytki lub ziemniaki, fasolka, surówki lub kapusta",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Barszcz ukraiński solo",
+          "name": "Zupa dnia: Krem warzywny",
           "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-23",
+      "items": [
+        {
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki, zestaw surówek lub kapusta",
+          "price": 25
         },
         {
-          "name": "Zupa dnia: Barszcz ukraiński do dania drugiego",
-          "price": 3
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-22",
+      "items": [
+        {
+          "name": "Devolaj z pieczarkami, frytki scoopsy, zestaw surówek lub kapusta",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-03-21",
+      "items": [
+        {
+          "name": "Łopatka wieprzowa wolno gotowana podana z sosem grzybowym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 10
         }
       ]
     }

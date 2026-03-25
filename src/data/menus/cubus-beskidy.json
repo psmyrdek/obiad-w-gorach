@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-24T09:15:08.159Z",
+  "scrapedAt": "2026-03-25T09:15:09.048Z",
   "menus": [
     {
       "date": "2026-03-23",
@@ -19,28 +19,36 @@
       ]
     },
     {
-      "date": "2026-03-26",
+      "date": "2026-03-24",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "BARSZCZ ZABIELANY Z JAJKIEM",
           "price": null
         },
         {
-          "name": "FILET GRILLOWANY W SOSIE SEROWYM, RYŻ Z WARZYWAMI, WIOSENNA Z VINEGRETEM",
+          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW, KLUSKI ŚLĄSKIE, FASOLKA SZPARAGOWA Z MARCHEWKĄ W BUŁCE TARTEJ",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-03-25",
       "items": [
         {
-          "name": "ZUPA OGÓRKOWA",
+          "name": "KALAFIOROWA Z MAKARONEM",
           "price": null
         },
         {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KISZONĄ KAPUSTĄ",
+          "name": "KOTLET DE VOLAILLE, FRYTKI I ZESTAW SURÓWEK",
           "price": null
+        },
+        {
+          "name": "Żurek Staropolski",
+          "price": 20
+        },
+        {
+          "name": "Krem chrzanowy / jajko / chrupiący bekon",
+          "price": 18
         }
       ]
     }
