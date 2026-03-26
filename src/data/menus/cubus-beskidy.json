@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-25T09:15:09.048Z",
+  "scrapedAt": "2026-03-26T09:18:02.769Z",
   "menus": [
     {
       "date": "2026-03-23",
@@ -40,6 +40,19 @@
         },
         {
           "name": "KOTLET DE VOLAILLE, FRYTKI I ZESTAW SURÓWEK",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "items": [
+        {
+          "name": "KREM Z MARCHEWKI",
+          "price": null
+        },
+        {
+          "name": "PLACKI ZIEMNIACZANE Z GULASZEM I SURÓWKA Z OGÓRKA KISZONEGO",
           "price": null
         },
         {
