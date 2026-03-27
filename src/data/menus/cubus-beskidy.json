@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-26T09:18:02.769Z",
+  "scrapedAt": "2026-03-27T09:14:41.208Z",
   "menus": [
     {
       "date": "2026-03-23",
@@ -26,7 +26,7 @@
           "price": null
         },
         {
-          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW, KLUSKI ŚLĄSKIE, FASOLKA SZPARAGOWA Z MARCHEWKĄ W BUŁCE TARTEJ",
+          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW, KLUSKI ŚLĄSKIE , FASOLKA SZPARAGOWA Z MARCHEWKĄ W BUŁCE TARTEJ",
           "price": null
         }
       ]
@@ -54,7 +54,12 @@
         {
           "name": "PLACKI ZIEMNIACZANE Z GULASZEM I SURÓWKA Z OGÓRKA KISZONEGO",
           "price": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "items": [
         {
           "name": "Żurek Staropolski",
           "price": 20
