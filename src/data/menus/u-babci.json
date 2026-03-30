@@ -3,69 +3,69 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-03-27T09:14:27.461Z",
+  "scrapedAt": "2026-03-30T09:26:20.724Z",
   "menus": [
     {
-      "date": "2026-03-23",
+      "date": "2026-03-30",
       "items": [
-        {
-          "name": "Grochówka",
-          "price": null
-        },
         {
           "name": "Mielony",
           "price": 36
+        },
+        {
+          "name": "Grochówka",
+          "price": null
         }
       ]
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-04-03",
       "items": [
-        {
-          "name": "Rosół",
-          "price": null
-        },
         {
           "name": "Dorsz z ziemniakami i surówkami",
           "price": 35
+        },
+        {
+          "name": "Rosół",
+          "price": null
         }
       ]
     },
     {
-      "date": "2026-03-26",
+      "date": "2026-04-02",
       "items": [
-        {
-          "name": "Zupa jarzynowa",
-          "price": null
-        },
         {
           "name": "Rolada śląska",
           "price": null
+        },
+        {
+          "name": "Zupa jarzynowa",
+          "price": null
         }
       ]
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-04-01",
       "items": [
-        {
-          "name": "Kwaśnica",
-          "price": null
-        },
         {
           "name": "Gołąbki",
           "price": 31
+        },
+        {
+          "name": "Kwaśnica",
+          "price": null
         }
       ]
     },
     {
-      "date": "2026-03-24",
+      "date": "2026-03-31",
       "items": [
         {
-          "name": "Krupnik",
+          "name": "Klopsy w sosie z ziemniaczkami i surówkami",
           "price": null
         },
         {
-          "name": "Klopsy w sosie z ziemniakami i surówkami",
+          "name": "Krupnik",
           "price": null
         }
       ]

@@ -3,74 +3,44 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-27T09:14:23.744Z",
+  "scrapedAt": "2026-03-30T09:26:15.500Z",
   "menus": [
     {
-      "date": "2026-03-26",
+      "date": "2026-03-30",
+      "items": [
+        {
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki, kapusta zasmażana lub zestaw surówek",
+          "price": 25
+        },
+        {
+          "name": "Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-03",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki, zestaw surówek, do wyboru ziemniaki oraz kapusta kiszona zasmażana",
+          "price": 34
+        },
+        {
+          "name": "Kapuśniak z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-02",
       "items": [
         {
           "name": "Bitka wieprzowa w sosie szparagowo-serowym z parmezanem, kluski śląskie lub ziemniaki, zestaw surówek lub słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Brokułowo-Porowa",
+          "name": "Zupa dnia : Brokułowo-Porowa",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-25",
-      "items": [
-        {
-          "name": "Kotlet \"Garden\" z fileta kurczaka obłożony plastrami boczku, panierowany i smażony, frytki, zestaw surówek lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pejzanka na wędzonce",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-24",
-      "items": [
-        {
-          "name": "Kotlet Paryski wieprzowy w cieście serowym, frytki lub ziemniaki, fasolka zielona z mini marchewką, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem warzywny",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-23",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki lub frytki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-27",
-      "items": [
-        {
-          "name": "Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Danie dnia: Devolaj z pieczarkami, frytki scoopsy, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
-          "price": 12
         }
       ]
     }

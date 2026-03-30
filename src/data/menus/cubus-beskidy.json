@@ -3,49 +3,44 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-27T09:14:41.208Z",
+  "scrapedAt": "2026-03-30T09:26:34.104Z",
   "menus": [
     {
-      "date": "2026-03-23",
+      "date": "2026-03-30",
       "items": [
         {
-          "name": "GROCHÓWKA",
+          "name": "ZUPA Z CUKINI",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA W PANIERCE PANKO, ZIEMNIAKI PUREE, COLESŁAW",
+          "name": "KOTLET SCHABOWY , ZIEMNIAKI PUREE , KAPUSTA ZASMAŻANA",
+          "price": null
+        },
+        {
+          "name": "Żurek Staropolski",
+          "price": 20
+        },
+        {
+          "name": "Krem chrzanowy / jajko / chrupiący bekon",
+          "price": 18
+        }
+      ]
+    },
+    {
+      "date": "2026-04-03",
+      "items": [
+        {
+          "name": "ZUPA KOPERKOWA",
+          "price": null
+        },
+        {
+          "name": "MORSZCZUK W TEMPURZE , ZAPIEKANKA ZIEMNIACZANA, SURÓWKA Z KISZONEJ KAPUSTY",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-03-24",
-      "items": [
-        {
-          "name": "BARSZCZ ZABIELANY Z JAJKIEM",
-          "price": null
-        },
-        {
-          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW, KLUSKI ŚLĄSKIE , FASOLKA SZPARAGOWA Z MARCHEWKĄ W BUŁCE TARTEJ",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-25",
-      "items": [
-        {
-          "name": "KALAFIOROWA Z MAKARONEM",
-          "price": null
-        },
-        {
-          "name": "KOTLET DE VOLAILLE, FRYTKI I ZESTAW SURÓWEK",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-02",
       "items": [
         {
           "name": "KREM Z MARCHEWKI",
@@ -58,15 +53,15 @@
       ]
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-04-01",
       "items": [
         {
-          "name": "Żurek Staropolski",
-          "price": 20
+          "name": "KALAFIOROWA Z MAKARONEM",
+          "price": null
         },
         {
-          "name": "Krem chrzanowy / jajko / chrupiący bekon",
-          "price": 18
+          "name": "KOTLET DE VOLAILLE, FRYTKI I ZESTAW SURÓWEK",
+          "price": null
         }
       ]
     }
