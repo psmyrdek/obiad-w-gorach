@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-03-30T09:26:20.724Z",
+  "scrapedAt": "2026-03-31T09:20:26.661Z",
   "menus": [
     {
       "date": "2026-03-30",
@@ -48,12 +48,12 @@
       "date": "2026-04-01",
       "items": [
         {
-          "name": "Gołąbki",
-          "price": 31
-        },
-        {
           "name": "Kwaśnica",
           "price": null
+        },
+        {
+          "name": "Gołąbki",
+          "price": 31
         }
       ]
     },
@@ -61,11 +61,11 @@
       "date": "2026-03-31",
       "items": [
         {
-          "name": "Klopsy w sosie z ziemniaczkami i surówkami",
+          "name": "Krupnik",
           "price": null
         },
         {
-          "name": "Krupnik",
+          "name": "Klopsy w sosie z ziemniaczkami i surówkami",
           "price": null
         }
       ]

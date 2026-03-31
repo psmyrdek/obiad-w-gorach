@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-30T09:26:15.500Z",
+  "scrapedAt": "2026-03-31T09:20:21.193Z",
   "menus": [
     {
       "date": "2026-03-30",
@@ -19,10 +19,23 @@
       ]
     },
     {
+      "date": "2026-04-02",
+      "items": [
+        {
+          "name": "Bitka wieprzowa w sosie szparagowo-serowym z parmezanem, kluski śląskie lub ziemniaki, zestaw surówek lub słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Brokułowo-Porowa",
+          "price": 8
+        }
+      ]
+    },
+    {
       "date": "2026-04-03",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki, zestaw surówek, do wyboru ziemniaki oraz kapusta kiszona zasmażana",
+          "name": "Filet z morszczuka w panierce, frytki, zestaw surówek",
           "price": 34
         },
         {
@@ -32,15 +45,19 @@
       ]
     },
     {
-      "date": "2026-04-02",
+      "date": "2026-03-31",
       "items": [
         {
-          "name": "Bitka wieprzowa w sosie szparagowo-serowym z parmezanem, kluski śląskie lub ziemniaki, zestaw surówek lub słodka zasmażana",
-          "price": 25
+          "name": "Rosół z makaronem",
+          "price": 10
         },
         {
-          "name": "Zupa dnia : Brokułowo-Porowa",
-          "price": 8
+          "name": "Devolaj z serem i masłem, frytki scoopsy lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Karczek wieprzowy konfitowany podany w sosie ciemnym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 40
         }
       ]
     }

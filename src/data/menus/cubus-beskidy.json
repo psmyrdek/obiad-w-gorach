@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-30T09:26:34.104Z",
+  "scrapedAt": "2026-03-31T09:20:39.741Z",
   "menus": [
     {
       "date": "2026-03-30",
@@ -15,26 +15,18 @@
         {
           "name": "KOTLET SCHABOWY , ZIEMNIAKI PUREE , KAPUSTA ZASMAŻANA",
           "price": null
-        },
-        {
-          "name": "Żurek Staropolski",
-          "price": 20
-        },
-        {
-          "name": "Krem chrzanowy / jajko / chrupiący bekon",
-          "price": 18
         }
       ]
     },
     {
-      "date": "2026-04-03",
+      "date": "2026-04-01",
       "items": [
         {
-          "name": "ZUPA KOPERKOWA",
+          "name": "KALAFIOROWA Z MAKARONEM",
           "price": null
         },
         {
-          "name": "MORSZCZUK W TEMPURZE , ZAPIEKANKA ZIEMNIACZANA, SURÓWKA Z KISZONEJ KAPUSTY",
+          "name": "KOTLET DE VOLAILLE, FRYTKI I ZESTAW SURÓWEK",
           "price": null
         }
       ]
@@ -53,15 +45,28 @@
       ]
     },
     {
-      "date": "2026-04-01",
+      "date": "2026-04-03",
       "items": [
         {
-          "name": "KALAFIOROWA Z MAKARONEM",
+          "name": "ZUPA KOPERKOWA",
           "price": null
         },
         {
-          "name": "KOTLET DE VOLAILLE, FRYTKI I ZESTAW SURÓWEK",
+          "name": "MORSZCZUK W TEMPURZE , ZAPIEKANKA ZIEMNIACZANA, SURÓWKA Z KISZONEJ KAPUSTY",
           "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "items": [
+        {
+          "name": "Żurek Staropolski",
+          "price": 20
+        },
+        {
+          "name": "Krem chrzanowy / jajko / chrupiący bekon",
+          "price": 18
         }
       ]
     }
