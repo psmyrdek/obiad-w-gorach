@@ -3,8 +3,34 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-03-31T09:20:39.741Z",
+  "scrapedAt": "2026-04-01T09:22:36.905Z",
   "menus": [
+    {
+      "date": "2026-04-01",
+      "items": [
+        {
+          "name": "BARSZCZ UKRAIŃSKI",
+          "price": null
+        },
+        {
+          "name": "SCHAB W SOSIE CEBULOWYM Z KLUSKAMI ŚLĄSKIMI I MODRĄ KAPUSTĄ",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "items": [
+        {
+          "name": "KREM GRZYBOWY",
+          "price": null
+        },
+        {
+          "name": "STRIPSY Z KURCZAKA, FRYTKI, SAŁATKA WIOSENNA Z SOSEM MIODOWO MUSZTARDOWYM",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-03-30",
       "items": [
@@ -14,32 +40,6 @@
         },
         {
           "name": "KOTLET SCHABOWY , ZIEMNIAKI PUREE , KAPUSTA ZASMAŻANA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-04-01",
-      "items": [
-        {
-          "name": "KALAFIOROWA Z MAKARONEM",
-          "price": null
-        },
-        {
-          "name": "KOTLET DE VOLAILLE, FRYTKI I ZESTAW SURÓWEK",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "items": [
-        {
-          "name": "KREM Z MARCHEWKI",
-          "price": null
-        },
-        {
-          "name": "PLACKI ZIEMNIACZANE Z GULASZEM I SURÓWKA Z OGÓRKA KISZONEGO",
           "price": null
         }
       ]
@@ -58,15 +58,15 @@
       ]
     },
     {
-      "date": "2026-03-31",
+      "date": "2026-04-02",
       "items": [
         {
-          "name": "Żurek Staropolski",
-          "price": 20
+          "name": "KREM Z MARCHEWKI",
+          "price": null
         },
         {
-          "name": "Krem chrzanowy / jajko / chrupiący bekon",
-          "price": 18
+          "name": "PLACKI ZIEMNIACZANE Z GULASZEM I SURÓWKA Z OGÓRKA KISZONEGO",
+          "price": null
         }
       ]
     }

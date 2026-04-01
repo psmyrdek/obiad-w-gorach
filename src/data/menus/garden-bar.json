@@ -3,44 +3,30 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-03-31T09:20:21.193Z",
+  "scrapedAt": "2026-04-01T09:22:19.818Z",
   "menus": [
     {
-      "date": "2026-03-30",
+      "date": "2026-04-01",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki, kapusta zasmażana lub zestaw surówek",
+          "name": "Stek ze schabu pod duszoną z boczkiem i cebulką papryką, zapieczony mozzarellą i dipem pomidorowym + frytki/ziemniaki + surówki/kapusta",
           "price": 25
         },
         {
-          "name": "Pomidorowa",
+          "name": "Zupa dnia: Ogórkowa z ryżem",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "items": [
-        {
-          "name": "Bitka wieprzowa w sosie szparagowo-serowym z parmezanem, kluski śląskie lub ziemniaki, zestaw surówek lub słodka zasmażana",
-          "price": 25
         },
         {
-          "name": "Brokułowo-Porowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-03",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki, zestaw surówek",
-          "price": 34
+          "name": "Danie dnia: Devolaj z serem i masłem + frytki scoopsy/ziemniaki + surówki/kapusta",
+          "price": 40
         },
         {
-          "name": "Kapuśniak z ziemniakami",
-          "price": 8
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
         }
       ]
     },
@@ -48,16 +34,25 @@
       "date": "2026-03-31",
       "items": [
         {
-          "name": "Rosół z makaronem",
-          "price": 10
+          "name": "Filet z udźca kurczaka po hawajsku z ananasem, żurawiną i serem + frytki/ziemniaki + surówki/kapusta",
+          "price": 25
         },
         {
-          "name": "Devolaj z serem i masłem, frytki scoopsy lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
+          "name": "Zupa dnia: Krem warzywno-ziemniaczany z grzanką",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-03-30",
+      "items": [
+        {
+          "name": "Kotlet schabowy marynowany w mleku i cebuli + ziemniaki/frytki + kapusta zasmażana/surówki",
+          "price": 25
         },
         {
-          "name": "Karczek wieprzowy konfitowany podany w sosie ciemnym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
         }
       ]
     }
