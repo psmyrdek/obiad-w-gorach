@@ -3,30 +3,18 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-01T09:22:19.818Z",
+  "scrapedAt": "2026-04-02T09:18:34.621Z",
   "menus": [
     {
       "date": "2026-04-01",
       "items": [
         {
-          "name": "Stek ze schabu pod duszoną z boczkiem i cebulką papryką, zapieczony mozzarellą i dipem pomidorowym + frytki/ziemniaki + surówki/kapusta",
+          "name": "Stek ze schabu pod duszoną z boczkiem i cebulką papryką zapieczony mozzarellą i dipem pomidorowym",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Ogórkowa z ryżem",
+          "name": "Ogórkowa z ryżem",
           "price": 8
-        },
-        {
-          "name": "Danie dnia: Devolaj z serem i masłem + frytki scoopsy/ziemniaki + surówki/kapusta",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
-          "price": 12
         }
       ]
     },
@@ -34,11 +22,11 @@
       "date": "2026-03-31",
       "items": [
         {
-          "name": "Filet z udźca kurczaka po hawajsku z ananasem, żurawiną i serem + frytki/ziemniaki + surówki/kapusta",
+          "name": "Filet z udźca kurczaka po hawajsku z ananasem, żurawiną i serem",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem warzywno-ziemniaczany z grzanką",
+          "name": "Krem warzywno-ziemniaczany z grzanką",
           "price": 8
         }
       ]
@@ -47,11 +35,11 @@
       "date": "2026-03-30",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli + ziemniaki/frytki + kapusta zasmażana/surówki",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa pomidorowa",
           "price": 8
         }
       ]
