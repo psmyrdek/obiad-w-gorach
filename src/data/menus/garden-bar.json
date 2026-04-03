@@ -3,17 +3,43 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-02T09:18:34.621Z",
+  "scrapedAt": "2026-04-03T09:15:42.436Z",
   "menus": [
+    {
+      "date": "2026-04-03",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia: Pieczarkowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "items": [
+        {
+          "name": "Filet drobiowy w cieście piwno-serowym, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Jarzynowa",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-04-01",
       "items": [
         {
-          "name": "Stek ze schabu pod duszoną z boczkiem i cebulką papryką zapieczony mozzarellą i dipem pomidorowym",
+          "name": "Stek ze schabu pod duszoną z boczkiem i cebulką papryką zapieczony mozzarellą i dipem pomidorowym, dodatki",
           "price": 25
         },
         {
-          "name": "Ogórkowa z ryżem",
+          "name": "Zupa dnia: Ogórkowa z ryżem",
           "price": 8
         }
       ]
@@ -22,24 +48,11 @@
       "date": "2026-03-31",
       "items": [
         {
-          "name": "Filet z udźca kurczaka po hawajsku z ananasem, żurawiną i serem",
+          "name": "Filet z udźca kurczaka po hawajsku z ananasem, żurawiną i serem, dodatki",
           "price": 25
         },
         {
-          "name": "Krem warzywno-ziemniaczany z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-03-30",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli",
-          "price": 25
-        },
-        {
-          "name": "Zupa pomidorowa",
+          "name": "Zupa dnia: Krem warzywno-ziemniaczany z grzanką",
           "price": 8
         }
       ]
