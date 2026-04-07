@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-06T09:23:44.145Z",
+  "scrapedAt": "2026-04-07T09:21:32.872Z",
   "menus": [
     {
       "date": "2026-04-10",
@@ -15,10 +15,6 @@
         {
           "name": "Zupa dnia: Pieczarkowa",
           "price": 8
-        },
-        {
-          "name": "Kartacze z mięsem 4 szt plus surówki",
-          "price": 27
         }
       ]
     },
@@ -39,7 +35,7 @@
       "date": "2026-04-08",
       "items": [
         {
-          "name": "Stek ze schabu pod duszoną z boczkiem i cebulką papryką zapieczony mozzarellą i dipem pomidorowym, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "name": "Stek ze schabu pod duszoną z boczkiem i cebulką papryką, mozzarellą i dipem pomidorowym, dodatki",
           "price": 25
         },
         {
@@ -52,7 +48,7 @@
       "date": "2026-04-07",
       "items": [
         {
-          "name": "Filet z udźca kurczaka po hawajsku z ananasem, żurawiną i serem, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
+          "name": "Filet z udźca kurczaka po hawajsku z ananasem, żurawiną i serem, frytki lub ziemniaki, surówki",
           "price": 25
         },
         {

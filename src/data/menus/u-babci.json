@@ -3,17 +3,17 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-04-06T09:23:51.053Z",
+  "scrapedAt": "2026-04-07T09:21:36.683Z",
   "menus": [
     {
       "date": "2026-04-06",
       "items": [
         {
           "name": "Grochówka",
-          "price": 36
+          "price": null
         },
         {
-          "name": "Mielony",
+          "name": "Kotlet mielony",
           "price": 36
         }
       ]
@@ -23,36 +23,26 @@
       "items": [
         {
           "name": "Zupa ogórkowa",
-          "price": 32
+          "price": null
         },
         {
           "name": "Duszonki",
           "price": 32
-        }
-      ]
-    },
-    {
-      "date": "2026-04-09",
-      "items": [
+        },
         {
-          "name": "Pieczarkowa",
-          "price": 33
+          "name": "Zupa pieczarkowa",
+          "price": null
         },
         {
           "name": "Wątróbka duszona z cebulką, ziemniakami i ogórkiem",
           "price": 33
-        }
-      ]
-    },
-    {
-      "date": "2026-04-10",
-      "items": [
-        {
-          "name": "Żurek z jajkiem",
-          "price": 35
         },
         {
-          "name": "Smażony dorsz, ziemniaczki i chrupiąca surówka",
+          "name": "Żurek z jajkiem",
+          "price": null
+        },
+        {
+          "name": "Smażony dorsz, ziemniaczki i surówka",
           "price": 35
         }
       ]
