@@ -3,17 +3,34 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-07T09:21:49.997Z",
+  "scrapedAt": "2026-04-08T09:21:44.323Z",
   "menus": [
+    {
+      "date": "2026-04-07",
+      "items": [
+        {
+          "name": "KWAŚNICA",
+          "price": null
+        },
+        {
+          "name": "ROLADKA DROBIOWA Z SUSZONYMI POMIDORAMI I POREM W SOSIE SEROWYM, RISOTTO I ZESTAW SURÓWEK",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-04-08",
       "items": [
         {
-          "name": "Barszcz ukraiński",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "Schab w sosie cebulowym z kluskami śląskimi i modrą kapustą",
+          "name": "SCHAB ZAPIEKANY PIECZARKAMI I SEREM Z ZIEMNIAKAMI I CZERWONĄ KAPUSTĄ",
+          "price": null
+        },
+        {
+          "name": "KARTACZ W SOSIE GRZYBOWYM Z CZERWONĄ KAPUSTĄ",
           "price": null
         }
       ]
@@ -22,11 +39,11 @@
       "date": "2026-04-09",
       "items": [
         {
-          "name": "Żurek",
+          "name": "ŻUREK",
           "price": null
         },
         {
-          "name": "Stek drobiowy, ziemniaki puree, surówka z białej kapusty",
+          "name": "STEK DROBIOWY, ZIEMNIAKI PUREE , SURÓWKA Z BIAŁEJ KAPUSTY",
           "price": null
         }
       ]
@@ -35,15 +52,15 @@
       "date": "2026-04-10",
       "items": [
         {
-          "name": "Zupa pomidorowa",
+          "name": "ZUPA POMIDOROWA",
           "price": null
         },
         {
-          "name": "Camembert z frytkami belgijskimi i sałatką wiosenną z winegret",
+          "name": "CAMEMBERT Z FRYTKAMI BELGIJSKIMI I SAŁATKĄ WIOSENNĄ Z WINEGRET",
           "price": null
         },
         {
-          "name": "Racuchy z jabłkami",
+          "name": "RACUCHY Z JABŁKAMI",
           "price": null
         }
       ]

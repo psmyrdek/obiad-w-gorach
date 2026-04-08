@@ -3,8 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-07T09:21:32.872Z",
+  "scrapedAt": "2026-04-08T09:21:23.460Z",
   "menus": [
+    {
+      "date": "2026-04-08",
+      "items": [
+        {
+          "name": "Kotlet Pożarski drobiowy mielony łączony z serem żółtym, ziemniaki i marchewka z groszkiem",
+          "price": 25
+        },
+        {
+          "name": "Krem warzywny z grzanką",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-07",
+      "items": [
+        {
+          "name": "Kotlet schabowy klasyczny, ziemniaki lub frytki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-04-10",
       "items": [
@@ -13,7 +39,7 @@
           "price": 34
         },
         {
-          "name": "Zupa dnia: Pieczarkowa",
+          "name": "Zupa Pieczarkowa",
           "price": 8
         }
       ]
@@ -26,33 +52,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Jarzynowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-08",
-      "items": [
-        {
-          "name": "Stek ze schabu pod duszoną z boczkiem i cebulką papryką, mozzarellą i dipem pomidorowym, dodatki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Ogórkowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-07",
-      "items": [
-        {
-          "name": "Filet z udźca kurczaka po hawajsku z ananasem, żurawiną i serem, frytki lub ziemniaki, surówki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem warzywno-ziemniaczany z grzanką",
+          "name": "Zupa Jarzynowa",
           "price": 8
         }
       ]
