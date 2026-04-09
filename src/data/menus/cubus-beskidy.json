@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-08T09:21:44.323Z",
+  "scrapedAt": "2026-04-09T09:24:22.601Z",
   "menus": [
     {
-      "date": "2026-04-07",
+      "date": "2026-04-09",
       "items": [
         {
-          "name": "KWAŚNICA",
+          "name": "KREM POMIDOROWO-PAPRYKOWY",
           "price": null
         },
         {
-          "name": "ROLADKA DROBIOWA Z SUSZONYMI POMIDORAMI I POREM W SOSIE SEROWYM, RISOTTO I ZESTAW SURÓWEK",
+          "name": "KOTLET MIELONY , ZIEMNIAKI PUREE , KAPUSTA ZASMAŻANA",
           "price": null
         }
       ]
@@ -36,14 +36,14 @@
       ]
     },
     {
-      "date": "2026-04-09",
+      "date": "2026-04-07",
       "items": [
         {
-          "name": "ŻUREK",
+          "name": "KWAŚNICA",
           "price": null
         },
         {
-          "name": "STEK DROBIOWY, ZIEMNIAKI PUREE , SURÓWKA Z BIAŁEJ KAPUSTY",
+          "name": "ROLADKA DROBIOWA Z SUSZONYMI POMIDORAMI I POREM W SOSIE SEROWYM, RISOTTO I ZESTAW SURÓWEK",
           "price": null
         }
       ]
@@ -56,7 +56,7 @@
           "price": null
         },
         {
-          "name": "CAMEMBERT Z FRYTKAMI BELGIJSKIMI I SAŁATKĄ WIOSENNĄ Z WINEGRET",
+          "name": "CAMEMBERT Z FRYTKAMI BELGISJKIMI I SAŁATKĄ WIOSENNĄ Z WINEGRET",
           "price": null
         },
         {
