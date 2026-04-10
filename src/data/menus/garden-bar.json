@@ -3,17 +3,17 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-09T09:24:05.857Z",
+  "scrapedAt": "2026-04-10T09:23:46.257Z",
   "menus": [
     {
       "date": "2026-04-09",
       "items": [
         {
-          "name": "Stek ze schabu pod leczo",
+          "name": "Stek ze schabu pod leczo zapiekany z serem żółtym",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Szpinakowo-serowa",
+          "name": "Zupa dnia: Szpinakowo-serowa z ryżem",
           "price": 8
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-04-08",
       "items": [
         {
-          "name": "Kotlet Pożarski drobiowy",
+          "name": "Kotlet Pożarski drobiowy mielony łączony z serem żółtym",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem warzywny",
+          "name": "Zupa dnia : Krem warzywny z grzanką",
           "price": 8
         }
       ]
@@ -39,7 +39,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
         }
       ]
@@ -52,11 +52,11 @@
           "price": 34
         },
         {
-          "name": "Zupa dnia: Pieczarkowa",
+          "name": "Zupa dnia : Pieczarkowa",
           "price": 8
         },
         {
-          "name": "Kartacze z mięsem",
+          "name": "Kartacze z mięsem 4 szt",
           "price": 27
         }
       ]
