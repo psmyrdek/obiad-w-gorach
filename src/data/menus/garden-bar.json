@@ -3,61 +3,44 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-10T09:23:46.257Z",
+  "scrapedAt": "2026-04-13T09:31:13.353Z",
   "menus": [
     {
-      "date": "2026-04-09",
+      "date": "2026-04-13",
       "items": [
         {
-          "name": "Stek ze schabu pod leczo zapiekany z serem żółtym",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki stekowe, surówki lub słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki stekowe, zestaw surówek",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia: Solferino jarzynowo-pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "items": [
+        {
+          "name": "Stek ze schabu pod leczo zapiekany z serem żółtym, frytki stekowe lub ziemniaki, surówki lub słodka zasmażana",
           "price": 25
         },
         {
           "name": "Zupa dnia: Szpinakowo-serowa z ryżem",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-08",
-      "items": [
-        {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z serem żółtym",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Krem warzywny z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-07",
-      "items": [
-        {
-          "name": "Kotlet schabowy klasyczny",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-10",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia : Pieczarkowa",
-          "price": 8
-        },
-        {
-          "name": "Kartacze z mięsem 4 szt",
-          "price": 27
         }
       ]
     }

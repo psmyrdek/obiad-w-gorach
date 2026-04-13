@@ -3,10 +3,10 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-04-10T09:23:59.105Z",
+  "scrapedAt": "2026-04-13T09:31:22.978Z",
   "menus": [
     {
-      "date": "2026-04-09",
+      "date": "2026-04-16",
       "items": [
         {
           "name": "Ogórkowa",
@@ -17,7 +17,7 @@
           "price": 8
         },
         {
-          "name": "Medalion z piersi z kurczaka pod brokułową pierzynką, ziemniaki, surówki, kompot + zupa",
+          "name": "Medalion z piersi z kurczaka pod brokułową pierzynką, ziemniaki, surówki, kompot +zupa",
           "price": 29
         },
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-15",
       "items": [
         {
           "name": "Krem z kolorowych warzyw",
@@ -38,7 +38,7 @@
           "price": 8
         },
         {
-          "name": "Mielony z kapustą zasmażaną, ziemniaki, kompot + zupa",
+          "name": "Mielony z kapustą zasmażaną, ziemniaki, kompot +zupa",
           "price": 28
         },
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "date": "2026-04-07",
+      "date": "2026-04-14",
       "items": [
         {
           "name": "Żurek",
@@ -63,7 +63,7 @@
           "price": 8
         },
         {
-          "name": "Pieczeń z karczku faszerowany czosnkiem w sosie pieczeniowym, ziemniaki, surówki, kompot + zupa",
+          "name": "Pieczeń z karczku faszerowany czosnkiem w sosie pieczeniowym, ziemniaki, surówki, kompot +zupa",
           "price": 28
         },
         {

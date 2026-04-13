@@ -3,10 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-10T09:24:13.579Z",
+  "scrapedAt": "2026-04-13T09:31:32.902Z",
   "menus": [
     {
-      "date": "2026-04-07",
+      "date": "2026-04-13",
+      "items": [
+        {
+          "name": "ZUPA PIECZARKOWA",
+          "price": null
+        },
+        {
+          "name": "ESKALOPKI W CIEŚCIE PIWNYM, ZIEMNIAKI Z PIECA , MIX SAŁAT Z SOSEM MIODOWO MUSZTARDOWYM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-04-14",
       "items": [
         {
           "name": "KWAŚNICA",
@@ -19,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-15",
       "items": [
         {
           "name": "ZUPA JARZYNOWA",
@@ -36,7 +49,7 @@
       ]
     },
     {
-      "date": "2026-04-09",
+      "date": "2026-04-16",
       "items": [
         {
           "name": "KREM POMIDOROWO-PAPRYKOWY",
@@ -49,18 +62,14 @@
       ]
     },
     {
-      "date": "2026-04-10",
+      "date": "2026-04-17",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "KRUPNIK",
           "price": null
         },
         {
-          "name": "CAMEMBERT Z FRYTKAMI BELGISJKIMI I SAŁATKĄ WIOSENNĄ Z WINEGRET",
-          "price": null
-        },
-        {
-          "name": "RACUCHY Z JABŁKAMI",
+          "name": "SANDACZ W PANIERCE PANKO Z FRYTKAMI STEKOWYMI I COLESLAWEM",
           "price": null
         }
       ]
