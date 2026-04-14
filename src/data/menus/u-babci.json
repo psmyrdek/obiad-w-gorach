@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-04-13T09:31:18.189Z",
+  "scrapedAt": "2026-04-14T09:28:34.035Z",
   "menus": [
     {
       "date": "2026-04-13",
@@ -14,18 +14,6 @@
         },
         {
           "name": "Krupnik",
-          "price": null
-        },
-        {
-          "name": "Rosół z makaronem",
-          "price": null
-        },
-        {
-          "name": "Grochówka",
-          "price": null
-        },
-        {
-          "name": "Pulpeciki w sosie z kaszą gryczaną i zestawem surówek",
           "price": null
         }
       ]
@@ -47,12 +35,24 @@
       "date": "2026-04-14",
       "items": [
         {
+          "name": "Rosół z makaronem",
+          "price": null
+        },
+        {
+          "name": "Grochówka",
+          "price": null
+        },
+        {
+          "name": "Pulpeciki w sosie z kaszą gryczaną i zestawem surówek",
+          "price": null
+        },
+        {
           "name": "Domowa grochówka",
           "price": 34
         },
         {
           "name": "Pieczone udko, ziemniaki i zestaw świeżych surówek",
-          "price": null
+          "price": 34
         }
       ]
     }
