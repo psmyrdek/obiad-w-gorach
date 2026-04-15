@@ -3,37 +3,19 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-04-14T09:28:34.035Z",
+  "scrapedAt": "2026-04-15T09:28:48.713Z",
   "menus": [
     {
-      "date": "2026-04-13",
+      "date": "2026-04-15",
       "items": [
         {
-          "name": "Spaghetti bolognese",
-          "price": 33
-        },
-        {
-          "name": "Krupnik",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-04-17",
-      "items": [
-        {
-          "name": "Kotleciki rybne w sosie pieczarkowym z ziemniaczkami i surówkami",
+          "name": "Krem z warzyw",
           "price": null
         },
         {
-          "name": "Barszcz ukraiński",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-04-14",
-      "items": [
+          "name": "Potrawka z kurczaka z ryżem",
+          "price": 35
+        },
         {
           "name": "Rosół z makaronem",
           "price": null
@@ -43,16 +25,47 @@
           "price": null
         },
         {
-          "name": "Pulpeciki w sosie z kaszą gryczaną i zestawem surówek",
+          "name": "Pulpeciki w sosie, podane z kaszą gryczaną i surówkami",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "items": [
+        {
+          "name": "Krupnik",
           "price": null
         },
         {
-          "name": "Domowa grochówka",
-          "price": 34
+          "name": "Bitki wieprzowe z ziemniaczkami i surówkami",
+          "price": 36
+        }
+      ]
+    },
+    {
+      "date": "2026-04-13",
+      "items": [
+        {
+          "name": "Krupnik",
+          "price": null
         },
         {
-          "name": "Pieczone udko, ziemniaki i zestaw świeżych surówek",
-          "price": 34
+          "name": "Spaghetti bolognese",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "items": [
+        {
+          "name": "Barszcz ukraiński",
+          "price": null
+        },
+        {
+          "name": "Kotleciki rybne w sosie pieczarkowym z ziemniaczkami i surówkami",
+          "price": null
         }
       ]
     }

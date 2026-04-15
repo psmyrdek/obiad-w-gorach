@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-14T09:28:48.283Z",
+  "scrapedAt": "2026-04-15T09:29:03.800Z",
   "menus": [
     {
       "date": "2026-04-13",
@@ -22,11 +22,11 @@
       "date": "2026-04-14",
       "items": [
         {
-          "name": "KWAŚNICA",
+          "name": "BARSZCZ ZABIELANY",
           "price": null
         },
         {
-          "name": "ROLADKA DROBIOWA Z SUSZONYMI POMIDORAMI I POREM W SOSIE SEROWYM, RISOTTO I ZESTAW SURÓWEK",
+          "name": "BURGER Z KURCZAKIEM",
           "price": null
         }
       ]
@@ -35,15 +35,11 @@
       "date": "2026-04-15",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "KREM Z DYNI",
           "price": null
         },
         {
-          "name": "SCHAB ZAPIEKANY PIECZARKAMI I SEREM Z ZIEMNIAKAMI I CZERWONĄ KAPUSTĄ",
-          "price": null
-        },
-        {
-          "name": "KARTACZ W SOSIE GRZYBOWYM Z CZERWONĄ KAPUSTĄ",
+          "name": "ŻEBREKA W SOSIE WŁASNYM Z ZIEMNIAKAMI I MODRĄ KAPUSTĄ",
           "price": null
         }
       ]

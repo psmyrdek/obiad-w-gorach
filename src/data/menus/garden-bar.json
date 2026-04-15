@@ -3,13 +3,39 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-14T09:28:30.931Z",
+  "scrapedAt": "2026-04-15T09:28:43.819Z",
   "menus": [
+    {
+      "date": "2026-04-15",
+      "items": [
+        {
+          "name": "Stek ze schabu zapiekany pod leczo z pieczarkami i serem gouda",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Kalafiorowo-porowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "items": [
+        {
+          "name": "Kotlet Paryski drobiowy smażony w cieście z warzywami",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem dyniowo-warzywny",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-04-13",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki stekowe, surówki lub słodka zasmażana",
+          "name": "Kotlet schabowy (marynowany w mleku i cebuli)",
           "price": 25
         },
         {
@@ -19,28 +45,36 @@
       ]
     },
     {
-      "date": "2026-04-17",
+      "date": "2026-04-12",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki stekowe, zestaw surówek",
-          "price": 34
+          "name": "Rosół z makaronem",
+          "price": 10
         },
         {
-          "name": "Zupa dnia: Solferino jarzynowo-pomidorowa",
-          "price": 8
+          "name": "Kotlet Pasterski wieprzowy nadziewany farszem śląskim",
+          "price": 40
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
         }
       ]
     },
     {
-      "date": "2026-04-16",
+      "date": "2026-04-11",
       "items": [
         {
-          "name": "Stek ze schabu pod leczo zapiekany z serem żółtym, frytki stekowe lub ziemniaki, surówki lub słodka zasmażana",
-          "price": 25
+          "name": "Rosół z makaronem",
+          "price": 10
         },
         {
-          "name": "Zupa dnia: Szpinakowo-serowa z ryżem",
-          "price": 8
+          "name": "Devolaj z fetą i szpinakiem",
+          "price": 40
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
         }
       ]
     }
