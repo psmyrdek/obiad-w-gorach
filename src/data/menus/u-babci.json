@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-04-15T09:28:48.713Z",
+  "scrapedAt": "2026-04-16T09:28:06.473Z",
   "menus": [
     {
       "date": "2026-04-15",
@@ -15,18 +15,6 @@
         {
           "name": "Potrawka z kurczaka z ryżem",
           "price": 35
-        },
-        {
-          "name": "Rosół z makaronem",
-          "price": null
-        },
-        {
-          "name": "Grochówka",
-          "price": null
-        },
-        {
-          "name": "Pulpeciki w sosie, podane z kaszą gryczaną i surówkami",
-          "price": null
         }
       ]
     },
@@ -65,6 +53,23 @@
         },
         {
           "name": "Kotleciki rybne w sosie pieczarkowym z ziemniaczkami i surówkami",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "items": [
+        {
+          "name": "Rosół z makaronem",
+          "price": null
+        },
+        {
+          "name": "Grochówka",
+          "price": null
+        },
+        {
+          "name": "Pulpeciki w sosie, podane z aromatyczną kaszą gryczaną i zestawem surówek",
           "price": null
         }
       ]
