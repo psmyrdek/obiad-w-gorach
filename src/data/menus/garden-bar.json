@@ -3,8 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-16T09:28:02.840Z",
+  "scrapedAt": "2026-04-17T09:28:01.154Z",
   "menus": [
+    {
+      "date": "2026-04-17",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki stekowe, zestaw surówek",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia : Meksykańska",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "items": [
+        {
+          "name": "Soczysty schab konfitowany z sosem śmietanowo-serowym i żurawiną, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Pejzanka ziemniaczanka",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-04-15",
       "items": [
@@ -26,7 +52,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem dyniowo-warzywny",
+          "name": "Zupa dnia : Krem dyniowo-warzywny",
           "price": 8
         }
       ]
@@ -35,29 +61,12 @@
       "date": "2026-04-13",
       "items": [
         {
-          "name": "Kotlet schabowy (marynowany w mleku i cebuli), ziemniaki lub frytki stekowe, surówki lub słodka zasmażana",
+          "name": "Kotlet schabowy / marynowany w mleku i cebuli/ ziemniaki lub frytki stekowe, surówki lub słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "items": [
-        {
-          "name": "Zupa dnia: Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Kotlet Pasterski wieprzowy nadziewany farszem śląskim, zawijany boczkiem panierowany i smażony, frytki stekowe lub ziemniaki zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Devolaj z fetą i szpinakiem, frytki stekowe lub ziemniaki zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
         }
       ]
     }

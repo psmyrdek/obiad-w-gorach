@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-16T09:28:17.420Z",
+  "scrapedAt": "2026-04-17T09:28:20.417Z",
   "menus": [
     {
       "date": "2026-04-13",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "Zupa pieczarkowa",
           "price": null
         },
         {
-          "name": "ESKALOPKI W CIEŚCIE PIWNYM, ZIEMNIAKI Z PIECA , MIX SAŁAT Z SOSEM MIODOWO MUSZTARDOWYM",
+          "name": "Eskalopki w cieście piwnym, ziemniaki z pieca, mix sałat z sosem miodowo musztardowym",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-04-14",
       "items": [
         {
-          "name": "BARSZCZ ZABIELANY",
+          "name": "Barszcz zabielany",
           "price": null
         },
         {
-          "name": "BURGER Z KURCZAKIEM",
+          "name": "Burger z kurczakiem",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-04-15",
       "items": [
         {
-          "name": "KREM Z DYNI",
+          "name": "Krem z dyni",
           "price": null
         },
         {
-          "name": "ŻEBREKA W SOSIE WŁASNYM Z ZIEMNIAKAMI I MODRĄ KAPUSTĄ",
+          "name": "Żebreka w sosie własnym z ziemniakami i modrą kapustą",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-04-16",
       "items": [
         {
-          "name": "KREM POMIDOROWO-PAPRYKOWY",
+          "name": "Zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "KOTLET MIELONY , ZIEMNIAKI PUREE , KAPUSTA ZASMAŻANA",
+          "name": "Lasagne z sosem bolognese",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-04-17",
       "items": [
         {
-          "name": "KRUPNIK",
+          "name": "Zupa koperkowa",
           "price": null
         },
         {
-          "name": "SANDACZ W PANIERCE  PANKO Z FRYTKAMI STEKOWYMI I COLESLAWEM",
+          "name": "Morszczuk, ziemniaki i surówka z kiszonej kapusty",
           "price": null
         }
       ]
