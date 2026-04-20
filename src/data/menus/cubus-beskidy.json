@@ -3,23 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-17T09:28:20.417Z",
+  "scrapedAt": "2026-04-20T09:32:05.214Z",
   "menus": [
     {
-      "date": "2026-04-13",
+      "date": "2026-04-20",
       "items": [
         {
-          "name": "Zupa pieczarkowa",
+          "name": "Kwaśnica",
           "price": null
         },
         {
-          "name": "Eskalopki w cieście piwnym, ziemniaki z pieca, mix sałat z sosem miodowo musztardowym",
+          "name": "Filet z kurczaka panierowany , frytki belgijskie , surówka z białej kapusty i pora",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-04-14",
+      "date": "2026-04-21",
       "items": [
         {
           "name": "Barszcz zabielany",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-04-15",
+      "date": "2026-04-22",
       "items": [
         {
           "name": "Krem z dyni",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "date": "2026-04-16",
+      "date": "2026-04-23",
       "items": [
         {
           "name": "Zupa kalafiorowa",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "date": "2026-04-17",
+      "date": "2026-04-24",
       "items": [
         {
           "name": "Zupa koperkowa",
