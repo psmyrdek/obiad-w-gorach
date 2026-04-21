@@ -3,13 +3,13 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-20T09:31:49.417Z",
+  "scrapedAt": "2026-04-21T09:29:13.979Z",
   "menus": [
     {
       "date": "2026-04-20",
       "items": [
         {
-          "name": "Kotlet schabowy moczony w mleku i cebuli",
+          "name": "Kotlet schabowy uprzednio moczony w mleku i cebuli",
           "price": 25
         },
         {
@@ -19,27 +19,11 @@
         {
           "name": "Gołąbki",
           "price": null
-        },
-        {
-          "name": "Rolada z polędwiczki wieprzowej z camembertem, śliwką i boczkiem",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia: rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Zupa: żurek z jajkiem, kiełbasą i ziemniakami",
-          "price": 12
-        },
-        {
-          "name": "Kotlet góralski z serkiem wędzonym z fileta kurczaka",
-          "price": 40
         }
       ]
     },
     {
-      "date": "2026-04-24",
+      "date": "2026-04-17",
       "items": [
         {
           "name": "Filet z morszczuka w panierce",
@@ -48,15 +32,11 @@
         {
           "name": "Zupa dnia: Meksykańska",
           "price": 8
-        },
-        {
-          "name": "Zupa: żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-16",
       "items": [
         {
           "name": "Soczysty schab konfitowany z sosem śmietanowo-serowym i żurawiną",
@@ -65,10 +45,6 @@
         {
           "name": "Zupa dnia: Pejzanka ziemniaczanka",
           "price": 8
-        },
-        {
-          "name": "Zupa: żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     }

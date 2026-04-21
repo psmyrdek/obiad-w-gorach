@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-20T09:32:05.214Z",
+  "scrapedAt": "2026-04-21T09:29:28.227Z",
   "menus": [
     {
       "date": "2026-04-20",
       "items": [
         {
-          "name": "Kwaśnica",
+          "name": "KWAŚNICA",
           "price": null
         },
         {
-          "name": "Filet z kurczaka panierowany , frytki belgijskie , surówka z białej kapusty i pora",
+          "name": "FILET Z KURCZAKA PANIEROWANY , FRYTKI BELGIJSKIE , SURÓWKA Z BIAŁEJ KAPUSTY I PORA",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-04-21",
       "items": [
         {
-          "name": "Barszcz zabielany",
+          "name": "BARSZCZ ZABIELANY",
           "price": null
         },
         {
-          "name": "Burger z kurczakiem",
+          "name": "BURGER Z KURCZAKIEM",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-04-22",
       "items": [
         {
-          "name": "Krem z dyni",
+          "name": "KREM Z DYNI",
           "price": null
         },
         {
-          "name": "Żebreka w sosie własnym z ziemniakami i modrą kapustą",
+          "name": "ŻEBREKA W SOSIE WŁASNYM Z ZIEMNIAKAMI I MODRĄ KAPUSTĄ",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-04-23",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
+          "name": "ZUPA KALAFIOROWA",
           "price": null
         },
         {
-          "name": "Lasagne z sosem bolognese",
+          "name": "LASAGNE Z SOSEM BOLOGNESE",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-04-24",
       "items": [
         {
-          "name": "Zupa koperkowa",
+          "name": "ZUPA KOPERKOWA",
           "price": null
         },
         {
-          "name": "Morszczuk, ziemniaki i surówka z kiszonej kapusty",
+          "name": "MORSZCZUK, ZIEMNIAKI I SURÓWKA Z KISZONEJ KAPUSTY",
           "price": null
         }
       ]
