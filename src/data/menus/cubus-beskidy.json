@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-21T09:29:28.227Z",
+  "scrapedAt": "2026-04-22T09:28:30.959Z",
   "menus": [
     {
       "date": "2026-04-20",
@@ -22,11 +22,11 @@
       "date": "2026-04-21",
       "items": [
         {
-          "name": "BARSZCZ ZABIELANY",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "BURGER Z KURCZAKIEM",
+          "name": "NALEŚNIKI ZE SZPINAKIEM I KURCZAKIEM W SOSIE BESZAMELOWYM",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-04-22",
       "items": [
         {
-          "name": "KREM Z DYNI",
+          "name": "GROCHÓWKA",
           "price": null
         },
         {
-          "name": "ŻEBREKA W SOSIE WŁASNYM Z ZIEMNIAKAMI I MODRĄ KAPUSTĄ",
+          "name": "SCHAB W SOSIE MYŚLIWSKIM , KOPYTKA , CZERWONA KAPUSTA",
           "price": null
         }
       ]

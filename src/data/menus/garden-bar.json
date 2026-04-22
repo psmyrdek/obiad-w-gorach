@@ -3,47 +3,43 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-21T09:29:13.979Z",
+  "scrapedAt": "2026-04-22T09:28:14.970Z",
   "menus": [
+    {
+      "date": "2026-04-22",
+      "items": [
+        {
+          "name": "Kotlet ze schabu zawijany z fasolką szparagową, frytki stekowe, zestaw surówek",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Ogórkowa z ryżem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "items": [
+        {
+          "name": "Kotlet Pożarski drobiowy mielony łączony z serem, dodatki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem brokułowo-warzywny z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-04-20",
       "items": [
         {
-          "name": "Kotlet schabowy uprzednio moczony w mleku i cebuli",
+          "name": "Kotlet schabowy moczony w mleku i cebuli, dodatki",
           "price": 25
         },
         {
           "name": "Zupa dnia: pomidorowa",
-          "price": 8
-        },
-        {
-          "name": "Gołąbki",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-04-17",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia: Meksykańska",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "items": [
-        {
-          "name": "Soczysty schab konfitowany z sosem śmietanowo-serowym i żurawiną",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pejzanka ziemniaczanka",
           "price": 8
         }
       ]
