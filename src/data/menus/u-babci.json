@@ -3,40 +3,42 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-04-22T09:28:18.997Z",
+  "scrapedAt": "2026-04-23T09:29:38.684Z",
   "menus": [
     {
       "date": "2026-04-21",
       "items": [
         {
-          "name": "Mielony jak u mamy w zestawie z krupnikiem i kapustą zasmażaną",
+          "name": "Krupnik",
+          "price": null
+        },
+        {
+          "name": "Mielony z kapustą zasmażaną (zestaw)",
           "price": 36
         }
       ]
     },
     {
-      "date": "2026-04-20",
+      "date": "2026-04-23",
       "items": [
         {
           "name": "Zestaw dnia",
           "price": 33
-        }
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "items": [
+        },
         {
-          "name": "Zestaw dnia: Zupa serowo-porowa i Łazanki",
+          "name": "Zupa serowo-porowa",
+          "price": null
+        },
+        {
+          "name": "Łazanki (zestaw)",
           "price": 33
-        }
-      ]
-    },
-    {
-      "date": "2026-04-15",
-      "items": [
+        },
         {
-          "name": "Zestaw Dnia: Krem z warzyw i klasyczna potrawka z kurczaka z ryżem",
+          "name": "Krem z warzyw",
+          "price": null
+        },
+        {
+          "name": "Potrawka z kurczaka z ryżem (zestaw)",
           "price": 35
         }
       ]

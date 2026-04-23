@@ -3,17 +3,17 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-22T09:28:14.970Z",
+  "scrapedAt": "2026-04-23T09:29:34.104Z",
   "menus": [
     {
-      "date": "2026-04-22",
+      "date": "2026-04-20",
       "items": [
         {
-          "name": "Kotlet ze schabu zawijany z fasolką szparagową, frytki stekowe, zestaw surówek",
+          "name": "Kotlet schabowy uprzednio moczony w mleku i cebuli",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Ogórkowa z ryżem",
+          "name": "Zupa dnia: pomidorowa",
           "price": 8
         }
       ]
@@ -22,7 +22,7 @@
       "date": "2026-04-21",
       "items": [
         {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z serem, dodatki",
+          "name": "Kotlet Pożarski drobiowy mielony łączony z serem",
           "price": 25
         },
         {
@@ -32,14 +32,27 @@
       ]
     },
     {
-      "date": "2026-04-20",
+      "date": "2026-04-22",
       "items": [
         {
-          "name": "Kotlet schabowy moczony w mleku i cebuli, dodatki",
+          "name": "Kotlet ze schabu zawijany z fasolką szparagową",
           "price": 25
         },
         {
-          "name": "Zupa dnia: pomidorowa",
+          "name": "Zupa dnia: Ogórkowa z ryżem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "items": [
+        {
+          "name": "Schab po bolońsku zapiekany z miesem bolognesse i serem",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Jarzynowa",
           "price": 8
         }
       ]
