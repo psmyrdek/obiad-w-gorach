@@ -3,10 +3,10 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-04-23T09:29:42.998Z",
+  "scrapedAt": "2026-04-24T09:30:04.810Z",
   "menus": [
     {
-      "date": "2026-04-23",
+      "date": "2023-04-23",
       "items": [
         {
           "name": "Ogórkowa",
@@ -17,7 +17,7 @@
           "price": 8
         },
         {
-          "name": "Medalion z piersi z kurczaka pod brokułową pierzynką, ziemniaki, surówki, kompot +zupa",
+          "name": "Medalion z piersi z kurczaka pod brokułową pierzynką, ziemniaki, surówki, kompot + zupa",
           "price": 29
         },
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "date": "2026-04-22",
+      "date": "2023-04-22",
       "items": [
         {
           "name": "Krem z kolorowych warzyw",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "date": "2026-04-21",
+      "date": "2023-04-21",
       "items": [
         {
           "name": "Żurek",

@@ -3,8 +3,21 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-04-23T09:29:38.684Z",
+  "scrapedAt": "2026-04-24T09:30:00.853Z",
   "menus": [
+    {
+      "date": "2026-04-24",
+      "items": [
+        {
+          "name": "Babciny kapuśniak",
+          "price": null
+        },
+        {
+          "name": "Dorsz w chrupiącej panierce, ziemniaczki i zestaw surówek",
+          "price": 35
+        }
+      ]
+    },
     {
       "date": "2026-04-21",
       "items": [
@@ -13,33 +26,21 @@
           "price": null
         },
         {
-          "name": "Mielony z kapustą zasmażaną (zestaw)",
+          "name": "Mielony z kapustą zasmażaną",
           "price": 36
         }
       ]
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-16",
       "items": [
-        {
-          "name": "Zestaw dnia",
-          "price": 33
-        },
         {
           "name": "Zupa serowo-porowa",
           "price": null
         },
         {
-          "name": "Łazanki (zestaw)",
+          "name": "Łazanki",
           "price": 33
-        },
-        {
-          "name": "Krem z warzyw",
-          "price": null
-        },
-        {
-          "name": "Potrawka z kurczaka z ryżem (zestaw)",
-          "price": 35
         }
       ]
     }

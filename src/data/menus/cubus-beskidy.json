@@ -3,30 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-23T09:29:52.198Z",
+  "scrapedAt": "2026-04-24T09:30:11.863Z",
   "menus": [
-    {
-      "date": "2026-04-20",
-      "items": [
-        {
-          "name": "KWAŚNICA",
-          "price": null
-        },
-        {
-          "name": "FILET Z KURCZAKA PANIEROWANY , FRYTKI BELGIJSKIE , SURÓWKA Z BIAŁEJ KAPUSTY I PORA",
-          "price": null
-        }
-      ]
-    },
     {
       "date": "2026-04-21",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "Zupa pieczarkowa",
           "price": null
         },
         {
-          "name": "NALEŚNIKI ZE SZPINAKIEM I KURCZAKIEM W SOSIE BESZAMELOWYM",
+          "name": "Naleśniki ze szpinakiem i kurczakiem w sosie beszamelowym",
           "price": null
         }
       ]
@@ -35,11 +22,11 @@
       "date": "2026-04-22",
       "items": [
         {
-          "name": "GROCHÓWKA",
+          "name": "Grochówka",
           "price": null
         },
         {
-          "name": "SCHAB W SOSIE MYŚLIWSKIM , KOPYTKA , CZERWONA KAPUSTA",
+          "name": "Schab w sosie myśliwskim, kopytka, czerwona kapusta",
           "price": null
         }
       ]
@@ -48,11 +35,11 @@
       "date": "2026-04-23",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "Zupa pomidorowa",
           "price": null
         },
         {
-          "name": "SZASZŁYK DROBIOWY Z RYŻEM I MIXEM SAŁAT Z SOSEM CZOSNKOWYM",
+          "name": "Szaszłyk drobiowy z ryżem i mixem sałat z sosem czosnkowym",
           "price": null
         }
       ]
@@ -61,11 +48,11 @@
       "date": "2026-04-24",
       "items": [
         {
-          "name": "ZUPA KOPERKOWA",
+          "name": "Krem z kalafiora",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZIEMNIAKI I SURÓWKA Z KISZONEJ KAPUSTY",
+          "name": "Morszczuk w tempurze, ziemniaki i surówka z białej kapusty",
           "price": null
         }
       ]
