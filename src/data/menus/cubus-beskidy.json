@@ -3,23 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-24T09:30:11.863Z",
+  "scrapedAt": "2026-04-27T09:41:38.891Z",
   "menus": [
     {
-      "date": "2026-04-21",
+      "date": "2026-04-27",
       "items": [
         {
-          "name": "Zupa pieczarkowa",
+          "name": "Zupa jarzynowa",
           "price": null
         },
         {
-          "name": "Naleśniki ze szpinakiem i kurczakiem w sosie beszamelowym",
+          "name": "Stek drobiowy z cebulką, frytki, coleslaw",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-04-22",
+      "date": "2026-04-29",
       "items": [
         {
           "name": "Grochówka",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-30",
       "items": [
         {
           "name": "Zupa pomidorowa",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "date": "2026-04-24",
+      "date": "2026-05-01",
       "items": [
         {
           "name": "Krem z kalafiora",

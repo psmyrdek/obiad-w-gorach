@@ -3,85 +3,65 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-24T09:29:56.688Z",
+  "scrapedAt": "2026-04-27T09:41:22.527Z",
   "menus": [
     {
-      "date": "2026-04-24",
+      "date": "2026-04-27",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki stekowe, zestaw surówek",
-          "price": 34
+          "name": "Kotlet schabowy marynowany w mleku i cebuli panierowany i smażony",
+          "price": 25
         },
         {
-          "name": "Filet z dorsza atlantyckiego w panierce, frytki stekowe, surówki",
-          "price": 42
-        },
-        {
-          "name": "Filet z łososia z pieca na maśle, frytki scoopsy, zestaw surowek",
-          "price": 42
-        },
-        {
-          "name": "Filet z sandacza soute z pieca z dodatkiem pomidorów, cebulki i pora, frytki scoopsy, zestaw surówek",
-          "price": 42
-        },
-        {
-          "name": "Pstrąg cały z pieca na maśle, frytki stekowe, zestaw surówek",
-          "price": 42
-        },
-        {
-          "name": "Zupa dnia: Pieczarkowa",
+          "name": "Pomidorowa",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-26",
       "items": [
         {
-          "name": "Schab po bolońsku zapiekany z miesem bolognesse i serem, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 25
+          "name": "Rolada z polędwiczki wieprzowej nadziewana szparagami i boczkiem",
+          "price": 40
         },
         {
-          "name": "Zupa dnia: Jarzynowa",
+          "name": "Rosół z makaronem",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "items": [
+        {
+          "name": "Devolaj z mozzarellą i brokułami",
+          "price": 40
+        },
+        {
+          "name": "Rosół z makaronem",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "items": [
+        {
+          "name": "Pieczarkowa",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-04-22",
+      "date": "2026-04-30",
       "items": [
         {
-          "name": "Kotlet ze schabu zawijany z fasolką szparagową, frytki stekowe, zestaw surówek",
+          "name": "Schab po bolońsku zapiekany z miesem bolognesse i serem",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Ogórkowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-21",
-      "items": [
-        {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z serem, frytki lub ziemniaki, marchewkę z groszkiem i masłem lub surówki albo słodką zasmażaną",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem brokułowo-warzywny z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-20",
-      "items": [
-        {
-          "name": "Kotlet schabowy uprzednio moczony w mleku i cebuli, ziemniaki lub frytki stekowe, kapustę słodką zasmażaną lub surówki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: pomidorowa",
+          "name": "Jarzynowa",
           "price": 8
         }
       ]
