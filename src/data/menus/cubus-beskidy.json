@@ -3,43 +3,30 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-27T09:41:38.891Z",
+  "scrapedAt": "2026-04-28T09:43:51.759Z",
   "menus": [
+    {
+      "date": "2026-04-28",
+      "items": [
+        {
+          "name": "ZUPA OGÓRKOWA",
+          "price": null
+        },
+        {
+          "name": "UDKO Z KURCZAKA, ZIEMNIAKI I WIOSENNA Z SOSEM ŚMIETANOWO-JOGURTOWYM",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-04-27",
       "items": [
         {
-          "name": "Zupa jarzynowa",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "Stek drobiowy z cebulką, frytki, coleslaw",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-04-29",
-      "items": [
-        {
-          "name": "Grochówka",
-          "price": null
-        },
-        {
-          "name": "Schab w sosie myśliwskim, kopytka, czerwona kapusta",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "items": [
-        {
-          "name": "Zupa pomidorowa",
-          "price": null
-        },
-        {
-          "name": "Szaszłyk drobiowy z ryżem i mixem sałat z sosem czosnkowym",
+          "name": "STEK DROBIOWY Z CEBULKĄ , FRYTKI , COLESLAW",
           "price": null
         }
       ]
@@ -48,11 +35,24 @@
       "date": "2026-05-01",
       "items": [
         {
-          "name": "Krem z kalafiora",
+          "name": "KREM Z KALAFIORA",
           "price": null
         },
         {
-          "name": "Morszczuk w tempurze, ziemniaki i surówka z białej kapusty",
+          "name": "MORSZCZUK W TEMPURZE, ZIEMNIAKI I SURÓWKA Z BIAŁEJ KAPUSTY",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "items": [
+        {
+          "name": "ZUPA POMIDOROWA",
+          "price": null
+        },
+        {
+          "name": "SZASZŁYK DROBIOWY Z RYŻEM I MIXEM SAŁAT Z SOSEM CZOSNKOWYM",
           "price": null
         }
       ]

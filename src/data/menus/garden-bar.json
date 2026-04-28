@@ -3,17 +3,30 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-27T09:41:22.527Z",
+  "scrapedAt": "2026-04-28T09:43:35.346Z",
   "menus": [
+    {
+      "date": "2026-04-28",
+      "items": [
+        {
+          "name": "Eskalopek drobiowy w cieście piwno-serowym, frytki stekowe lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Krem kalafiorowo-warzywny z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-04-27",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli panierowany i smażony",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli panierowany i smażony, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Pomidorowa",
+          "name": "Zupa pomidorowa",
           "price": 8
         }
       ]
@@ -22,12 +35,12 @@
       "date": "2026-04-26",
       "items": [
         {
-          "name": "Rolada z polędwiczki wieprzowej nadziewana szparagami i boczkiem",
-          "price": 40
-        },
-        {
           "name": "Rosół z makaronem",
           "price": 10
+        },
+        {
+          "name": "Rolada z polędwiczki wieprzowej nadziewana szparagami i boczkiem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 40
         }
       ]
     },
@@ -35,12 +48,12 @@
       "date": "2026-04-25",
       "items": [
         {
-          "name": "Devolaj z mozzarellą i brokułami",
-          "price": 40
-        },
-        {
           "name": "Rosół z makaronem",
           "price": 10
+        },
+        {
+          "name": "Devolaj z mozzarellą i brokułami, ziemniaki lub frytki, surówki lub kapusta kiszona zasmażana",
+          "price": 40
         }
       ]
     },
@@ -48,20 +61,27 @@
       "date": "2026-05-01",
       "items": [
         {
-          "name": "Pieczarkowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "items": [
-        {
-          "name": "Schab po bolońsku zapiekany z miesem bolognesse i serem",
-          "price": 25
+          "name": "Filet z morszczuka w panierce, frytki stekowe, zestaw surówek",
+          "price": 34
         },
         {
-          "name": "Jarzynowa",
+          "name": "Filet z dorsza atlantyckiego w panierce, frytki stekowe, surówki",
+          "price": 42
+        },
+        {
+          "name": "Filet z łososia z pieca na maśle, frytki scoopsy, zestaw surówek",
+          "price": 42
+        },
+        {
+          "name": "Filet z sandacza soute z pieca z dodatkiem pomidorów, cebulki i pora, frytki scoopsy, zestaw surówek",
+          "price": 42
+        },
+        {
+          "name": "Pstrąg cały z pieca na maśle, frytki stekowe, zestaw surówek",
+          "price": 42
+        },
+        {
+          "name": "Zupa pieczarkowa",
           "price": 8
         }
       ]
