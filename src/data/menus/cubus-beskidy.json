@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-04-29T09:38:54.410Z",
+  "scrapedAt": "2026-04-30T09:38:17.981Z",
   "menus": [
     {
       "date": "2026-04-27",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "Zupa jarzynowa",
           "price": null
         },
         {
-          "name": "STEK DROBIOWY Z CEBULKĄ , FRYTKI , COLESLAW",
+          "name": "Stek drobiowy z cebulką, frytki, coleslaw",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-04-28",
       "items": [
         {
-          "name": "ZUPA OGÓRKOWA",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA, ZIEMNIAKI I WIOSENNA Z SOSEM ŚMIETANOWO-JOGURTOWYM",
+          "name": "Udko z kurczaka, ziemniaki i wiosenna z sosem śmietanowo-jogurtowym",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-04-30",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "Zupa pomidorowa",
           "price": null
         },
         {
-          "name": "SZASZŁYK DROBIOWY Z RYŻEM I MIXEM SAŁAT Z SOSEM CZOSNKOWYM",
+          "name": "Szaszłyk drobiowy z ryżem i mixem sałat z sosem czosnkowym",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-05-01",
       "items": [
         {
-          "name": "KREM Z KALAFIORA",
+          "name": "Krem z kalafiora",
           "price": null
         },
         {
-          "name": "MORSZCZUK W TEMPURZE, ZIEMNIAKI I SURÓWKA Z BIAŁEJ KAPUSTY",
+          "name": "Morszczuk w tempurze, ziemniaki i surówka z białej kapusty",
           "price": null
         }
       ]

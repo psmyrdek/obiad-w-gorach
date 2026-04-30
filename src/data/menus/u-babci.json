@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-04-29T09:38:43.799Z",
+  "scrapedAt": "2026-04-30T09:38:06.737Z",
   "menus": [
     {
       "date": "2026-04-28",
@@ -13,20 +13,20 @@
           "price": null
         },
         {
-          "name": "Klopsiki w sosie, ziemniaczki i surówki",
+          "name": "Klopsiki w sosie, ziemniaki i surówki",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-04-24",
+      "date": "2026-05-01",
       "items": [
         {
           "name": "Kapuśniak",
           "price": null
         },
         {
-          "name": "Dorsz w chrupiącej panierce, ziemniaczki i zestaw surówek",
+          "name": "Dorsz w panierce, ziemniaki i surówki",
           "price": 35
         }
       ]
@@ -39,7 +39,7 @@
           "price": null
         },
         {
-          "name": "Mielony, kapusta zasmażana i ziemniaki",
+          "name": "Mielony, kapusta zasmażana",
           "price": 36
         }
       ]

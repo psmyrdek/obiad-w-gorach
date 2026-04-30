@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-29T09:38:41.083Z",
+  "scrapedAt": "2026-04-30T09:38:04.042Z",
   "menus": [
     {
       "date": "2026-04-28",
@@ -13,7 +13,7 @@
           "price": 25
         },
         {
-          "name": "Krem kalafiorowo-warzywny z grzanką",
+          "name": "Zupa dnia : Krem kalafiorowo-warzywny z grzanką",
           "price": 8
         }
       ]
@@ -26,7 +26,7 @@
           "price": 25
         },
         {
-          "name": "Zupa pomidorowa",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
         }
       ]
@@ -35,12 +35,12 @@
       "date": "2026-04-26",
       "items": [
         {
-          "name": "Rosół z makaronem",
-          "price": 10
-        },
-        {
           "name": "Rolada z polędwiczki wieprzowej nadziewana szparagami i boczkiem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
           "price": 40
+        },
+        {
+          "name": "Zupa dnia : rosół z makaronem",
+          "price": 10
         }
       ]
     },
@@ -48,17 +48,17 @@
       "date": "2026-04-25",
       "items": [
         {
-          "name": "Rosół z makaronem",
-          "price": 10
-        },
-        {
           "name": "Devolaj z mozzarellą i brokułami, ziemniaki lub frytki, surówki lub kapusta kiszona zasmażana",
           "price": 40
+        },
+        {
+          "name": "Zupa dnia : rosół z makaronem",
+          "price": 10
         }
       ]
     },
     {
-      "date": "2026-05-01",
+      "date": "2026-04-24",
       "items": [
         {
           "name": "Filet z morszczuka w panierce, frytki stekowe, zestaw surówek",
@@ -81,7 +81,7 @@
           "price": 42
         },
         {
-          "name": "Zupa pieczarkowa",
+          "name": "Zupa dnia : Pieczarkowa",
           "price": 8
         }
       ]
