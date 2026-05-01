@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-04-30T09:38:04.042Z",
+  "scrapedAt": "2026-05-01T09:30:11.585Z",
   "menus": [
     {
       "date": "2026-04-28",
@@ -13,7 +13,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Krem kalafiorowo-warzywny z grzanką",
+          "name": "Krem kalafiorowo-warzywny z grzanką",
           "price": 8
         }
       ]
@@ -26,7 +26,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
+          "name": "Pomidorowa",
           "price": 8
         }
       ]
@@ -35,12 +35,12 @@
       "date": "2026-04-26",
       "items": [
         {
-          "name": "Rolada z polędwiczki wieprzowej nadziewana szparagami i boczkiem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
+          "name": "Rosół z makaronem",
+          "price": 10
         },
         {
-          "name": "Zupa dnia : rosół z makaronem",
-          "price": 10
+          "name": "Rolada z polędwiczki wieprzowej nadziewana szparagami i boczkiem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 40
         }
       ]
     },
@@ -48,17 +48,17 @@
       "date": "2026-04-25",
       "items": [
         {
-          "name": "Devolaj z mozzarellą i brokułami, ziemniaki lub frytki, surówki lub kapusta kiszona zasmażana",
-          "price": 40
+          "name": "Rosół z makaronem",
+          "price": 10
         },
         {
-          "name": "Zupa dnia : rosół z makaronem",
-          "price": 10
+          "name": "Devolaj z mozzarellą i brokułami, ziemniaki lub frytki, surówki lub kapusta kiszona zasmażana",
+          "price": 40
         }
       ]
     },
     {
-      "date": "2026-04-24",
+      "date": "2026-05-01",
       "items": [
         {
           "name": "Filet z morszczuka w panierce, frytki stekowe, zestaw surówek",
@@ -69,7 +69,7 @@
           "price": 42
         },
         {
-          "name": "Filet z łososia z pieca na maśle, frytki scoopsy, zestaw surowek",
+          "name": "Filet z łososia z pieca na maśle, frytki scoopsy, zestaw surówek",
           "price": 42
         },
         {
