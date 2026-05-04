@@ -3,56 +3,56 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-01T09:30:24.246Z",
+  "scrapedAt": "2026-05-04T09:40:17.679Z",
   "menus": [
     {
-      "date": "2026-04-28",
+      "date": "2026-05-04",
       "items": [
         {
-          "name": "ZUPA OGÓRKOWA",
+          "name": "Zupa koperkowa z lanym ciastem",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA, ZIEMNIAKI I WIOSENNA Z SOSEM ŚMIETANOWO-JOGURTOWYM",
+          "name": "Roladka z kurczaka z pieczarkami w omlecie ,ziemniaki,zestaw surówek",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-04-27",
+      "date": "2026-05-05",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "STEK DROBIOWY Z CEBULKĄ , FRYTKI , COLESLAW",
+          "name": "Udko z kurczaka, ziemniaki i wiosenna z sosem śmietanowo-jogurtowym",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-01",
+      "date": "2026-05-06",
       "items": [
         {
-          "name": "KREM Z KALAFIORA",
+          "name": "Krem z zielonych warzyw",
           "price": null
         },
         {
-          "name": "MORSZCZUK W TEMPURZE, ZIEMNIAKI I SURÓWKA Z BIAŁEJ KAPUSTY",
+          "name": "Schab faszerowany boczkiem i oscypkiem, ziemniaki i biała kapusta",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-04-30",
+      "date": "2026-05-07",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "Zupa meksykańska",
           "price": null
         },
         {
-          "name": "SZASZŁYK DROBIOWY Z RYŻEM I MIXEM SAŁAT Z SOSEM CZOSNKOWYM",
+          "name": "Pieczeń wieprzowa w sosie własnym , kasza gryczana , buraki",
           "price": null
         }
       ]

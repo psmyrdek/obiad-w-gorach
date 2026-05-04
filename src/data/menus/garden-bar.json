@@ -3,86 +3,61 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-01T09:30:11.585Z",
+  "scrapedAt": "2026-05-04T09:40:02.539Z",
   "menus": [
+    {
+      "date": "2026-05-04",
+      "items": [
+        {
+          "name": "Kotlet schabowy z marynaty musztardowo- chrzanowej panierowany i smażony",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Pomidorowa",
+          "price": 3
+        },
+        {
+          "name": "Gołąbki (ok. 15.00)",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "items": [
+        {
+          "name": "Kotlet Pasterski z szynką i serem",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Szpinakowa z ryżem",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "items": [
+        {
+          "name": "Frykadelka drobiowa mielona, fasolka szparagowa z marchewką mini",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Ogórkowa z ryżem",
+          "price": 3
+        }
+      ]
+    },
     {
       "date": "2026-04-28",
       "items": [
         {
-          "name": "Eskalopek drobiowy w cieście piwno-serowym, frytki stekowe lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Eskalopek drobiowy w cieście piwno-serowym",
           "price": 25
         },
         {
-          "name": "Krem kalafiorowo-warzywny z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-27",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli panierowany i smażony, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-04-26",
-      "items": [
-        {
-          "name": "Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rolada z polędwiczki wieprzowej nadziewana szparagami i boczkiem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
-        }
-      ]
-    },
-    {
-      "date": "2026-04-25",
-      "items": [
-        {
-          "name": "Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Devolaj z mozzarellą i brokułami, ziemniaki lub frytki, surówki lub kapusta kiszona zasmażana",
-          "price": 40
-        }
-      ]
-    },
-    {
-      "date": "2026-05-01",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki stekowe, zestaw surówek",
-          "price": 34
-        },
-        {
-          "name": "Filet z dorsza atlantyckiego w panierce, frytki stekowe, surówki",
-          "price": 42
-        },
-        {
-          "name": "Filet z łososia z pieca na maśle, frytki scoopsy, zestaw surówek",
-          "price": 42
-        },
-        {
-          "name": "Filet z sandacza soute z pieca z dodatkiem pomidorów, cebulki i pora, frytki scoopsy, zestaw surówek",
-          "price": 42
-        },
-        {
-          "name": "Pstrąg cały z pieca na maśle, frytki stekowe, zestaw surówek",
-          "price": 42
-        },
-        {
-          "name": "Zupa dnia : Pieczarkowa",
-          "price": 8
+          "name": "Zupa dnia : Krem kalafiorowo-warzywny z grzanką",
+          "price": 3
         }
       ]
     }
