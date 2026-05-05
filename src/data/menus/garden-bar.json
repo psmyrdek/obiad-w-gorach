@@ -3,61 +3,61 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-04T09:40:02.539Z",
+  "scrapedAt": "2026-05-05T09:33:20.745Z",
   "menus": [
     {
       "date": "2026-05-04",
       "items": [
         {
-          "name": "Kotlet schabowy z marynaty musztardowo- chrzanowej panierowany i smażony",
+          "name": "Kotlet schabowy z marynaty musztardowo-chrzanowej panierowany i smażony",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
-          "price": 3
+          "name": "Pomidorowa",
+          "price": 8
         },
         {
-          "name": "Gołąbki (ok. 15.00)",
+          "name": "Gołąbki",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-04-30",
+      "date": "2026-05-07",
       "items": [
         {
           "name": "Kotlet Pasterski z szynką i serem",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Szpinakowa z ryżem",
-          "price": 3
+          "name": "Szpinakowa z ryżem",
+          "price": 8
         }
       ]
     },
     {
-      "date": "2026-04-29",
+      "date": "2026-05-06",
       "items": [
         {
           "name": "Frykadelka drobiowa mielona, fasolka szparagowa z marchewką mini",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Ogórkowa z ryżem",
-          "price": 3
+          "name": "Ogórkowa z ryżem",
+          "price": 8
         }
       ]
     },
     {
-      "date": "2026-04-28",
+      "date": "2026-05-05",
       "items": [
         {
           "name": "Eskalopek drobiowy w cieście piwno-serowym",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Krem kalafiorowo-warzywny z grzanką",
-          "price": 3
+          "name": "Krem kalafiorowo-warzywny z grzanką",
+          "price": 8
         }
       ]
     }

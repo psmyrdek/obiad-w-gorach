@@ -3,25 +3,25 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-05-04T09:40:10.032Z",
+  "scrapedAt": "2026-05-05T09:33:27.876Z",
   "menus": [
     {
       "date": "2026-05-07",
       "items": [
         {
-          "name": "Ogórkowa",
+          "name": "Zupa: Ogórkowa",
           "price": 9
         },
         {
-          "name": "Krem z kolorowych warzyw z grzankami",
+          "name": "Zupa: Krem z kolorowych warzyw z grzankami",
           "price": 8
         },
         {
-          "name": "Medalion z piersi z kurczaka pod brokułową pierzynką, ziemniaki, surówki, kompot +zupa",
+          "name": "Danie dnia: Medalion z piersi z kurczaka pod brokułową pierzynką, ziemniaki, surówki, kompot + zupa",
           "price": 29
         },
         {
-          "name": "Jadło drwala, surówki, kompot + zupa",
+          "name": "Danie dnia: Jadło drwala, surówki, kompot + zupa",
           "price": 35
         }
       ]
@@ -30,23 +30,23 @@
       "date": "2026-05-06",
       "items": [
         {
-          "name": "Krem z kolorowych warzyw",
+          "name": "Zupa: Krem z kolorowych warzyw",
           "price": 9
         },
         {
-          "name": "Żurek",
+          "name": "Zupa: Żurek",
           "price": 8
         },
         {
-          "name": "Mielony z kapustą zasmażaną, ziemniaki, kompot +zupa",
+          "name": "Danie dnia: Mielony z kapustą zasmażaną, ziemniaki, kompot + zupa",
           "price": 28
         },
         {
-          "name": "Stripsy z kurczaka w panko z sosem czosnkowym, ziemniaki, surówki, kompot + zupa",
+          "name": "Danie dnia: Stripsy z kurczaka w panko z sosem czosnkowym, ziemniaki, surówki, kompot + zupa",
           "price": 35
         },
         {
-          "name": "Camembert panierowany z żurawiną, frytki, surówki, kompot + zupa",
+          "name": "Danie dnia: Camembert panierowany z żurawiną, frytki, surówki, kompot + zupa",
           "price": 36
         }
       ]
@@ -55,19 +55,19 @@
       "date": "2026-05-05",
       "items": [
         {
-          "name": "Żurek",
+          "name": "Zupa: Żurek",
           "price": 9
         },
         {
-          "name": "Jarzynowa",
+          "name": "Zupa: Jarzynowa",
           "price": 8
         },
         {
-          "name": "Pieczeń z karczku faszerowany czosnkiem w sosie pieczeniowym, ziemniaki, surówki, kompot +zupa",
+          "name": "Danie dnia: Pieczeń z karczku faszerowany czosnkiem w sosie pieczeniowym, ziemniaki, surówki, kompot + zupa",
           "price": 28
         },
         {
-          "name": "Kotlet schabowy z kapustą zasmażaną, ziemniaki, surówki, kompot + zupa",
+          "name": "Danie dnia: Kotlet schabowy z kapustą zasmażaną, ziemniaki, surówki, kompot + zupa",
           "price": 33
         }
       ]
