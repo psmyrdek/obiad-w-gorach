@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-05T09:33:34.948Z",
+  "scrapedAt": "2026-05-06T09:44:03.877Z",
   "menus": [
     {
-      "date": "2026-05-04",
+      "date": "2026-05-06",
       "items": [
         {
-          "name": "Zupa koperkowa z lanym ciastem",
+          "name": "BARSZCZ ZABIELANY",
           "price": null
         },
         {
-          "name": "Roladka z kurczaka z pieczarkami w omlecie, ziemniaki, zestaw surówek",
+          "name": "KOTLET MIELONY, ZIEMNIAKI I ZASMAŻANA KAPUSTA",
           "price": null
         }
       ]
@@ -22,24 +22,24 @@
       "date": "2026-05-05",
       "items": [
         {
-          "name": "Zupa ogórkowa",
+          "name": "KRUPNIK",
           "price": null
         },
         {
-          "name": "Udko z kurczaka, ziemniaki i wiosenna z sosem śmietanowo-jogurtowym",
+          "name": "ROLADKA ZE SZPINAKIEM W SOSIEM SEROWYM, RYŻ I WIOSENNA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-06",
+      "date": "2026-05-04",
       "items": [
         {
-          "name": "Krem z zielonych warzyw",
+          "name": "ZUPA KOPERKOWA Z LANYM CIASTEM",
           "price": null
         },
         {
-          "name": "Schab faszerowany boczkiem i oscypkiem, ziemniaki i biała kapusta",
+          "name": "ROLADKA Z KURCZAKA Z PIECZARKAMI W OMLECIE ,ZIEMNIAKI,ZESTAW SURÓWEK",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-05-07",
       "items": [
         {
-          "name": "Zupa meksykańska",
+          "name": "ZUPA MEKSYKAŃSKA",
           "price": null
         },
         {
-          "name": "Pieczeń wieprzowa w sosie własnym, kasza gryczana, buraki",
+          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM , KASZA GRYCZANA , BURAKI",
           "price": null
         }
       ]

@@ -3,18 +3,18 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-05-05T09:33:23.225Z",
+  "scrapedAt": "2026-05-06T09:43:52.341Z",
   "menus": [
     {
-      "date": "2026-05-04",
+      "date": "2026-05-06",
       "items": [
         {
-          "name": "krem z dyni",
+          "name": "Krupnik",
           "price": null
         },
         {
-          "name": "gołąbki w sosie pomidorowym",
-          "price": 31
+          "name": "Schabowy z ziemniakami i kapustą zasmażaną",
+          "price": 41
         }
       ]
     },
@@ -22,33 +22,51 @@
       "date": "2026-05-05",
       "items": [
         {
+          "name": "Krupnik",
+          "price": null
+        },
+        {
+          "name": "Pieczeń w sosie, ziemniaczki i zestaw surówek",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "items": [
+        {
+          "name": "Krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Gołąbki w sosie pomidorowym",
+          "price": 31
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "items": [
+        {
           "name": "Zupa pomidorowa",
           "price": null
         },
         {
-          "name": "Kaszanka w zestawie z ziemniakami i surówką z kiszonej kapusty",
-          "price": null
-        },
-        {
-          "name": "zupa ogórkowa",
-          "price": null
-        },
-        {
-          "name": "klopsiki w sosie, puszyste ziemniaczki i świeże surówki",
+          "name": "Kaszanka z ziemniakami i surówką z kiszonej kapusty",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-08",
+      "date": "2026-04-28",
       "items": [
         {
-          "name": "Zupa: kapuśniak",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "Dorsz w chrupiącej panierce, puszyste ziemniaczki i zestaw surówek",
-          "price": 35
+          "name": "Klopsiki w sosie, ziemniaczki i surówki",
+          "price": null
         }
       ]
     }

@@ -3,48 +3,22 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-05T09:33:20.745Z",
+  "scrapedAt": "2026-05-06T09:43:48.422Z",
   "menus": [
-    {
-      "date": "2026-05-04",
-      "items": [
-        {
-          "name": "Kotlet schabowy z marynaty musztardowo-chrzanowej panierowany i smażony",
-          "price": 25
-        },
-        {
-          "name": "Pomidorowa",
-          "price": 8
-        },
-        {
-          "name": "Gołąbki",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "items": [
-        {
-          "name": "Kotlet Pasterski z szynką i serem",
-          "price": 25
-        },
-        {
-          "name": "Szpinakowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
     {
       "date": "2026-05-06",
       "items": [
         {
-          "name": "Frykadelka drobiowa mielona, fasolka szparagowa z marchewką mini",
+          "name": "Filet z udźca kurczaka pod pieczarkami z cebulką i mozzarellą",
           "price": 25
         },
         {
-          "name": "Ogórkowa z ryżem",
+          "name": "Ogórkowa z ryżem (solo)",
           "price": 8
+        },
+        {
+          "name": "Ogórkowa z ryżem (do drugiego dania)",
+          "price": 3
         }
       ]
     },
@@ -52,12 +26,50 @@
       "date": "2026-05-05",
       "items": [
         {
-          "name": "Eskalopek drobiowy w cieście piwno-serowym",
+          "name": "Schab po bolońsku",
           "price": 25
         },
         {
-          "name": "Krem kalafiorowo-warzywny z grzanką",
+          "name": "Krem warzywny (solo)",
           "price": 8
+        },
+        {
+          "name": "Krem warzywny (do drugiego dania)",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "items": [
+        {
+          "name": "Kotlet schabowy z marynaty musztardowo-chrzanowej",
+          "price": 25
+        },
+        {
+          "name": "Pomidorowa (solo)",
+          "price": 8
+        },
+        {
+          "name": "Pomidorowa (do drugiego dania)",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "items": [
+        {
+          "name": "Kotlet Pasterski z szynką i serem",
+          "price": 25
+        },
+        {
+          "name": "Szpinakowa z ryżem (solo)",
+          "price": 8
+        },
+        {
+          "name": "Szpinakowa z ryżem (do drugiego dania)",
+          "price": 3
         }
       ]
     }
