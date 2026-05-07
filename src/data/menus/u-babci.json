@@ -3,8 +3,21 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-05-06T09:43:52.341Z",
+  "scrapedAt": "2026-05-07T09:48:50.276Z",
   "menus": [
+    {
+      "date": "2026-05-07",
+      "items": [
+        {
+          "name": "Koperkowa",
+          "price": null
+        },
+        {
+          "name": "Łazanki ze skwarkami",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "items": [
@@ -13,8 +26,8 @@
           "price": null
         },
         {
-          "name": "Schabowy z ziemniakami i kapustą zasmażaną",
-          "price": 41
+          "name": "Schabowy, ziemniaki, kapusta zasmażana",
+          "price": null
         }
       ]
     },
@@ -27,7 +40,7 @@
         },
         {
           "name": "Pieczeń w sosie, ziemniaczki i zestaw surówek",
-          "price": 40
+          "price": null
         }
       ]
     },
@@ -40,32 +53,6 @@
         },
         {
           "name": "Gołąbki w sosie pomidorowym",
-          "price": 31
-        }
-      ]
-    },
-    {
-      "date": "2026-04-29",
-      "items": [
-        {
-          "name": "Zupa pomidorowa",
-          "price": null
-        },
-        {
-          "name": "Kaszanka z ziemniakami i surówką z kiszonej kapusty",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-04-28",
-      "items": [
-        {
-          "name": "Zupa ogórkowa",
-          "price": null
-        },
-        {
-          "name": "Klopsiki w sosie, ziemniaczki i surówki",
           "price": null
         }
       ]

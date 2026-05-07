@@ -3,22 +3,31 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-06T09:43:48.422Z",
+  "scrapedAt": "2026-05-07T09:48:46.125Z",
   "menus": [
+    {
+      "date": "2026-05-07",
+      "items": [
+        {
+          "name": "Karczek pieczony w sosie pieczarkowym, kasza gryczana lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Jarzynowa",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "items": [
         {
-          "name": "Filet z udźca kurczaka pod pieczarkami z cebulką i mozzarellą",
+          "name": "Filet z udźca kurczaka pod pieczarkami z cebulką i mozzarellą, frytki stekowe lub ziemniaki, surówki lub słodka kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Ogórkowa z ryżem (solo)",
+          "name": "Zupa dnia: Ogórkowa z ryżem",
           "price": 8
-        },
-        {
-          "name": "Ogórkowa z ryżem (do drugiego dania)",
-          "price": 3
         }
       ]
     },
@@ -26,16 +35,12 @@
       "date": "2026-05-05",
       "items": [
         {
-          "name": "Schab po bolońsku",
+          "name": "Schab po bolońsku (zapiekany z mięsem bolognese i serem), frytki stekowe lub ziemniaki, surówki lub słodka kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Krem warzywny (solo)",
+          "name": "Zupa dnia: Krem warzywny",
           "price": 8
-        },
-        {
-          "name": "Krem warzywny (do drugiego dania)",
-          "price": 3
         }
       ]
     },
@@ -43,33 +48,12 @@
       "date": "2026-05-04",
       "items": [
         {
-          "name": "Kotlet schabowy z marynaty musztardowo-chrzanowej",
+          "name": "Kotlet schabowy z marynaty musztardowo-chrzanowej panierowany i smażony, ziemniaki lub frytki, surówki lub kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Pomidorowa (solo)",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
-        },
-        {
-          "name": "Pomidorowa (do drugiego dania)",
-          "price": 3
-        }
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "items": [
-        {
-          "name": "Kotlet Pasterski z szynką i serem",
-          "price": 25
-        },
-        {
-          "name": "Szpinakowa z ryżem (solo)",
-          "price": 8
-        },
-        {
-          "name": "Szpinakowa z ryżem (do drugiego dania)",
-          "price": 3
         }
       ]
     }

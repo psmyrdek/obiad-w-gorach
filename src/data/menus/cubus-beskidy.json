@@ -3,8 +3,29 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-06T09:44:03.877Z",
+  "scrapedAt": "2026-05-07T09:49:04.428Z",
   "menus": [
+    {
+      "date": "2026-05-07",
+      "items": [
+        {
+          "name": "KREM Z MARCHEWKI",
+          "price": null
+        },
+        {
+          "name": "KOTLET DEVOLAILLE , ZIEMNIAKI OPIEKANE , SURÓWKA Z SELERA I MARCHEWKI",
+          "price": null
+        },
+        {
+          "name": "ZUPA MEKSYKAŃSKA",
+          "price": null
+        },
+        {
+          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM , KASZA GRYCZANA , BURAKI",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "items": [
@@ -40,19 +61,6 @@
         },
         {
           "name": "ROLADKA Z KURCZAKA Z PIECZARKAMI W OMLECIE ,ZIEMNIAKI,ZESTAW SURÓWEK",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "items": [
-        {
-          "name": "ZUPA MEKSYKAŃSKA",
-          "price": null
-        },
-        {
-          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM , KASZA GRYCZANA , BURAKI",
           "price": null
         }
       ]
