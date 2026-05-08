@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-05-07T09:48:50.276Z",
+  "scrapedAt": "2026-05-08T09:28:57.680Z",
   "menus": [
     {
       "date": "2026-05-07",
@@ -13,7 +13,7 @@
           "price": null
         },
         {
-          "name": "Łazanki ze skwarkami",
+          "name": "Łazanki",
           "price": null
         }
       ]
@@ -26,7 +26,7 @@
           "price": null
         },
         {
-          "name": "Schabowy, ziemniaki, kapusta zasmażana",
+          "name": "Schabowy",
           "price": null
         }
       ]
@@ -39,7 +39,7 @@
           "price": null
         },
         {
-          "name": "Pieczeń w sosie, ziemniaczki i zestaw surówek",
+          "name": "Pieczeń w sosie",
           "price": null
         }
       ]
@@ -53,6 +53,19 @@
         },
         {
           "name": "Gołąbki w sosie pomidorowym",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "items": [
+        {
+          "name": "Pomidorowa",
+          "price": null
+        },
+        {
+          "name": "Kaszanka w zestawie z ziemniakami i surówką z kiszonej kapusty",
           "price": null
         }
       ]
