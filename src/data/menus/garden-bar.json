@@ -3,57 +3,70 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-08T09:28:54.925Z",
+  "scrapedAt": "2026-05-11T10:09:44.067Z",
   "menus": [
     {
-      "date": "2026-05-07",
+      "date": "2026-05-11",
       "items": [
-        {
-          "name": "Danie dnia: Karczek pieczony w sosie pieczarkowym kasza gryczana lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Jarzynowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-06",
-      "items": [
-        {
-          "name": "Danie dnia: Filet z udźca kurczaka pod pieczarkami z cebulką i mozzarellą, frytki stekowe lub ziemniaki, surówki lub słodka kapusta zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Ogórkowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-05",
-      "items": [
-        {
-          "name": "Danie dnia: Schab po bolońsku (zapiekany z miosem bolognesse i serem) frytki stekowe lub ziemniaki, surówki lub słodka kapusta zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem warzywny",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-04",
-      "items": [
-        {
-          "name": "Danie dnia: Kotlet schabowy z marynaty musztardowo-chrzanowej panierowany i smażony, ziemniaki lub frytki, surówki lub kapusta zasmażana",
-          "price": 25
-        },
         {
           "name": "Zupa dnia: Pomidorowa",
           "price": 8
+        },
+        {
+          "name": "Kotlet schabowy z marynaty musztarowo-chrzanowej",
+          "price": 25
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "items": [
+        {
+          "name": "Zupa dnia : rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Rolada wołowa śląska w sosie ciemnym",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "items": [
+        {
+          "name": "Zupa dnia : rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Rolada wieprzowa śląska w sosie ciemnym",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "items": [
+        {
+          "name": "Zupa dnia : Koperkowa z ryżem",
+          "price": 8
+        },
+        {
+          "name": "Filet z morszczuka w panierce",
+          "price": 34
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "items": [
+        {
+          "name": "Zupa dnia : Jarzynowa",
+          "price": 8
+        },
+        {
+          "name": "Karczek pieczony w sosie pieczarkowym",
+          "price": 25
         }
       ]
     }

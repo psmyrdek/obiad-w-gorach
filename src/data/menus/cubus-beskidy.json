@@ -3,31 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-08T09:29:18.021Z",
+  "scrapedAt": "2026-05-11T10:09:58.724Z",
   "menus": [
     {
-      "date": "2026-05-07",
+      "date": "2026-05-11",
       "items": [
         {
-          "name": "KREM Z MARCHEWKI",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "KOTLET DEVOLAILLE , ZIEMNIAKI OPIEKANE , SURÓWKA Z SELERA I MARCHEWKI",
-          "price": null
-        },
-        {
-          "name": "ZUPA MEKSYKAŃSKA",
-          "price": null
-        },
-        {
-          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM , KASZA GRYCZANA , BURAKI",
+          "name": "ROLADKA ZE SCHABU Z PIECZARKAMI I SEREM, ZIEMNIAKI I MARCHEWKA Z GROSZKIEM",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-06",
+      "date": "2026-05-13",
       "items": [
         {
           "name": "BARSZCZ ZABIELANY",
@@ -40,27 +32,27 @@
       ]
     },
     {
-      "date": "2026-05-05",
+      "date": "2026-05-14",
       "items": [
         {
-          "name": "KRUPNIK",
+          "name": "KREM Z MARCHEWKI",
           "price": null
         },
         {
-          "name": "ROLADKA ZE SZPINAKIEM W SOSIEM SEROWYM, RYŻ I WIOSENNA",
+          "name": "KOTLET DEVOLAILLE , ZIEMNIAKI OPIEKANE , SURÓWKA Z SELERA I MARCHEWKI",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-04",
+      "date": "2026-05-15",
       "items": [
         {
-          "name": "ZUPA KOPERKOWA Z LANYM CIASTEM",
+          "name": "ZUPA KALAFIOROWA",
           "price": null
         },
         {
-          "name": "ROLADKA Z KURCZAKA Z PIECZARKAMI W OMLECIE ,ZIEMNIAKI,ZESTAW SURÓWEK",
+          "name": "ŁOSOŚ Z PIECA W SOSIE Z SUSZONYCH POMIDORÓW Z FRYTKAMI BELGIJSKIMI I SAŁATKĄ Z KAPUSTY PEKIŃSKIEJ Z SOSEM VINEGRET",
           "price": null
         }
       ]

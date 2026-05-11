@@ -3,49 +3,62 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-05-08T09:28:57.680Z",
+  "scrapedAt": "2026-05-11T10:09:48.585Z",
   "menus": [
     {
-      "date": "2026-05-07",
+      "date": "2026-05-15",
       "items": [
         {
           "name": "Koperkowa",
           "price": null
         },
         {
-          "name": "Łazanki",
-          "price": null
+          "name": "Kotleciki rybne, góra ziemniaków",
+          "price": 36
         }
       ]
     },
     {
-      "date": "2026-05-06",
+      "date": "2026-05-14",
+      "items": [
+        {
+          "name": "Koperkowa",
+          "price": null
+        },
+        {
+          "name": "Łazanki ze skwarkami",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
       "items": [
         {
           "name": "Krupnik",
           "price": null
         },
         {
-          "name": "Schabowy",
-          "price": null
+          "name": "Schabowy, puszyste ziemniaczki, kapusta zasmażana",
+          "price": 41
         }
       ]
     },
     {
-      "date": "2026-05-05",
+      "date": "2026-05-12",
       "items": [
         {
           "name": "Krupnik",
           "price": null
         },
         {
-          "name": "Pieczeń w sosie",
-          "price": null
+          "name": "Pieczeń w sosie, złociste ziemniaczki i zestaw świeżych surówek",
+          "price": 40
         }
       ]
     },
     {
-      "date": "2026-05-04",
+      "date": "2026-05-11",
       "items": [
         {
           "name": "Krem z dyni",
@@ -53,20 +66,7 @@
         },
         {
           "name": "Gołąbki w sosie pomidorowym",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-05-08",
-      "items": [
-        {
-          "name": "Pomidorowa",
-          "price": null
-        },
-        {
-          "name": "Kaszanka w zestawie z ziemniakami i surówką z kiszonej kapusty",
-          "price": null
+          "price": 31
         }
       ]
     }
