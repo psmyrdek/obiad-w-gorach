@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-12T09:51:25.143Z",
+  "scrapedAt": "2026-05-13T09:51:21.048Z",
   "menus": [
     {
       "date": "2026-05-11",
@@ -19,27 +19,27 @@
       ]
     },
     {
-      "date": "2026-05-13",
+      "date": "2026-05-12",
       "items": [
         {
-          "name": "BARSZCZ ZABIELANY",
+          "name": "ZUPA OGÓRKOWA",
           "price": null
         },
         {
-          "name": "KOTLET MIELONY, ZIEMNIAKI I ZASMAŻANA KAPUSTA",
+          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE GRZYBOWYM, ZIEMNIAKI OPIEKANE, MODRA KAPUSTA LUB SAŁATKA Z KURCZAKIEM W SOSIE MIODOWO-MUSZTARDOWYM",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-14",
+      "date": "2026-05-13",
       "items": [
         {
-          "name": "KREM Z MARCHEWKI",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "KOTLET DEVOLAILLE , ZIEMNIAKI OPIEKANE , SURÓWKA Z SELERA I MARCHEWKI",
+          "name": "UDKO Z KURCZAKA , ZIEMNIAKI PUREE , SAŁATKA Z POMIDOREM W SOSIE JOGURTOWYM",
           "price": null
         }
       ]

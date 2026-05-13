@@ -3,17 +3,17 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-12T09:51:10.479Z",
+  "scrapedAt": "2026-05-13T09:51:04.003Z",
   "menus": [
     {
-      "date": "2026-05-11",
+      "date": "2026-05-13",
       "items": [
         {
-          "name": "Kotlet schabowy z marynaty musztarowo-chrzanowej, panierowany i smażony, ziemniaki lub frytki, surówki lub kapusta zasmażana",
+          "name": "Filet z udźca kurczaka zapiekany z pieczarkami, pomidorem i mozzarellą",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia: Barszcz ukraiński",
           "price": 8
         }
       ]
@@ -22,45 +22,24 @@
       "date": "2026-05-12",
       "items": [
         {
-          "name": "Zupa dnia : rosół z makaronem",
-          "price": 10
+          "name": "Kotlet Pożarski drobiowy mielony z dodatkiem żółtego sera",
+          "price": 25
         },
         {
-          "name": "Rolada wołowa śląska w sosie ciemnym kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia : rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rolada wieprzowa śląska w sosie ciemnym kluski śląskie lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 40
-        }
-      ]
-    },
-    {
-      "date": "2026-05-15",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce frytki stekowe lub ziemniaki, zestaw surówek lub zasmażana",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia : Koperkowa z ryżem",
+          "name": "Zupa dnia: Krem warzywny z grzanką",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-05-14",
+      "date": "2026-05-11",
       "items": [
         {
-          "name": "Karczek pieczony w sosie pieczarkowym kasza gryczana lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "name": "Kotlet schabowy z marynaty musztarowo-chrzanowej",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Jarzynowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]
