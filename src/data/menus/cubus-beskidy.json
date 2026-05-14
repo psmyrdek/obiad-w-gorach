@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-13T09:51:21.048Z",
+  "scrapedAt": "2026-05-14T09:45:09.133Z",
   "menus": [
     {
-      "date": "2026-05-11",
+      "date": "2026-05-13",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "ROLADKA ZE SCHABU Z PIECZARKAMI I SEREM, ZIEMNIAKI I MARCHEWKA Z GROSZKIEM",
+          "name": "UDKO Z KURCZAKA , ZIEMNIAKI PUREE , SAŁATKA Z POMIDOREM W SOSIE JOGURTOWYM",
           "price": null
         }
       ]
@@ -26,20 +26,24 @@
           "price": null
         },
         {
-          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE GRZYBOWYM, ZIEMNIAKI OPIEKANE, MODRA KAPUSTA LUB SAŁATKA Z KURCZAKIEM W SOSIE MIODOWO-MUSZTARDOWYM",
+          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE GRZYBOWYM,ZIEMNIAKI OPIEKANE, MODRA KAPUSTA",
+          "price": null
+        },
+        {
+          "name": "SAŁATKA Z KURCZAKIEM W SOSIE MIODOWO-MUSZTARDOWYM",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-13",
+      "date": "2026-05-11",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA , ZIEMNIAKI PUREE , SAŁATKA Z POMIDOREM W SOSIE JOGURTOWYM",
+          "name": "ROLADKA ZE SCHABU Z PIECZARKAMI I SEREM, ZIEMNIAKI I MARCHEWKA Z GROSZKIEM",
           "price": null
         }
       ]
