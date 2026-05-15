@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-05-14T09:44:59.364Z",
+  "scrapedAt": "2026-05-15T09:52:25.820Z",
   "menus": [
     {
       "date": "2026-05-13",
@@ -45,10 +45,10 @@
       ]
     },
     {
-      "date": "2026-05-15",
+      "date": "2026-05-08",
       "items": [
         {
-          "name": "Zupa koperkowa",
+          "name": "Koperkowa",
           "price": null
         },
         {
@@ -58,10 +58,10 @@
       ]
     },
     {
-      "date": "2026-05-14",
+      "date": "2026-05-07",
       "items": [
         {
-          "name": "Zupa koperkowa",
+          "name": "Gęsta koperkowa",
           "price": null
         },
         {

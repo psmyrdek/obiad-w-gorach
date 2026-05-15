@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-14T09:44:56.027Z",
+  "scrapedAt": "2026-05-15T09:52:23.349Z",
   "menus": [
     {
       "date": "2026-05-13",
@@ -13,7 +13,7 @@
           "price": 25
         },
         {
-          "name": "Barszcz ukraiński",
+          "name": "Zupa dnia : Barszcz ukraiński",
           "price": 8
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-05-12",
       "items": [
         {
-          "name": "Kotlet Pożarski drobiowy mielony z dodatkiem żółtego sera",
+          "name": "Kotlet Pożarski drobiowy mielony z dodatkiem żółtego sera, ziemniaki, marchewka z groszkiem i masłem",
           "price": 25
         },
         {
-          "name": "Krem warzywny z grzanką",
+          "name": "Zupa dnia : Krem warzywny z grzanką",
           "price": 8
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-05-11",
       "items": [
         {
-          "name": "Kotlet schabowy z marynaty musztardowo-chrzanowej",
+          "name": "Kotlet schabowy z marynaty musztarowo-chrzanowej, panierowany i smażony",
           "price": 25
         },
         {
-          "name": "Zupa pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]
