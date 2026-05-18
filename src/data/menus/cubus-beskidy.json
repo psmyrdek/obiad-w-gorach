@@ -3,56 +3,60 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-15T09:52:36.998Z",
+  "scrapedAt": "2026-05-18T10:24:55.582Z",
   "menus": [
     {
-      "date": "2026-05-13",
+      "date": "2026-05-18",
+      "items": [
+        {
+          "name": "KWAŚNICA",
+          "price": null
+        },
+        {
+          "name": "ZESTAW MIĘS GRILLOWANYCH, SZYSZKI ZIEMNIACZANE I WIOSENNA Z SOSEM CZOSNKOWYM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "items": [
+        {
+          "name": "KREM Z DYNI",
+          "price": null
+        },
+        {
+          "name": "MORSZCZUK, ZIEMNIAKI PUREE, KISZONA KAPUSTA",
+          "price": null
+        },
+        {
+          "name": "NALEŚNIKI Z SEREM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "items": [
+        {
+          "name": "ŻUREK",
+          "price": null
+        },
+        {
+          "name": "FILET Z GRILLA W SOSIE SEROWYM Z RYŻEM I COLESLAWEM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
       "items": [
         {
           "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA , ZIEMNIAKI PUREE , SAŁATKA Z POMIDOREM W SOSIE JOGURTOWYM",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-05-12",
-      "items": [
-        {
-          "name": "ZUPA OGÓRKOWA",
-          "price": null
-        },
-        {
-          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE GRZYBOWYM,ZIEMNIAKI OPIEKANE, MODRA KAPUSTA LUB SAŁATKA Z KURCZAKIEM W SOSIE MIODOWO-MUSZTARDOWYM",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-05-11",
-      "items": [
-        {
-          "name": "KAPUŚNIAK",
-          "price": null
-        },
-        {
-          "name": "ROLADKA ZE SCHABU Z PIECZARKAMI I SEREM, ZIEMNIAKI I MARCHEWKA Z GROSZKIEM",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-05-15",
-      "items": [
-        {
-          "name": "ZUPA KALAFIOROWA",
-          "price": null
-        },
-        {
-          "name": "ŁOSOŚ Z PIECA W SOSIE Z SUSZONYCH POMIDORÓW Z FRYTKAMI BELGIJSKIMI I SAŁATKĄ Z KAPUSTY PEKIŃSKIEJ Z SOSEM VINEGRET",
+          "name": "UDKO Z KURCZAKA, ZIEMNIAKI PUREE, SAŁATKA Z POMIDOREM W SOSIE JOGURTOWYM",
           "price": null
         }
       ]

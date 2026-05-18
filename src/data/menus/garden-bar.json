@@ -3,43 +3,43 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-15T09:52:23.349Z",
+  "scrapedAt": "2026-05-18T10:24:40.292Z",
   "menus": [
     {
-      "date": "2026-05-13",
+      "date": "2026-05-18",
       "items": [
         {
-          "name": "Filet z udźca kurczaka zapiekany z pieczarkami, pomidorem i mozzarellą",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Barszcz ukraiński",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-12",
-      "items": [
-        {
-          "name": "Kotlet Pożarski drobiowy mielony z dodatkiem żółtego sera, ziemniaki, marchewka z groszkiem i masłem",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Krem warzywny z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-11",
-      "items": [
-        {
-          "name": "Kotlet schabowy z marynaty musztarowo-chrzanowej, panierowany i smażony",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki i młoda kapusta zasmażana",
           "price": 25
         },
         {
           "name": "Zupa dnia: Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki stekowe lub ziemniaki, zestaw surówek",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia: Kapuśniak z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "items": [
+        {
+          "name": "Kotlet po parysku drobiowy w cieście serowym, frytki stekowe lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Pieczarkowa",
           "price": 8
         }
       ]

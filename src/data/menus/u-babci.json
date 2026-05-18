@@ -3,10 +3,10 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-05-15T09:52:25.820Z",
+  "scrapedAt": "2026-05-18T10:24:44.783Z",
   "menus": [
     {
-      "date": "2026-05-13",
+      "date": "2026-05-18",
       "items": [
         {
           "name": "Krem z dyni",
@@ -15,15 +15,31 @@
         {
           "name": "Duszonki",
           "price": null
+        },
+        {
+          "name": "Grochówka",
+          "price": 34
+        },
+        {
+          "name": "Udko pieczone z ziemniakami i zestawem surówek",
+          "price": 34
+        },
+        {
+          "name": "Gęsta koperkowa",
+          "price": 33
+        },
+        {
+          "name": "Łazanki ze skwarkami",
+          "price": 33
         }
       ]
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-19",
       "items": [
         {
           "name": "Zupa grzybowa",
-          "price": null
+          "price": 36
         },
         {
           "name": "Kotlet mielony, puszyste ziemniaki i nasza słynna kapusta zasmażana",
@@ -32,41 +48,11 @@
       ]
     },
     {
-      "date": "2026-05-11",
+      "date": "2026-05-22",
       "items": [
         {
-          "name": "Grochówka",
-          "price": null
-        },
-        {
-          "name": "Udko pieczone z ziemniakami i zestawem surówek",
-          "price": 34
-        }
-      ]
-    },
-    {
-      "date": "2026-05-08",
-      "items": [
-        {
-          "name": "Koperkowa",
-          "price": null
-        },
-        {
-          "name": "Kotleciki rybne, góra ziemniaków",
+          "name": "Kotleciki rybne, góra ziemniaków i koperkowa",
           "price": 36
-        }
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "items": [
-        {
-          "name": "Gęsta koperkowa",
-          "price": null
-        },
-        {
-          "name": "Łazanki",
-          "price": 33
         }
       ]
     }
