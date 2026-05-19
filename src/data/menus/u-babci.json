@@ -3,10 +3,10 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-05-18T10:24:44.783Z",
+  "scrapedAt": "2026-05-19T10:14:29.843Z",
   "menus": [
     {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "items": [
         {
           "name": "Krem z dyni",
@@ -16,27 +16,6 @@
           "name": "Duszonki",
           "price": null
         },
-        {
-          "name": "Grochówka",
-          "price": 34
-        },
-        {
-          "name": "Udko pieczone z ziemniakami i zestawem surówek",
-          "price": 34
-        },
-        {
-          "name": "Gęsta koperkowa",
-          "price": 33
-        },
-        {
-          "name": "Łazanki ze skwarkami",
-          "price": 33
-        }
-      ]
-    },
-    {
-      "date": "2026-05-19",
-      "items": [
         {
           "name": "Zupa grzybowa",
           "price": 36
@@ -48,11 +27,41 @@
       ]
     },
     {
+      "date": "2026-05-18",
+      "items": [
+        {
+          "name": "Grochówka",
+          "price": 34
+        },
+        {
+          "name": "Udko pieczone z ziemniakami i zestawem surówek",
+          "price": 34
+        }
+      ]
+    },
+    {
       "date": "2026-05-22",
       "items": [
         {
+          "name": "Zupa koperkowa",
+          "price": 36
+        },
+        {
           "name": "Kotleciki rybne, góra ziemniaków i koperkowa",
           "price": 36
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "items": [
+        {
+          "name": "Zupa koperkowa",
+          "price": 33
+        },
+        {
+          "name": "Łazanki",
+          "price": 33
         }
       ]
     }

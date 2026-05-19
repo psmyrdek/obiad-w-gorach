@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-18T10:24:55.582Z",
+  "scrapedAt": "2026-05-19T10:14:40.145Z",
   "menus": [
     {
       "date": "2026-05-18",
@@ -19,18 +19,14 @@
       ]
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-20",
       "items": [
         {
-          "name": "KREM Z DYNI",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZIEMNIAKI PUREE, KISZONA KAPUSTA",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z SEREM",
+          "name": "UDKO Z KURCZAKA , ZIEMNIAKI PUREE , SAŁATKA Z POMIDOREM W SOSIE JOGURTOWYM",
           "price": null
         }
       ]
@@ -49,14 +45,14 @@
       ]
     },
     {
-      "date": "2026-05-20",
+      "date": "2026-05-22",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "KREM Z DYNI",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA, ZIEMNIAKI PUREE, SAŁATKA Z POMIDOREM W SOSIE JOGURTOWYM",
+          "name": "MORSZCZUK,ZIEMNIAKI PUREE , KISZONA KAPUSTA LUB NALEŚNIKI Z SEREM",
           "price": null
         }
       ]

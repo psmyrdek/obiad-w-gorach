@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-18T10:24:40.292Z",
+  "scrapedAt": "2026-05-19T10:14:26.071Z",
   "menus": [
     {
       "date": "2026-05-18",
@@ -14,19 +14,10 @@
         },
         {
           "name": "Zupa dnia: Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-22",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki stekowe lub ziemniaki, zestaw surówek",
-          "price": 34
+          "price": 3
         },
         {
-          "name": "Zupa dnia: Kapuśniak z ziemniakami",
+          "name": "Zupa dnia: Pomidorowa (solo)",
           "price": 8
         }
       ]
@@ -40,6 +31,27 @@
         },
         {
           "name": "Zupa dnia: Pieczarkowa",
+          "price": 3
+        },
+        {
+          "name": "Zupa dnia: Pieczarkowa (solo)",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce frytki stekowe lub ziemniaki, zestaw surówek",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia Kapuśniak z ziemniakami",
+          "price": 3
+        },
+        {
+          "name": "Zupa dnia Kapuśniak z ziemniakami (solo)",
           "price": 8
         }
       ]
