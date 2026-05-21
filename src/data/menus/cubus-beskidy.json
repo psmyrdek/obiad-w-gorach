@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-20T10:05:37.554Z",
+  "scrapedAt": "2026-05-21T10:12:56.228Z",
   "menus": [
     {
       "date": "2026-05-18",
@@ -19,14 +19,27 @@
       ]
     },
     {
-      "date": "2026-05-20",
+      "date": "2026-05-19",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "KREM Z BIAŁYCH WARZYW",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA , ZIEMNIAKI PUREE , SAŁATKA Z POMIDOREM W SOSIE JOGURTOWYM",
+          "name": "SZWAJCAR, ZIEMNIAKI PUREE, CZERWONA KAPUSTA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "items": [
+        {
+          "name": "ZUPA KOPERKOWA",
+          "price": null
+        },
+        {
+          "name": "ESKALOPKI W CIEŚCIE PIWNYM Z FRYTKAMI I SAŁATKĄ SZWEDZKĄ",
           "price": null
         }
       ]
@@ -35,11 +48,15 @@
       "date": "2026-05-21",
       "items": [
         {
-          "name": "ŻUREK",
+          "name": "ZUPA POMIDOROWA",
           "price": null
         },
         {
-          "name": "FILET Z GRILLA W SOSIE SEROWYM Z RYŻEM I COLESLAWEM",
+          "name": "KOTLET SCHABOWY Z ZIEMNAKAMI I ZASMAŻANĄ",
+          "price": null
+        },
+        {
+          "name": "SAŁATKA CEZAR",
           "price": null
         }
       ]
@@ -52,7 +69,11 @@
           "price": null
         },
         {
-          "name": "MORSZCZUK,ZIEMNIAKI PUREE , KISZONA KAPUSTA LUB NALEŚNIKI Z SEREM",
+          "name": "MORSZCZUK,ZIEMNIAKI PUREE , KISZONA KAPUSTA",
+          "price": null
+        },
+        {
+          "name": "NALEŚNIKI Z SEREM",
           "price": null
         }
       ]

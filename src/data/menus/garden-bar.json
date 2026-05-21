@@ -3,52 +3,57 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-20T10:05:24.083Z",
+  "scrapedAt": "2026-05-21T10:12:41.663Z",
   "menus": [
-    {
-      "date": "2026-05-18",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki i młoda kapusta zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Pomidorowa",
-          "price": 8
-        },
-        {
-          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany, ziemniaki, zestaw surówek",
-          "price": 35
-        }
-      ]
-    },
-    {
-      "date": "2026-05-22",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki stekowe lub ziemniaki, zestaw surówek",
-          "price": 34
-        },
-        {
-          "name": "Kapuśniak z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
     {
       "date": "2026-05-21",
       "items": [
         {
-          "name": "Kotlet po parysku drobiowy w cieście serowym, frytki stekowe lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Kotlet drobiowy przekładany serem gouda",
           "price": 25
         },
         {
-          "name": "Pieczarkowa",
+          "name": "Zupa dnia : Solferino",
           "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "items": [
+        {
+          "name": "Kotlet mielony drobiowy",
+          "price": 25
         },
         {
-          "name": "Schab konfitowany podany w sosie pieczarkowym, placki Rosti, zestaw surówek lub kapusta zasmażana",
-          "price": 35
+          "name": "Zupa dnia : Ogórkowa z ryżem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "items": [
+        {
+          "name": "Stek ze schabu po węgiersku zapiekany z leczo i mozzarellą",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Krem warzywny z grzanką",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "items": [
+        {
+          "name": "Kotlet schabowy marynowany w mleku i cebuli",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Pomidorowa",
+          "price": 8
         }
       ]
     }
