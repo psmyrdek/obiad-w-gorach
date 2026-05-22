@@ -3,25 +3,17 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-05-21T10:12:45.239Z",
+  "scrapedAt": "2026-05-22T10:02:49.725Z",
   "menus": [
     {
       "date": "2026-05-21",
       "items": [
         {
-          "name": "Barszcz zabielany z jajkiem",
+          "name": "Domowy barszcz zabielany z jajkiem",
           "price": null
         },
         {
-          "name": "Łazanki",
-          "price": null
-        },
-        {
-          "name": "Krem z dyni",
-          "price": null
-        },
-        {
-          "name": "Duszonki",
+          "name": "Pyszne, sycące łazanki",
           "price": null
         }
       ]
@@ -44,19 +36,32 @@
       "items": [
         {
           "name": "Żurek",
-          "price": 34
+          "price": null
         },
         {
-          "name": "Pilaw",
+          "name": "Zestaw: żurek i bogaty pilaw",
           "price": 34
         },
         {
           "name": "Zupa grzybowa",
-          "price": 36
+          "price": null
         },
         {
-          "name": "Kotlet mielony, puszyste ziemniaki i kapusta zasmażana",
+          "name": "Zestaw: Kotlet mielony, puszyste ziemniaki i kapusta zasmażana",
           "price": 36
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "items": [
+        {
+          "name": "Krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Duszonki",
+          "price": null
         }
       ]
     }

@@ -3,17 +3,17 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-21T10:12:41.663Z",
+  "scrapedAt": "2026-05-22T10:02:46.401Z",
   "menus": [
     {
       "date": "2026-05-21",
       "items": [
         {
-          "name": "Kotlet drobiowy przekładany serem gouda",
+          "name": "Kotlet drobiowy przekładany serem gouda, dodatki",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Solferino",
+          "name": "Zupa dnia: Solferino - Jarzynowa z pomidorami",
           "price": 8
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-05-20",
       "items": [
         {
-          "name": "Kotlet mielony drobiowy",
+          "name": "Kotlet mielony drobiowy, dodatki",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Ogórkowa z ryżem",
+          "name": "Zupa dnia: Ogórkowa z ryżem",
           "price": 8
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-05-19",
       "items": [
         {
-          "name": "Stek ze schabu po węgiersku zapiekany z leczo i mozzarellą",
+          "name": "Stek ze schabu po węgiersku zapiekany z leczo i mozzarellą, dodatki",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Krem warzywny z grzanką",
+          "name": "Zupa dnia: Krem warzywny z grzanką",
           "price": 8
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-05-18",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, dodatki",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]
