@@ -3,36 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-22T10:03:02.733Z",
+  "scrapedAt": "2026-05-25T10:28:26.430Z",
   "menus": [
     {
-      "date": "2026-05-18",
+      "date": "2026-05-25",
       "items": [
         {
-          "name": "KWAŚNICA",
+          "name": "BARSZCZ Z KROKIETEM",
           "price": null
         },
         {
-          "name": "ZESTAW MIĘS GRILLOWANYCH, SZYSZKI ZIEMNIACZANE I WIOSENNA Z SOSEM CZOSNKOWYM",
+          "name": "FILET ZAPIEKANY MOZZARELLĄ Z BROKUŁEM, FRYTKI BELGIJSKIE, MIX SAŁAT Z SOSEM VINEGRET",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-19",
-      "items": [
-        {
-          "name": "KREM Z BIAŁYCH WARZYW",
-          "price": null
-        },
-        {
-          "name": "SZWAJCAR, ZIEMNIAKI PUREE, CZERWONA KAPUSTA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-05-20",
+      "date": "2026-05-27",
       "items": [
         {
           "name": "ZUPA KOPERKOWA",
@@ -45,35 +32,27 @@
       ]
     },
     {
-      "date": "2026-05-21",
+      "date": "2026-05-28",
       "items": [
         {
           "name": "ZUPA POMIDOROWA",
           "price": null
         },
         {
-          "name": "KOTLET SCHABOWY Z ZIEMNAKAMI I ZASMAŻANĄ",
-          "price": null
-        },
-        {
-          "name": "SAŁATKA CEZAR",
+          "name": "KOTLET SCHABOWY Z ZIEMNAKAMI I ZASMAŻANĄ ALBO SAŁATKA CEZAR",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-29",
       "items": [
         {
-          "name": "KREM Z DYNI",
+          "name": "KREM Z KUKURYDZY",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZIEMNIAKI PUREE, KISZONA KAPUSTA",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z SEREM",
+          "name": "SANDACZ W SOSIE POROWYM, KOPYTKA Z BATATÓW, SURÓWKA Z BIAŁEJ KAPUSTY",
           "price": null
         }
       ]

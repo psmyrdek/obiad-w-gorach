@@ -3,57 +3,56 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-22T10:02:46.401Z",
+  "scrapedAt": "2026-05-25T10:28:08.763Z",
   "menus": [
     {
-      "date": "2026-05-21",
+      "date": "2026-05-25",
       "items": [
         {
-          "name": "Kotlet drobiowy przekładany serem gouda, dodatki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Solferino - Jarzynowa z pomidorami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-20",
-      "items": [
-        {
-          "name": "Kotlet mielony drobiowy, dodatki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Ogórkowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-19",
-      "items": [
-        {
-          "name": "Stek ze schabu po węgiersku zapiekany z leczo i mozzarellą, dodatki",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem warzywny z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-18",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, dodatki",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli",
           "price": 25
         },
         {
           "name": "Zupa dnia: Pomidorowa",
           "price": 8
+        },
+        {
+          "name": "Pomidorowa (do dania głównego)",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia: Szpinakowy krem z grzanką",
+          "price": 8
+        },
+        {
+          "name": "Szpinakowy krem z grzanką (do dania głównego)",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "items": [
+        {
+          "name": "Kotlet drobiowy przekładany serem gouda",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Solferino (Jarzynowa z pomidorami)",
+          "price": 8
+        },
+        {
+          "name": "Solferino (do dania głównego)",
+          "price": 3
         }
       ]
     }
