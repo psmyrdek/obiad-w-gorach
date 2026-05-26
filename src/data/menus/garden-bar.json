@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-25T10:28:08.763Z",
+  "scrapedAt": "2026-05-26T10:20:50.806Z",
   "menus": [
     {
       "date": "2026-05-25",
@@ -13,12 +13,12 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
         },
         {
-          "name": "Pomidorowa (do dania głównego)",
-          "price": 3
+          "name": "Gołąbki",
+          "price": null
         }
       ]
     },
@@ -30,12 +30,8 @@
           "price": 34
         },
         {
-          "name": "Zupa dnia: Szpinakowy krem z grzanką",
+          "name": "Zupa dnia : Szpinakowy krem z grzanką",
           "price": 8
-        },
-        {
-          "name": "Szpinakowy krem z grzanką (do dania głównego)",
-          "price": 3
         }
       ]
     },
@@ -47,12 +43,8 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Solferino (Jarzynowa z pomidorami)",
+          "name": "Zupa dnia : Solferino (Jarzynowa z pomidorami)",
           "price": 8
-        },
-        {
-          "name": "Solferino (do dania głównego)",
-          "price": 3
         }
       ]
     }
