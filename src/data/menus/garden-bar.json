@@ -3,47 +3,43 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-26T10:20:50.806Z",
+  "scrapedAt": "2026-05-27T10:21:42.717Z",
   "menus": [
+    {
+      "date": "2026-05-27",
+      "items": [
+        {
+          "name": "Kotlet mielony wieprzowy buraczki na ciepło ziemniaki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Kalafiorowo-porowa z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "items": [
+        {
+          "name": "Filet z kurczaka w cieście piwno-serowym, ziemniaki lub frytki, fasolka zielona z mini marchewką lub zestaw surówek albo młoda kapusta",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Krem warzywno- dyniowy z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-05-25",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli kapusta młoda zasmażana lub surówki ziemniaki lub frytki",
           "price": 25
         },
         {
           "name": "Zupa dnia : Pomidorowa",
-          "price": 8
-        },
-        {
-          "name": "Gołąbki",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-05-29",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia : Szpinakowy krem z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-28",
-      "items": [
-        {
-          "name": "Kotlet drobiowy przekładany serem gouda",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Solferino (Jarzynowa z pomidorami)",
           "price": 8
         }
       ]

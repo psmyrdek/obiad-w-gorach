@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-26T10:21:04.081Z",
+  "scrapedAt": "2026-05-27T10:21:58.170Z",
   "menus": [
     {
       "date": "2026-05-25",
@@ -19,27 +19,27 @@
       ]
     },
     {
-      "date": "2026-05-27",
+      "date": "2026-05-26",
       "items": [
         {
-          "name": "ZUPA KOPERKOWA",
+          "name": "KREM POMIDOROWO-PAPRYKOWY",
           "price": null
         },
         {
-          "name": "ESKALOPKI W CIEŚCIE PIWNYM Z FRYTKAMI I SAŁATKĄ SZWEDZKĄ",
+          "name": "STEK DROBIOWY, ZIEMNIAKI PUREE, ZESTAW SURÓWEK",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-28",
+      "date": "2026-05-27",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "ZUPA Z CUKINI",
           "price": null
         },
         {
-          "name": "KOTLET SCHABOWY Z ZIEMNAKAMI I ZASMAŻANĄ ALBO SAŁATKA CEZAR",
+          "name": "SCHAB W SOSIE MYŚLIWSKIM, KOPYTKA, CZERWONA KAPUSTA",
           "price": null
         }
       ]
