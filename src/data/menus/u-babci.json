@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-05-27T10:21:45.835Z",
+  "scrapedAt": "2026-05-28T10:23:35.825Z",
   "menus": [
     {
       "date": "2026-05-27",
@@ -22,12 +22,12 @@
       "date": "2026-05-22",
       "items": [
         {
-          "name": "Zupa brokułowa",
-          "price": null
-        },
-        {
           "name": "Dorsz z ziemniakami",
           "price": 35
+        },
+        {
+          "name": "Zupa brokułowa",
+          "price": null
         }
       ]
     },

@@ -3,17 +3,30 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-27T10:21:42.717Z",
+  "scrapedAt": "2026-05-28T10:23:31.839Z",
   "menus": [
+    {
+      "date": "2026-05-28",
+      "items": [
+        {
+          "name": "Bitka wieprzowa z boczkiem i cebulką zapiekana mozzarellą i dipem pomidorowym, frytki lub ziemniaki, surówki lub młoda kapusta",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Pieczarkowa z kaszą wiejską",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-05-27",
       "items": [
         {
-          "name": "Kotlet mielony wieprzowy buraczki na ciepło ziemniaki",
+          "name": "Kotlet mielony wieprzowy, buraczki na ciepło, ziemniaki",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Kalafiorowo-porowa z ziemniakami",
+          "name": "Zupa dnia: Kalafiorowo-porowa z ziemniakami",
           "price": 8
         }
       ]
@@ -26,7 +39,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Krem warzywno- dyniowy z grzanką",
+          "name": "Zupa dnia: Krem warzywno-dyniowy z grzanką",
           "price": 8
         }
       ]
@@ -35,11 +48,11 @@
       "date": "2026-05-25",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli kapusta młoda zasmażana lub surówki ziemniaki lub frytki",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, kapusta młoda zasmażana lub surówki, ziemniaki lub frytki",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]
