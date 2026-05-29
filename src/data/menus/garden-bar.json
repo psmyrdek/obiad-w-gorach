@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-28T10:23:31.839Z",
+  "scrapedAt": "2026-05-29T10:17:21.537Z",
   "menus": [
     {
       "date": "2026-05-28",
@@ -13,7 +13,11 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pieczarkowa z kaszą wiejską",
+          "name": "Zupa dnia : Pieczarkowa z kaszą wiejską (do drugiego dania)",
+          "price": 3
+        },
+        {
+          "name": "Zupa dnia : Pieczarkowa z kaszą wiejską (solo)",
           "price": 8
         }
       ]
@@ -26,7 +30,11 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Kalafiorowo-porowa z ziemniakami",
+          "name": "Zupa dnia : Kalafiorowo-porowa z ziemniakami (do drugiego dania)",
+          "price": 3
+        },
+        {
+          "name": "Zupa dnia : Kalafiorowo-porowa z ziemniakami (solo)",
           "price": 8
         }
       ]
@@ -39,7 +47,11 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem warzywno-dyniowy z grzanką",
+          "name": "Zupa dnia : Krem warzywno-dyniowy z grzanką (do drugiego dania)",
+          "price": 3
+        },
+        {
+          "name": "Zupa dnia : Krem warzywno-dyniowy z grzanką (solo)",
           "price": 8
         }
       ]
@@ -52,7 +64,11 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Pomidorowa (do drugiego dania)",
+          "price": 3
+        },
+        {
+          "name": "Zupa dnia : Pomidorowa (solo)",
           "price": 8
         }
       ]
