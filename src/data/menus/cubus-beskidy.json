@@ -3,23 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-05-29T10:17:35.157Z",
+  "scrapedAt": "2026-06-01T10:40:47.086Z",
   "menus": [
     {
-      "date": "2026-05-25",
+      "date": "2026-06-01",
       "items": [
         {
-          "name": "BARSZCZ Z KROKIETEM",
+          "name": "ZUPA OGÓRKOWA",
           "price": null
         },
         {
-          "name": "FILET ZAPIEKANY MOZZARELLĄ Z BROKUŁEM, FRYTKI BELGIJSKIE, MIX SAŁAT Z SOSEM VINEGRET",
+          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW Z FRYTKAMI BELGIJSKIMI I MIXEM SAŁAT Z VINEGRET",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-05-26",
+      "date": "2026-06-02",
       "items": [
         {
           "name": "KREM POMIDOROWO-PAPRYKOWY",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-05-27",
+      "date": "2026-06-03",
       "items": [
         {
           "name": "ZUPA Z CUKINI",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "date": "2026-05-28",
+      "date": "2026-06-04",
       "items": [
         {
           "name": "KREM Z PIECZONEGO KALAFIORA",
@@ -53,6 +53,19 @@
         },
         {
           "name": "FILET Z KURCZAKA W PANIERCE PANKO , ZIEMNIAKI Z PIECA, MIZERIA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "items": [
+        {
+          "name": "ZUPA JARZYNOWA",
+          "price": null
+        },
+        {
+          "name": "MORSZCZUK, ZIEMNIAKI I SURÓWKA Z KAPUSTY KISZONEJ",
           "price": null
         }
       ]

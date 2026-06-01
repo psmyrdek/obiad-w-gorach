@@ -3,73 +3,56 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-05-29T10:17:21.537Z",
+  "scrapedAt": "2026-06-01T10:40:31.279Z",
   "menus": [
     {
-      "date": "2026-05-28",
+      "date": "2026-06-01",
       "items": [
         {
-          "name": "Bitka wieprzowa z boczkiem i cebulką zapiekana mozzarellą i dipem pomidorowym, frytki lub ziemniaki, surówki lub młoda kapusta",
+          "name": "Kotlet schabowy z marynaty ziołowo-pomidorowej panierowany i smażony, ziemniaki i kapusta młoda zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pieczarkowa z kaszą wiejską (do drugiego dania)",
-          "price": 3
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
         },
         {
-          "name": "Zupa dnia : Pieczarkowa z kaszą wiejską (solo)",
-          "price": 8
+          "name": "Zupa dnia: Pomidorowa (do dania głównego)",
+          "price": 3
         }
       ]
     },
     {
-      "date": "2026-05-27",
+      "date": "2026-06-05",
       "items": [
         {
-          "name": "Kotlet mielony wieprzowy, buraczki na ciepło, ziemniaki",
-          "price": 25
+          "name": "Filet z morszczuka w panierce frytki stekowe lub ziemniaki, zestaw surówek",
+          "price": 34
         },
         {
-          "name": "Zupa dnia : Kalafiorowo-porowa z ziemniakami (do drugiego dania)",
-          "price": 3
-        },
-        {
-          "name": "Zupa dnia : Kalafiorowo-porowa z ziemniakami (solo)",
+          "name": "Zupa dnia: Barszcz ukraiński",
           "price": 8
+        },
+        {
+          "name": "Zupa dnia: Barszcz ukraiński (do dania głównego)",
+          "price": 3
         }
       ]
     },
     {
-      "date": "2026-05-26",
+      "date": "2026-06-04",
       "items": [
         {
-          "name": "Filet z kurczaka w cieście piwno-serowym, ziemniaki lub frytki, fasolka zielona z mini marchewką lub zestaw surówek albo młoda kapusta",
+          "name": "Bitka wieprzowa z boczkiem i cebulką zapiekana mozzarellą i dipem pomidorowym",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Krem warzywno-dyniowy z grzanką (do drugiego dania)",
-          "price": 3
-        },
-        {
-          "name": "Zupa dnia : Krem warzywno-dyniowy z grzanką (solo)",
+          "name": "Zupa dnia: Pieczarkowa z kaszą wiejską",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-05-25",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, kapusta młoda zasmażana lub surówki, ziemniaki lub frytki",
-          "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa (do drugiego dania)",
+          "name": "Zupa dnia: Pieczarkowa z kaszą wiejską (do dania głównego)",
           "price": 3
-        },
-        {
-          "name": "Zupa dnia : Pomidorowa (solo)",
-          "price": 8
         }
       ]
     }
