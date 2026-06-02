@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-01T10:40:31.279Z",
+  "scrapedAt": "2026-06-02T10:29:43.751Z",
   "menus": [
     {
       "date": "2026-06-01",
@@ -17,8 +17,12 @@
           "price": 8
         },
         {
-          "name": "Zupa dnia: Pomidorowa (do dania głównego)",
-          "price": 3
+          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany, ziemniaki, zestaw surówek",
+          "price": 35
+        },
+        {
+          "name": "Gołąbki",
+          "price": null
         }
       ]
     },
@@ -26,16 +30,12 @@
       "date": "2026-06-05",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce frytki stekowe lub ziemniaki, zestaw surówek",
+          "name": "Filet z morszczuka w panierce, frytki stekowe lub ziemniaki, zestaw surówek",
           "price": 34
         },
         {
           "name": "Zupa dnia: Barszcz ukraiński",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia: Barszcz ukraiński (do dania głównego)",
-          "price": 3
         }
       ]
     },
@@ -43,16 +43,12 @@
       "date": "2026-06-04",
       "items": [
         {
-          "name": "Bitka wieprzowa z boczkiem i cebulką zapiekana mozzarellą i dipem pomidorowym",
+          "name": "Bitka wieprzowa z boczkiem i cebulką zapiekana mozzarellą i dipem pomidorowym, frytki lub ziemniaki, surówki lub młoda kapusta",
           "price": 25
         },
         {
           "name": "Zupa dnia: Pieczarkowa z kaszą wiejską",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia: Pieczarkowa z kaszą wiejską (do dania głównego)",
-          "price": 3
         }
       ]
     }

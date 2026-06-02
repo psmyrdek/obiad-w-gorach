@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-01T10:40:47.086Z",
+  "scrapedAt": "2026-06-02T10:29:59.435Z",
   "menus": [
     {
       "date": "2026-06-01",
@@ -19,27 +19,14 @@
       ]
     },
     {
-      "date": "2026-06-02",
+      "date": "2026-06-05",
       "items": [
         {
-          "name": "KREM POMIDOROWO-PAPRYKOWY",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "STEK DROBIOWY, ZIEMNIAKI PUREE, ZESTAW SURÓWEK",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "items": [
-        {
-          "name": "ZUPA Z CUKINI",
-          "price": null
-        },
-        {
-          "name": "SCHAB W SOSIE MYŚLIWSKIM , KOPYTKA , CZERWONA KAPUSTA",
+          "name": "MORSZCZUK, ZIEMNIAKI I SURÓWKA Z KAPUSTY KISZONEJ",
           "price": null
         }
       ]
@@ -58,14 +45,27 @@
       ]
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-06-03",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "ZUPA Z CUKINI",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZIEMNIAKI I SURÓWKA Z KAPUSTY KISZONEJ",
+          "name": "SCHAB W SOSIE MYŚLIWSKIM , KOPYTKA , CZERWONA KAPUSTA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "items": [
+        {
+          "name": "KREM POMIDOROWO-PAPRYKOWY",
+          "price": null
+        },
+        {
+          "name": "STEK DROBIOWY, ZIEMNIAKI PUREE, ZESTAW SURÓWEK",
           "price": null
         }
       ]

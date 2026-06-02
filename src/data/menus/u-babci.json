@@ -3,17 +3,26 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-06-01T10:40:34.521Z",
+  "scrapedAt": "2026-06-02T10:29:45.897Z",
   "menus": [
     {
       "date": "2026-06-01",
       "items": [
         {
-          "name": "Krupnik",
+          "name": "Zestaw dnia (zupa i drugie danie)",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "items": [
+        {
+          "name": "krupnik",
           "price": null
         },
         {
-          "name": "Wątróbka z ziemniakami i surówką z kapusty kiszonej",
+          "name": "wątróbka z ziemniakami i surówką z kapusty kiszonej",
           "price": 33
         }
       ]
