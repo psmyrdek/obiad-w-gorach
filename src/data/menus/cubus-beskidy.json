@@ -3,8 +3,34 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-02T10:29:59.435Z",
+  "scrapedAt": "2026-06-03T10:31:55.658Z",
   "menus": [
+    {
+      "date": "2026-06-03",
+      "items": [
+        {
+          "name": "BARSZCZ ZABIELANY",
+          "price": null
+        },
+        {
+          "name": "POTRAWKA Z KURCZAKA, RYŻ, SURÓWKA Z PORA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "items": [
+        {
+          "name": "ZUPA PIECZARKOWA",
+          "price": null
+        },
+        {
+          "name": "ROLADKA ZE SCHABU (POR I BEKON), ZIEMNIAKI I ZESTAW SURÓWEK",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-06-01",
       "items": [
@@ -39,33 +65,7 @@
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA W PANIERCE PANKO , ZIEMNIAKI Z PIECA, MIZERIA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "items": [
-        {
-          "name": "ZUPA Z CUKINI",
-          "price": null
-        },
-        {
-          "name": "SCHAB W SOSIE MYŚLIWSKIM , KOPYTKA , CZERWONA KAPUSTA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "items": [
-        {
-          "name": "KREM POMIDOROWO-PAPRYKOWY",
-          "price": null
-        },
-        {
-          "name": "STEK DROBIOWY, ZIEMNIAKI PUREE, ZESTAW SURÓWEK",
+          "name": "FILET Z KURCZAKA W PANIERCE PANKO, ZIEMNIAKI Z PIECA, MIZERIA",
           "price": null
         }
       ]

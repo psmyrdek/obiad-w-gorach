@@ -3,8 +3,50 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-02T10:29:43.751Z",
+  "scrapedAt": "2026-06-03T10:31:36.226Z",
   "menus": [
+    {
+      "date": "2026-06-03",
+      "items": [
+        {
+          "name": "Burger wieprzowy z pieczarkami zapiekany mozzarellą, frytki lub ziemniaki, młoda kapusta lub zestaw surówek",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Ogórkowa z ryżem",
+          "price": 8
+        },
+        {
+          "name": "Jadło Drwala: dwa placki ziemniaczane z gulaszem wieprzowym plus zestaw surówek",
+          "price": 37
+        },
+        {
+          "name": "Kotlety warzywne 3 szt (wege), dip czosnkowy, frytki stekowe, surówki",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "items": [
+        {
+          "name": "Kotlet Pożarski drobiowy mielony łączony z serem żółtym, marchewka z groszkiem, ziemniaki lub frytki, młoda kapusta lub surówki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem szpinakowo-warzywny z grzanką",
+          "price": 8
+        },
+        {
+          "name": "Żeberko wieprzowe pieczone plus sos ciemny, ziemniaki, zestaw surówek lub mloda kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Kotlety brokułowe (wege), dip czosnkowy, frytki, surówki",
+          "price": 30
+        }
+      ]
+    },
     {
       "date": "2026-06-01",
       "items": [
@@ -21,34 +63,8 @@
           "price": 35
         },
         {
-          "name": "Gołąbki",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-05",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki stekowe lub ziemniaki, zestaw surówek",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia: Barszcz ukraiński",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "items": [
-        {
-          "name": "Bitka wieprzowa z boczkiem i cebulką zapiekana mozzarellą i dipem pomidorowym, frytki lub ziemniaki, surówki lub młoda kapusta",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pieczarkowa z kaszą wiejską",
-          "price": 8
+          "name": "Kotlety z kalafiora (wege), dip czosnkowy, frytki, surówki",
+          "price": 30
         }
       ]
     }
