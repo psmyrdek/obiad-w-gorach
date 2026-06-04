@@ -3,25 +3,25 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-03T10:31:36.226Z",
+  "scrapedAt": "2026-06-04T10:15:41.324Z",
   "menus": [
     {
       "date": "2026-06-03",
       "items": [
         {
-          "name": "Burger wieprzowy z pieczarkami zapiekany mozzarellą, frytki lub ziemniaki, młoda kapusta lub zestaw surówek",
+          "name": "Burger wieprzowy z pieczarkami zapiekany mozzarellą frytki lub ziemniaki młoda kapusta lub zestaw surówek",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Ogórkowa z ryżem",
+          "name": "Ogórkowa z ryżem",
           "price": 8
         },
         {
-          "name": "Jadło Drwala: dwa placki ziemniaczane z gulaszem wieprzowym plus zestaw surówek",
+          "name": "Jadło Drwala : dwa placki ziemniaczane z gulaszem wieprzowym plus zestaw surówek",
           "price": 37
         },
         {
-          "name": "Kotlety warzywne 3 szt (wege), dip czosnkowy, frytki stekowe, surówki",
+          "name": "Kotlety warzywne 3 szt dip czosnkowy, frytki stekowe, surówki",
           "price": 30
         }
       ]
@@ -30,11 +30,11 @@
       "date": "2026-06-02",
       "items": [
         {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z serem żółtym, marchewka z groszkiem, ziemniaki lub frytki, młoda kapusta lub surówki",
+          "name": "Kotlet Pożarski drobiowy mielony łączony z serem żółtym, marchewka z groszkiem ziemniaki lub frytki do wyboru młoda kapusta lub surówki",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem szpinakowo-warzywny z grzanką",
+          "name": "Krem szpinakowo-warzywny z grzanką",
           "price": 8
         },
         {
@@ -42,7 +42,7 @@
           "price": 40
         },
         {
-          "name": "Kotlety brokułowe (wege), dip czosnkowy, frytki, surówki",
+          "name": "Kotlety brokułowe dip czosnkowy frytki, surówki",
           "price": 30
         }
       ]
@@ -55,15 +55,15 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Pomidorowa",
           "price": 8
         },
         {
-          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany, ziemniaki, zestaw surówek",
+          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany ziemniaki, zestaw surówek",
           "price": 35
         },
         {
-          "name": "Kotlety z kalafiora (wege), dip czosnkowy, frytki, surówki",
+          "name": "Kotlety z kalafiora dip czosnkowy frytki, surówki",
           "price": 30
         }
       ]
