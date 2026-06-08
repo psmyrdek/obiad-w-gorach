@@ -3,69 +3,64 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-05T10:19:43.956Z",
+  "scrapedAt": "2026-06-08T10:31:02.688Z",
   "menus": [
     {
-      "date": "2026-06-03",
+      "date": "2026-06-08",
       "items": [
         {
-          "name": "BARSZCZ ZABIELANY",
+          "name": "Zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "POTRAWKA Z KURCZAKA, RYŻ, SURÓWKA Z PORA",
+          "name": "Medaliony drobiowe zapiekane z pomidorem i mozarellą, ziemniaki opiekane, coleslaw z czerwonej kapusty",
+          "price": null
+        },
+        {
+          "name": "Zupa ogórkowa",
+          "price": null
+        },
+        {
+          "name": "Polędwiczka wieprzowa w sosie z suszonych pomidorów z frytkami belgijskimi i mixem sałat z vinegret",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-02",
+      "date": "2026-06-09",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "Zupa pieczarkowa",
           "price": null
         },
         {
-          "name": "ROLADKA ZE SCHABU (POR I BEKON), ZIEMNIAKI I ZESTAW SURÓWEK",
+          "name": "Roladka ze schabu (por i bekon), ziemniaki i zestaw surówek",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-01",
+      "date": "2026-06-10",
       "items": [
         {
-          "name": "ZUPA OGÓRKOWA",
+          "name": "Barszcz zabielany",
           "price": null
         },
         {
-          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW Z FRYTKAMI BELGIJSKIMI I MIXEM SAŁAT Z VINEGRET",
+          "name": "Potrawka z kurczaka, ryż, surówka z pora",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-06-12",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "Zupa jarzynowa",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZIEMNIAKI I SURÓWKA Z KAPUSTY KISZONEJ",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "items": [
-        {
-          "name": "KREM Z PIECZONEGO KALAFIORA",
-          "price": null
-        },
-        {
-          "name": "FILET Z KURCZAKA W PANIERCE PANKO, ZIEMNIAKI Z PIECA, MIZERIA",
+          "name": "Morszczuk, ziemniaki i surówka z kapusty kiszonej",
           "price": null
         }
       ]

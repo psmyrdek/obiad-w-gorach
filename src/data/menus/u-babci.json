@@ -3,8 +3,21 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-06-05T10:19:31.046Z",
+  "scrapedAt": "2026-06-08T10:30:37.973Z",
   "menus": [
+    {
+      "date": "2026-06-08",
+      "items": [
+        {
+          "name": "Grochówka",
+          "price": null
+        },
+        {
+          "name": "Spaghetti",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-06-03",
       "items": [
@@ -22,11 +35,11 @@
       "date": "2026-05-28",
       "items": [
         {
-          "name": "krupnik",
-          "price": null
+          "name": "Krupnik",
+          "price": 33
         },
         {
-          "name": "wątróbka z ziemniakami i surówką z kapusty kiszonej",
+          "name": "Wątróbka z ziemniakami i surówką z kapusty kiszonej",
           "price": 33
         }
       ]
@@ -36,7 +49,7 @@
       "items": [
         {
           "name": "Zupa pieczarkowa",
-          "price": null
+          "price": 31
         },
         {
           "name": "Gołąbki tradycyjne",

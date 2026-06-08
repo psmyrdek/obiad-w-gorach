@@ -3,44 +3,77 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-05T10:19:26.341Z",
+  "scrapedAt": "2026-06-08T10:30:32.209Z",
   "menus": [
     {
-      "date": "2026-06-05",
+      "date": "2026-06-08",
       "items": [
         {
-          "name": "Danie dnia: Filet z morszczuka w panierce, frytki/ziemniaki, surówki",
+          "name": "Kotlet schabowy zaprawiany w ziołach i pomidorach, ziemniaki i młoda kapusta",
+          "price": 25
+        },
+        {
+          "name": "Pomidorowa",
+          "price": 8
+        },
+        {
+          "name": "Zupa dnia (do drugiego dania)",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "items": [
+        {
+          "name": "Filety z piersi kurczaka w sosie kurkowym, kluski śląskie lub ziemniaki, surówki lub kapusta młoda zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "items": [
+        {
+          "name": "Kieszonka schabowa nadziewana pieczarkami, frytki lub ziemniaki, surówki lub kapusta młoda zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki stekowe lub ziemniaki, zestaw surówek",
           "price": 34
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Pomidorowa",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-03",
-      "items": [
-        {
-          "name": "Danie dnia: Burger wieprzowy z pieczarkami zapiekany mozzarellą, frytki/ziemniaki, kapusta/surówki",
-          "price": 25
         },
         {
-          "name": "Zupa dnia: Ogórkowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "items": [
-        {
-          "name": "Danie dnia: Kotlet Pożarski drobiowy mielony z serem, marchewka z groszkiem, ziemniaki/frytki, kapusta/surówki",
-          "price": 25
+          "name": "Zupa dnia (do drugiego dania)",
+          "price": 3
         },
         {
-          "name": "Zupa dnia: Krem szpinakowo-warzywny z grzanką",
-          "price": 8
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
         }
       ]
     }
