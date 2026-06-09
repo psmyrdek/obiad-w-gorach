@@ -3,56 +3,18 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-08T10:30:32.209Z",
+  "scrapedAt": "2026-06-09T10:11:43.892Z",
   "menus": [
     {
       "date": "2026-06-08",
       "items": [
         {
-          "name": "Kotlet schabowy zaprawiany w ziołach i pomidorach, ziemniaki i młoda kapusta",
+          "name": "Kotlet schabowy zaprawiany w ziołach i pomidorach",
           "price": 25
         },
         {
-          "name": "Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia (do drugiego dania)",
-          "price": 3
-        }
-      ]
-    },
-    {
-      "date": "2026-06-07",
-      "items": [
-        {
-          "name": "Filety z piersi kurczaka w sosie kurkowym, kluski śląskie lub ziemniaki, surówki lub kapusta młoda zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
-          "price": 12
-        }
-      ]
-    },
-    {
-      "date": "2026-06-06",
-      "items": [
-        {
-          "name": "Kieszonka schabowa nadziewana pieczarkami, frytki lub ziemniaki, surówki lub kapusta młoda zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
-          "price": 12
         }
       ]
     },
@@ -60,20 +22,12 @@
       "date": "2026-06-12",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki stekowe lub ziemniaki, zestaw surówek",
+          "name": "Filet z morszczuka w panierce",
           "price": 34
         },
         {
-          "name": "Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia (do drugiego dania)",
-          "price": 3
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     }

@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-06-08T10:30:37.973Z",
+  "scrapedAt": "2026-06-09T10:11:46.672Z",
   "menus": [
     {
       "date": "2026-06-08",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-09",
       "items": [
         {
           "name": "Barszcz ukraiński",
@@ -28,28 +28,18 @@
         {
           "name": "Gołąbki",
           "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-05-28",
-      "items": [
+        },
         {
           "name": "Krupnik",
-          "price": 33
+          "price": null
         },
         {
           "name": "Wątróbka z ziemniakami i surówką z kapusty kiszonej",
           "price": 33
-        }
-      ]
-    },
-    {
-      "date": "2026-05-27",
-      "items": [
+        },
         {
           "name": "Zupa pieczarkowa",
-          "price": 31
+          "price": null
         },
         {
           "name": "Gołąbki tradycyjne",

@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-08T10:31:02.688Z",
+  "scrapedAt": "2026-06-09T10:11:59.709Z",
   "menus": [
     {
       "date": "2026-06-08",
@@ -27,19 +27,6 @@
       ]
     },
     {
-      "date": "2026-06-09",
-      "items": [
-        {
-          "name": "Zupa pieczarkowa",
-          "price": null
-        },
-        {
-          "name": "Roladka ze schabu (por i bekon), ziemniaki i zestaw surówek",
-          "price": null
-        }
-      ]
-    },
-    {
       "date": "2026-06-10",
       "items": [
         {
@@ -48,6 +35,19 @@
         },
         {
           "name": "Potrawka z kurczaka, ryż, surówka z pora",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "items": [
+        {
+          "name": "Zupa pieczarkowa",
+          "price": null
+        },
+        {
+          "name": "Roladka ze schabu (por i bekon), ziemniaki i zestaw surówek",
           "price": null
         }
       ]
