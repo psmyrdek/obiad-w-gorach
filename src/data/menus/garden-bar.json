@@ -3,27 +3,40 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-09T10:11:43.892Z",
+  "scrapedAt": "2026-06-10T10:23:21.079Z",
   "menus": [
     {
-      "date": "2026-06-08",
+      "date": "2026-06-10",
       "items": [
         {
-          "name": "Kotlet schabowy zaprawiany w ziołach i pomidorach",
+          "name": "Zraz drobiowy mielony w sosie koperkowo-chrzanowym, kasza gryczana lub ziemniaki, młoda kapusta zasmażana lub zestaw surówek",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia: Kapuśniak z ziemniakami",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-06-12",
+      "date": "2026-06-09",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce",
-          "price": 34
+          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, zestaw surówek lub kapusta młoda zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem pieczarkowo-ziemniaczany z grzanką",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "items": [
+        {
+          "name": "Kotlet schabowy zaprawiany w ziołach i pomidorach panierowany i smażony, ziemniaki i młoda kapusta lub frytki i zestaw surówek",
+          "price": 25
         },
         {
           "name": "Zupa dnia: Pomidorowa",
