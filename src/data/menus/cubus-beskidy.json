@@ -3,25 +3,38 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-10T10:23:46.073Z",
+  "scrapedAt": "2026-06-11T10:29:47.437Z",
   "menus": [
+    {
+      "date": "2026-06-11",
+      "items": [
+        {
+          "name": "Zupa koperkowa",
+          "price": null
+        },
+        {
+          "name": "Faszerowana papryka w sosie pomidorowo-paprykowym",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "items": [
         {
-          "name": "KWAŚNICA",
+          "name": "Kwaśnica",
           "price": null
         },
         {
-          "name": "SZWAJCAR DROBIOWY (SER I SZYNKA), ZIEMNIAKI PUREE I SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
+          "name": "Szwajcar drobiowy (ser i szynka), ziemniaki puree i sałatka z kapusty pekińskiej",
           "price": null
         },
         {
-          "name": "BARSZCZ ZABIELANY",
+          "name": "Barszcz zabielany",
           "price": null
         },
         {
-          "name": "POTRAWKA Z KURCZAKA, RYŻ , SURÓWKA Z PORA",
+          "name": "Potrawka z kurczaka, ryż, surówka z pora",
           "price": null
         }
       ]
@@ -30,19 +43,11 @@
       "date": "2026-06-09",
       "items": [
         {
-          "name": "KREM Z MARCHEWKI",
+          "name": "Krem z marchewki",
           "price": null
         },
         {
-          "name": "GULASZ WIEPRZOWY , KASZA GRYCZANA , BURAKI",
-          "price": null
-        },
-        {
-          "name": "ZUPA PIECZARKOWA",
-          "price": null
-        },
-        {
-          "name": "ROLADKA ZE SCHABU (POR I BEKON), ZIEMNIAKI I ZESTAW SURÓWEK",
+          "name": "Gulasz wieprzowy, kasza gryczana, buraki",
           "price": null
         }
       ]
@@ -51,11 +56,11 @@
       "date": "2026-06-08",
       "items": [
         {
-          "name": "ZUPA KALAFIOROWA",
+          "name": "Zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "MEDALIONY DROBIOWE ZAPIEKANE Z POMIDOREM I MOZARELLĄ , ZIEMNIAKI OPIEKANE , COLESLAW Z CZERWONEJ KAPUSTY",
+          "name": "Medaliony drobiowe zapiekane z pomidorem i mozarellą, ziemniaki opiekane, coleslaw z czerwonej kapusty",
           "price": null
         }
       ]
