@@ -3,18 +3,18 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-11T10:29:28.492Z",
+  "scrapedAt": "2026-06-12T10:27:49.735Z",
   "menus": [
     {
       "date": "2026-06-11",
       "items": [
         {
-          "name": "Grochowa z pieczywem",
-          "price": 8
+          "name": "Stek ze schabu z boczkiem i cebulą zapiekany z mozzarellą salsą pomidorową, młoda kapusta, młode ziemniaczki (lub frytki i surówki)",
+          "price": 25
         },
         {
-          "name": "Stek ze schabu z boczkiem i cebulą zapiekany z mozzarellą salsą pomidorową, młoda kapusta zasmażana, młode ziemniaczki",
-          "price": 25
+          "name": "Zupa dnia: Grochowa z pieczywem",
+          "price": 8
         }
       ]
     },
@@ -22,12 +22,12 @@
       "date": "2026-06-10",
       "items": [
         {
-          "name": "Kapuśniak z ziemniakami",
-          "price": 8
+          "name": "Zraz drobiowy mielony w sosie koperkowo-chrzanowym, kasza gryczana lub ziemniaki, młoda kapusta zasmażana (lub zestaw surówek)",
+          "price": 25
         },
         {
-          "name": "Zraz drobiowy mielony w sosie koperkowo-chrzanowym, kasza gryczana lub ziemniaki młoda kapusta zasmażana lub zestaw surówek",
-          "price": 25
+          "name": "Zupa dnia: Kapuśniak z ziemniakami",
+          "price": 8
         }
       ]
     },
@@ -35,12 +35,12 @@
       "date": "2026-06-09",
       "items": [
         {
-          "name": "Krem pieczarkowo-ziemniaczany z grzanką",
-          "price": 8
-        },
-        {
           "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, zestaw surówek lub kapusta młoda zasmażana",
           "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem pieczarkowo-ziemniaczany z grzanką",
+          "price": 8
         }
       ]
     },
@@ -48,12 +48,12 @@
       "date": "2026-06-08",
       "items": [
         {
-          "name": "Pomidorowa",
-          "price": 8
+          "name": "Kotlet schabowy zaprawiany w ziołach i pomidorach panierowany i smażony, ziemniaki i młoda kapusta (lub frytki i zestaw surówek)",
+          "price": 25
         },
         {
-          "name": "Kotlet schabowy zaprawiany w ziołach i pomidorach panierowany i smażony, ziemniaki i młoda kapusta",
-          "price": 25
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
         }
       ]
     }

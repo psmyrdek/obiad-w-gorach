@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-11T10:29:47.437Z",
+  "scrapedAt": "2026-06-12T10:28:04.525Z",
   "menus": [
     {
       "date": "2026-06-11",
       "items": [
         {
-          "name": "Zupa koperkowa",
+          "name": "ZUPA KOPERKOWA",
           "price": null
         },
         {
-          "name": "Faszerowana papryka w sosie pomidorowo-paprykowym",
+          "name": "FASZEROWANA PAPRYKA W SOSIE POMIDOROWO-PAPRYKOWYM",
           "price": null
         }
       ]
@@ -22,19 +22,19 @@
       "date": "2026-06-10",
       "items": [
         {
-          "name": "Kwaśnica",
+          "name": "KWAŚNICA",
           "price": null
         },
         {
-          "name": "Szwajcar drobiowy (ser i szynka), ziemniaki puree i sałatka z kapusty pekińskiej",
+          "name": "SZWAJCAR DROBIOWY (SER I SZYNKA), ZIEMNIAKI PUREE I SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
           "price": null
         },
         {
-          "name": "Barszcz zabielany",
+          "name": "BARSZCZ ZABIELANY",
           "price": null
         },
         {
-          "name": "Potrawka z kurczaka, ryż, surówka z pora",
+          "name": "POTRAWKA Z KURCZAKA, RYŻ , SURÓWKA Z PORA",
           "price": null
         }
       ]
@@ -43,11 +43,11 @@
       "date": "2026-06-09",
       "items": [
         {
-          "name": "Krem z marchewki",
+          "name": "KREM Z MARCHEWKI",
           "price": null
         },
         {
-          "name": "Gulasz wieprzowy, kasza gryczana, buraki",
+          "name": "GULASZ WIEPRZOWY , KASZA GRYCZANA , BURAKI",
           "price": null
         }
       ]
@@ -56,11 +56,11 @@
       "date": "2026-06-08",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
+          "name": "ZUPA KALAFIOROWA",
           "price": null
         },
         {
-          "name": "Medaliony drobiowe zapiekane z pomidorem i mozarellą, ziemniaki opiekane, coleslaw z czerwonej kapusty",
+          "name": "MEDALIONY DROBIOWE ZAPIEKANE Z POMIDOREM I MOZARELLĄ , ZIEMNIAKI OPIEKANE , COLESLAW Z CZERWONEJ KAPUSTY",
           "price": null
         }
       ]
