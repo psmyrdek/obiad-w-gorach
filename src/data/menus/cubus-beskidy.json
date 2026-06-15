@@ -3,10 +3,36 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-12T10:28:04.525Z",
+  "scrapedAt": "2026-06-15T10:58:58.891Z",
   "menus": [
     {
-      "date": "2026-06-11",
+      "date": "2026-06-15",
+      "items": [
+        {
+          "name": "ZUPA POMIDOROWA Z MAKARONEM",
+          "price": null
+        },
+        {
+          "name": "FILET Z KURCZAKA PANIEROWANY, ZIEMNIAKI I SAŁATKA Z POMIDORÓW",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "items": [
+        {
+          "name": "KWAŚNICA",
+          "price": null
+        },
+        {
+          "name": "SZWAJCAR DROBIOWY (SER I SZYNKA), ZIEMNIAKI PUREE I SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
       "items": [
         {
           "name": "ZUPA KOPERKOWA",
@@ -19,48 +45,14 @@
       ]
     },
     {
-      "date": "2026-06-10",
+      "date": "2026-06-19",
       "items": [
         {
-          "name": "KWAŚNICA",
+          "name": "BARSZCZ UKRAIŃSKI",
           "price": null
         },
         {
-          "name": "SZWAJCAR DROBIOWY (SER I SZYNKA), ZIEMNIAKI PUREE I SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
-          "price": null
-        },
-        {
-          "name": "BARSZCZ ZABIELANY",
-          "price": null
-        },
-        {
-          "name": "POTRAWKA Z KURCZAKA, RYŻ , SURÓWKA Z PORA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-09",
-      "items": [
-        {
-          "name": "KREM Z MARCHEWKI",
-          "price": null
-        },
-        {
-          "name": "GULASZ WIEPRZOWY , KASZA GRYCZANA , BURAKI",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-08",
-      "items": [
-        {
-          "name": "ZUPA KALAFIOROWA",
-          "price": null
-        },
-        {
-          "name": "MEDALIONY DROBIOWE ZAPIEKANE Z POMIDOREM I MOZARELLĄ , ZIEMNIAKI OPIEKANE , COLESLAW Z CZERWONEJ KAPUSTY",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KAPUSTĄ KISZONĄ",
           "price": null
         }
       ]
