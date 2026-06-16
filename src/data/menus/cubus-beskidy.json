@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-15T10:58:58.891Z",
+  "scrapedAt": "2026-06-16T10:34:23.720Z",
   "menus": [
     {
       "date": "2026-06-15",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA Z MAKARONEM",
+          "name": "Zupa pomidorowa z makaronem",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA PANIEROWANY, ZIEMNIAKI I SAŁATKA Z POMIDORÓW",
+          "name": "Filet z kurczaka panierowany, ziemniaki i sałatka z pomidorów",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-06-17",
       "items": [
         {
-          "name": "KWAŚNICA",
+          "name": "Kwaśnica",
           "price": null
         },
         {
-          "name": "SZWAJCAR DROBIOWY (SER I SZYNKA), ZIEMNIAKI PUREE I SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
+          "name": "Szwajcar drobiowy (ser i szynka), ziemniaki puree i sałatka z kapusty pekińskiej",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-06-18",
       "items": [
         {
-          "name": "ZUPA KOPERKOWA",
+          "name": "Zupa koperkowa",
           "price": null
         },
         {
-          "name": "FASZEROWANA PAPRYKA W SOSIE POMIDOROWO-PAPRYKOWYM",
+          "name": "Faszerowana papryka w sosie pomidorowo-paprykowym",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-06-19",
       "items": [
         {
-          "name": "BARSZCZ UKRAIŃSKI",
+          "name": "Barszcz ukraiński",
           "price": null
         },
         {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KAPUSTĄ KISZONĄ",
+          "name": "Morszczuk panierowany z ziemniakami i kapustą kiszoną",
           "price": null
         }
       ]

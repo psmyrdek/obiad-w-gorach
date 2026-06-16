@@ -3,13 +3,13 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-15T10:58:39.629Z",
+  "scrapedAt": "2026-06-16T10:34:04.926Z",
   "menus": [
     {
       "date": "2026-06-15",
       "items": [
         {
-          "name": "Kotlet schabowy z marynaty ziołowo-pomidorowej",
+          "name": "Kotlet schabowy z marynaty ziołowo-pomidorowej panierowany i smażony, młode ziemniaczki i młoda kapusta zasmażana",
           "price": 25
         },
         {
@@ -22,12 +22,16 @@
       "date": "2026-06-14",
       "items": [
         {
-          "name": "Zupa dnia: Rosół z makaronem",
+          "name": "Rosół z makaronem",
           "price": 10
         },
         {
-          "name": "Polędwiczki wieprzowe w sosie szparagowym z suszonymi pomidorami",
+          "name": "Polędwiczki wieprzowe w sosie szparagowym z suszonymi pomidorami, grillowanym boczkiem i parmezanem, kluski śląskie lub ziemniaki, surówki lub kapusta młoda zasmażana",
           "price": 40
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
         }
       ]
     },
@@ -35,12 +39,16 @@
       "date": "2026-06-13",
       "items": [
         {
-          "name": "Zupa dnia: Rosół z makaronem",
+          "name": "Rosół z makaronem",
           "price": 10
         },
         {
-          "name": "Devolaj z brokułami i mozzarellą",
+          "name": "Devolaj z brokułami i mozzarellą młode ziemniaki lub frytki, zestaw surówek lub młoda kapusta zasmażana",
           "price": 40
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
         }
       ]
     }

@@ -3,17 +3,17 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-06-15T10:58:44.607Z",
+  "scrapedAt": "2026-06-16T10:34:08.417Z",
   "menus": [
     {
       "date": "2026-06-15",
       "items": [
         {
-          "name": "krupnik",
+          "name": "Krupnik",
           "price": null
         },
         {
-          "name": "potrawka z kurczaka z ryżem",
+          "name": "Potrawka z kurczaka z ryżem",
           "price": null
         }
       ]
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-06-09",
+      "date": "2026-06-16",
       "items": [
         {
           "name": "Barszcz zabielany z jajkiem",
@@ -52,7 +52,7 @@
           "price": null
         },
         {
-          "name": "Pyszne spaghetti",
+          "name": "Spaghetti",
           "price": null
         }
       ]
