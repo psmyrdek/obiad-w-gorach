@@ -3,8 +3,34 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-06-16T10:34:08.417Z",
+  "scrapedAt": "2026-06-17T10:31:00.654Z",
   "menus": [
+    {
+      "date": "2026-06-17",
+      "items": [
+        {
+          "name": "Pieczarkowa",
+          "price": null
+        },
+        {
+          "name": "Klopsy w sosie i surówki",
+          "price": 34
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "items": [
+        {
+          "name": "Pomidorowa",
+          "price": null
+        },
+        {
+          "name": "Schabowy z ziemniakami i zasmażaną młodą kapustą",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "items": [
@@ -14,7 +40,7 @@
         },
         {
           "name": "Potrawka z kurczaka z ryżem",
-          "price": null
+          "price": 34
         }
       ]
     },
@@ -27,12 +53,12 @@
         },
         {
           "name": "Kotlet drobiowy w zestawie z ziemniakami i młodą kapustą zasmażaną",
-          "price": null
+          "price": 41
         }
       ]
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-06-09",
       "items": [
         {
           "name": "Barszcz zabielany z jajkiem",
@@ -40,19 +66,6 @@
         },
         {
           "name": "Stek z karczku + Ziemniaki + Surówki",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-08",
-      "items": [
-        {
-          "name": "Sycąca grochówka",
-          "price": null
-        },
-        {
-          "name": "Spaghetti",
           "price": null
         }
       ]

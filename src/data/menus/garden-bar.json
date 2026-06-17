@@ -3,52 +3,76 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-16T10:34:04.926Z",
+  "scrapedAt": "2026-06-17T10:30:56.318Z",
   "menus": [
+    {
+      "date": "2026-06-17",
+      "items": [
+        {
+          "name": "Kotlet drobiowy w cieście serowym z dodatkami",
+          "price": 25
+        },
+        {
+          "name": "Zupa Pieczarkowa",
+          "price": 8
+        },
+        {
+          "name": "Jadło Drwala (dwa placki ziemniaczane z gulaszem wieprzowym)",
+          "price": 37
+        },
+        {
+          "name": "Kotlety warzywne z dodatkami (Oferta wege)",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "items": [
+        {
+          "name": "Kotlet Pasterski wieprzowy z dodatkami",
+          "price": 25
+        },
+        {
+          "name": "Zupa Krem warzywny z grzanką",
+          "price": 8
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem (sztuka)",
+          "price": 12
+        },
+        {
+          "name": "Filet drobiowy z camembertem zapiekany z dodatkami",
+          "price": 35
+        },
+        {
+          "name": "Kotlety warzywne z dodatkami (Oferta wege)",
+          "price": 30
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "items": [
         {
-          "name": "Kotlet schabowy z marynaty ziołowo-pomidorowej panierowany i smażony, młode ziemniaczki i młoda kapusta zasmażana",
+          "name": "Kotlet schabowy z marynaty ziołowo-pomidorowej z dodatkami",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa Pomidorowa",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-14",
-      "items": [
-        {
-          "name": "Rosół z makaronem",
-          "price": 10
         },
         {
-          "name": "Polędwiczki wieprzowe w sosie szparagowym z suszonymi pomidorami, grillowanym boczkiem i parmezanem, kluski śląskie lub ziemniaki, surówki lub kapusta młoda zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "name": "Gołąbki z mięsem i ryżem (sztuka)",
           "price": 12
-        }
-      ]
-    },
-    {
-      "date": "2026-06-13",
-      "items": [
-        {
-          "name": "Rosół z makaronem",
-          "price": 10
         },
         {
-          "name": "Devolaj z brokułami i mozzarellą młode ziemniaki lub frytki, zestaw surówek lub młoda kapusta zasmażana",
-          "price": 40
+          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą z dodatkami",
+          "price": 35
         },
         {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
-          "price": 12
+          "name": "Kotlety z kalafiora z dodatkami (Oferta wege)",
+          "price": 30
         }
       ]
     }
