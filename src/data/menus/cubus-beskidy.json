@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-17T10:31:11.690Z",
+  "scrapedAt": "2026-06-18T10:29:06.345Z",
   "menus": [
     {
-      "date": "2026-06-15",
+      "date": "2026-06-17",
       "items": [
         {
-          "name": "Zupa pomidorowa z makaronem",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "Filet z kurczaka panierowany, ziemniaki i sałatka z pomidorów",
+          "name": "DRAMSTIK DROBIOWY, KULKI ZIEMNIACZANE I MIZERIA",
           "price": null
         }
       ]
@@ -22,24 +22,24 @@
       "date": "2026-06-16",
       "items": [
         {
-          "name": "Krem cebulowy",
+          "name": "KREM CEBULOWY",
           "price": null
         },
         {
-          "name": "Schab soute z pieczarkami i serem, frytki, surówka z białej kapusty i ogórka",
+          "name": "SCHAB SOUTE Z PIECZARKAMI I SEREM , FRYTKI , SURÓWKA Z BIAŁEJ KAPUSTY I OGÓRKA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-15",
       "items": [
         {
-          "name": "Kapuśniak",
+          "name": "ZUPA POMIDOROWA Z MAKARONEM",
           "price": null
         },
         {
-          "name": "Dramstik drobiowy, kulki ziemniaczane i mizeria",
+          "name": "FILET Z KURCZAKA PANIEROWANY, ZIEMNIAKI I SAŁATKA Z POMIDORÓW",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-06-19",
       "items": [
         {
-          "name": "Barszcz ukraiński",
+          "name": "BARSZCZ UKRAIŃSKI",
           "price": null
         },
         {
-          "name": "Morszczuk panierowany z ziemniakami i kapustą kiszoną",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNAKAMI I KAPUSTĄ KISZONĄ",
           "price": null
         }
       ]
