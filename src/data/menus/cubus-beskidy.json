@@ -3,8 +3,34 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-18T10:29:06.345Z",
+  "scrapedAt": "2026-06-19T10:29:08.181Z",
   "menus": [
+    {
+      "date": "2026-06-19",
+      "items": [
+        {
+          "name": "ZUPA JARZYNOWA",
+          "price": null
+        },
+        {
+          "name": "DORSZ W CIEŚCIE PIWNYM Z ZIEMNAKAMI Z PIECA I MIXEM SAŁAT Z SOSEM MIODOWO-MUSZTRADOWYM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "items": [
+        {
+          "name": "ŻUREK",
+          "price": null
+        },
+        {
+          "name": "KOTLET MIELONY , ZIEMNIAKI PUREE I KAPUSTA ZASMAŻANA",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "items": [
@@ -40,19 +66,6 @@
         },
         {
           "name": "FILET Z KURCZAKA PANIEROWANY, ZIEMNIAKI I SAŁATKA Z POMIDORÓW",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "items": [
-        {
-          "name": "BARSZCZ UKRAIŃSKI",
-          "price": null
-        },
-        {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNAKAMI I KAPUSTĄ KISZONĄ",
           "price": null
         }
       ]
