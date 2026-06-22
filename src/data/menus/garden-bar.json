@@ -3,44 +3,85 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-19T10:28:49.076Z",
+  "scrapedAt": "2026-06-22T10:49:06.492Z",
   "menus": [
     {
-      "date": "2026-06-19",
+      "date": "2026-06-22",
+      "items": [
+        {
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, młode ziemniaki i młoda kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa : Pomidorowa",
+          "price": 8
+        },
+        {
+          "name": "Pomidorowa (do dania drugiego)",
+          "price": 3
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "items": [
+        {
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Rosół z makaronem (do dania drugiego)",
+          "price": 5
+        },
+        {
+          "name": "Sznycle z indyka w sosie kurkowo-serowym parmezanem, młode ziemniaki lub kluski, zestaw surówek lub młoda kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "items": [
+        {
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Rosół z makaronem (do dania drugiego)",
+          "price": 5
+        },
+        {
+          "name": "Kotlet Góralski z serkiem wędzonym plus żurawina, młode ziemniaki lub frytki, zestaw surówek lub młoda kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
       "items": [
         {
           "name": "Filet z morszczuka w panierce, młode ziemniaki lub frytki, surówki lub kiszona zasmażana",
           "price": 34
         },
         {
-          "name": "Soljanka na wędzonce",
+          "name": "Zupa dnia : Soljanka na wędzonce",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "items": [
-        {
-          "name": "Schab po bolońsku zapiekany z mięsem bolognesse i mozzarellą, młoda kapusta zasmażana i młode ziemniaki",
-          "price": 25
         },
         {
-          "name": "Koperkowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-17",
-      "items": [
-        {
-          "name": "Kotlet drobiowy w cieście serowym, młode ziemniaki lub frytki, fasolka zielona z mini marchewką lub surówki albo młoda zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Pieczarkowa",
-          "price": 8
+          "name": "Soljanka na wędzonce (do dania drugiego)",
+          "price": 3
         }
       ]
     }

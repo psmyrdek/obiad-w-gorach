@@ -3,10 +3,31 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-06-19T10:28:54.042Z",
+  "scrapedAt": "2026-06-22T10:49:15.707Z",
   "menus": [
     {
-      "date": "2026-06-18",
+      "date": "2026-06-22",
+      "items": [
+        {
+          "name": "Domowa grochóweczka",
+          "price": null
+        },
+        {
+          "name": "Soczyste udko pieczone z ziemniaczkami i surówkami",
+          "price": 34
+        },
+        {
+          "name": "Krupnik",
+          "price": null
+        },
+        {
+          "name": "Potrawka z kurczaka z ryżem",
+          "price": 34
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
       "items": [
         {
           "name": "Barszcz ukraiński",
@@ -19,7 +40,7 @@
       ]
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-24",
       "items": [
         {
           "name": "Pieczarkowa",
@@ -32,7 +53,7 @@
       ]
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-06-23",
       "items": [
         {
           "name": "Pomidorowa",
@@ -41,32 +62,6 @@
         {
           "name": "Schabowy z ziemniakami i zasmażaną młodą kapustą",
           "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-06-15",
-      "items": [
-        {
-          "name": "Krupnik",
-          "price": null
-        },
-        {
-          "name": "Potrawka z kurczaka z ryżem",
-          "price": 34
-        }
-      ]
-    },
-    {
-      "date": "2026-06-10",
-      "items": [
-        {
-          "name": "Zupa brokułowa z makaronem",
-          "price": null
-        },
-        {
-          "name": "Kotlet drobiowy w zestawie z ziemniakami i młodą kapustą zasmażaną",
-          "price": 41
         }
       ]
     }

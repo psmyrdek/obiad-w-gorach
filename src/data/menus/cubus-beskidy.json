@@ -3,69 +3,69 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-19T10:29:08.181Z",
+  "scrapedAt": "2026-06-22T10:49:43.291Z",
   "menus": [
     {
-      "date": "2026-06-19",
+      "date": "2026-06-22",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "Zupa pieczarkowa",
           "price": null
         },
         {
-          "name": "DORSZ W CIEŚCIE PIWNYM Z ZIEMNAKAMI Z PIECA I MIXEM SAŁAT Z SOSEM MIODOWO-MUSZTRADOWYM",
+          "name": "Schabowy w panko, ziemniaki i mix sałat z sosem cezar",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-18",
+      "date": "2026-06-23",
       "items": [
         {
-          "name": "ŻUREK",
+          "name": "Krem cebulowy",
           "price": null
         },
         {
-          "name": "KOTLET MIELONY , ZIEMNIAKI PUREE I KAPUSTA ZASMAŻANA",
+          "name": "Schab soute z pieczarkami i serem , frytki , surówka z białej kapusty i ogórka",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-24",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "Kapuśniak",
           "price": null
         },
         {
-          "name": "DRAMSTIK DROBIOWY, KULKI ZIEMNIACZANE I MIZERIA",
+          "name": "Dramstik drobiowy, kulki ziemniaczane i mizeria",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-06-25",
       "items": [
         {
-          "name": "KREM CEBULOWY",
+          "name": "Żurek",
           "price": null
         },
         {
-          "name": "SCHAB SOUTE Z PIECZARKAMI I SEREM , FRYTKI , SURÓWKA Z BIAŁEJ KAPUSTY I OGÓRKA",
+          "name": "Kotlet mielony , ziemniaki puree i kapusta zasmażana",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-26",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA Z MAKARONEM",
+          "name": "Zupa jarzynowa",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA PANIEROWANY, ZIEMNIAKI I SAŁATKA Z POMIDORÓW",
+          "name": "Dorsz w cieście piwnym z ziemniakami z pieca i mixem sałat z sosem miodowo-musztardowym",
           "price": null
         }
       ]
