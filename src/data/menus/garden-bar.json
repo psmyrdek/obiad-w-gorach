@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-22T10:49:06.492Z",
+  "scrapedAt": "2026-06-23T10:13:13.484Z",
   "menus": [
     {
       "date": "2026-06-22",
@@ -13,58 +13,8 @@
           "price": 25
         },
         {
-          "name": "Zupa : Pomidorowa",
+          "name": "Pomidorowa",
           "price": 8
-        },
-        {
-          "name": "Pomidorowa (do dania drugiego)",
-          "price": 3
-        },
-        {
-          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane",
-          "price": 12
-        }
-      ]
-    },
-    {
-      "date": "2026-06-21",
-      "items": [
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rosół z makaronem (do dania drugiego)",
-          "price": 5
-        },
-        {
-          "name": "Sznycle z indyka w sosie kurkowo-serowym parmezanem, młode ziemniaki lub kluski, zestaw surówek lub młoda kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
-          "price": 12
-        }
-      ]
-    },
-    {
-      "date": "2026-06-20",
-      "items": [
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rosół z makaronem (do dania drugiego)",
-          "price": 5
-        },
-        {
-          "name": "Kotlet Góralski z serkiem wędzonym plus żurawina, młode ziemniaki lub frytki, zestaw surówek lub młoda kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
-          "price": 12
         }
       ]
     },
@@ -76,12 +26,8 @@
           "price": 34
         },
         {
-          "name": "Zupa dnia : Soljanka na wędzonce",
+          "name": "Soljanka na wędzonce",
           "price": 8
-        },
-        {
-          "name": "Soljanka na wędzonce (do dania drugiego)",
-          "price": 3
         }
       ]
     }
