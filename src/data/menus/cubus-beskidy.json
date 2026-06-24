@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-23T10:13:44.873Z",
+  "scrapedAt": "2026-06-24T10:03:13.255Z",
   "menus": [
     {
       "date": "2026-06-22",
       "items": [
         {
-          "name": "Zupa pieczarkowa",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "Schabowy w panko, ziemniaki i mix sałat z sosem cezar",
+          "name": "SCHABOWY W PANKO, ZIEMNIAKI I MIX SAŁAT Z SOSEM CEZAR",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-06-23",
       "items": [
         {
-          "name": "Krem cebulowy",
+          "name": "BARSZCZ ZABIELANY",
           "price": null
         },
         {
-          "name": "Schab soute z pieczarkami i serem, frytki, surówka z białej kapusty i ogórka",
+          "name": "KURCZAK W CIEŚCIE FRANCUSKIM Z SUSZONYMI POMIDORAMI I SZPINAKIEM , ZIEMNIAKI OPIEKANE I SURÓWKAZ PORA",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-06-24",
       "items": [
         {
-          "name": "Kapuśniak",
+          "name": "KRUPNIK",
           "price": null
         },
         {
-          "name": "Dramstik drobiowy, kulki ziemniaczane i mizeria",
+          "name": "STEK DROBIOWY , ZIEMNIAKI PUREE I SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-06-25",
       "items": [
         {
-          "name": "Żurek",
+          "name": "ŻUREK",
           "price": null
         },
         {
-          "name": "Kotlet mielony, ziemniaki puree i kapusta zasmażana",
+          "name": "KOTLET MIELONY , ZIEMNIAKI PUREE I KAPUSTA ZASMAŻANA",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-06-26",
       "items": [
         {
-          "name": "Zupa jarzynowa",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "Dorsz w cieście piwnym z ziemniakami z pieca i mixem sałat z sosem miodowo-musztardowym",
+          "name": "DORSZ W CIEŚCIE PIWNYM Z ZIEMNAKAMI Z PIECA I MIXEM SAŁAT Z SOSEM MIODOWO-MUSZTRADOWYM",
           "price": null
         }
       ]
