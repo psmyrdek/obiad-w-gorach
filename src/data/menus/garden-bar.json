@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-24T10:02:46.848Z",
+  "scrapedAt": "2026-06-25T10:01:26.818Z",
   "menus": [
     {
       "date": "2026-06-24",
@@ -13,7 +13,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Kalafiorowo-porowa",
+          "name": "Zupa dnia: Kalafiorowo-porowa",
           "price": 8
         }
       ]
@@ -26,7 +26,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Krem brokułowo- ziemniaczany z grzanką",
+          "name": "Zupa dnia: Krem brokułowo-ziemniaczany z grzanką",
           "price": 8
         }
       ]
@@ -39,21 +39,8 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-21",
-      "items": [
-        {
-          "name": "Sznycle z indyka w sosie kurkowo- serowym parmezanem, młode ziemniaki lub kluski, zestaw surówek lub młoda kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
         }
       ]
     }

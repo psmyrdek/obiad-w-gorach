@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-06-24T10:02:50.999Z",
+  "scrapedAt": "2026-06-25T10:01:31.063Z",
   "menus": [
     {
       "date": "2026-06-23",
@@ -22,17 +22,17 @@
       "date": "2026-06-22",
       "items": [
         {
-          "name": "Domowa, sycąca grochóweczka",
+          "name": "Domowa grochówka",
           "price": null
         },
         {
-          "name": "Soczyste udko pieczone podane z ziemniaczkami i chrupiącymi surówkami",
+          "name": "Soczyste udko pieczone z ziemniaczkami i surówkami",
           "price": 34
         }
       ]
     },
     {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "items": [
         {
           "name": "Barszcz ukraiński",
@@ -43,15 +43,20 @@
           "price": null
         },
         {
-          "name": "Pieczarkowa",
+          "name": "Zupa pieczarkowa",
           "price": null
         },
         {
           "name": "Klopsy w sosie i surówki",
           "price": 34
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "items": [
         {
-          "name": "Pomidorowa",
+          "name": "Zupa pomidorowa",
           "price": null
         },
         {
