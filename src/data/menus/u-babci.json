@@ -3,30 +3,17 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-06-25T10:01:31.063Z",
+  "scrapedAt": "2026-06-26T10:03:03.488Z",
   "menus": [
     {
-      "date": "2026-06-23",
+      "date": "2026-06-26",
       "items": [
         {
-          "name": "Zupa ogórkowa",
+          "name": "Pieczarkowa",
           "price": null
         },
         {
-          "name": "Schabowy z ziemniakami i surówkami",
-          "price": 41
-        }
-      ]
-    },
-    {
-      "date": "2026-06-22",
-      "items": [
-        {
-          "name": "Domowa grochówka",
-          "price": null
-        },
-        {
-          "name": "Soczyste udko pieczone z ziemniaczkami i surówkami",
+          "name": "Klopsy w sosie i surówki",
           "price": 34
         }
       ]
@@ -41,27 +28,32 @@
         {
           "name": "Łazanki",
           "price": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "items": [
         {
-          "name": "Zupa pieczarkowa",
+          "name": "Grochóweczka",
           "price": null
         },
         {
-          "name": "Klopsy w sosie i surówki",
+          "name": "Soczyste udko pieczone podane z ziemniaczkami i chrupiącymi surówkami",
           "price": 34
         }
       ]
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-06-23",
       "items": [
         {
-          "name": "Zupa pomidorowa",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "Schabowy z ziemniakami i zasmażaną młodą kapustą",
-          "price": null
+          "name": "Schabowy z ziemniakami i surówkami",
+          "price": 41
         }
       ]
     }

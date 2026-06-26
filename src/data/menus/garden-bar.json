@@ -3,8 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-25T10:01:26.818Z",
+  "scrapedAt": "2026-06-26T10:02:58.751Z",
   "menus": [
+    {
+      "date": "2026-06-26",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub młode ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia: Barszcz botwinkowy",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "items": [
+        {
+          "name": "Bitka ze schabu w sosie grzybowym, młode ziemniaki, zestaw surówek lub młoda kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Jarzynowa z makaronem",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-06-24",
       "items": [
@@ -27,19 +53,6 @@
         },
         {
           "name": "Zupa dnia: Krem brokułowo-ziemniaczany z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-22",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, młode ziemniaki i młoda kapusta zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]

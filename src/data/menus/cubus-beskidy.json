@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-25T10:01:45.484Z",
+  "scrapedAt": "2026-06-26T10:03:23.929Z",
   "menus": [
     {
       "date": "2026-06-22",
@@ -26,7 +26,7 @@
           "price": null
         },
         {
-          "name": "KURCZAK W CIEŚĆIE FRANCUSKIM Z SUSZONYMI POMIDORAMI I SZPINAKIEM , ZIEMNIAKI OPIEKANE I SUR\u0013WKA Z PORA",
+          "name": "KURCZAK W CIEŚCIE FRANCUSKIM Z SUSZONYMI POMIDORAMI I SZPINAKIEM , ZIEMNIAKI OPIEKANE I SURÓWKAZ PORA",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-06-25",
       "items": [
         {
-          "name": "ŻUREK",
+          "name": "ZUPA Z CUKINII",
           "price": null
         },
         {
-          "name": "KOTLET MIELONY , ZIEMNIAKI PUREE I KAPUSTA ZASMAŻANA",
+          "name": "MAKARON PENNE W SOSIE BOLOŃSKIM",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-06-26",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "KREM MARCHEWKOWO-DYNIOWY",
           "price": null
         },
         {
-          "name": "DORSZ W CIEŚĆIE PIWNYM Z ZIEMNAKAMI Z PIECA I MIXEM SAŁAT Z SOSEM MIODOWO-MUSZTRADOWYM",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KISZONĄ KAPUSTĄ",
           "price": null
         }
       ]
