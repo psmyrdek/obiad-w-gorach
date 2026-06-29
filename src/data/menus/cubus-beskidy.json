@@ -3,69 +3,69 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-26T10:03:23.929Z",
+  "scrapedAt": "2026-06-29T10:31:20.638Z",
   "menus": [
     {
-      "date": "2026-06-22",
+      "date": "2026-06-29",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "SCHABOWY W PANKO, ZIEMNIAKI I MIX SAŁAT Z SOSEM CEZAR",
+          "name": "Grillowany filet z kurczaka w sosie serowym, ryż, surówka z młodej kapusty",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-23",
+      "date": "2026-06-30",
       "items": [
         {
-          "name": "BARSZCZ ZABIELANY",
+          "name": "Barszcz zabielany",
           "price": null
         },
         {
-          "name": "KURCZAK W CIEŚCIE FRANCUSKIM Z SUSZONYMI POMIDORAMI I SZPINAKIEM , ZIEMNIAKI OPIEKANE I SURÓWKAZ PORA",
+          "name": "Kurczak w cieście francuskim z suszonymi pomidorami i szpinakiem, ziemniaki opiekane i surówka z pora",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-24",
+      "date": "2026-07-01",
       "items": [
         {
-          "name": "KRUPNIK",
+          "name": "Krupnik",
           "price": null
         },
         {
-          "name": "STEK DROBIOWY , ZIEMNIAKI PUREE I SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
+          "name": "Stek drobiowy, ziemniaki puree i sałatka z kapusty pekińskiej",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-25",
+      "date": "2026-07-02",
       "items": [
         {
-          "name": "ZUPA Z CUKINII",
+          "name": "Zupa z cukinii",
           "price": null
         },
         {
-          "name": "MAKARON PENNE W SOSIE BOLOŃSKIM",
+          "name": "Makaron penne w sosie bolońskim",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-26",
+      "date": "2026-07-03",
       "items": [
         {
-          "name": "KREM MARCHEWKOWO-DYNIOWY",
+          "name": "Krem marchewkowo-dyniowy",
           "price": null
         },
         {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KISZONĄ KAPUSTĄ",
+          "name": "Morszczuk panierowany z ziemniakami i kiszoną kapustą",
           "price": null
         }
       ]

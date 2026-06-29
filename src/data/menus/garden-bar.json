@@ -3,56 +3,30 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-26T10:02:58.751Z",
+  "scrapedAt": "2026-06-29T10:30:57.603Z",
   "menus": [
     {
-      "date": "2026-06-26",
+      "date": "2026-06-29",
+      "items": [
+        {
+          "name": "Kotlet schabowy doprawiany chrzanem i majonezem, ziemniaki, kapusta słodka zasmażana lub frytki czy zestaw surówek",
+          "price": 25
+        },
+        {
+          "name": "Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
       "items": [
         {
           "name": "Filet z morszczuka w panierce, frytki lub młode ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
           "price": 34
         },
         {
-          "name": "Zupa dnia: Barszcz botwinkowy",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "items": [
-        {
-          "name": "Bitka ze schabu w sosie grzybowym, młode ziemniaki, zestaw surówek lub młoda kapusta zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Jarzynowa z makaronem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-24",
-      "items": [
-        {
-          "name": "Frykadelka drobiowa mielona, ziemniaki młode i fasolka zielona z mini marchewką i masłem",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Kalafiorowo-porowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-23",
-      "items": [
-        {
-          "name": "Burger wieprzowy z pieczarkami i cebulką zapiekany z mozzarellą, frytki lub ziemniaki, surówki lub młoda kapusta zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem brokułowo-ziemniaczany z grzanką",
+          "name": "Barszcz botwinkowy",
           "price": 8
         }
       ]
