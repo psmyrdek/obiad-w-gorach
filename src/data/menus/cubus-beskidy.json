@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-06-30T10:11:23.595Z",
+  "scrapedAt": "2026-07-01T10:19:16.457Z",
   "menus": [
     {
       "date": "2026-06-29",
@@ -22,11 +22,11 @@
       "date": "2026-06-30",
       "items": [
         {
-          "name": "BARSZCZ ZABIELANY",
+          "name": "KREM POMIDOROWY",
           "price": null
         },
         {
-          "name": "KURCZAK W CIEŚCIE FRANCUSKIM Z SUSZONYMI POMIDORAMI I SZPINAKIEM , ZIEMNIAKI OPIEKANE I SURÓWKAZ PORA",
+          "name": "ROLADKA ZE SCHABU Z OSCYPKIEM I BOCZKIEM, ZIEMNIAKI I ZESTAW SURÓWEK",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-07-01",
       "items": [
         {
-          "name": "KRUPNIK",
+          "name": "ZUPA KALAFIOROWA",
           "price": null
         },
         {
-          "name": "STEK DROBIOWY , ZIEMNIAKI PUREE I SAŁATKA Z KAPUSTY PEKIŃSKIEJ",
+          "name": "SAŁATKA Z STRIPSAMI Z KURCZAKA",
           "price": null
         }
       ]

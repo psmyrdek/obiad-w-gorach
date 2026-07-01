@@ -3,8 +3,42 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-06-30T10:11:06.117Z",
+  "scrapedAt": "2026-07-01T10:18:47.218Z",
   "menus": [
+    {
+      "date": "2026-07-01",
+      "items": [
+        {
+          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Kapusniak z ziemniakami (solo)",
+          "price": 8
+        },
+        {
+          "name": "Zupa dnia: Kapusniak z ziemniakami (do dania drugiego)",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "items": [
+        {
+          "name": "Kotlet wieprzowy mielony, ziemniaki i marchewka z groszkiem",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem warzywny z grzanką (solo)",
+          "price": 8
+        },
+        {
+          "name": "Zupa dnia: Krem warzywny z grzanką (do dania drugiego)",
+          "price": 3
+        }
+      ]
+    },
     {
       "date": "2026-06-29",
       "items": [
@@ -13,57 +47,12 @@
           "price": 25
         },
         {
-          "name": "Pomidorowa (do dania drugiego)",
+          "name": "Zupa dnia: Pomidorowa (solo)",
+          "price": 8
+        },
+        {
+          "name": "Zupa dnia: Pomidorowa (do dania drugiego)",
           "price": 3
-        },
-        {
-          "name": "Pomidorowa (solo)",
-          "price": 8
-        },
-        {
-          "name": "Gołąbki z mięsem i ryżem w młodej kapuście",
-          "price": 12
-        },
-        {
-          "name": "Zupa dnia",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-30",
-      "items": [
-        {
-          "name": "Rosół z makaronem (do dania drugiego)",
-          "price": 5
-        },
-        {
-          "name": "Rosół z makaronem (solo)",
-          "price": 10
-        },
-        {
-          "name": "Polędwiczki wieprzowe w sosie myśliwskim, młode ziemniaki lub kluski, zestaw surówek lub młoda kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Kotlet Drwal ze schabu z pieczarkami z patelni i mozzarella, młode ziemniaki lub frytki, zestaw surówek lub młoda kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
-          "price": 12
-        },
-        {
-          "name": "Filet z morszczuka w panierce, frytki lub młode ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia : Barszcz botwinkowy (do dania drugiego)",
-          "price": 3
-        },
-        {
-          "name": "Zupa dnia : Barszcz botwinkowy (solo)",
-          "price": 8
         }
       ]
     }
