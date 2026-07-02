@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-01T10:19:16.457Z",
+  "scrapedAt": "2026-07-02T09:59:56.158Z",
   "menus": [
     {
       "date": "2026-06-29",
       "items": [
         {
-          "name": "ZUPA OGÓRKOWA",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "GRILLOWANY FILET Z KURCZAKA W SOSIE SEROWYM , RYŻ , SURÓWKA Z MŁODEJ KAPUSTY",
+          "name": "Grillowany filet z kurczaka w sosie serowym, ryż, surówka z młodej kapusty",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-06-30",
       "items": [
         {
-          "name": "KREM POMIDOROWY",
+          "name": "Krem pomidorowy",
           "price": null
         },
         {
-          "name": "ROLADKA ZE SCHABU Z OSCYPKIEM I BOCZKIEM, ZIEMNIAKI I ZESTAW SURÓWEK",
+          "name": "Roladka ze schabu z oscypkiem i boczkiem, ziemniaki i zestaw surówek",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-07-01",
       "items": [
         {
-          "name": "ZUPA KALAFIOROWA",
+          "name": "Zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "SAŁATKA Z STRIPSAMI Z KURCZAKA",
+          "name": "Sałatka z stripsami z kurczaka",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-07-02",
       "items": [
         {
-          "name": "ZUPA Z CUKINII",
+          "name": "Zupa z cukinii",
           "price": null
         },
         {
-          "name": "MAKARON PENNE W SOSIE BOLOŃSKIM",
+          "name": "Makaron penne w sosie bolońskim",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-07-03",
       "items": [
         {
-          "name": "KREM MARCHEWKOWO-DYNIOWY",
+          "name": "Krem marchewkowo-dyniowy",
           "price": null
         },
         {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KISZONĄ KAPUSTĄ",
+          "name": "Morszczuk panierowany z ziemniakami i kiszoną kapustą",
           "price": null
         }
       ]
