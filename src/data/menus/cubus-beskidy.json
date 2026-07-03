@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-02T09:59:56.158Z",
+  "scrapedAt": "2026-07-03T11:23:24.640Z",
   "menus": [
     {
       "date": "2026-06-29",
       "items": [
         {
-          "name": "Zupa ogórkowa",
+          "name": "ZUPA OGÓRKOWA",
           "price": null
         },
         {
-          "name": "Grillowany filet z kurczaka w sosie serowym, ryż, surówka z młodej kapusty",
+          "name": "GRILLOWANY FILET Z KURCZAKA W SOSIE SEROWYM ,RYŻ , SURÓWKA Z MŁODEJ KAPUSTY",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-06-30",
       "items": [
         {
-          "name": "Krem pomidorowy",
+          "name": "KREM POMIDOROWY",
           "price": null
         },
         {
-          "name": "Roladka ze schabu z oscypkiem i boczkiem, ziemniaki i zestaw surówek",
+          "name": "ROLADKA ZE SCHABU Z OSCYPKIEM I BOCZKIEM, ZIEMNIAKI I ZESTAW SURÓWEK",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-07-01",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
+          "name": "ZUPA KALAFIOROWA",
           "price": null
         },
         {
-          "name": "Sałatka z stripsami z kurczaka",
+          "name": "SAŁATKA Z STRIPSAMI Z KURCZAKA",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-07-02",
       "items": [
         {
-          "name": "Zupa z cukinii",
+          "name": "ZUPA KOPERKOWA",
           "price": null
         },
         {
-          "name": "Makaron penne w sosie bolońskim",
+          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM, KLUSKI ŚLĄSKIE , BURAKI",
           "price": null
         }
       ]
@@ -61,11 +61,15 @@
       "date": "2026-07-03",
       "items": [
         {
-          "name": "Krem marchewkowo-dyniowy",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "Morszczuk panierowany z ziemniakami i kiszoną kapustą",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNAKAMI I KAPUSTĄ KISZONĄ",
+          "price": null
+        },
+        {
+          "name": "NALEŚNIKI Z SEREM (2szt)",
           "price": null
         }
       ]

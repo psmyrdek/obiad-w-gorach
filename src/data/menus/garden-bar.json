@@ -3,17 +3,43 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-02T09:59:39.736Z",
+  "scrapedAt": "2026-07-03T11:22:49.867Z",
   "menus": [
+    {
+      "date": "2026-07-03",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, młode ziemniaki lub frytki, surówki lub kiszona zasmażana (Zestaw dnia)",
+          "price": 34
+        },
+        {
+          "name": "Pieczarkowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "items": [
+        {
+          "name": "Filet z udźca kurczaka po hawajsku zapiekany z ananasem i serem plus żurawina (Danie na czwartek)",
+          "price": 25
+        },
+        {
+          "name": "Ogórkowa z ryżem",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-07-01",
       "items": [
         {
-          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
+          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana (Oferta dnia)",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Kapusniak z ziemniakami",
+          "name": "Kapuśniak z ziemniakami",
           "price": 8
         }
       ]
@@ -22,38 +48,12 @@
       "date": "2026-06-30",
       "items": [
         {
-          "name": "Kotlet wieprzowy mielony, ziemniaki i marchewka z groszkiem",
+          "name": "Kotlet wieprzowy mielony, ziemniaki i marchewka z groszkiem (Oferta na wtorek)",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem warzywny z grzanką",
+          "name": "Krem warzywny z grzanką",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-29",
-      "items": [
-        {
-          "name": "Kotlet schabowy doprawiany chrzanem i majonezem, ziemniaki, kapusta słodka zasmażana lub frytki czy zestaw surówek",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-06-28",
-      "items": [
-        {
-          "name": "Polędwiczki wieprzowe w sosie myśliwskim, młode ziemniaki lub kluski, zestaw surówek lub młoda kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem",
-          "price": 10
         }
       ]
     }
