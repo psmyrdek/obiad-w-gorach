@@ -3,73 +3,73 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-03T11:23:24.640Z",
+  "scrapedAt": "2026-07-06T12:33:41.915Z",
   "menus": [
     {
-      "date": "2026-06-29",
+      "date": "2026-07-06",
       "items": [
         {
-          "name": "ZUPA OGÓRKOWA",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "GRILLOWANY FILET Z KURCZAKA W SOSIE SEROWYM ,RYŻ , SURÓWKA Z MŁODEJ KAPUSTY",
+          "name": "Grillowany filet z kurczaka w sosie serowym, ryż, surówka z młodej kapusty",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-06-30",
+      "date": "2026-07-07",
       "items": [
         {
-          "name": "KREM POMIDOROWY",
+          "name": "Krem pomidorowy",
           "price": null
         },
         {
-          "name": "ROLADKA ZE SCHABU Z OSCYPKIEM I BOCZKIEM, ZIEMNIAKI I ZESTAW SURÓWEK",
+          "name": "Roladka ze schabu z oscypkiem i boczkiem, ziemniaki i zestaw surówek",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-08",
       "items": [
         {
-          "name": "ZUPA KALAFIOROWA",
+          "name": "Zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "SAŁATKA Z STRIPSAMI Z KURCZAKA",
+          "name": "Sałatka z stripsami z kurczaka",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-02",
+      "date": "2026-07-09",
       "items": [
         {
-          "name": "ZUPA KOPERKOWA",
+          "name": "Zupa koperkowa",
           "price": null
         },
         {
-          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM, KLUSKI ŚLĄSKIE , BURAKI",
+          "name": "Pieczeń wieprzowa w sosie własnym, kluski śląskie, buraki",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-03",
+      "date": "2026-07-10",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "Kapuśniak",
           "price": null
         },
         {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNAKAMI I KAPUSTĄ KISZONĄ",
+          "name": "Morszczuk panierowany z ziemniakami i kapustą kiszoną",
           "price": null
         },
         {
-          "name": "NALEŚNIKI Z SEREM (2szt)",
+          "name": "Naleśniki z serem (2szt)",
           "price": null
         }
       ]

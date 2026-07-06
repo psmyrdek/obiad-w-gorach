@@ -3,56 +3,56 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-03T11:22:49.867Z",
+  "scrapedAt": "2026-07-06T12:33:23.270Z",
   "menus": [
     {
-      "date": "2026-07-03",
+      "date": "2026-07-10",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, młode ziemniaki lub frytki, surówki lub kiszona zasmażana (Zestaw dnia)",
+          "name": "Filet z morszczuka w panierce, ziemniaki lub frytki, surówki",
           "price": 34
         },
         {
-          "name": "Pieczarkowa",
+          "name": "Zupa dnia: Pieczarkowa",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-07-02",
+      "date": "2026-07-09",
       "items": [
         {
-          "name": "Filet z udźca kurczaka po hawajsku zapiekany z ananasem i serem plus żurawina (Danie na czwartek)",
+          "name": "Filet z udźca kurczaka po hawajsku zapiekany z ananasem i serem plus żurawina",
           "price": 25
         },
         {
-          "name": "Ogórkowa z ryżem",
+          "name": "Zupa dnia: Ogórkowa z ryżem",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-08",
       "items": [
         {
-          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana (Oferta dnia)",
+          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, surówki",
           "price": 25
         },
         {
-          "name": "Kapuśniak z ziemniakami",
+          "name": "Zupa dnia: Kapuśniak z ziemniakami",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-06-30",
+      "date": "2026-07-07",
       "items": [
         {
-          "name": "Kotlet wieprzowy mielony, ziemniaki i marchewka z groszkiem (Oferta na wtorek)",
+          "name": "Kotlet wieprzowy mielony, ziemniaki i marchewka z groszkiem",
           "price": 25
         },
         {
-          "name": "Krem warzywny z grzanką",
+          "name": "Zupa dnia: Krem warzywny z grzanką",
           "price": 8
         }
       ]
