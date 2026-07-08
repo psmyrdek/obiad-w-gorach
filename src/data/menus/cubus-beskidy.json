@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-07T11:35:43.127Z",
+  "scrapedAt": "2026-07-08T10:52:55.747Z",
   "menus": [
     {
-      "date": "2026-07-06",
+      "date": "2026-07-08",
       "items": [
         {
-          "name": "Zupa ogórkowa",
+          "name": "ZUPA OGÓRKOWA",
           "price": null
         },
         {
-          "name": "Grillowany filet z kurczaka w sosie serowym, ryż, surówka z młodej kapusty",
+          "name": "ROLADKA Z KURCZAKA ZE SZPINAKIEM W OMLECIE Z ZIEMNAKAMI I MIXEM SAŁAT Z VINEGRET",
           "price": null
         }
       ]
@@ -22,37 +22,24 @@
       "date": "2026-07-07",
       "items": [
         {
-          "name": "Krem pomidorowy",
+          "name": "KREM Z KALAFIORA",
           "price": null
         },
         {
-          "name": "Roladka ze schabu z oscypkiem i boczkiem, ziemniaki i zestaw surówek",
+          "name": "ŻEBERKO WIEPRZOWE W BBQ , ZIEMNIAKI Z PIECA , MŁODA KAPUSTA ZASMAŻANA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-08",
+      "date": "2026-07-06",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
+          "name": "BARSZCZ UKRAIŃSKI",
           "price": null
         },
         {
-          "name": "Sałatka z stripsami z kurczaka",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "items": [
-        {
-          "name": "Zupa koperkowa",
-          "price": null
-        },
-        {
-          "name": "Pieczeń wieprzowa w sosie własnym, kluski śląskie, buraki",
+          "name": "FILET Z KURCZAKA ZAPIEKANY Z BROKUŁEM I MOZARELLĄ , FRYTKI,COLESLAW",
           "price": null
         }
       ]
@@ -61,15 +48,28 @@
       "date": "2026-07-10",
       "items": [
         {
-          "name": "Kapuśniak",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "Morszczuk panierowany z ziemniakami i kapustą kiszoną",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNAKAMI I KAPUSTĄ KISZONĄ",
           "price": null
         },
         {
-          "name": "Naleśniki z serem (2szt)",
+          "name": "NALEŚNIKI Z SEREM (2szt)",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "items": [
+        {
+          "name": "ZUPA KOPERKOWA",
+          "price": null
+        },
+        {
+          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM,KLUSKI ŚLĄSKIE , BURAKI",
           "price": null
         }
       ]
