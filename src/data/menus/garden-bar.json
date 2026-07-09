@@ -3,8 +3,21 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-08T10:52:36.068Z",
+  "scrapedAt": "2026-07-09T11:42:00.912Z",
   "menus": [
+    {
+      "date": "2026-07-09",
+      "items": [
+        {
+          "name": "Tortilla z kurczakiem i brokułami dip czosnkowy, frytki, surówki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Szpinakowo-serowa",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-07-08",
       "items": [
@@ -35,12 +48,25 @@
       "date": "2026-07-06",
       "items": [
         {
-          "name": "Kotlet schabowy z marynaty mleka i cebuli, ziemniaki lub frytki, słodka kapusta zasmażana lub zestaw surówek",
+          "name": "Kotlet schabowy z marynaty mleka i cebuli ziemniaki lub frytki, słodka kapusta zasmażana lub zestaw surówek",
           "price": 25
         },
         {
           "name": "Zupa dnia: Pomidorowa",
           "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "items": [
+        {
+          "name": "Zestaw dnia: Rolada drobiowa z szynką i serem w sosie serowo-śmietanowym ziemniaki lub kluski, zestaw surówek lub słodka kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 10
         }
       ]
     }

@@ -3,8 +3,25 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-08T10:52:55.747Z",
+  "scrapedAt": "2026-07-09T11:42:18.850Z",
   "menus": [
+    {
+      "date": "2026-07-09",
+      "items": [
+        {
+          "name": "ZUPA JARZYNOWA",
+          "price": null
+        },
+        {
+          "name": "KOTLET DEVOLAY Z ZIEMNIAKAMI I MIZERIĄ",
+          "price": null
+        },
+        {
+          "name": "SAŁATKA Z KURCZAKIEM Z SOSEM CURRY",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-07-08",
       "items": [
@@ -52,24 +69,11 @@
           "price": null
         },
         {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNAKAMI I KAPUSTĄ KISZONĄ",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KAPUSTĄ KISZONĄ",
           "price": null
         },
         {
           "name": "NALEŚNIKI Z SEREM (2szt)",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "items": [
-        {
-          "name": "ZUPA KOPERKOWA",
-          "price": null
-        },
-        {
-          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM,KLUSKI ŚLĄSKIE , BURAKI",
           "price": null
         }
       ]
