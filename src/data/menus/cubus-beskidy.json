@@ -3,21 +3,30 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-09T11:42:18.850Z",
+  "scrapedAt": "2026-07-10T11:40:11.110Z",
   "menus": [
     {
-      "date": "2026-07-09",
+      "date": "2026-07-06",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "BARSZCZ UKRAIŃSKI",
           "price": null
         },
         {
-          "name": "KOTLET DEVOLAY Z ZIEMNIAKAMI I MIZERIĄ",
+          "name": "FILET Z KURCZAKA ZAPIEKANY Z BROKUŁEM I MOZARELLĄ, FRYTKI, COLESLAW",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "items": [
+        {
+          "name": "KREM Z KALAFIORA",
           "price": null
         },
         {
-          "name": "SAŁATKA Z KURCZAKIEM Z SOSEM CURRY",
+          "name": "ŻEBERKO WIEPRZOWE W BBQ, ZIEMNIAKI Z PIECA, MŁODA KAPUSTA ZASMAŻANA",
           "price": null
         }
       ]
@@ -36,27 +45,18 @@
       ]
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-09",
       "items": [
         {
-          "name": "KREM Z KALAFIORA",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "ŻEBERKO WIEPRZOWE W BBQ , ZIEMNIAKI Z PIECA , MŁODA KAPUSTA ZASMAŻANA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-07-06",
-      "items": [
-        {
-          "name": "BARSZCZ UKRAIŃSKI",
+          "name": "KOTLET DEVOLAY Z ZIEMNIAKAMI I MIZERIĄ",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA ZAPIEKANY Z BROKUŁEM I MOZARELLĄ , FRYTKI,COLESLAW",
+          "name": "SAŁATKA Z KURCZAKIEM Z SOSEM CURRY",
           "price": null
         }
       ]
@@ -69,7 +69,7 @@
           "price": null
         },
         {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KAPUSTĄ KISZONĄ",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNAKAMI I KAPUSTĄ KISZONĄ",
           "price": null
         },
         {

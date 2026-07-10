@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-09T11:42:00.912Z",
+  "scrapedAt": "2026-07-10T11:39:55.321Z",
   "menus": [
     {
       "date": "2026-07-09",
@@ -61,12 +61,12 @@
       "date": "2026-07-05",
       "items": [
         {
-          "name": "Zestaw dnia: Rolada drobiowa z szynką i serem w sosie serowo-śmietanowym ziemniaki lub kluski, zestaw surówek lub słodka kapusta zasmażana",
-          "price": 40
-        },
-        {
           "name": "Zupa dnia: Rosół z makaronem",
           "price": 10
+        },
+        {
+          "name": "Rolada drobiowa z szynką i serem w sosie serowo-śmietanowym ziemniaki lub kluski, zestaw surówek lub słodka kapusta zasmażana",
+          "price": 40
         }
       ]
     }

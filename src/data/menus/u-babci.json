@@ -3,13 +3,13 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-07-09T11:42:05.954Z",
+  "scrapedAt": "2026-07-10T11:39:58.557Z",
   "menus": [
     {
       "date": "2026-07-09",
       "items": [
         {
-          "name": "letnia, gęsta zupa z fasolki szparagowej",
+          "name": "zupa z fasolki szparagowej",
           "price": null
         },
         {
@@ -35,7 +35,7 @@
       "date": "2026-07-06",
       "items": [
         {
-          "name": "gęsta, domowa pomidorowa",
+          "name": "domowa pomidorowa (z makaronem czy ryżem)",
           "price": null
         },
         {
@@ -48,7 +48,7 @@
       "date": "2026-07-10",
       "items": [
         {
-          "name": "Gorąca, gęsta kalafiorowa",
+          "name": "gęsta kalafiorowa",
           "price": null
         },
         {
