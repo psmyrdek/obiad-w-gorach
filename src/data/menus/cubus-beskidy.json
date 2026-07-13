@@ -3,36 +3,36 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-10T11:40:11.110Z",
+  "scrapedAt": "2026-07-13T11:47:24.101Z",
   "menus": [
     {
-      "date": "2026-07-06",
+      "date": "2026-07-13",
       "items": [
         {
-          "name": "BARSZCZ UKRAIŃSKI",
+          "name": "KWAŚNICA",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA ZAPIEKANY Z BROKUŁEM I MOZARELLĄ, FRYTKI, COLESLAW",
+          "name": "UDKO Z KURCZAKA, FRYTKI I WIOSENNA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-14",
       "items": [
         {
           "name": "KREM Z KALAFIORA",
           "price": null
         },
         {
-          "name": "ŻEBERKO WIEPRZOWE W BBQ, ZIEMNIAKI Z PIECA, MŁODA KAPUSTA ZASMAŻANA",
+          "name": "ŻEBERKO WIEPRZOWE W BBQ , ZIEMNIAKI Z PIECA , MŁODA KAPUSTA ZASMAŻANA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-08",
+      "date": "2026-07-15",
       "items": [
         {
           "name": "ZUPA OGÓRKOWA",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "date": "2026-07-09",
+      "date": "2026-07-16",
       "items": [
         {
           "name": "ZUPA JARZYNOWA",
@@ -62,18 +62,14 @@
       ]
     },
     {
-      "date": "2026-07-10",
+      "date": "2026-07-17",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "KREM Z MARCHEWKI",
           "price": null
         },
         {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNAKAMI I KAPUSTĄ KISZONĄ",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z SEREM (2szt)",
+          "name": "SANDACZ W SOSIE POROWYM ,GNOCCHI Z BURAKA , SURÓWKA Z BIAŁEJ KAPUSTY Z OGÓRKIEM",
           "price": null
         }
       ]
