@@ -3,37 +3,55 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-07-14T10:27:41.989Z",
+  "scrapedAt": "2026-07-15T10:40:10.251Z",
   "menus": [
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "name": "Zupa: fasolkowa",
+          "price": null
+        },
+        {
+          "name": "Rosół",
+          "price": null
+        },
+        {
+          "name": "Dania dnia: dorsz + ziemniaki + surówki",
+          "price": 35
+        },
+        {
+          "name": "Zupa: Gorąca, gęsta kalafiorowa",
+          "price": null
+        },
+        {
+          "name": "Dania dnia: Chrupiący, soczysty dorsz w towarzystwie młodych ziemniaczków i zestawu domowych surówek",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "items": [
+        {
+          "name": "Zupa: letnia, gęsta zupa z fasolki szparagowej",
+          "price": null
+        },
+        {
+          "name": "Dania dnia: domowa wątróbka z cebulką, tona złocistych ziemniaków + chrupiące surówki",
+          "price": 33
+        }
+      ]
+    },
     {
       "date": "2026-07-14",
       "items": [
         {
-          "name": "fasolkowa",
+          "name": "Zupa: Domowy, gęsty krupnik",
           "price": null
         },
         {
-          "name": "klasyczny rosół",
-          "price": null
-        },
-        {
-          "name": "dorsz + ziemniaki + surówki",
-          "price": 35
-        },
-        {
-          "name": "letnia, gęsta zupa z fasolki szparagowej",
-          "price": null
-        },
-        {
-          "name": "domowa wątróbka z cebulką, tona złocistych ziemniaków + chrupiące surówki",
-          "price": 33
-        },
-        {
-          "name": "Domowy, gęsty krupnik",
-          "price": null
-        },
-        {
-          "name": "Soczysta pieczeń w sosie własnym, ziemniaki oraz zestaw świeżych surówek",
+          "name": "Dania dnia: Soczysta pieczeń w sosie własnym, ziemniaki oraz zestaw świeżych surówek",
           "price": 35
         }
       ]
@@ -42,25 +60,12 @@
       "date": "2026-07-13",
       "items": [
         {
-          "name": "gęsta, domowa pomidorowa",
+          "name": "Zupa: gęsta, domowa pomidorowa",
           "price": null
         },
         {
-          "name": "soczyste, mięciutkie klopsy w sosie własnym, puszyste ziemniaki i chrupiące surówki",
+          "name": "Dania dnia: soczyste, mięciutkie klopsy w sosie własnym, puszyste ziemniaki i chrupiące surówki",
           "price": 36
-        }
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "items": [
-        {
-          "name": "Gorąca, gęsta kalafiorowa",
-          "price": null
-        },
-        {
-          "name": "Chrupiący, soczysty dorsz w towarzystwie młodych ziemniaczków i zestawu domowych surówek",
-          "price": 35
         }
       ]
     }

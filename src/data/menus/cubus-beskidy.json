@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-14T10:27:54.560Z",
+  "scrapedAt": "2026-07-15T10:40:23.121Z",
   "menus": [
     {
       "date": "2026-07-13",
@@ -22,11 +22,11 @@
       "date": "2026-07-14",
       "items": [
         {
-          "name": "KREM Z KALAFIORA",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "ŻEBERKO WIEPRZOWE W BBQ , ZIEMNIAKI Z PIECA , MŁODA KAPUSTA ZASMAŻANA",
+          "name": "KOTLET MIELONY, ZIEMNIAKI I ZASMAŻANA Z MŁODEJ KAPUSTY",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-07-15",
       "items": [
         {
-          "name": "ZUPA OGÓRKOWA",
+          "name": "KREM Z KUKURYDZY",
           "price": null
         },
         {
-          "name": "ROLADKA Z KURCZAKA ZE SZPINAKIEM W OMLECIE Z ZIEMNAKAMI I MIXEM SAŁAT Z VINEGRET",
+          "name": "NALEŚNIKI ZE SZPINAKIEM I KURCZAKIEM W SOSIE BESZAMELOWYM",
           "price": null
         }
       ]
