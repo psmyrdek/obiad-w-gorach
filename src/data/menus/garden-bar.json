@@ -3,13 +3,26 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-15T10:40:04.751Z",
+  "scrapedAt": "2026-07-16T10:46:53.734Z",
   "menus": [
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "name": "Bitka ze schabu w sosie pieczarkowym",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Kalafiorowo-porowa",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-07-15",
       "items": [
         {
-          "name": "Zraz drobiowy mielony w sosie koperkowo-chrzanowym, kasza gryczana lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "name": "Zraz drobiowy mielony w sosie koperkowo-chrzanowym",
           "price": 25
         },
         {
@@ -22,7 +35,7 @@
       "date": "2026-07-14",
       "items": [
         {
-          "name": "Kotlet szarpany drobiowy w cieście serowym z warzywami, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
+          "name": "Kotlet szarpany drobiowy w cieście serowym z warzywami",
           "price": 25
         },
         {
@@ -35,7 +48,7 @@
       "date": "2026-07-13",
       "items": [
         {
-          "name": "Kotlet schabowy z marynaty majonezowo-ziołowej, ziemniaki, zestaw surówek",
+          "name": "Kotlet schabowy z marynaty majonezowo-ziołowej",
           "price": 25
         },
         {

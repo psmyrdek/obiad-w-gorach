@@ -3,30 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-15T10:40:23.121Z",
+  "scrapedAt": "2026-07-16T10:47:11.780Z",
   "menus": [
     {
-      "date": "2026-07-13",
+      "date": "2026-07-16",
       "items": [
         {
-          "name": "KWAŚNICA",
+          "name": "ZUPA POROWA",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA, FRYTKI I WIOSENNA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-07-14",
-      "items": [
-        {
-          "name": "ZUPA PIECZARKOWA",
-          "price": null
-        },
-        {
-          "name": "KOTLET MIELONY, ZIEMNIAKI I ZASMAŻANA Z MŁODEJ KAPUSTY",
+          "name": "FILET Z KURCZAKA W PANIERCE PANKO , ZIEMNIAKI OPIEKANE , ZESTAW SURÓWEK",
           "price": null
         }
       ]
@@ -45,18 +32,27 @@
       ]
     },
     {
-      "date": "2026-07-16",
+      "date": "2026-07-14",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "KOTLET DEVOLAY Z ZIEMNIAKAMI I MIZERIĄ",
+          "name": "KOTLET MIELONY, ZIEMNIAKI I ZASMAŻANA Z MŁODEJ KAPUSTY",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "items": [
+        {
+          "name": "KWAŚNICA",
           "price": null
         },
         {
-          "name": "SAŁATKA Z KURCZAKIEM Z SOSEM CURRY",
+          "name": "UDKO Z KURCZAKA, FRYTKI I WIOSENNA",
           "price": null
         }
       ]
