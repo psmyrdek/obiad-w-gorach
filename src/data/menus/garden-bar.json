@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-16T10:46:53.734Z",
+  "scrapedAt": "2026-07-17T10:27:51.544Z",
   "menus": [
     {
       "date": "2026-07-16",
@@ -54,6 +54,19 @@
         {
           "name": "Zupa dnia: Pomidorowa",
           "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "items": [
+        {
+          "name": "Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Polędwiczki wieprzowe w sosie szparagowym z suszonymi pomidorami",
+          "price": 40
         }
       ]
     }
