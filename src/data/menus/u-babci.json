@@ -3,73 +3,53 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-07-17T10:27:55.337Z",
+  "scrapedAt": "2026-07-20T11:32:15.486Z",
   "menus": [
     {
-      "date": "2026-07-10",
+      "date": "2026-07-20",
       "items": [
         {
           "name": "Zupa: fasolkowa",
           "price": null
         },
         {
-          "name": "Zupa: klasyczny rosół",
+          "name": "Zupa: klasyczny ros3ł",
           "price": null
         },
         {
-          "name": "Drugie: dorsz + ziemniaki + surówki",
+          "name": "Drugie: dorsz + ziemniaki + sur3wki",
           "price": 35
-        }
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "items": [
+        },
         {
           "name": "Zupa: letnia, gęsta zupa z fasolki szparagowej",
           "price": null
         },
         {
-          "name": "Drugie: domowa wątróbka z cebulką, tona złocistych ziemniaków + chrupiące surówki",
+          "name": "Drugie: domowa wątr3bka z cebulką, tona złocistych ziemniak3w + chrupiące sur3wki",
           "price": 33
-        }
-      ]
-    },
-    {
-      "date": "2026-07-14",
-      "items": [
+        },
         {
           "name": "Zupa: Domowy, gęsty krupnik",
           "price": null
         },
         {
-          "name": "Danie główne: Soczysta pieczeń w sosie własnym, ziemniaki oraz zestaw świeżych surówek",
+          "name": "Danie gł3wne: Soczysta pieczeń w sosie własnym, ziemniaki oraz zestaw řwieżych sur3wek",
           "price": 35
-        }
-      ]
-    },
-    {
-      "date": "2026-07-13",
-      "items": [
+        },
         {
           "name": "Zupa: gęsta, domowa pomidorowa",
           "price": null
         },
         {
-          "name": "Drugie danie: soczyste, mięciutkie klopsy w sosie własnym, puszyste ziemniaki i chrupiące surówki",
+          "name": "Drugie danie: soczyste, mięciutkie klopsy w sosie własnym, puszyste ziemniaki i chrupiące sur3wki",
           "price": 36
-        }
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "items": [
+        },
         {
           "name": "Zupa: Gorąca, gęsta kalafiorowa",
           "price": null
         },
         {
-          "name": "Drugie danie: Chrupiący, soczysty dorsz w towarzystwie młodych ziemniaczków i zestawu domowych surówek",
+          "name": "Drugie danie: Chrupiący, soczysty dorsz w towarzystwie młodych ziemniaczk3w i zestawu domowych sur3wek",
           "price": 35
         }
       ]

@@ -3,10 +3,10 @@
   "name": "Magia Smaku",
   "url": "https://www.facebook.com/MagiaSmakuStolowka",
   "phone": "+48 33 497 08 05",
-  "scrapedAt": "2026-07-17T10:27:59.983Z",
+  "scrapedAt": "2026-07-20T11:32:19.803Z",
   "menus": [
     {
-      "date": "2026-07-16",
+      "date": "2026-07-23",
       "items": [
         {
           "name": "Ogórkowa",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "date": "2026-07-15",
+      "date": "2026-07-22",
       "items": [
         {
           "name": "Krem z kolorowych warzyw",
@@ -38,7 +38,7 @@
           "price": 8
         },
         {
-          "name": "Mielony z kapustą zasmażaną, ziemniaki, kompot +zupa",
+          "name": "Mielony z kapustą zasmażaną, ziemniaki,kompot +zupa",
           "price": 28
         },
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-21",
       "items": [
         {
           "name": "Żurek",

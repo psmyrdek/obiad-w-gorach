@@ -3,36 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-17T10:28:07.920Z",
+  "scrapedAt": "2026-07-20T11:32:38.724Z",
   "menus": [
     {
-      "date": "2026-07-16",
+      "date": "2026-07-20",
       "items": [
         {
-          "name": "ZUPA POROWA",
+          "name": "KRUPNIK",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA W PANIERCE PANKO , ZIEMNIAKI OPIEKANE , ZESTAW SURÓWEK",
+          "name": "STEK DROBIOWY Z ZIEMNIAKAMI I SAŁATKĄ SZWEDZKĄ",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-15",
-      "items": [
-        {
-          "name": "KREM Z KUKURYDZY",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI ZE SZPINAKIEM I KURCZAKIEM W SOSIE BESZAMELOWYM",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-07-14",
+      "date": "2026-07-21",
       "items": [
         {
           "name": "ZUPA PIECZARKOWA",
@@ -45,27 +32,40 @@
       ]
     },
     {
-      "date": "2026-07-13",
+      "date": "2026-07-22",
       "items": [
         {
-          "name": "KWAŚNICA",
+          "name": "KREM Z KUKURYDZY",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA, FRYTKI I WIOSENNA",
+          "name": "NALEŚNIKI ZE SZPINAKIEM I KURCZAKIEM W SOSIE BESZAMELOWYM",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-17",
+      "date": "2026-07-23",
       "items": [
         {
-          "name": "KREM Z MARCHEWKI",
+          "name": "ZUPA POROWA",
           "price": null
         },
         {
-          "name": "SANDACZ W SOSIE POROWYM ,GNOCCHI Z BURAKA , SURÓWKA Z BIAŁEJ KAPUSTY Z OGÓRKIEM",
+          "name": "FILET Z KURCZAKA W PANIERCE PANKO , ZIEMNIAKI OPIEKANE , ZESTAW SURÓWEK",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "name": "KREM PAPRYKOWO-POMIDOROWY",
+          "price": null
+        },
+        {
+          "name": "ŁOSOŚ W SOSIE Z SUSZONYCH POMIDORÓW, RISOTTO, SURÓWKA Z MARCHEWKI I SELERA",
           "price": null
         }
       ]
