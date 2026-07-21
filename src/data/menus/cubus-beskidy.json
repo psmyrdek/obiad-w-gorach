@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-20T11:32:38.724Z",
+  "scrapedAt": "2026-07-21T10:54:23.864Z",
   "menus": [
     {
       "date": "2026-07-20",
@@ -19,14 +19,14 @@
       ]
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-24",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "KREM PAPRYKOWO-POMIDOROWY",
           "price": null
         },
         {
-          "name": "KOTLET MIELONY, ZIEMNIAKI I ZASMAŻANA Z MŁODEJ KAPUSTY",
+          "name": "ŁOSOŚ W SOSIE Z SUSZONYCH POMIDORÓW, RISOTTO, SURÓWKA Z MARCHEWKI I SELERA",
           "price": null
         }
       ]
@@ -45,27 +45,14 @@
       ]
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-21",
       "items": [
         {
-          "name": "ZUPA POROWA",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA W PANIERCE PANKO , ZIEMNIAKI OPIEKANE , ZESTAW SURÓWEK",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-07-24",
-      "items": [
-        {
-          "name": "KREM PAPRYKOWO-POMIDOROWY",
-          "price": null
-        },
-        {
-          "name": "ŁOSOŚ W SOSIE Z SUSZONYCH POMIDORÓW, RISOTTO, SURÓWKA Z MARCHEWKI I SELERA",
+          "name": "KOTLET MIELONY, ZIEMNIAKI I ZASMAŻANA Z MŁODEJ KAPUSTY",
           "price": null
         }
       ]

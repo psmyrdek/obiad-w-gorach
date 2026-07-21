@@ -3,61 +3,35 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-20T11:32:09.840Z",
+  "scrapedAt": "2026-07-21T10:54:08.593Z",
   "menus": [
     {
       "date": "2026-07-20",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony ziemniaki i kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Pomidorowa (zupa dnia)",
+          "name": "Zupa: Pomidorowa",
           "price": 8
         },
         {
-          "name": "Gołąbki z mięsem i ryżem w młodej kapuście",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki i kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane",
           "price": 12
         }
       ]
     },
     {
-      "date": "2026-07-19",
+      "date": "2026-07-24",
       "items": [
         {
-          "name": "Rosół z makaronem (zupa dnia)",
-          "price": 10
-        },
-        {
-          "name": "Schab z pieca w sosie myśliwskim, kluski śląskie lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        }
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "items": [
-        {
-          "name": "Rosół z makaronem (zupa dnia)",
-          "price": 10
-        },
-        {
-          "name": "Devolaj z brokułami i mozzarellą ziemniaki lub frytki, zestaw surówek lub kapusta zasmażana",
-          "price": 40
-        }
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce frytki i zestaw surówek",
-          "price": 34
-        },
-        {
-          "name": "Ogórkowa (zupa dnia)",
+          "name": "Zupa: Ogórkowa",
           "price": 8
+        },
+        {
+          "name": "Filet z morszczuka w panierce, frytki i zestaw surówek",
+          "price": 34
         }
       ]
     }
