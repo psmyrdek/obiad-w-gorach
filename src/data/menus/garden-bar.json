@@ -3,35 +3,44 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-21T10:54:08.593Z",
+  "scrapedAt": "2026-07-22T10:55:39.918Z",
   "menus": [
     {
-      "date": "2026-07-20",
+      "date": "2026-07-22",
       "items": [
         {
-          "name": "Zupa: Pomidorowa",
-          "price": 8
-        },
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki i kapusta słodka zasmażana",
+          "name": "Burger wieprzowy zapiekany z pieczarkami i mozzarellą, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane",
-          "price": 12
+          "name": "Zupa dnia: Kapuśniak z ziemniakami",
+          "price": 8
         }
       ]
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-21",
       "items": [
         {
-          "name": "Zupa: Ogórkowa",
-          "price": 8
+          "name": "Schab pod leczo, ziemniaki lub frytki, surówki lub słodka kapusta zasmażana",
+          "price": 25
         },
         {
-          "name": "Filet z morszczuka w panierce, frytki i zestaw surówek",
-          "price": 34
+          "name": "Zupa dnia: Barszcz chrzanowy z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "items": [
+        {
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki i kapusta słodka zasmażana lub frytki i surówki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
         }
       ]
     }

@@ -3,64 +3,51 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-07-21T10:54:12.821Z",
+  "scrapedAt": "2026-07-22T10:55:44.851Z",
   "menus": [
-    {
-      "date": "2026-07-24",
-      "items": [
-        {
-          "name": "Zupa: fasolkowa",
-          "price": null
-        },
-        {
-          "name": "Zupa: klasyczny rosół",
-          "price": null
-        },
-        {
-          "name": "Danie dnia: dorsz + ziemniaki + surówki",
-          "price": 35
-        },
-        {
-          "name": "Zupa: Gorąca, gęsta kalafiorowa",
-          "price": null
-        },
-        {
-          "name": "Danie dnia: Chrupiący, soczysty dorsz w towarzystwie młodych ziemniaczków i zestawu domowych surówek",
-          "price": 35
-        }
-      ]
-    },
     {
       "date": "2026-07-21",
       "items": [
         {
-          "name": "Zupa: letnia, gęsta zupa z fasolki szparagowej",
+          "name": "Aromatyczna zupa pomidorowa",
           "price": null
         },
         {
-          "name": "Danie dnia: domowa wątróbka z cebulką, tona złocistych ziemniaków + chrupiące surówki",
-          "price": 33
-        },
-        {
-          "name": "Zupa: Domowy, gęsty krupnik",
-          "price": null
-        },
-        {
-          "name": "Danie dnia: Soczysta pieczeń w sosie własnym, ziemniaki oraz zestaw świeżych surówek",
-          "price": 35
+          "name": "Schabowy, Ziemniaki, Zasmażana kapusta (Zestaw)",
+          "price": 41
         }
       ]
     },
     {
-      "date": "2026-07-20",
+      "date": "2026-07-22",
       "items": [
         {
-          "name": "Zupa: gęsta, domowa pomidorowa",
+          "name": "Zupa fasolkowa",
           "price": null
         },
         {
-          "name": "Danie dnia: soczyste, mięciutkie klopsy w sosie własnym, puszyste ziemniaki i chrupiące surówki",
-          "price": 36
+          "name": "Klasyczny rosół",
+          "price": null
+        },
+        {
+          "name": "Dorsz + ziemniaki + surówki (Zestaw)",
+          "price": 35
+        },
+        {
+          "name": "Letnia, gęsta zupa z fasolki szparagowej",
+          "price": null
+        },
+        {
+          "name": "Domowa wątróbka z cebulką, tona złocistych ziemniaków + chrupiące surówki (Zestaw)",
+          "price": 33
+        },
+        {
+          "name": "Domowy, gęsty krupnik",
+          "price": null
+        },
+        {
+          "name": "Soczysta pieczeń w sosie własnym, ziemniaki oraz zestaw świeżych surówek (Zestaw)",
+          "price": 35
         }
       ]
     }
