@@ -3,27 +3,44 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-07-23T10:55:25.627Z",
+  "scrapedAt": "2026-07-24T10:51:48.593Z",
   "menus": [
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "name": "Zupa jarzynowa",
+          "price": null
+        },
+        {
+          "name": "Mielony z ziemniakami i surówkami",
+          "price": 36
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "items": [
         {
           "name": "Aromatyczna zupa pomidorowa",
-          "price": 41
+          "price": null
         },
         {
-          "name": "Schabowy, ziemniaki, zasmażana kapusta",
+          "name": "Schabowy z ziemniakami i zasmażaną kapustą",
           "price": 41
         }
       ]
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "items": [
         {
-          "name": "Zupa: fasolkowa lub klasyczny rosół",
-          "price": 35
+          "name": "Zupa fasolkowa",
+          "price": null
+        },
+        {
+          "name": "Klasyczny rosół",
+          "price": null
         },
         {
           "name": "Dorsz + ziemniaki + surówki",
@@ -31,19 +48,11 @@
         },
         {
           "name": "Letnia, gęsta zupa z fasolki szparagowej",
+          "price": null
+        },
+        {
+          "name": "Domowa wątróbka z cebulką, ziemniakami i surówkami",
           "price": 33
-        },
-        {
-          "name": "Domowa wątróbka z cebulką, ziemniaki + chrupiące surówki",
-          "price": 33
-        },
-        {
-          "name": "Domowy, gęsty krupnik",
-          "price": 35
-        },
-        {
-          "name": "Soczysta pieczeń w sosie własnym, ziemniaki oraz zestaw świeżych surówek",
-          "price": 35
         }
       ]
     }

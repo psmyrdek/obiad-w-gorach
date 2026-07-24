@@ -3,22 +3,44 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-23T10:55:22.455Z",
+  "scrapedAt": "2026-07-24T10:51:44.209Z",
   "menus": [
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce",
+          "price": 34
+        },
+        {
+          "name": "Zupa jarzynowa z makaronem",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "name": "Gulasz Segedyński z karczku",
+          "price": 25
+        },
+        {
+          "name": "Zupa krem brokułowy z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-07-22",
       "items": [
         {
-          "name": "Burger wieprzowy zapiekany z pieczarkami i mozzarellą, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
+          "name": "Burger wieprzowy zapiekany z pieczarkami i mozzarellą",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Kapuśniak z ziemniakami",
+          "name": "Zupa kapuśniak z ziemniakami",
           "price": 8
-        },
-        {
-          "name": "Jadlo Drwala: dwa placki ziemniaczane z gulaszem wieprzowym plus zestaw surówek",
-          "price": 37
         }
       ]
     },
@@ -26,33 +48,12 @@
       "date": "2026-07-21",
       "items": [
         {
-          "name": "Schab pod leczo, ziemniaki lub frytki, surówki lub słodka kapusta zasmażana",
+          "name": "Schab pod leczo",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Barszcz chrzanowy z ziemniakami",
+          "name": "Zupa barszcz chrzanowy z ziemniakami",
           "price": 8
-        },
-        {
-          "name": "Kotlet Pasterski z fileta kurczaka zawijany z szynką i serem, ziemniaki lub frytki, zasmażana lub zestaw surówek",
-          "price": 35
-        }
-      ]
-    },
-    {
-      "date": "2026-07-20",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, ziemniaki i kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa",
-          "price": 8
-        },
-        {
-          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany, ziemniaki, zestaw surówek",
-          "price": 35
         }
       ]
     }
