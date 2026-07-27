@@ -3,69 +3,69 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-24T10:51:59.919Z",
+  "scrapedAt": "2026-07-27T12:07:54.694Z",
   "menus": [
     {
-      "date": "2026-07-20",
+      "date": "2026-07-27",
       "items": [
         {
-          "name": "KRUPNIK",
+          "name": "Zupa koperkowa z ryűem",
           "price": null
         },
         {
-          "name": "STEK DROBIOWY Z ZIEMNIAKAMI I SAŁATKĄ SZWEDZKĄ",
+          "name": "Podudzie z kurczaka, ziemniaki opiekane, mizeria",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-28",
       "items": [
         {
-          "name": "ZUPA Z CUKINI",
+          "name": "Zupa z cukini",
           "price": null
         },
         {
-          "name": "ESKALOPKI Z KURCZAKA W CIEŚCIE PIWNYM Z FRYTKAMI I SAŁATKĄ WIOSENNĄ Z SOSEM MIODOWO-MUSZTARDOWYM",
+          "name": "Eskalopki z kurczaka w cieőcie piwnym z frytkami i sałatką wiosenną z sosem miodowo-musztardowym",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-22",
+      "date": "2026-07-29",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA Z RYŻEM",
+          "name": "Zupa pomidorowa z ryűem",
           "price": null
         },
         {
-          "name": "SZWAJCAR, ZIEMNIAKI I MARCHEWKA Z GROSZKIEM",
+          "name": "Szwajcar, ziemniaki i marchewka z groszkiem",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-30",
       "items": [
         {
-          "name": "KREM Z BIAŁYCH WARZYW",
+          "name": "Krem z białych warzyw",
           "price": null
         },
         {
-          "name": "GOLONKO Z INDYKA , ZAPIEKANKA ZIEMNIACZAKA , CZERWONA KAPUSTA",
+          "name": "Golonko z indyka, zapiekanka ziemniaczaka, czerwona kapusta",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-31",
       "items": [
         {
-          "name": "ZUPA CEBULOWA",
+          "name": "Zupa cebulowa",
           "price": null
         },
         {
-          "name": "MORSZCZUK W PANIERCE Z ZIEMNIAKAMI I SURÓWKĄ Z KISZONEJ KAPUSTY",
+          "name": "Morszczuk w panierce z ziemniakami i sur?wką z kiszonej kapusty",
           "price": null
         }
       ]

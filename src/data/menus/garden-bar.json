@@ -3,17 +3,60 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-24T10:51:44.209Z",
+  "scrapedAt": "2026-07-27T12:07:36.077Z",
   "menus": [
+    {
+      "date": "2026-07-27",
+      "items": [
+        {
+          "name": "Kotlet schabowy nacierany sekretną marynatą, ziemniaki lub frytki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Pomidorowa",
+          "price": 8
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane plus sos pomidorowy",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "items": [
+        {
+          "name": "Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Filety z piesi kurczaka w sosie serowo-brokułowym, kluski śląskie, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "items": [
+        {
+          "name": "Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Polędwiczki wieprzowe w sosie grzybowym, kluski śląskie, zestaw surówek lub kapusta zasmażana",
+          "price": 40
+        }
+      ]
+    },
     {
       "date": "2026-07-24",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce",
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
           "price": 34
         },
         {
-          "name": "Zupa jarzynowa z makaronem",
+          "name": "Zupa dnia : Jarzynowa z makaronem",
           "price": 8
         }
       ]
@@ -22,37 +65,11 @@
       "date": "2026-07-23",
       "items": [
         {
-          "name": "Gulasz Segedyński z karczku",
+          "name": "Gulasz Segedyński z karczku z dodatkiem słodkiej kapusty, kasza gryczana lub ziemniaki, zestaw surówek",
           "price": 25
         },
         {
-          "name": "Zupa krem brokułowy z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-07-22",
-      "items": [
-        {
-          "name": "Burger wieprzowy zapiekany z pieczarkami i mozzarellą",
-          "price": 25
-        },
-        {
-          "name": "Zupa kapuśniak z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-07-21",
-      "items": [
-        {
-          "name": "Schab pod leczo",
-          "price": 25
-        },
-        {
-          "name": "Zupa barszcz chrzanowy z ziemniakami",
+          "name": "Zupa dnia : Krem brokułowy z grzanką",
           "price": 8
         }
       ]
