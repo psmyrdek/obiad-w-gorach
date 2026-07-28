@@ -3,13 +3,13 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-27T12:07:54.694Z",
+  "scrapedAt": "2026-07-28T11:07:21.472Z",
   "menus": [
     {
       "date": "2026-07-27",
       "items": [
         {
-          "name": "Zupa koperkowa z ryűem",
+          "name": "Zupa koperkowa z ryżem",
           "price": null
         },
         {
@@ -22,11 +22,11 @@
       "date": "2026-07-28",
       "items": [
         {
-          "name": "Zupa z cukini",
+          "name": "Zupa z cukinii",
           "price": null
         },
         {
-          "name": "Eskalopki z kurczaka w cieőcie piwnym z frytkami i sałatką wiosenną z sosem miodowo-musztardowym",
+          "name": "Eskalopki z kurczaka w cieście piwnym z frytkami i sałatką wiosenną z sosem miodowo-musztardowym",
           "price": null
         }
       ]
@@ -35,7 +35,7 @@
       "date": "2026-07-29",
       "items": [
         {
-          "name": "Zupa pomidorowa z ryűem",
+          "name": "Zupa pomidorowa z ryżem",
           "price": null
         },
         {
@@ -65,7 +65,7 @@
           "price": null
         },
         {
-          "name": "Morszczuk w panierce z ziemniakami i sur?wką z kiszonej kapusty",
+          "name": "Morszczuk w panierce z ziemniakami i surówką z kiszonej kapusty",
           "price": null
         }
       ]

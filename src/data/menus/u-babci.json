@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-07-27T12:07:40.867Z",
+  "scrapedAt": "2026-07-28T11:07:10.231Z",
   "menus": [
     {
       "date": "2026-07-27",
@@ -13,50 +13,40 @@
           "price": null
         },
         {
-          "name": "Duszone klopsy w sosie własnym, ziemniaki i surówka",
+          "name": "Duszone klopsy w sosie własnym, ziemniaczki i surówka",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-28",
       "items": [
         {
           "name": "Zupa jarzynowa",
-          "price": null
+          "price": 36
         },
         {
           "name": "Mielony z ziemniakami i surówkami",
           "price": 36
-        }
-      ]
-    },
-    {
-      "date": "2026-07-21",
-      "items": [
+        },
         {
           "name": "Aromatyczna zupa pomidorowa",
-          "price": null
+          "price": 41
         },
         {
           "name": "Schabowy, ziemniaki i zasmażana kapusta",
           "price": 41
-        }
-      ]
-    },
-    {
-      "date": "2026-07-10",
-      "items": [
+        },
         {
-          "name": "Zupa fasolkowa",
-          "price": null
+          "name": "Fasolkowa",
+          "price": 35
         },
         {
           "name": "Klasyczny rosół",
-          "price": null
+          "price": 35
         },
         {
-          "name": "Dorsz + ziemniaki + surówki",
+          "name": "Dorsz, ziemniaki i surówki",
           "price": 35
         }
       ]
