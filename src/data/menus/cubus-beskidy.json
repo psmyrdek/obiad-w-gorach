@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-28T11:07:21.472Z",
+  "scrapedAt": "2026-07-29T11:12:48.743Z",
   "menus": [
     {
       "date": "2026-07-27",
       "items": [
         {
-          "name": "Zupa koperkowa z ryżem",
+          "name": "ZUPA KOPERKOWA Z RYŻEM",
           "price": null
         },
         {
-          "name": "Podudzie z kurczaka, ziemniaki opiekane, mizeria",
+          "name": "PODUDZIE Z KURCZAKA , ZIEMNIAKI OPIEKANE , MIZERIA",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-07-28",
       "items": [
         {
-          "name": "Zupa z cukinii",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "Eskalopki z kurczaka w cieście piwnym z frytkami i sałatką wiosenną z sosem miodowo-musztardowym",
+          "name": "FILET Z KURCZAKA ZAPIEKANY Z POMIDOREM I SEREM, FRYTKI I SURÓWKA Z KAPUSTY PEKIŃSKIEJ",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-07-29",
       "items": [
         {
-          "name": "Zupa pomidorowa z ryżem",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "Szwajcar, ziemniaki i marchewka z groszkiem",
+          "name": "SZASZŁYK DROBIOWY , RYŻ , COLESLAW",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-07-30",
       "items": [
         {
-          "name": "Krem z białych warzyw",
+          "name": "KREM Z BIAŁYCH WARZYW",
           "price": null
         },
         {
-          "name": "Golonko z indyka, zapiekanka ziemniaczaka, czerwona kapusta",
+          "name": "GOLONKO Z INDYKA , ZAPIEKANKA ZIEMNIACZAKA , CZERWONA KAPUSTA",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-07-31",
       "items": [
         {
-          "name": "Zupa cebulowa",
+          "name": "ZUPA CEBULOWA",
           "price": null
         },
         {
-          "name": "Morszczuk w panierce z ziemniakami i surówką z kiszonej kapusty",
+          "name": "MORSZCZUK W PANIERCE Z ZIEMNIAKAMI I SURÓWKĄ Z KISZONEJ KAPUSTY",
           "price": null
         }
       ]

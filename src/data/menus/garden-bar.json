@@ -3,8 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-28T11:07:06.484Z",
+  "scrapedAt": "2026-07-29T11:12:21.125Z",
   "menus": [
+    {
+      "date": "2026-07-29",
+      "items": [
+        {
+          "name": "Kotlet Pożarski drobiowy mielony łączony z serem gouda, ziemniaki i marchewka z groszkiem",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia Soljanka na wędzonce z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "items": [
+        {
+          "name": "Filet z piersi kurczaka po parysku w cieście piwno-serowym, frytki lub ziemniaki, zestaw surówek lub słodka kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Krem warzywny z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "items": [
@@ -13,33 +39,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia: Jarzynowa z makaronem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "items": [
-        {
-          "name": "Gulasz Segedyński z karczku z dodatkiem słodkiej kapusty, kasza gryczana lub ziemniaki, zestaw surówek",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem brokułowy z grzanką",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
         }
       ]
