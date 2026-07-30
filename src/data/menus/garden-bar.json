@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-29T11:12:21.125Z",
+  "scrapedAt": "2026-07-30T10:55:51.110Z",
   "menus": [
     {
       "date": "2026-07-29",
@@ -41,6 +41,32 @@
         {
           "name": "Zupa dnia : Pomidorowa",
           "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "items": [
+        {
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Filety z piesi kurczaka w sosie serowo-brokułowym, kluski śląskie, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "items": [
+        {
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Polędwiczki wieprzowe w sosie grzybowym, kluski śląskie, zestaw surówek lub kapusta zasmażana",
+          "price": 40
         }
       ]
     }

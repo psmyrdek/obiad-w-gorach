@@ -3,18 +3,18 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-07-29T11:12:26.195Z",
+  "scrapedAt": "2026-07-30T10:55:55.663Z",
   "menus": [
     {
       "date": "2026-07-29",
       "items": [
         {
-          "name": "Żurek z jajkiem",
-          "price": null
+          "name": "żurek z jajkiem",
+          "price": 31
         },
         {
-          "name": "Gołąbki",
-          "price": 31
+          "name": "gołąbki",
+          "price": null
         }
       ]
     },
@@ -22,12 +22,12 @@
       "date": "2026-07-28",
       "items": [
         {
-          "name": "Zupa ogórkowa",
-          "price": null
+          "name": "zupa ogórkowa",
+          "price": 33
         },
         {
-          "name": "Spaghetti",
-          "price": 33
+          "name": "spaghetti",
+          "price": null
         }
       ]
     },
@@ -35,11 +35,11 @@
       "date": "2026-07-27",
       "items": [
         {
-          "name": "Grochówka na wędzonce",
+          "name": "grochówka na wędzonce",
           "price": null
         },
         {
-          "name": "Klopsy w sosie własnym z ziemniakami i surówką",
+          "name": "duszone klopsy w sosie własnym, ziemniaczki i surówka",
           "price": null
         }
       ]
@@ -48,12 +48,12 @@
       "date": "2026-07-23",
       "items": [
         {
-          "name": "Zupa jarzynowa",
-          "price": null
+          "name": "zupa jarzynowa",
+          "price": 36
         },
         {
-          "name": "Mielony z ziemniakami i surówkami",
-          "price": 36
+          "name": "mielony z ziemniakami i surówkami",
+          "price": null
         }
       ]
     }
