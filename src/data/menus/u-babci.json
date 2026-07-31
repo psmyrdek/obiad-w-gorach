@@ -3,8 +3,34 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-07-30T10:55:55.663Z",
+  "scrapedAt": "2026-07-31T11:14:36.564Z",
   "menus": [
+    {
+      "date": "2026-07-31",
+      "items": [
+        {
+          "name": "zupa kalafiorowa",
+          "price": 35
+        },
+        {
+          "name": "dorsz z ziemniakami i surówkami",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "items": [
+        {
+          "name": "aksamitny krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Delikatna wątróbka, tradycyjne ziemniaki i ogórki kiszone",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-07-29",
       "items": [
@@ -14,7 +40,7 @@
         },
         {
           "name": "gołąbki",
-          "price": null
+          "price": 31
         }
       ]
     },
@@ -22,12 +48,12 @@
       "date": "2026-07-28",
       "items": [
         {
-          "name": "zupa ogórkowa",
+          "name": "ogórkowa",
           "price": 33
         },
         {
           "name": "spaghetti",
-          "price": null
+          "price": 33
         }
       ]
     },
@@ -40,19 +66,6 @@
         },
         {
           "name": "duszone klopsy w sosie własnym, ziemniaczki i surówka",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "items": [
-        {
-          "name": "zupa jarzynowa",
-          "price": 36
-        },
-        {
-          "name": "mielony z ziemniakami i surówkami",
           "price": null
         }
       ]

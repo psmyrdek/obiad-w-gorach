@@ -3,8 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-30T10:55:51.110Z",
+  "scrapedAt": "2026-07-31T11:14:31.444Z",
   "menus": [
+    {
+      "date": "2026-07-31",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kiszona kapusta zasmażana",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia: Kalafiorowo-porowa z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "items": [
+        {
+          "name": "Schab po bolońsku zapiekany mozzarellą, frytki i zestaw surówek lub ziemniaki i kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Barszcz ukraiński",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-07-29",
       "items": [
@@ -13,7 +39,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia Soljanka na wędzonce z ziemniakami",
+          "name": "Zupa dnia: Soljanka na wędzonce z ziemniakami",
           "price": 8
         }
       ]
@@ -26,7 +52,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Krem warzywny z grzanką",
+          "name": "Zupa dnia: Krem warzywny z grzanką",
           "price": 8
         }
       ]
@@ -39,34 +65,8 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-07-26",
-      "items": [
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Filety z piesi kurczaka w sosie serowo-brokułowym, kluski śląskie, zestaw surówek lub kapusta słodka zasmażana",
-          "price": 40
-        }
-      ]
-    },
-    {
-      "date": "2026-07-25",
-      "items": [
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Polędwiczki wieprzowe w sosie grzybowym, kluski śląskie, zestaw surówek lub kapusta zasmażana",
-          "price": 40
         }
       ]
     }

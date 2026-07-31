@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-30T10:56:18.702Z",
+  "scrapedAt": "2026-07-31T11:14:48.700Z",
   "menus": [
     {
       "date": "2026-07-27",
@@ -13,7 +13,7 @@
           "price": null
         },
         {
-          "name": "Podudzie z kurczaka, ziemniaki opiekane, mizeria",
+          "name": "Podudzie z kurczaka , ziemniaki opiekane , mizeria",
           "price": null
         }
       ]
@@ -39,7 +39,7 @@
           "price": null
         },
         {
-          "name": "Szaszłyk drobiowy, ryż, coleslaw",
+          "name": "Szaszłyk drobiowy , ryż , coleslaw",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-07-30",
       "items": [
         {
-          "name": "Krem z białych warzyw",
+          "name": "Zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "Golonko z indyka, zapiekanka ziemniaczana, czerwona kapusta",
+          "name": "Schab w sosie myśliwskim, kluski śląskie i czerwona kapusta",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-07-31",
       "items": [
         {
-          "name": "Zupa cebulowa",
+          "name": "Barszcz zabielany",
           "price": null
         },
         {
-          "name": "Morszczuk w panierce z ziemniakami i surówką z kiszonej kapusty",
+          "name": "Morszczuk panierowany z ziemniakami i surówką z kiszonej kapusty",
           "price": null
         }
       ]
