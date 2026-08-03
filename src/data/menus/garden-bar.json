@@ -3,70 +3,39 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-07-31T11:14:31.444Z",
+  "scrapedAt": "2026-08-03T12:09:21.288Z",
   "menus": [
     {
-      "date": "2026-07-31",
+      "date": "2026-08-02",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kiszona kapusta zasmażana",
-          "price": 34
+          "name": "Bitka wieprzowa ze schabu z sosem kurkowym, kluski śląskie, zestaw surówek lub kiszona zasmażna",
+          "price": 35
         },
         {
-          "name": "Zupa dnia: Kalafiorowo-porowa z ziemniakami",
-          "price": 8
+          "name": "Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
         }
       ]
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-08-01",
       "items": [
         {
-          "name": "Schab po bolońsku zapiekany mozzarellą, frytki i zestaw surówek lub ziemniaki i kapusta słodka zasmażana",
-          "price": 25
+          "name": "Pieczeń wieprzowa z karczku w sosie myśliwskim, ziemniaki lub kluski śląskie, zestaw surówek lub kapusta zasmażana",
+          "price": 30
         },
         {
-          "name": "Zupa dnia: Barszcz ukraiński",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-07-29",
-      "items": [
-        {
-          "name": "Kotlet Pożarski drobiowy mielony łączony z serem gouda, ziemniaki i marchewka z groszkiem",
-          "price": 25
+          "name": "Rosół z makaronem",
+          "price": 10
         },
         {
-          "name": "Zupa dnia: Soljanka na wędzonce z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-07-28",
-      "items": [
-        {
-          "name": "Filet z piersi kurczaka po parysku w cieście piwno-serowym, frytki lub ziemniaki, zestaw surówek lub słodka kapusta zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem warzywny z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-07-27",
-      "items": [
-        {
-          "name": "Kotlet schabowy nacierany sekretną marynatą, ziemniaki lub frytki, zestaw surówek lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa",
-          "price": 8
+          "name": "Żurek z jakiem, kiełbasą i ziemniakami",
+          "price": 12
         }
       ]
     }

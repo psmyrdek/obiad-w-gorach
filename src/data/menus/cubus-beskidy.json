@@ -3,69 +3,69 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-07-31T11:14:48.700Z",
+  "scrapedAt": "2026-08-03T12:09:39.992Z",
   "menus": [
     {
-      "date": "2026-07-27",
+      "date": "2026-08-03",
       "items": [
         {
-          "name": "Zupa koperkowa z ryżem",
+          "name": "KREM Z MARCHEWKI",
           "price": null
         },
         {
-          "name": "Podudzie z kurczaka , ziemniaki opiekane , mizeria",
+          "name": "FILET Z KURCZAKA Z PIECZARKAMI W CIEŚCIE FRANCUSKIM Z ZIEMNIAKAMI OPIEKANYMI I SURÓWKĄ Z PORA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-08-04",
       "items": [
         {
-          "name": "Zupa pieczarkowa",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "Filet z kurczaka zapiekany z pomidorem i serem, frytki i surówka z kapusty pekińskiej",
+          "name": "FILET Z KURCZAKA ZAPIEKANY Z POMIDOREM I SEREM, FRYTKI I SURÓWKA Z KAPUSTY PEKIŃSKIEJ",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-08-05",
       "items": [
         {
-          "name": "Kapuśniak",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "Szaszłyk drobiowy , ryż , coleslaw",
+          "name": "SZASZŁYK DROBIOWY , RYŻ , COLESLAW",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-08-06",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
+          "name": "ZUPA KALAFIOROWA",
           "price": null
         },
         {
-          "name": "Schab w sosie myśliwskim, kluski śląskie i czerwona kapusta",
+          "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE I CZERWONA KAPUSTA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-07",
       "items": [
         {
-          "name": "Barszcz zabielany",
+          "name": "BARSZCZ ZABIELANY",
           "price": null
         },
         {
-          "name": "Morszczuk panierowany z ziemniakami i surówką z kiszonej kapusty",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I SURÓWKĄ Z KISZONEJ KAPUSTY",
           "price": null
         }
       ]
