@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-03T12:09:26.923Z",
+  "scrapedAt": "2026-08-04T11:12:29.783Z",
   "menus": [
     {
       "date": "2026-08-03",
@@ -15,30 +15,6 @@
         {
           "name": "Schabowy w zestawie z ziemniakami i kapustą zasmażaną",
           "price": 41
-        },
-        {
-          "name": "Krem z dyni",
-          "price": null
-        },
-        {
-          "name": "Delikatna wątróbka, tradycyjne ziemniaki i chrupiące, orzeźwiające ogórki kiszone",
-          "price": null
-        },
-        {
-          "name": "Żurek z jajkiem",
-          "price": null
-        },
-        {
-          "name": "Gołąbki",
-          "price": 31
-        },
-        {
-          "name": "Ogórkowa",
-          "price": null
-        },
-        {
-          "name": "Spaghetti",
-          "price": 33
         }
       ]
     },
@@ -46,12 +22,51 @@
       "date": "2026-08-07",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
+          "name": "zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "Dorsz z ziemniakami i surówkami",
+          "name": "dorsz z ziemniakami i surówkami",
           "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "items": [
+        {
+          "name": "Obłędny, aksamitny krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Delikatna wątróbka, tradycyjne ziemniaki i chrupiące, orzeźwiające ogórki kiszone",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "items": [
+        {
+          "name": "żurek z jajkiem",
+          "price": null
+        },
+        {
+          "name": "gołąbki",
+          "price": 31
+        }
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "items": [
+        {
+          "name": "ogórkowa",
+          "price": null
+        },
+        {
+          "name": "spaghetti",
+          "price": 33
         }
       ]
     }
