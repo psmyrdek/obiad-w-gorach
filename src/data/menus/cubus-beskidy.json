@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-04T11:12:43.993Z",
+  "scrapedAt": "2026-08-05T11:10:15.207Z",
   "menus": [
     {
       "date": "2026-08-03",
@@ -22,11 +22,11 @@
       "date": "2026-08-04",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "ZUPA OGÓRKOWA",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA ZAPIEKANY Z POMIDOREM I SEREM, FRYTKI I SURÓWKA Z KAPUSTY PEKIŃSKIEJ",
+          "name": "PIECZEŃ WIEPRZOWA Z KASZĄ GRYCZANĄ I BURAKAMI",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-08-05",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "SZASZŁYK DROBIOWY , RYŻ , COLESLAW",
+          "name": "SAŁATKA ZE STRIPSAMI Z KURCZAKA W SOSIE MIODOWO-MUSZTARDOWYM",
           "price": null
         }
       ]

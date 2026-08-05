@@ -3,8 +3,42 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-04T11:12:29.783Z",
+  "scrapedAt": "2026-08-05T11:10:00.747Z",
   "menus": [
+    {
+      "date": "2026-08-05",
+      "items": [
+        {
+          "name": "Barszcz ukraiński",
+          "price": null
+        },
+        {
+          "name": "Gołąbki",
+          "price": null
+        },
+        {
+          "name": "aksamitny krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Delikatna wątróbka, tradycyjne ziemniaki i chrupiące, orzeźwiające ogórki kiszone",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "items": [
+        {
+          "name": "Aromatyczna zupa pomidorowa",
+          "price": null
+        },
+        {
+          "name": "Soczysty stek z karczku z ziemniakami i surówkami",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "items": [
@@ -14,7 +48,7 @@
         },
         {
           "name": "Schabowy w zestawie z ziemniakami i kapustą zasmażaną",
-          "price": 41
+          "price": null
         }
       ]
     },
@@ -27,46 +61,7 @@
         },
         {
           "name": "dorsz z ziemniakami i surówkami",
-          "price": 35
-        }
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "items": [
-        {
-          "name": "Obłędny, aksamitny krem z dyni",
           "price": null
-        },
-        {
-          "name": "Delikatna wątróbka, tradycyjne ziemniaki i chrupiące, orzeźwiające ogórki kiszone",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-05",
-      "items": [
-        {
-          "name": "żurek z jajkiem",
-          "price": null
-        },
-        {
-          "name": "gołąbki",
-          "price": 31
-        }
-      ]
-    },
-    {
-      "date": "2026-08-04",
-      "items": [
-        {
-          "name": "ogórkowa",
-          "price": null
-        },
-        {
-          "name": "spaghetti",
-          "price": 33
         }
       ]
     }
