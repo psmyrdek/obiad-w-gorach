@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-05T11:10:00.747Z",
+  "scrapedAt": "2026-08-06T11:10:41.377Z",
   "menus": [
     {
       "date": "2026-08-05",
@@ -14,14 +14,6 @@
         },
         {
           "name": "Gołąbki",
-          "price": null
-        },
-        {
-          "name": "aksamitny krem z dyni",
-          "price": null
-        },
-        {
-          "name": "Delikatna wątróbka, tradycyjne ziemniaki i chrupiące, orzeźwiające ogórki kiszone",
           "price": null
         }
       ]
@@ -56,11 +48,24 @@
       "date": "2026-08-07",
       "items": [
         {
-          "name": "zupa kalafiorowa",
+          "name": "Zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "dorsz z ziemniakami i surówkami",
+          "name": "Dorsz z ziemniakami i surówkami",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "items": [
+        {
+          "name": "Obłędny, aksamitny krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Delikatna wątróbka, tradycyjne ziemniaki i chrupiące, orzeźwiające ogórki kiszone",
           "price": null
         }
       ]

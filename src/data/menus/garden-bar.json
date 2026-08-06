@@ -3,21 +3,17 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-08-05T11:09:55.434Z",
+  "scrapedAt": "2026-08-06T11:10:22.117Z",
   "menus": [
     {
       "date": "2026-08-02",
       "items": [
         {
-          "name": "Bitka wieprzowa ze schabu z sosem kurkowym, kluski śląskie, zestaw surówek lub kiszona zasmażana",
+          "name": "Bitka wieprzowa ze schabu z sosem kurkowym, kluski śląskie zestaw surówek lub kiszona zasmażna",
           "price": 35
         },
         {
-          "name": "Zupa dnia: Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rosół z makaronem",
+          "name": "Zupa dnia : Rosół z makaronem",
           "price": 10
         },
         {
@@ -34,11 +30,7 @@
           "price": 30
         },
         {
-          "name": "Zupa dnia: Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rosół z makaronem",
+          "name": "Zupa dnia : Rosół z makaronem",
           "price": 10
         },
         {
