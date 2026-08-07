@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-06T11:10:41.377Z",
+  "scrapedAt": "2026-08-07T09:46:57.454Z",
   "menus": [
     {
       "date": "2026-08-05",
@@ -45,27 +45,27 @@
       ]
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-07-31",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
+          "name": "zupa kalafiorowa",
           "price": null
         },
         {
-          "name": "Dorsz z ziemniakami i surówkami",
+          "name": "dorsz z ziemniakami i surówkami",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-07-30",
       "items": [
         {
-          "name": "Obłędny, aksamitny krem z dyni",
+          "name": "aksamitny krem z dyni",
           "price": null
         },
         {
-          "name": "Delikatna wątróbka, tradycyjne ziemniaki i chrupiące, orzeźwiające ogórki kiszone",
+          "name": "Delikatna wątróbka, tradycyjne ziemniaki i ogórki kiszone",
           "price": null
         }
       ]
