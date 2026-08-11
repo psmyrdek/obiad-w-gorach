@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-10T10:06:18.795Z",
+  "scrapedAt": "2026-08-11T09:47:03.217Z",
   "menus": [
     {
       "date": "2026-08-10",
       "items": [
         {
-          "name": "KREM Z PIECZONEGO KALAFIORA",
+          "name": "Krem z pieczonego kalafiora",
           "price": null
         },
         {
-          "name": "ROLADKA ZE SCHABU Z OSCYPKIEM I BOCZKIEM, ZIEMNIAKI I MARCHEWKA Z SELEREM",
+          "name": "Roladka ze schabu z oscypkiem i boczkiem, ziemniaki i marchewka z selerem",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-08-11",
       "items": [
         {
-          "name": "ZUPA OGÓRKOWA",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "PIECZEŃ WIEPRZOWA Z KASZĄ GRYCZANĄ I BURAKAMI",
+          "name": "Pieczeń wieprzowa z kaszą gryczaną i burakami",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-08-12",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "Zupa jarzynowa",
           "price": null
         },
         {
-          "name": "SAŁATKA ZE STRIPSAMI Z KURCZAKA W SOSIE MIODOWO-MUSZTARDOWYM",
+          "name": "Sałatka ze stripsami z kurczaka w sosie miodowo-musztardowym",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-08-13",
       "items": [
         {
-          "name": "ZUPA MEKSYKAŃSKA",
+          "name": "Zupa meksykańska",
           "price": null
         },
         {
-          "name": "GRILLOWANY FILET Z KURCZAKA W SOSIE SEROWYM, RYŻ, SURÓWKA SZWEDZKA",
+          "name": "Grillowany filet z kurczaka w sosie serowym, ryż, surówka szwedzka",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-08-14",
       "items": [
         {
-          "name": "ZUPA Z CUKINII",
+          "name": "Zupa z cukinii",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZIEMNIAKI I SURÓWKA Z KISZONEJ KAPUSTY",
+          "name": "Morszczuk, ziemniaki i surówka z kiszonej kapusty",
           "price": null
         }
       ]
