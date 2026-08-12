@@ -3,56 +3,38 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-11T09:47:03.217Z",
+  "scrapedAt": "2026-08-12T09:51:39.079Z",
   "menus": [
-    {
-      "date": "2026-08-10",
-      "items": [
-        {
-          "name": "Krem z pieczonego kalafiora",
-          "price": null
-        },
-        {
-          "name": "Roladka ze schabu z oscypkiem i boczkiem, ziemniaki i marchewka z selerem",
-          "price": null
-        }
-      ]
-    },
     {
       "date": "2026-08-11",
       "items": [
         {
-          "name": "Zupa ogórkowa",
+          "name": "KREM Z KUKURYDZY",
           "price": null
         },
         {
-          "name": "Pieczeń wieprzowa z kaszą gryczaną i burakami",
+          "name": "UDKO Z KURCZAKA Z ZIEMNAKAMI Z PIECA I SAŁATKĄ Z POMIDORA",
+          "price": null
+        },
+        {
+          "name": "ZUPA POMIDOROWA",
+          "price": null
+        },
+        {
+          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW , FRYTKI BELGIJSKIE , SAŁATKA WIOSENNA Z SOSEM VINEGRETT",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-10",
       "items": [
         {
-          "name": "Zupa jarzynowa",
+          "name": "KREM Z PIECZONEGO KALAFIORA",
           "price": null
         },
         {
-          "name": "Sałatka ze stripsami z kurczaka w sosie miodowo-musztardowym",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-13",
-      "items": [
-        {
-          "name": "Zupa meksykańska",
-          "price": null
-        },
-        {
-          "name": "Grillowany filet z kurczaka w sosie serowym, ryż, surówka szwedzka",
+          "name": "ROLADKA ZE SCHABU Z OSCYPKIEM I BOCZKIEM, ZIEMNIAKI I MARCHEWKA Z SELEREM",
           "price": null
         }
       ]
@@ -61,11 +43,24 @@
       "date": "2026-08-14",
       "items": [
         {
-          "name": "Zupa z cukinii",
+          "name": "ZUPA Z CUKINII",
           "price": null
         },
         {
-          "name": "Morszczuk, ziemniaki i surówka z kiszonej kapusty",
+          "name": "MORSZCZUK, ZIEMNIAKI I SURÓWKA Z KISZONEJ KAPUSTY",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "items": [
+        {
+          "name": "ZUPA MEKSYKAŃSKA",
+          "price": null
+        },
+        {
+          "name": "GRILLOWANY FILET Z KURCZAKA W SOSIE SEROWYM, RYŻ, SURÓWKA SZWEDZKA",
           "price": null
         }
       ]
