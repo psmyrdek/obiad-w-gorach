@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-13T09:51:31.324Z",
+  "scrapedAt": "2026-08-14T09:48:48.202Z",
   "menus": [
     {
       "date": "2026-08-13",
@@ -36,11 +36,11 @@
       "items": [
         {
           "name": "Barszcz ukraiński",
-          "price": null
+          "price": 31
         },
         {
           "name": "Gołąbki",
-          "price": null
+          "price": 31
         }
       ]
     }

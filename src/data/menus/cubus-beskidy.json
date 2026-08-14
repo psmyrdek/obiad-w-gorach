@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-13T09:51:47.719Z",
+  "scrapedAt": "2026-08-14T09:49:14.314Z",
   "menus": [
     {
       "date": "2026-08-10",
       "items": [
         {
-          "name": "KREM Z PIECZONEGO KALAFIORA",
+          "name": "Krem z pieczonego kalafiora",
           "price": null
         },
         {
-          "name": "ROLADKA ZE SCHABU Z OSCYPKIEM I BOCZKIEM, ZIEMNIAKI I MARCHEWKA Z SELEREM",
+          "name": "Roladka ze schabu z oscypkiem i boczkiem, ziemniaki i marchewka z selerem",
           "price": null
         }
       ]
@@ -22,19 +22,19 @@
       "date": "2026-08-11",
       "items": [
         {
-          "name": "KREM Z KUKURYDZY",
+          "name": "Krem z kukurydzy",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA Z ZIEMNAKAMI Z PIECA I SAŁATKĄ Z POMIDORA",
+          "name": "Udko z kurczaka z ziemniakami z pieca i sałatką z pomidora",
           "price": null
         },
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "Zupa pomidorowa",
           "price": null
         },
         {
-          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW , FRYTKI BELGIJSKIE , SAŁATKA WIOSENNA Z SOSEM VINEGRETT",
+          "name": "Polędwiczka wieprzowa w sosie z suszonych pomidorów, frytki belgijskie, sałatka wiosenna z sosem vinegrett",
           "price": null
         }
       ]
@@ -43,11 +43,11 @@
       "date": "2026-08-13",
       "items": [
         {
-          "name": "ŻUREK",
+          "name": "Żurek",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA W PANIERCE PANKO , ZIEMNIAKI , ZESTAW SURÓWEK",
+          "name": "Filet z kurczaka w panierce panko, ziemniaki, zestaw surówek",
           "price": null
         }
       ]
@@ -56,11 +56,11 @@
       "date": "2026-08-14",
       "items": [
         {
-          "name": "ZUPA Z CUKINII",
+          "name": "Zupa z cukinii",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZIEMNIAKI I SURÓWKA Z KISZONEJ KAPUSTY",
+          "name": "Morszczuk, ziemniaki i surówka z kiszonej kapusty",
           "price": null
         }
       ]
