@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-17T09:27:26.197Z",
+  "scrapedAt": "2026-08-18T09:19:48.018Z",
   "menus": [
     {
       "date": "2026-08-17",
@@ -14,6 +14,32 @@
         },
         {
           "name": "ESKALOPKI W CIEŚCIE PIWNYM, FRYTKI , MIX SAŁAT Z SOSEM CEZARE",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "items": [
+        {
+          "name": "ZUPA KOPERKOWA",
+          "price": null
+        },
+        {
+          "name": "STEK DROBIOWY, FRYTKI I COLESŁAW Z CZERWONEJ KAPUSTY",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "items": [
+        {
+          "name": "ŻUREK",
+          "price": null
+        },
+        {
+          "name": "FILET Z KURCZAKA W PANIERCE PANKO , ZIEMNIAKI , ZESTAW SURÓWEK",
           "price": null
         }
       ]
@@ -35,32 +61,6 @@
         },
         {
           "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW , FRYTKI BELGIJSKIE , SAŁATKA WIOSENNA Z SOSEM VINEGRETT",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "items": [
-        {
-          "name": "ŻUREK",
-          "price": null
-        },
-        {
-          "name": "FILET Z KURCZAKA W PANIERCE PANKO , ZIEMNIAKI , ZESTAW SURÓWEK",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "items": [
-        {
-          "name": "ZUPA KOPERKOWA",
-          "price": null
-        },
-        {
-          "name": "STEK DROBIOWY, FRYTKI I COLESŁAW Z CZERWONEJ KAPUSTY",
           "price": null
         }
       ]

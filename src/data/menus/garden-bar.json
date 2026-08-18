@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-08-17T09:26:59.309Z",
+  "scrapedAt": "2026-08-18T09:19:22.198Z",
   "menus": [
     {
       "date": "2026-08-17",
@@ -17,38 +17,32 @@
           "price": 8
         },
         {
-          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane",
+          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane plus sos pomidorowy",
           "price": 12
+        },
+        {
+          "name": "Udko z kurczaka po kujawsku (Strefa 25)",
+          "price": 25
+        },
+        {
+          "name": "Kotlet mielony wieprzowy (Strefa 25)",
+          "price": 25
+        },
+        {
+          "name": "Klopsy wieprzowe 3 szt sos pomidorowy (Strefa 25)",
+          "price": 25
+        },
+        {
+          "name": "Zrazy mielone wieprzowe 2 szt sos ciemny (Strefa 25)",
+          "price": 25
         },
         {
           "name": "Zupa dnia",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-08-16",
-      "items": [
-        {
-          "name": "Polędwiczki wieprzowe w sosie szparagowo-serowym, suszonymi pomidorami, boczkiem i parmezanem, kluski śląskie lub ziemniaki zestaw surówek lub słodka kapusta zasmażna",
-          "price": 37
         },
         {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
-        }
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "items": [
-        {
-          "name": "Bitka wieprzowa ze schabu z sosem kurkowym, kluski śląskie zestaw surówek lub kiszona zasmażna",
-          "price": 35
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
         }
       ]
     }
