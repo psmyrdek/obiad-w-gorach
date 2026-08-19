@@ -3,8 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-08-18T09:19:22.198Z",
+  "scrapedAt": "2026-08-19T09:19:56.423Z",
   "menus": [
+    {
+      "date": "2026-08-19",
+      "items": [
+        {
+          "name": "Kotlet Paryski drobiowy w cieście z warzywami smażony, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Ziemniaczanka na wędzonce",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "items": [
+        {
+          "name": "Kotlet mielony drobiowy ziemniaki i duszona marchewka",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Ogórkowa z ryżem",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "items": [
@@ -15,34 +41,6 @@
         {
           "name": "Zupa dnia Pomidorowa",
           "price": 8
-        },
-        {
-          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane plus sos pomidorowy",
-          "price": 12
-        },
-        {
-          "name": "Udko z kurczaka po kujawsku (Strefa 25)",
-          "price": 25
-        },
-        {
-          "name": "Kotlet mielony wieprzowy (Strefa 25)",
-          "price": 25
-        },
-        {
-          "name": "Klopsy wieprzowe 3 szt sos pomidorowy (Strefa 25)",
-          "price": 25
-        },
-        {
-          "name": "Zrazy mielone wieprzowe 2 szt sos ciemny (Strefa 25)",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia",
-          "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     }

@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-18T09:19:48.018Z",
+  "scrapedAt": "2026-08-19T09:20:15.857Z",
   "menus": [
     {
       "date": "2026-08-17",
@@ -13,20 +13,33 @@
           "price": null
         },
         {
-          "name": "ESKALOPKI W CIEŚCIE PIWNYM, FRYTKI , MIX SAŁAT Z SOSEM CEZARE",
+          "name": "ESKALOPKI W CIEŒCIE PIWNYM, FRYTKI , MIX SAŁAT Z SOSEM CEZARE",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-18",
       "items": [
         {
-          "name": "ZUPA KOPERKOWA",
+          "name": "KREM BROKUŁOWY",
           "price": null
         },
         {
-          "name": "STEK DROBIOWY, FRYTKI I COLESŁAW Z CZERWONEJ KAPUSTY",
+          "name": "GULASZ, KASZA JĘCZMIENNA, SURÓWKA Z PAPRYKI I OGÓRKA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "items": [
+        {
+          "name": "KAPUőNIAK",
+          "price": null
+        },
+        {
+          "name": "NALEőNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
           "price": null
         }
       ]
@@ -45,22 +58,14 @@
       ]
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "items": [
         {
-          "name": "KREM Z KUKURYDZY",
+          "name": "ZUPA KOPERKOWA",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA Z ZIEMNAKAMI Z PIECA I SAŁATKĄ Z POMIDORA",
-          "price": null
-        },
-        {
-          "name": "ZUPA POMIDOROWA",
-          "price": null
-        },
-        {
-          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW , FRYTKI BELGIJSKIE , SAŁATKA WIOSENNA Z SOSEM VINEGRETT",
+          "name": "STEK DROBIOWY, FRYTKI I COLESŁAW Z CZERWONEJ KAPUSTY",
           "price": null
         }
       ]

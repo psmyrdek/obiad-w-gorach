@@ -3,24 +3,27 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-18T09:19:24.946Z",
+  "scrapedAt": "2026-08-19T09:20:01.650Z",
   "menus": [
     {
-      "date": "2026-08-21",
+      "date": "2026-08-19",
       "items": [
         {
+          "name": "Pieczarkowa",
+          "price": null
+        },
+        {
+          "name": "Gołąbki",
+          "price": 31
+        },
+        {
           "name": "Barszcz ukraiński",
-          "price": 35
+          "price": null
         },
         {
           "name": "Dorsz ziemniaki surówki",
           "price": 35
-        }
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "items": [
+        },
         {
           "name": "Krupnik",
           "price": null
@@ -35,12 +38,25 @@
       "date": "2026-08-18",
       "items": [
         {
-          "name": "Krem z dyni",
+          "name": "Pomidorowa",
           "price": null
         },
         {
-          "name": "Kotlety pożarskie w zestawie z ziemniakami i surówkami",
+          "name": "Klopsy w sosie + ziemniaki + surówki",
+          "price": 36
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "items": [
+        {
+          "name": "Zupa brokułowa",
           "price": null
+        },
+        {
+          "name": "Udko z kurczaka + ziemniaki + surówki",
+          "price": 34
         }
       ]
     }
