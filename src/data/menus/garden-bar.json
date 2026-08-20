@@ -3,17 +3,38 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-08-19T09:19:56.423Z",
+  "scrapedAt": "2026-08-20T09:20:59.919Z",
   "menus": [
+    {
+      "date": "2026-08-20",
+      "items": [
+        {
+          "name": "Zraz wieprzowy mielony, sos ciemny, kasza gryczana lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Soljanka z ziemniakami (do dania drugiego)",
+          "price": 3
+        },
+        {
+          "name": "Soljanka z ziemniakami (solo)",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "items": [
         {
-          "name": "Kotlet Paryski drobiowy w cieście z warzywami smażony, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
+          "name": "Kotlet Paryski drobiowy w cieście z warzywami, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Ziemniaczanka na wędzonce",
+          "name": "Ziemniaczanka na wędzonce (do dania drugiego)",
+          "price": 3
+        },
+        {
+          "name": "Ziemniaczanka na wędzonce (solo)",
           "price": 8
         }
       ]
@@ -22,24 +43,15 @@
       "date": "2026-08-18",
       "items": [
         {
-          "name": "Kotlet mielony drobiowy ziemniaki i duszona marchewka",
+          "name": "Kotlet mielony drobiowy, ziemniaki i duszona marchewka",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Ogórkowa z ryżem",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-08-17",
-      "items": [
-        {
-          "name": "Kotlet schabowy nacierany majonezem i musztardą, panierowany i smażony, ziemniaki lub frytki, kapusta słodka zasmażana lub zestaw surówek",
-          "price": 25
+          "name": "Ogórkowa z ryżem (do dania drugiego)",
+          "price": 3
         },
         {
-          "name": "Zupa dnia Pomidorowa",
+          "name": "Ogórkowa z ryżem (solo)",
           "price": 8
         }
       ]
