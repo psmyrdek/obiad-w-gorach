@@ -3,43 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-20T09:21:21.749Z",
+  "scrapedAt": "2026-08-21T09:23:14.548Z",
   "menus": [
     {
-      "date": "2026-08-17",
+      "date": "2026-08-21",
       "items": [
         {
-          "name": "ZUPA GRZYBOWA",
+          "name": "KRUPNIK",
           "price": null
         },
         {
-          "name": "ESKALOPKI W CIEŚCIE PIWNYM, FRYTKI , MIX SAŁAT Z SOSEM CEZARE",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-18",
-      "items": [
-        {
-          "name": "KREM BROKUŁOWY",
-          "price": null
-        },
-        {
-          "name": "GULASZ, KASZA JĘCZMIENNA, SURÓWKA Z PAPRYKI I OGÓRKA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-19",
-      "items": [
-        {
-          "name": "KAPUŚNIAK",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
+          "name": "MORSZCZUK, ZAPIEKANKA ZIEMNIACZANA I COLESŁAW",
           "price": null
         }
       ]
@@ -58,14 +32,40 @@
       ]
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-19",
       "items": [
         {
-          "name": "ZUPA KOPERKOWA",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "STEK DROBIOWY, FRYTKI I COLESŁAW Z CZERWONEJ KAPUSTY",
+          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "items": [
+        {
+          "name": "KREM BROKUŁOWY",
+          "price": null
+        },
+        {
+          "name": "GULASZ, KASZA JĘCZMIENNA, SURÓWKA Z PAPRYKI I OGÓRKA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "items": [
+        {
+          "name": "ZUPA GRZYBOWA",
+          "price": null
+        },
+        {
+          "name": "ESKALOPKI W CIEŚCIE PIWNYM, FRYTKI , MIX SAŁAT Z SOSEM CEZARE",
           "price": null
         }
       ]

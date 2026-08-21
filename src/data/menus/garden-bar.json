@@ -3,21 +3,30 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-08-20T09:20:59.919Z",
+  "scrapedAt": "2026-08-21T09:22:56.480Z",
   "menus": [
+    {
+      "date": "2026-08-21",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce frytki lub ziemniaki, sur3wki lub kapusta kiszona zasmażana",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia : Grochowa",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "items": [
         {
-          "name": "Zraz wieprzowy mielony, sos ciemny, kasza gryczana lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Zraz wieprzowy mielony sos ciemny, kasza gryczana lub ziemniaki zestaw sur3wek lub kapusta słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Soljanka z ziemniakami (do dania drugiego)",
-          "price": 3
-        },
-        {
-          "name": "Soljanka z ziemniakami (solo)",
+          "name": "Zupa dnia : Soljanka z ziemniakami",
           "price": 8
         }
       ]
@@ -26,15 +35,11 @@
       "date": "2026-08-19",
       "items": [
         {
-          "name": "Kotlet Paryski drobiowy w cieście z warzywami, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
+          "name": "Kotlet Paryski drobiowy w cieście z warzywami smażony, frytki lub ziemniaki, sur3wki lub słodka kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Ziemniaczanka na wędzonce (do dania drugiego)",
-          "price": 3
-        },
-        {
-          "name": "Ziemniaczanka na wędzonce (solo)",
+          "name": "Zupa dnia : Ziemniaczanka na wędzonce",
           "price": 8
         }
       ]
@@ -43,15 +48,11 @@
       "date": "2026-08-18",
       "items": [
         {
-          "name": "Kotlet mielony drobiowy, ziemniaki i duszona marchewka",
+          "name": "Kotlet mielony drobiowy ziemniaki i duszona marchewka",
           "price": 25
         },
         {
-          "name": "Ogórkowa z ryżem (do dania drugiego)",
-          "price": 3
-        },
-        {
-          "name": "Ogórkowa z ryżem (solo)",
+          "name": "Zupa dnia : Og3rkowa z ryżem",
           "price": 8
         }
       ]
