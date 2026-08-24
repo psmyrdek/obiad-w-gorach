@@ -3,13 +3,13 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-21T09:23:01.475Z",
+  "scrapedAt": "2026-08-24T09:33:24.393Z",
   "menus": [
     {
-      "date": "2026-08-21",
+      "date": "2026-08-28",
       "items": [
         {
-          "name": "Zupa koperkowa",
+          "name": "Koperkowa",
           "price": null
         },
         {
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-27",
       "items": [
         {
           "name": "Grochówka",
@@ -32,24 +32,24 @@
       ]
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-26",
       "items": [
         {
-          "name": "Pieczarkowa z konkretną wkładką",
-          "price": 31
+          "name": "Pieczarkowa z wkładką",
+          "price": null
         },
         {
-          "name": "Gołąbki naładowane farszem z sosem",
+          "name": "Gołąbki",
           "price": 31
         }
       ]
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-25",
       "items": [
         {
           "name": "Pomidorowa",
-          "price": 36
+          "price": null
         },
         {
           "name": "Klopsy w sosie + ziemniaki + surówki",
@@ -58,11 +58,11 @@
       ]
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-24",
       "items": [
         {
           "name": "Zupa brokułowa",
-          "price": 34
+          "price": null
         },
         {
           "name": "Udko z kurczaka + ziemniaki + surówki",

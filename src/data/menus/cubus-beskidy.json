@@ -3,49 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-21T09:23:14.548Z",
+  "scrapedAt": "2026-08-24T09:33:40.522Z",
   "menus": [
     {
-      "date": "2026-08-21",
+      "date": "2026-08-24",
       "items": [
         {
-          "name": "KRUPNIK",
+          "name": "KREM Z BIAŁYCH WARZYW",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZAPIEKANKA ZIEMNIACZANA I COLESŁAW",
+          "name": "ROLADKA DROBIOWA Z FASOLKĄ SZPARAGOWĄ I PAPRYKĄ W SOSIE SEROWYM, RISOTTO, SURÓWKA Z KAPUSTY PEKIŃSKIEJ",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-08-20",
-      "items": [
-        {
-          "name": "ZUPA JARZYNOWA",
-          "price": null
-        },
-        {
-          "name": "KOTLET SCHABOWY , ZIEMNIAKI , KAPUSTA ZASMAŻANA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-19",
-      "items": [
-        {
-          "name": "KAPUŚNIAK",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-18",
+      "date": "2026-08-25",
       "items": [
         {
           "name": "KREM BROKUŁOWY",
@@ -58,14 +32,40 @@
       ]
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-26",
       "items": [
         {
-          "name": "ZUPA GRZYBOWA",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "ESKALOPKI W CIEŚCIE PIWNYM, FRYTKI , MIX SAŁAT Z SOSEM CEZARE",
+          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "items": [
+        {
+          "name": "ZUPA JARZYNOWA",
+          "price": null
+        },
+        {
+          "name": "KOTLET SCHABOWY , ZIEMNIAKI , KAPUSTA ZASMAŻANA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "items": [
+        {
+          "name": "KRUPNIK",
+          "price": null
+        },
+        {
+          "name": "MORSZCZUK, ZAPIEKANKA ZIEMNIACZANA I COLESŁAW",
           "price": null
         }
       ]
