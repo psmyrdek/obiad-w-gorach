@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-24T09:33:40.522Z",
+  "scrapedAt": "2026-08-25T09:22:25.828Z",
   "menus": [
     {
       "date": "2026-08-24",
       "items": [
         {
-          "name": "KREM Z BIAŁYCH WARZYW",
+          "name": "Krem z białych warzyw",
           "price": null
         },
         {
-          "name": "ROLADKA DROBIOWA Z FASOLKĄ SZPARAGOWĄ I PAPRYKĄ W SOSIE SEROWYM, RISOTTO, SURÓWKA Z KAPUSTY PEKIŃSKIEJ",
+          "name": "Roladka drobiowa z fasolką szparagową i papryką w sosie serowym, risotto, surówka z kapusty pekińskiej",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-08-25",
       "items": [
         {
-          "name": "KREM BROKUŁOWY",
+          "name": "Krem brokułowy",
           "price": null
         },
         {
-          "name": "GULASZ, KASZA JĘCZMIENNA, SURÓWKA Z PAPRYKI I OGÓRKA",
+          "name": "Gulasz, kasza jęczmienna, surówka z papryki i ogórka",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-08-26",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "Kapuśniak",
           "price": null
         },
         {
-          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
+          "name": "Naleśniki z kurczakiem i szpinakiem w sosie beszamelowym",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-08-27",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "Zupa jarzynowa",
           "price": null
         },
         {
-          "name": "KOTLET SCHABOWY , ZIEMNIAKI , KAPUSTA ZASMAŻANA",
+          "name": "Kotlet schabowy , ziemniaki , kapusta zasmażana",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-08-28",
       "items": [
         {
-          "name": "KRUPNIK",
+          "name": "Krupnik",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZAPIEKANKA ZIEMNIACZANA I COLESŁAW",
+          "name": "Morszczuk, zapiekanka ziemniaczana i colesław",
           "price": null
         }
       ]

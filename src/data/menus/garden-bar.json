@@ -3,13 +3,13 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-08-24T09:33:18.681Z",
+  "scrapedAt": "2026-08-25T09:22:07.892Z",
   "menus": [
     {
       "date": "2026-08-24",
       "items": [
         {
-          "name": "Kotlet schabowy nacierany majonezem i chrzanem, panierowany",
+          "name": "Kotlet schabowy nacierany majonezem i chrzanem, panierowany, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
@@ -17,7 +17,7 @@
           "price": 8
         },
         {
-          "name": "Gołąbki z mięsem i ryżem w młodej kapuście",
+          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane",
           "price": 12
         }
       ]
@@ -26,7 +26,7 @@
       "date": "2026-08-23",
       "items": [
         {
-          "name": "Bitka wieprzowa ze schabu w sosie szparagowo-serowym z boczkiem",
+          "name": "Bitka wieprzowa ze schabu w sosie szparagowo-serowym z boczkiem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta zasmażana",
           "price": 37
         },
         {
@@ -39,7 +39,7 @@
       "date": "2026-08-22",
       "items": [
         {
-          "name": "Pieczeń wieprzowa z karczku w sosie grzybowym",
+          "name": "Pieczeń wieprzowa z karczku w sosie grzybowym, kluski śląskie lub ziemniaki, surówki lub kapusta zasmażana",
           "price": 30
         },
         {
@@ -49,10 +49,10 @@
       ]
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-28",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce",
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
           "price": 34
         },
         {

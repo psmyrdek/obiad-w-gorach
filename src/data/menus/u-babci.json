@@ -3,17 +3,17 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-24T09:33:24.393Z",
+  "scrapedAt": "2026-08-25T09:22:12.712Z",
   "menus": [
     {
-      "date": "2026-08-28",
+      "date": "2028-08-28",
       "items": [
         {
-          "name": "Koperkowa",
+          "name": "koperkowa",
           "price": null
         },
         {
-          "name": "Chrupiący dorsz z ziemniakami i zestawem surówek",
+          "name": "chrupiący dorsz z ziemniakami i zestawem surówek",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-08-26",
       "items": [
         {
-          "name": "Pieczarkowa z wkładką",
+          "name": "pieczarkowa z wkładką",
           "price": null
         },
         {
-          "name": "Gołąbki",
+          "name": "gołąbki z farszem mięsnym i sosem",
           "price": 31
         }
       ]
