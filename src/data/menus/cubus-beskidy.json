@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-25T09:22:25.828Z",
+  "scrapedAt": "2026-08-26T09:28:10.364Z",
   "menus": [
     {
       "date": "2026-08-24",
       "items": [
         {
-          "name": "Krem z białych warzyw",
+          "name": "KREM Z BIAŁYCH WARZYW",
           "price": null
         },
         {
-          "name": "Roladka drobiowa z fasolką szparagową i papryką w sosie serowym, risotto, surówka z kapusty pekińskiej",
+          "name": "ROLADKA DROBIOWA Z FASOLKĄ SZPARAGOWĄ I PAPRYKĄ W SOSIE SEROWYM, RISOTTO, SURÓWKA Z KAPUSTY PEKIŃSKIEJ",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-08-25",
       "items": [
         {
-          "name": "Krem brokułowy",
+          "name": "ZUPA ZIEMNIACZANA",
           "price": null
         },
         {
-          "name": "Gulasz, kasza jęczmienna, surówka z papryki i ogórka",
+          "name": "ROLADKA DROBIOWA Z PIECZARKAMI I SEREM W OMLECIE , ZIEMNIAKI OPIEKANE , SURÓWKA Z PORA",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-08-26",
       "items": [
         {
-          "name": "Kapuśniak",
+          "name": "ZUPA Z CUKINI Z MAKARONEM NALEŚNIKOWYM",
           "price": null
         },
         {
-          "name": "Naleśniki z kurczakiem i szpinakiem w sosie beszamelowym",
+          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM, KLUSKI ŚLĄSKIE, CZERWONA KAPUSTA LUB SAŁATKA CEZAR",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-08-27",
       "items": [
         {
-          "name": "Zupa jarzynowa",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "Kotlet schabowy , ziemniaki , kapusta zasmażana",
+          "name": "KOTLET SCHABOWY , ZIEMNIAKI , KAPUSTA ZASMAŻANA",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-08-28",
       "items": [
         {
-          "name": "Krupnik",
+          "name": "KRUPNIK",
           "price": null
         },
         {
-          "name": "Morszczuk, zapiekanka ziemniaczana i colesław",
+          "name": "MORSZCZUK, ZAPIEKANKA ZIEMNIACZANA I COLESŁAW",
           "price": null
         }
       ]
