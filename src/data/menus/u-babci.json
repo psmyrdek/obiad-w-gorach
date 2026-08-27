@@ -3,13 +3,26 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-26T09:27:56.032Z",
+  "scrapedAt": "2026-08-27T19:18:00.701Z",
   "menus": [
+    {
+      "date": "2026-08-27",
+      "items": [
+        {
+          "name": "Krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Duszonki",
+          "price": 33
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "items": [
         {
-          "name": "Jarzynowa",
+          "name": "Zupa jarzynowa",
           "price": null
         },
         {
@@ -26,7 +39,7 @@
           "price": null
         },
         {
-          "name": "Bitki wieprzowe w sosie z ziemniaczkami i świeżym zestawem surówek",
+          "name": "Bitki wieprzowe w sosie z ziemniaczkami i zestawem surówek",
           "price": null
         }
       ]
@@ -48,24 +61,11 @@
       "date": "2026-08-21",
       "items": [
         {
-          "name": "Koperkowa",
+          "name": "Zupa koperkowa",
           "price": null
         },
         {
           "name": "Dorsz z ziemniakami i zestawem surówek",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "items": [
-        {
-          "name": "Grochówka",
-          "price": null
-        },
-        {
-          "name": "Wątróbka z ziemniakami i ogórkiem kiszonym",
           "price": null
         }
       ]

@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-26T09:28:10.364Z",
+  "scrapedAt": "2026-08-27T19:18:15.908Z",
   "menus": [
     {
       "date": "2026-08-24",
       "items": [
         {
-          "name": "KREM Z BIAŁYCH WARZYW",
+          "name": "Krem z białych warzyw",
           "price": null
         },
         {
-          "name": "ROLADKA DROBIOWA Z FASOLKĄ SZPARAGOWĄ I PAPRYKĄ W SOSIE SEROWYM, RISOTTO, SURÓWKA Z KAPUSTY PEKIŃSKIEJ",
+          "name": "Roladka drobiowa z fasolką szparagową i papryką w sosie serowym, risotto, surówka z kapusty pekińskiej",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-08-25",
       "items": [
         {
-          "name": "ZUPA ZIEMNIACZANA",
+          "name": "Zupa ziemniaczana",
           "price": null
         },
         {
-          "name": "ROLADKA DROBIOWA Z PIECZARKAMI I SEREM W OMLECIE , ZIEMNIAKI OPIEKANE , SURÓWKA Z PORA",
+          "name": "Roladka drobiowa z pieczarkami i serem w omlecie, ziemniaki opiekane, surówka z pora",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-08-26",
       "items": [
         {
-          "name": "ZUPA Z CUKINI Z MAKARONEM NALEŚNIKOWYM",
+          "name": "Zupa z cukini z makaronem naleśnikowym",
           "price": null
         },
         {
-          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM, KLUSKI ŚLĄSKIE, CZERWONA KAPUSTA LUB SAŁATKA CEZAR",
+          "name": "Pieczeń wieprzowa w sosie własnym, kluski śląskie, czerwona kapusta lub sałatka cezar",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-08-27",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "Barszcz zabielany",
           "price": null
         },
         {
-          "name": "KOTLET SCHABOWY , ZIEMNIAKI , KAPUSTA ZASMAŻANA",
+          "name": "Kotlet devolaille, frytki, sałatka wiosenna z sosem vinegrett",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-08-28",
       "items": [
         {
-          "name": "KRUPNIK",
+          "name": "Krupnik",
           "price": null
         },
         {
-          "name": "MORSZCZUK, ZAPIEKANKA ZIEMNIACZANA I COLESŁAW",
+          "name": "Morszczuk, zapiekanka ziemniaczana i colesław",
           "price": null
         }
       ]
