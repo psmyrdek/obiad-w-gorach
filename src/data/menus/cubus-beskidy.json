@@ -3,43 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-27T19:18:15.908Z",
+  "scrapedAt": "2026-08-28T20:27:41.643Z",
   "menus": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-28",
       "items": [
         {
-          "name": "Krem z białych warzyw",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "Roladka drobiowa z fasolką szparagową i papryką w sosie serowym, risotto, surówka z kapusty pekińskiej",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-25",
-      "items": [
-        {
-          "name": "Zupa ziemniaczana",
-          "price": null
-        },
-        {
-          "name": "Roladka drobiowa z pieczarkami i serem w omlecie, ziemniaki opiekane, surówka z pora",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-26",
-      "items": [
-        {
-          "name": "Zupa z cukini z makaronem naleśnikowym",
-          "price": null
-        },
-        {
-          "name": "Pieczeń wieprzowa w sosie własnym, kluski śląskie, czerwona kapusta lub sałatka cezar",
+          "name": "Miruna panierowana, ziemniaki młode, surówka z białej kapusty",
           "price": null
         }
       ]
@@ -58,14 +32,40 @@
       ]
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-26",
       "items": [
         {
-          "name": "Krupnik",
+          "name": "Zupa z cukinii z makaronem naleśnikowym",
           "price": null
         },
         {
-          "name": "Morszczuk, zapiekanka ziemniaczana i colesław",
+          "name": "Pieczeń wieprzowa w sosie własnym, kluski śląskie, czerwona kapusta lub sałatka cezar",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "items": [
+        {
+          "name": "Zupa ziemniaczana",
+          "price": null
+        },
+        {
+          "name": "Roladka drobiowa z pieczarkami i serem w omlecie, ziemniaki opiekane, surówka z pora",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "items": [
+        {
+          "name": "Krem z białych warzyw",
+          "price": null
+        },
+        {
+          "name": "Roladka drobiowa z fasolką szparagową i papryką w sosie serowym, risotto, surówka z kapusty pekińskiej",
           "price": null
         }
       ]
