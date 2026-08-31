@@ -3,69 +3,69 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-08-28T20:27:41.643Z",
+  "scrapedAt": "2026-08-31T16:27:39.349Z",
   "menus": [
     {
-      "date": "2026-08-28",
+      "date": "2026-08-31",
       "items": [
         {
-          "name": "Zupa ogórkowa",
+          "name": "ZUPA POMIDOROWA",
           "price": null
         },
         {
-          "name": "Miruna panierowana, ziemniaki młode, surówka z białej kapusty",
+          "name": "KOTLET MIELONY, ZIEMNIAKI I KAPUSTA ZASMAŻANA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-09-01",
       "items": [
         {
-          "name": "Barszcz zabielany",
+          "name": "ZUPA ZIEMNIACZANA",
           "price": null
         },
         {
-          "name": "Kotlet devolaille, frytki, sałatka wiosenna z sosem vinegrett",
+          "name": "ROLADKA DROBIOWA Z PIECZARKAMI I SEREM W OMLECIE , ZIEMNIAKI OPIEKANE , SURÓWKA Z PORA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-09-02",
       "items": [
         {
-          "name": "Zupa z cukinii z makaronem naleśnikowym",
+          "name": "ZUPA Z CUKINI Z MAKARONEM NALEŚNIKOWYM",
           "price": null
         },
         {
-          "name": "Pieczeń wieprzowa w sosie własnym, kluski śląskie, czerwona kapusta lub sałatka cezar",
+          "name": "PIECZEŃ WIEPRZOWA W SOSIE WŁASNYM, KLUSKI ŚLĄSKIE, CZERWONA KAPUSTA LUB SAŁATKA CEZAR",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-09-03",
       "items": [
         {
-          "name": "Zupa ziemniaczana",
+          "name": "BARSZCZ ZABIELANY",
           "price": null
         },
         {
-          "name": "Roladka drobiowa z pieczarkami i serem w omlecie, ziemniaki opiekane, surówka z pora",
+          "name": "KOTLET DEVOLAILLE , FRYTKI , SAŁATLKA WIOSENNA Z SOSEM VINEGRETT",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-09-04",
       "items": [
         {
-          "name": "Krem z białych warzyw",
+          "name": "ZUPA OGÓRKOWA",
           "price": null
         },
         {
-          "name": "Roladka drobiowa z fasolką szparagową i papryką w sosie serowym, risotto, surówka z kapusty pekińskiej",
+          "name": "MIRUNA PANIEROWANA , ZIEMNIAKI MŁODE , SURÓWKA Z BIAŁEJ KAPUSTY",
           "price": null
         }
       ]

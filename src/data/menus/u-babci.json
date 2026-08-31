@@ -3,18 +3,31 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-08-28T20:27:19.469Z",
+  "scrapedAt": "2026-08-31T16:27:00.620Z",
   "menus": [
+    {
+      "date": "2026-08-31",
+      "items": [
+        {
+          "name": "Grzybowa",
+          "price": 35
+        },
+        {
+          "name": "Potrawka z kurczakiem",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "items": [
         {
           "name": "Koperkowa",
-          "price": null
+          "price": 35
         },
         {
           "name": "Dorsz w zestawie z ziemniakami i surówkami",
-          "price": 35
+          "price": null
         }
       ]
     },
@@ -23,11 +36,11 @@
       "items": [
         {
           "name": "Krem z dyni",
-          "price": null
+          "price": 33
         },
         {
           "name": "Duszonki",
-          "price": 33
+          "price": null
         }
       ]
     },
@@ -36,11 +49,11 @@
       "items": [
         {
           "name": "Jarzynowa",
-          "price": null
+          "price": 31
         },
         {
           "name": "Gołąbki w sosie pomidorowym",
-          "price": 31
+          "price": null
         }
       ]
     },
@@ -48,24 +61,11 @@
       "date": "2026-08-25",
       "items": [
         {
-          "name": "Tradycyjny krupnik",
+          "name": "Krupnik",
           "price": null
         },
         {
           "name": "Bitki wieprzowe w sosie z ziemniaczkami i zestawem surówek",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-24",
-      "items": [
-        {
-          "name": "Barszcz zabielany z jajkiem",
-          "price": null
-        },
-        {
-          "name": "Spaghetti",
           "price": null
         }
       ]

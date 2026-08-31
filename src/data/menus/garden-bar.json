@@ -3,13 +3,26 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-08-28T20:27:13.478Z",
+  "scrapedAt": "2026-08-31T16:26:41.150Z",
   "menus": [
     {
-      "date": "2026-08-28",
+      "date": "2026-08-31",
       "items": [
         {
-          "name": "Zestaw dnia: Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "name": "Kotlet schabowy marynowany chrzanem, mysztardą i majonezem, ziemniaki lub frytki, sur3wki lub kapusta słodka zasmaűana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Pomidorowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, sur3wki lub kapusta kiszona zasmaűana",
           "price": 34
         },
         {
@@ -19,53 +32,14 @@
       ]
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-09-03",
       "items": [
         {
-          "name": "Czwartkowe danie: Rolada wieprzowa ze śląskim farszem w ciemnym sosie, kluski śląskie lub ziemniaki, surówki lub słodka zasmażana",
+          "name": "Rolada wieprzowa ze ŗląskim farszem w ciemnym sosie, kluski ŗląskie lub ziemniaki, sur3wki lub słodka zasmaűana",
           "price": 25
         },
         {
           "name": "Zupa dnia: Krupnik z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-08-26",
-      "items": [
-        {
-          "name": "Danie na środę: Polędwiczka wieprzowa w sosie serowym z parmezanem, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Solferino (Jarzynowo-pomidorowa)",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-08-25",
-      "items": [
-        {
-          "name": "Oferta dnia: Burger wieprzowy z pieczarkami i cebulą, frytki lub ziemniaki, surówki lub zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Krem kalafiorowo-ziemniaczany",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-08-24",
-      "items": [
-        {
-          "name": "Danie na poniedziałek: Kotlet schabowy nacierany majonezem i chrzanem, panierowany, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]
