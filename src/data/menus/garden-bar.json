@@ -3,44 +3,70 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-08-31T16:26:41.150Z",
+  "scrapedAt": "2026-09-01T13:44:57.354Z",
   "menus": [
     {
       "date": "2026-08-31",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany chrzanem, mysztardą i majonezem, ziemniaki lub frytki, sur3wki lub kapusta słodka zasmaűana",
+          "name": "Kotlet schabowy marynowany chrzanem, mysztardą i majonezem, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
-          "price": 8
+          "name": "Zupa dnia : Pomidorowa",
+          "price": 3
         }
       ]
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-08-30",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, sur3wki lub kapusta kiszona zasmaűana",
+          "name": "Filet z indyka w sosie holenderskim na białym winie, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "items": [
+        {
+          "name": "Devolaj z suszonymi pomidorami i mozzarellą, frytki lub ziemniaki, zestaw surówek lub kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
           "price": 34
         },
         {
-          "name": "Zupa dnia: Pieczarkowa z makaronem",
-          "price": 8
+          "name": "Zupa dnia : Pieczarkowa z makaronem",
+          "price": 3
         }
       ]
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-08-27",
       "items": [
         {
-          "name": "Rolada wieprzowa ze ŗląskim farszem w ciemnym sosie, kluski ŗląskie lub ziemniaki, sur3wki lub słodka zasmaűana",
+          "name": "Rolada wieprzowa ze śląskim farszem w ciemnym sosie, kluski śląskie lub ziemniaki, surówki lub słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krupnik z ziemniakami",
-          "price": 8
+          "name": "Zupa dnia : Krupnik z ziemniakami",
+          "price": 3
         }
       ]
     }
