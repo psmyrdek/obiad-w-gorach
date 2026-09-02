@@ -3,8 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-01T13:44:57.354Z",
+  "scrapedAt": "2026-09-02T13:01:27.726Z",
   "menus": [
+    {
+      "date": "2026-09-02",
+      "items": [
+        {
+          "name": "Polędwiczki wieprzowe w sosie beszamelowym, kluski śląskie lub ziemniaki, brukselka z boczkiem i cebulką lub surówki albo kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Kapuśniak z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "items": [
+        {
+          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Krem warzywny z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "items": [
@@ -14,7 +40,7 @@
         },
         {
           "name": "Zupa dnia : Pomidorowa",
-          "price": 3
+          "price": 8
         }
       ]
     },
@@ -27,7 +53,7 @@
         },
         {
           "name": "Zupa dnia : Rosół z makaronem",
-          "price": 5
+          "price": 10
         }
       ]
     },
@@ -40,33 +66,7 @@
         },
         {
           "name": "Zupa dnia : Rosół z makaronem",
-          "price": 5
-        }
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
-          "price": 34
-        },
-        {
-          "name": "Zupa dnia : Pieczarkowa z makaronem",
-          "price": 3
-        }
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "items": [
-        {
-          "name": "Rolada wieprzowa ze śląskim farszem w ciemnym sosie, kluski śląskie lub ziemniaki, surówki lub słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Krupnik z ziemniakami",
-          "price": 3
+          "price": 10
         }
       ]
     }
