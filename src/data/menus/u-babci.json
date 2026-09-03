@@ -3,34 +3,23 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-02T13:01:32.810Z",
+  "scrapedAt": "2026-09-03T13:03:36.035Z",
   "menus": [
+    {
+      "date": "2026-09-03",
+      "items": [
+        {
+          "name": "Zestaw Dnia: Kalafiorowa + Wątróbka duszona z cebulą, ziemniakami i ogórkiem kiszonym",
+          "price": 33
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "items": [
         {
-          "name": "Żurek",
-          "price": null
-        },
-        {
-          "name": "Gołąbki",
+          "name": "Zestaw Dnia: Żurek + Gołąbki",
           "price": 31
-        },
-        {
-          "name": "Koperkowa",
-          "price": null
-        },
-        {
-          "name": "Dorsz w zestawie z ziemniakami i surówkami",
-          "price": 35
-        },
-        {
-          "name": "Krem z dyni",
-          "price": null
-        },
-        {
-          "name": "Duszonki",
-          "price": 33
         }
       ]
     },
@@ -38,11 +27,7 @@
       "date": "2026-09-01",
       "items": [
         {
-          "name": "Barszcz ukraiński",
-          "price": null
-        },
-        {
-          "name": "Chrupiący schabowy, ziemniaczki i kapusta zasmażana",
+          "name": "Zestaw Dnia: Barszcz ukraiński + Schabowy, ziemniaczki i kapusta zasmażana",
           "price": 41
         }
       ]
@@ -51,11 +36,16 @@
       "date": "2026-08-31",
       "items": [
         {
-          "name": "Grzybowa",
-          "price": null
-        },
+          "name": "Zestaw Dnia: Grzybowa + Potrawka z kurczakiem",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "items": [
         {
-          "name": "Potrawka z kurczakiem",
+          "name": "Zestaw Dnia: Koperkowa + Dorsz w zestawie z ziemniakami i surówkami",
           "price": 35
         }
       ]

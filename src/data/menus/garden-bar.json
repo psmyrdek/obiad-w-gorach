@@ -3,13 +3,34 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-02T13:01:27.726Z",
+  "scrapedAt": "2026-09-03T13:03:30.568Z",
   "menus": [
+    {
+      "date": "2026-09-03",
+      "items": [
+        {
+          "name": "Schab duszony z cebulą i boczkiem, dodatki do wyboru",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Ogórkowa",
+          "price": 8
+        },
+        {
+          "name": "Filet z indyka w sosie holenderskim na białym winie, dodatki do wyboru",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 10
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "items": [
         {
-          "name": "Polędwiczki wieprzowe w sosie beszamelowym, kluski śląskie lub ziemniaki, brukselka z boczkiem i cebulką lub surówki albo kapusta zasmażana",
+          "name": "Polędwiczki wieprzowe w sosie beszamelowym, dodatki do wyboru",
           "price": 25
         },
         {
@@ -22,7 +43,7 @@
       "date": "2026-09-01",
       "items": [
         {
-          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, dodatki do wyboru",
           "price": 25
         },
         {
@@ -35,38 +56,12 @@
       "date": "2026-08-31",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany chrzanem, mysztardą i majonezem, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "name": "Kotlet schabowy marynowany chrzanem, mysztardą i majonezem, dodatki do wyboru",
           "price": 25
         },
         {
           "name": "Zupa dnia : Pomidorowa",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "items": [
-        {
-          "name": "Filet z indyka w sosie holenderskim na białym winie, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
-        }
-      ]
-    },
-    {
-      "date": "2026-08-29",
-      "items": [
-        {
-          "name": "Devolaj z suszonymi pomidorami i mozzarellą, frytki lub ziemniaki, zestaw surówek lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
         }
       ]
     }

@@ -3,8 +3,21 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-02T13:01:48.357Z",
+  "scrapedAt": "2026-09-03T13:04:01.432Z",
   "menus": [
+    {
+      "date": "2026-09-03",
+      "items": [
+        {
+          "name": "ZUPA JARZYNOWA",
+          "price": null
+        },
+        {
+          "name": "KOTLET PO SZWAJCARSKU Z ZIEMNIAKAMI I MARCHEWKĄ Z GROSZKIEM",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "items": [
@@ -53,19 +66,6 @@
         },
         {
           "name": "MIRUNA PANIEROWANA , ZIEMNIAKI MŁODE , SURÓWKA Z BIAŁEJ KAPUSTY",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "items": [
-        {
-          "name": "BARSZCZ ZABIELANY",
-          "price": null
-        },
-        {
-          "name": "KOTLET DEVOLAILLE , FRYTKI , SAŁATKA WIOSENNA Z SOSEM VINEGRETT",
           "price": null
         }
       ]
