@@ -3,30 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-03T13:04:01.432Z",
+  "scrapedAt": "2026-09-04T12:58:41.048Z",
   "menus": [
     {
-      "date": "2026-09-03",
+      "date": "2026-08-31",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "ZUPA POMIDOROWA",
           "price": null
         },
         {
-          "name": "KOTLET PO SZWAJCARSKU Z ZIEMNIAKAMI I MARCHEWKĄ Z GROSZKIEM",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-02",
-      "items": [
-        {
-          "name": "KREM MARCHEWKOWO-DYNIOWY",
-          "price": null
-        },
-        {
-          "name": "ŻEBERKA W SOSIE BBQ Z ZIEMNIAKAMI OPIEKANYMI I COLESLAWEM",
+          "name": "KOTLET MIELONY, ZIEMNIAKI I KAPUSTA ZASMAŻANA",
           "price": null
         }
       ]
@@ -45,14 +32,27 @@
       ]
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-09-02",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "KREM MARCHEWKOWO-DYNIOWY",
           "price": null
         },
         {
-          "name": "KOTLET MIELONY, ZIEMNIAKI I KAPUSTA ZASMAŻANA",
+          "name": "ŻEBERKA W SOSIE BBQ Z ZIEMNIAKAMI OPIEKANYMI I COLESLAWEM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "items": [
+        {
+          "name": "ZUPA JARZYNOWA",
+          "price": null
+        },
+        {
+          "name": "KOTLET PO SZWAJCARSKU Z ZIEMNIAKAMI I MARCHEWKĄ Z GROSZKIEM",
           "price": null
         }
       ]

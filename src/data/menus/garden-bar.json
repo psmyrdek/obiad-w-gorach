@@ -3,26 +3,18 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-03T13:03:30.568Z",
+  "scrapedAt": "2026-09-04T12:58:22.496Z",
   "menus": [
     {
       "date": "2026-09-03",
       "items": [
         {
-          "name": "Schab duszony z cebulą i boczkiem, dodatki do wyboru",
+          "name": "Schab duszony z cebulą i boczkiem, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
           "name": "Zupa dnia : Ogórkowa",
           "price": 8
-        },
-        {
-          "name": "Filet z indyka w sosie holenderskim na białym winie, dodatki do wyboru",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
         }
       ]
     },
@@ -30,7 +22,7 @@
       "date": "2026-09-02",
       "items": [
         {
-          "name": "Polędwiczki wieprzowe w sosie beszamelowym, dodatki do wyboru",
+          "name": "Polędwiczki wieprzowe w sosie beszamelowym, kluski śląskie lub ziemniaki, brukselka z boczkiem i cebulką lub surówki albo kapusta zasmażana",
           "price": 25
         },
         {
@@ -43,7 +35,7 @@
       "date": "2026-09-01",
       "items": [
         {
-          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, dodatki do wyboru",
+          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
@@ -56,7 +48,7 @@
       "date": "2026-08-31",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany chrzanem, mysztardą i majonezem, dodatki do wyboru",
+          "name": "Kotlet schabowy marynowany chrzanem, mysztardą i majonezem, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
