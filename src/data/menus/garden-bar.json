@@ -3,56 +3,30 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-04T12:58:22.496Z",
+  "scrapedAt": "2026-09-07T14:31:14.301Z",
   "menus": [
     {
-      "date": "2026-09-03",
+      "date": "2026-09-07",
       "items": [
         {
-          "name": "Schab duszony z cebulą i boczkiem, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, dodatki",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Ogórkowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-11",
       "items": [
         {
-          "name": "Polędwiczki wieprzowe w sosie beszamelowym, kluski śląskie lub ziemniaki, brukselka z boczkiem i cebulką lub surówki albo kapusta zasmażana",
-          "price": 25
+          "name": "Filet z morszczuka w panierce, dodatki",
+          "price": 34
         },
         {
-          "name": "Zupa dnia : Kapuśniak z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "items": [
-        {
-          "name": "Kotlet drobiowy szarpany smażony w cieście z warzywami, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Krem warzywny z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-08-31",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany chrzanem, mysztardą i majonezem, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Pomidorowa",
+          "name": "Zupa dnia: Kalafiorowo-porowa",
           "price": 8
         }
       ]
