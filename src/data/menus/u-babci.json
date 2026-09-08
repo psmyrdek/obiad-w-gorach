@@ -3,14 +3,14 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-07T14:31:26.486Z",
+  "scrapedAt": "2026-09-08T13:07:27.812Z",
   "menus": [
     {
       "date": "2026-09-07",
       "items": [
         {
           "name": "Krupnik",
-          "price": 35
+          "price": null
         },
         {
           "name": "Żeberko, ziemniaki i kapusta zasmażana",
@@ -35,8 +35,8 @@
       "date": "2026-09-03",
       "items": [
         {
-          "name": "Zupa kalafiorowa",
-          "price": 33
+          "name": "Kalafiorowa",
+          "price": null
         },
         {
           "name": "Wątróbka duszona z cebulą, ziemniakami i ogórkiem kiszonym",
@@ -49,7 +49,7 @@
       "items": [
         {
           "name": "Żurek",
-          "price": 31
+          "price": null
         },
         {
           "name": "Gołąbki",
@@ -62,7 +62,7 @@
       "items": [
         {
           "name": "Barszcz ukraiński",
-          "price": 41
+          "price": null
         },
         {
           "name": "Chrupiący schabowy, ziemniaczki i kapusta zasmażana",

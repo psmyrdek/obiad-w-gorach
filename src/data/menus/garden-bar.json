@@ -3,13 +3,13 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-07T14:31:14.301Z",
+  "scrapedAt": "2026-09-08T13:07:21.122Z",
   "menus": [
     {
       "date": "2026-09-07",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, dodatki",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli",
           "price": 25
         },
         {
@@ -22,12 +22,16 @@
       "date": "2026-09-11",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, dodatki",
+          "name": "Filet z morszczuka w panierce",
           "price": 34
         },
         {
           "name": "Zupa dnia: Kalafiorowo-porowa",
           "price": 8
+        },
+        {
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
         }
       ]
     }
