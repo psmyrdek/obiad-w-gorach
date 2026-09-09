@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-08T13:08:03.078Z",
+  "scrapedAt": "2026-09-09T13:13:20.097Z",
   "menus": [
     {
       "date": "2026-09-07",
       "items": [
         {
-          "name": "Zupa kalafiorowa z lanym ciastem",
+          "name": "ZUPA KALAFIOROWA Z LANYM CIASTEM",
           "price": null
         },
         {
-          "name": "Udko z kurczaka, frytki, surówka z białej kapusty",
+          "name": "UDKO Z KURCZAKA, FRYTKI, SURÓWKA Z BIAŁEJ KAPUSTY",
           "price": null
         }
       ]
@@ -22,11 +22,11 @@
       "date": "2026-09-08",
       "items": [
         {
-          "name": "Zupa koperkowa",
+          "name": "KREM Z PORA",
           "price": null
         },
         {
-          "name": "Panierowany filet z kurczaka z frytkami i mizerią",
+          "name": "POTRAWKA Z KURCZAKA Z RYŻEM I SAŁATKĄ SZWEDZKĄ",
           "price": null
         }
       ]
@@ -35,11 +35,11 @@
       "date": "2026-09-09",
       "items": [
         {
-          "name": "Krem marchewkowo-dyniowy",
+          "name": "KRUPNIK",
           "price": null
         },
         {
-          "name": "Żeberka w sosie BBQ z ziemniakami opiekanymi i coleslawem",
+          "name": "PULPETY W SOSIE POMIDOROWO-PAPRYKOWYM Z GOŁĄBKIEM Z PIECZONYM ZIEMNIAKIEM I COLESLAWEM Z CZERWONEJ KAPUSTY",
           "price": null
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-09-10",
       "items": [
         {
-          "name": "Zupa jarzynowa",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "Kotlet po szwajcarsku z ziemniakami i marchewką z groszkiem",
+          "name": "KOTLET PO SZWAJCARSKU Z ZIEMNIAKAMI I MARCHEWKĄ Z GROSZKIEM",
           "price": null
         }
       ]
@@ -61,11 +61,11 @@
       "date": "2026-09-11",
       "items": [
         {
-          "name": "Zupa pieczarkowa",
+          "name": "ZUPA PIECZARKOWA",
           "price": null
         },
         {
-          "name": "Morszczuk w tempurze, zapiekanka ziemniaczana i wiosenna z sosem miodowo-musztardowym",
+          "name": "MORSZCZUK W TEMPURZE, ZAPIEKANKA ZIEMNIACZANA I WIOSENNA Z SOSEM MIODOWO-MUSZTARDOWYM",
           "price": null
         }
       ]

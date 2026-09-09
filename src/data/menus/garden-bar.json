@@ -3,35 +3,56 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-08T13:07:21.122Z",
+  "scrapedAt": "2026-09-09T13:12:52.494Z",
   "menus": [
     {
-      "date": "2026-09-07",
+      "date": "2026-09-09",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli",
+          "name": "Polędwiczki wieprzowe w sosie pieczarkowym, placki Rosti, lub ziemniaki albo frytki, surówki lub kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Barszcz ukraiński (solo)",
           "price": 8
+        },
+        {
+          "name": "Zupa dnia : Barszcz ukraiński (do drugiego dania)",
+          "price": 3
         }
       ]
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-09-08",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce",
-          "price": 34
+          "name": "Kotlet Pożarski drobiowy mielony z dodatkiem żółtego sera, frytki lub ziemniaki, fasolka zielona z marchewką mini i masłem",
+          "price": 25
         },
         {
-          "name": "Zupa dnia: Kalafiorowo-porowa",
+          "name": "Zupa dnia : Krem brokułowy z grzanką (solo)",
           "price": 8
         },
         {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
+          "name": "Zupa dnia : Krem brokułowy z grzanką (do drugiego dania)",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "items": [
+        {
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Pomidorowa (solo)",
+          "price": 8
+        },
+        {
+          "name": "Zupa dnia : Pomidorowa (do drugiego dania)",
+          "price": 3
         }
       ]
     }
