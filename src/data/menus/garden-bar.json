@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-09T13:12:52.494Z",
+  "scrapedAt": "2026-09-10T13:11:10.497Z",
   "menus": [
     {
       "date": "2026-09-09",
@@ -13,12 +13,8 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Barszcz ukraiński (solo)",
+          "name": "Zupa dnia : Barszcz ukraiński",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia : Barszcz ukraiński (do drugiego dania)",
-          "price": 3
         }
       ]
     },
@@ -30,12 +26,8 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Krem brokułowy z grzanką (solo)",
+          "name": "Zupa dnia : Krem brokułowy z grzanką",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia : Krem brokułowy z grzanką (do drugiego dania)",
-          "price": 3
         }
       ]
     },
@@ -43,16 +35,25 @@
       "date": "2026-09-07",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "name": "Kotlet schabowy marynowany w mleku i cebuli ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa (solo)",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "items": [
+        {
+          "name": "Rolada wieprzowa ze szparagami i serkiem wędzonym w sosie śmietanowym, kluski śląskie lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "price": 40
         },
         {
-          "name": "Zupa dnia : Pomidorowa (do drugiego dania)",
-          "price": 3
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 10
         }
       ]
     }
