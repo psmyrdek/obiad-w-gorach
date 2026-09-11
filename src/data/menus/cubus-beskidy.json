@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-10T13:11:26.045Z",
+  "scrapedAt": "2026-09-11T13:04:12.854Z",
   "menus": [
     {
       "date": "2026-09-07",
@@ -48,11 +48,11 @@
       "date": "2026-09-10",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "ZUPA CEBULOWA Z GRZANKAMI",
           "price": null
         },
         {
-          "name": "KOTLET PO SZWAJCARSKU Z ZIEMNIAKAMI I MARCHEWKĄ Z GROSZKIEM",
+          "name": "SZASZŁYK DROBIOWY, ZIEMNIAKI OPIEKANE I WIOSENNA Z SOSEM CZOSNKOWYM",
           "price": null
         }
       ]
@@ -61,11 +61,15 @@
       "date": "2026-09-11",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "KREM POMIDOROWY",
           "price": null
         },
         {
-          "name": "MORSZCZUK W TEMPURZE, ZAPIEKANKA ZIEMNIACZANA I WIOSENNA Z SOSEM MIODOWO-MUSZTARDOWYM",
+          "name": "PANIEROWANY MORSZCZUK Z SAŁATKĄ ZIEMNIACZANĄ",
+          "price": null
+        },
+        {
+          "name": "NALEŚNIKI Z SEREM",
           "price": null
         }
       ]

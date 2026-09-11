@@ -3,17 +3,43 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-10T13:11:10.497Z",
+  "scrapedAt": "2026-09-11T13:03:54.173Z",
   "menus": [
+    {
+      "date": "2026-09-11",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia: Grzybowa",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "items": [
+        {
+          "name": "Roladka wieprzowa (z boczkiem i cebulą lub szparagami i wędzonym serem), dodatki, surówki",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Pejzanka na wędzonce",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-09-09",
       "items": [
         {
-          "name": "Polędwiczki wieprzowe w sosie pieczarkowym, placki Rosti, lub ziemniaki albo frytki, surówki lub kapusta zasmażana",
+          "name": "Polędwiczki wieprzowe w sosie pieczarkowym, placki Rosti lub ziemniaki/frytki, surówki/kapusta",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Barszcz ukraiński",
+          "name": "Zupa dnia: Barszcz ukraiński",
           "price": 8
         }
       ]
@@ -22,38 +48,12 @@
       "date": "2026-09-08",
       "items": [
         {
-          "name": "Kotlet Pożarski drobiowy mielony z dodatkiem żółtego sera, frytki lub ziemniaki, fasolka zielona z marchewką mini i masłem",
+          "name": "Kotlet Pożarski drobiowy mielony z serem, frytki lub ziemniaki, fasolka zielona z marchewką mini",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Krem brokułowy z grzanką",
+          "name": "Zupa dnia: Krem brokułowy z grzanką",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-09-07",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia : Pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-09-06",
-      "items": [
-        {
-          "name": "Rolada wieprzowa ze szparagami i serkiem wędzonym w sosie śmietanowym, kluski śląskie lub ziemniaki, surówki lub kapusta kiszona zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
         }
       ]
     }
