@@ -3,57 +3,56 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-11T13:03:54.173Z",
+  "scrapedAt": "2026-09-14T15:18:36.718Z",
   "menus": [
     {
-      "date": "2026-09-11",
+      "date": "2026-09-14",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
-          "price": 34
+          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 25
         },
         {
-          "name": "Zupa dnia: Grzybowa",
+          "name": "Pomidorowa",
           "price": 8
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane",
+          "price": 12
         }
       ]
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-13",
       "items": [
         {
-          "name": "Roladka wieprzowa (z boczkiem i cebulą lub szparagami i wędzonym serem), dodatki, surówki",
-          "price": 25
+          "name": "Rolada drobiowa z pieczarkami w sosie serowym, kluski śląskie lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "price": 40
         },
         {
-          "name": "Zupa dnia: Pejzanka na wędzonce",
-          "price": 8
+          "name": "Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Rosół z pierożkami Pielmieni 12 szt na porcje",
+          "price": 15
         }
       ]
     },
     {
-      "date": "2026-09-09",
+      "date": "2026-09-12",
       "items": [
         {
-          "name": "Polędwiczki wieprzowe w sosie pieczarkowym, placki Rosti lub ziemniaki/frytki, surówki/kapusta",
-          "price": 25
+          "name": "Devolaj z nadziewany brokułem i mozzarellą, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 40
         },
         {
-          "name": "Zupa dnia: Barszcz ukraiński",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-09-08",
-      "items": [
-        {
-          "name": "Kotlet Pożarski drobiowy mielony z serem, frytki lub ziemniaki, fasolka zielona z marchewką mini",
-          "price": 25
+          "name": "Rosół z makaronem",
+          "price": 10
         },
         {
-          "name": "Zupa dnia: Krem brokułowy z grzanką",
-          "price": 8
+          "name": "Rosół z pierożkami Pielmieni 12 szt na porcje",
+          "price": 15
         }
       ]
     }

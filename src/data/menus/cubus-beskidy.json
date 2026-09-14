@@ -3,36 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-11T13:04:12.854Z",
+  "scrapedAt": "2026-09-14T15:18:53.140Z",
   "menus": [
     {
-      "date": "2026-09-07",
+      "date": "2026-09-14",
       "items": [
         {
-          "name": "ZUPA KALAFIOROWA Z LANYM CIASTEM",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA, FRYTKI, SURÓWKA Z BIAŁEJ KAPUSTY",
+          "name": "SCHAB W SOSIE MYŚLIWSKIM Z KLUSKAMI ŚLĄSKIMI I MODRĄ KAPUSTĄ",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-09-08",
-      "items": [
-        {
-          "name": "KREM Z PORA",
-          "price": null
-        },
-        {
-          "name": "POTRAWKA Z KURCZAKA Z RYŻEM I SAŁATKĄ SZWEDZKĄ",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-09",
+      "date": "2026-09-16",
       "items": [
         {
           "name": "KRUPNIK",
@@ -45,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-17",
       "items": [
         {
           "name": "ZUPA CEBULOWA Z GRZANKAMI",
@@ -58,18 +45,14 @@
       ]
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-09-18",
       "items": [
         {
           "name": "KREM POMIDOROWY",
           "price": null
         },
         {
-          "name": "PANIEROWANY MORSZCZUK Z SAŁATKĄ ZIEMNIACZANĄ",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z SEREM",
+          "name": "PANIEROWANY MORSZCZUK Z SAŁATKĄ ZIEMNIACZANĄ LUB NALEŚNIKI Z SEREM",
           "price": null
         }
       ]

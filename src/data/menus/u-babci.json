@@ -3,24 +3,19 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-11T13:03:58.404Z",
+  "scrapedAt": "2026-09-14T15:18:40.768Z",
   "menus": [
     {
-      "date": "2026-09-10",
+      "date": "2026-09-14",
       "items": [
         {
-          "name": "grochówka",
+          "name": "krem z dyni",
           "price": null
         },
         {
-          "name": "łazanki",
-          "price": 34
-        }
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "items": [
+          "name": "domowy mielony z ziemniakami i zestawem surówek",
+          "price": 36
+        },
         {
           "name": "zupa jarzynowa",
           "price": null
@@ -28,14 +23,9 @@
         {
           "name": "gołąbki",
           "price": 31
-        }
-      ]
-    },
-    {
-      "date": "2026-09-07",
-      "items": [
+        },
         {
-          "name": "krupnik",
+          "name": "gęsty krupnik",
           "price": null
         },
         {
@@ -45,15 +35,15 @@
       ]
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-17",
       "items": [
         {
-          "name": "krem z cukini",
+          "name": "gęsta grochówka",
           "price": null
         },
         {
-          "name": "kotleciki rybne z ziemniakami i surówkami",
-          "price": null
+          "name": "łazanki",
+          "price": 34
         }
       ]
     }
