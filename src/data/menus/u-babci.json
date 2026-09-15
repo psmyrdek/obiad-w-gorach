@@ -3,47 +3,52 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-14T15:18:40.768Z",
+  "scrapedAt": "2026-09-15T13:55:17.357Z",
   "menus": [
     {
       "date": "2026-09-14",
       "items": [
         {
-          "name": "krem z dyni",
+          "name": "Krem z dyni",
           "price": null
         },
         {
-          "name": "domowy mielony z ziemniakami i zestawem surówek",
+          "name": "Domowy mielony z ziemniakami i zestawem surówek",
           "price": 36
         },
         {
-          "name": "zupa jarzynowa",
+          "name": "Krupnik",
           "price": null
         },
         {
-          "name": "gołąbki",
-          "price": 31
-        },
-        {
-          "name": "gęsty krupnik",
-          "price": null
-        },
-        {
-          "name": "żeberko z ziemniakami i kapustą zasmażaną",
+          "name": "Żeberko z ziemniakami i kapustą zasmażaną",
           "price": 35
         }
       ]
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-10",
       "items": [
         {
-          "name": "gęsta grochówka",
+          "name": "Grochówka",
           "price": null
         },
         {
-          "name": "łazanki",
+          "name": "Łazanki",
           "price": 34
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "items": [
+        {
+          "name": "Zupa jarzynowa",
+          "price": null
+        },
+        {
+          "name": "Gołąbki",
+          "price": 31
         }
       ]
     }

@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-14T15:18:36.718Z",
+  "scrapedAt": "2026-09-15T13:55:13.214Z",
   "menus": [
     {
       "date": "2026-09-14",
@@ -13,11 +13,11 @@
           "price": 25
         },
         {
-          "name": "Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         },
         {
-          "name": "Gołąbki z mięsem i ryżem w młodej kapuście zawijane",
+          "name": "Gołąbki z mięsem i ryżem w młodej kapucście",
           "price": 12
         }
       ]
@@ -30,11 +30,11 @@
           "price": 40
         },
         {
-          "name": "Rosół z makaronem",
+          "name": "Zupa dnia: Rosół z makaronem",
           "price": 10
         },
         {
-          "name": "Rosół z pierożkami Pielmieni 12 szt na porcje",
+          "name": "Rosół z pierożkami Pielmieni",
           "price": 15
         }
       ]
@@ -47,11 +47,11 @@
           "price": 40
         },
         {
-          "name": "Rosół z makaronem",
+          "name": "Zupa dnia: Rosół z makaronem",
           "price": 10
         },
         {
-          "name": "Rosół z pierożkami Pielmieni 12 szt na porcje",
+          "name": "Rosół z pierożkami Pielmieni",
           "price": 15
         }
       ]
