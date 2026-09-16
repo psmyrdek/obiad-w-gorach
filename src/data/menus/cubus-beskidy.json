@@ -3,7 +3,7 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-15T13:55:39.935Z",
+  "scrapedAt": "2026-09-16T13:48:00.211Z",
   "menus": [
     {
       "date": "2026-09-14",
@@ -19,27 +19,27 @@
       ]
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-15",
       "items": [
         {
-          "name": "KRUPNIK",
+          "name": "KREM Z KALAFIORA",
           "price": null
         },
         {
-          "name": "PULPETY W SOSIE POMIDOROWO-PAPRYKOWYM Z GOŁĄBKIEM Z PIECZONYM ZIEMNIAKIEM I COLESLAWEM Z CZERWONEJ KAPUSTY",
+          "name": "BURGER Z KURCZAKIEM",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-16",
       "items": [
         {
-          "name": "ZUPA CEBULOWA Z GRZANKAMI",
+          "name": "KWAŚNICA",
           "price": null
         },
         {
-          "name": "SZASZŁYK DROBIOWY, ZIEMNIAKI OPIEKANE I WIOSENNA Z SOSEM CZOSNKOWYM",
+          "name": "KOTLET DEVOLAILLE , ZIEMNIAKI PUREE , MIZERIA",
           "price": null
         }
       ]
@@ -52,7 +52,11 @@
           "price": null
         },
         {
-          "name": "PANIEROWANY MORSZCZUK Z SAŁATKĄ ZIEMNIACZANĄ LUB NALEŚNIKI Z SEREM",
+          "name": "PANIEROWANY MORSZCZUK Z SAŁATKĄ ZIEMNIACZANĄ",
+          "price": null
+        },
+        {
+          "name": "NALEŚNIKI Z SEREM",
           "price": null
         }
       ]

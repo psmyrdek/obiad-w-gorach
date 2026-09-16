@@ -3,8 +3,21 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-15T13:55:17.357Z",
+  "scrapedAt": "2026-09-16T13:47:45.977Z",
   "menus": [
+    {
+      "date": "2026-09-15",
+      "items": [
+        {
+          "name": "Zupa ogórkowa",
+          "price": null
+        },
+        {
+          "name": "Bitki w sosie z ziemniakami i surówkami",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "items": [
@@ -15,14 +28,6 @@
         {
           "name": "Domowy mielony z ziemniakami i zestawem surówek",
           "price": 36
-        },
-        {
-          "name": "Krupnik",
-          "price": null
-        },
-        {
-          "name": "Żeberko z ziemniakami i kapustą zasmażaną",
-          "price": 35
         }
       ]
     },
@@ -40,7 +45,7 @@
       ]
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-09",
       "items": [
         {
           "name": "Zupa jarzynowa",
