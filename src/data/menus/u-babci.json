@@ -3,8 +3,37 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-16T13:47:45.977Z",
+  "scrapedAt": "2026-09-17T13:50:33.115Z",
   "menus": [
+    {
+      "date": "2026-09-17",
+      "items": [
+        {
+          "name": "Krupnik",
+          "price": null
+        },
+        {
+          "name": "Wątróbka z ziemniakami i ogórkiem kiszonym",
+          "price": 33
+        },
+        {
+          "name": "Grochówka",
+          "price": null
+        },
+        {
+          "name": "Łazanki",
+          "price": 34
+        },
+        {
+          "name": "Zupa jarzynowa",
+          "price": null
+        },
+        {
+          "name": "Gołąbki",
+          "price": 31
+        }
+      ]
+    },
     {
       "date": "2026-09-15",
       "items": [
@@ -28,32 +57,6 @@
         {
           "name": "Domowy mielony z ziemniakami i zestawem surówek",
           "price": 36
-        }
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "items": [
-        {
-          "name": "Grochówka",
-          "price": null
-        },
-        {
-          "name": "Łazanki",
-          "price": 34
-        }
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "items": [
-        {
-          "name": "Zupa jarzynowa",
-          "price": null
-        },
-        {
-          "name": "Gołąbki",
-          "price": 31
         }
       ]
     }

@@ -3,8 +3,25 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-16T13:47:40.745Z",
+  "scrapedAt": "2026-09-17T13:50:28.219Z",
   "menus": [
+    {
+      "date": "2026-09-17",
+      "items": [
+        {
+          "name": "Filet z udźca kurczaka zapiekany z brokułami, porem i mozzarellą, ziemniaki lub frytki, zestaw surówek lub kapusta zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Koperkowa z ryżem (solo)",
+          "price": 8
+        },
+        {
+          "name": "Zupa dnia: Koperkowa z ryżem (do dania drugiego)",
+          "price": 3
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "items": [
@@ -13,8 +30,12 @@
           "price": 25
         },
         {
-          "name": "Solferino : jarzynowo-pomidorowa",
+          "name": "Zupa dnia: Solferino (solo)",
           "price": 8
+        },
+        {
+          "name": "Zupa dnia: Solferino (do dania drugiego)",
+          "price": 3
         }
       ]
     },
@@ -26,21 +47,12 @@
           "price": 25
         },
         {
-          "name": "Krem z dyni z grzanką",
+          "name": "Zupa dnia: Krem z dyni z grzanką (solo)",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-09-14",
-      "items": [
-        {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, panierowany i smażony, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 25
         },
         {
-          "name": "Pomidorowa",
-          "price": 8
+          "name": "Zupa dnia: Krem z dyni z grzanką (do dania drugiego)",
+          "price": 3
         }
       ]
     }

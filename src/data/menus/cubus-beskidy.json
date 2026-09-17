@@ -3,30 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-16T13:48:00.211Z",
+  "scrapedAt": "2026-09-17T13:50:45.798Z",
   "menus": [
     {
-      "date": "2026-09-14",
+      "date": "2026-09-17",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "GROCHÓWKA",
           "price": null
         },
         {
-          "name": "SCHAB W SOSIE MYŚLIWSKIM Z KLUSKAMI ŚLĄSKIMI I MODRĄ KAPUSTĄ",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "items": [
-        {
-          "name": "KREM Z KALAFIORA",
-          "price": null
-        },
-        {
-          "name": "BURGER Z KURCZAKIEM",
+          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW, ZIEMNIAKI Z PIECA I FASOLKA SZPARAGOWA",
           "price": null
         }
       ]
@@ -45,18 +32,27 @@
       ]
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-09-15",
       "items": [
         {
-          "name": "KREM POMIDOROWY",
+          "name": "KREM Z KALAFIORA",
           "price": null
         },
         {
-          "name": "PANIEROWANY MORSZCZUK Z SAŁATKĄ ZIEMNIACZANĄ",
+          "name": "BURGER Z KURCZAKIEM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "items": [
+        {
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "NALEŚNIKI Z SEREM",
+          "name": "SCHAB W SOSIE MYŚLIWSKIM Z KLUSKAMI ŚLĄSKIMI I MODRĄ KAPUSTĄ",
           "price": null
         }
       ]
