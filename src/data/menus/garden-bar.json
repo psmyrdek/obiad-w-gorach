@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-17T13:50:28.219Z",
+  "scrapedAt": "2026-09-18T13:12:47.667Z",
   "menus": [
     {
       "date": "2026-09-17",
@@ -13,12 +13,12 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Koperkowa z ryżem (solo)",
+          "name": "Zupa dnia : Koperkowa z ryżem",
           "price": 8
         },
         {
-          "name": "Zupa dnia: Koperkowa z ryżem (do dania drugiego)",
-          "price": 3
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
         }
       ]
     },
@@ -30,12 +30,12 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Solferino (solo)",
+          "name": "Zupa dnia : Solferino : jarzynowo-pomidorowa",
           "price": 8
         },
         {
-          "name": "Zupa dnia: Solferino (do dania drugiego)",
-          "price": 3
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
         }
       ]
     },
@@ -47,12 +47,12 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem z dyni z grzanką (solo)",
+          "name": "Zupa dnia: Krem z dyni z grzanką",
           "price": 8
         },
         {
-          "name": "Zupa dnia: Krem z dyni z grzanką (do dania drugiego)",
-          "price": 3
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
         }
       ]
     }
