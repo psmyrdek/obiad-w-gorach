@@ -3,56 +3,57 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-18T13:12:47.667Z",
+  "scrapedAt": "2026-09-21T15:23:32.298Z",
   "menus": [
     {
-      "date": "2026-09-17",
+      "date": "2026-09-21",
       "items": [
         {
-          "name": "Filet z udźca kurczaka zapiekany z brokułami, porem i mozzarellą, ziemniaki lub frytki, zestaw surówek lub kapusta zasmażana",
+          "name": "Kotlet schabowy przesmarowany musztardą, chrzanem i majonezem, ziemniaki lub frytki, zestaw surówek lub kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Koperkowa z ryżem",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-20",
       "items": [
         {
-          "name": "Filet drobiowy w cieście piwnym, frytki lub ziemniaki, zestaw surówek lub kapusta zasmażana",
-          "price": 25
+          "name": "Stek z karczku wieprzowego z duszoną dynią, pomidorem syszonym cebulką i kaparami, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "price": 40
         },
         {
-          "name": "Zupa dnia : Solferino : jarzynowo-pomidorowa",
-          "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 10
         }
       ]
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-19",
       "items": [
         {
-          "name": "Zraz wieprzowy z łopatki mielonej w sosie ciemnym, kasza gryczana lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
-          "price": 25
+          "name": "Polędwiczki wieprzowe w sosie śmietanowym z suszonymi pomidorami, młodym szpinakiem i parmezanem, kluski śląskie lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 40
         },
         {
-          "name": "Zupa dnia: Krem z dyni z grzanką",
+          "name": "Zupa dnia : Rosół z makaronem",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "items": [
+        {
+          "name": "Filet z morszczuka w panierce frytki lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 34
+        },
+        {
+          "name": "Zupa dnia : Soljanka na wędzonce",
           "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     }

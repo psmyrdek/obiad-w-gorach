@@ -3,36 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-18T13:13:12.033Z",
+  "scrapedAt": "2026-09-21T15:23:52.313Z",
   "menus": [
     {
-      "date": "2026-09-17",
+      "date": "2026-09-21",
       "items": [
         {
-          "name": "GROCHÓWKA",
+          "name": "ZUPA KREM Z PIECZAREK",
           "price": null
         },
         {
-          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW, ZIEMNIAKI Z PIECA I FASOLKA SZPARAGOWA",
+          "name": "STEK DROBIOWY, FRYTKI, SURÓWKA COLESLAW",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-09-16",
-      "items": [
-        {
-          "name": "KWAŚNICA",
-          "price": null
-        },
-        {
-          "name": "KOTLET DEVOLAILLE , ZIEMNIAKI PUREE , MIZERIA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-15",
+      "date": "2026-09-22",
       "items": [
         {
           "name": "KREM Z KALAFIORA",
@@ -45,14 +32,40 @@
       ]
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-23",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "KWAŚNICA",
           "price": null
         },
         {
-          "name": "SCHAB W SOSIE MYŚLIWSKIM Z KLUSKAMI ŚLĄSKIMI I MODRĄ KAPUSTĄ",
+          "name": "KOTLET DEVOLAILLE , ZIEMNIAKI PUREE , MIZERIA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "items": [
+        {
+          "name": "GROCHÓWKA",
+          "price": null
+        },
+        {
+          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW, ZIEMNIAKI Z PIECA I FASOLKA SZPARAGOWA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "items": [
+        {
+          "name": "ZUPA POMIDOROWA",
+          "price": null
+        },
+        {
+          "name": "ŁOSOŚ Z PIECA Z RISOTTO I MIXEM SAŁAT Z VINEGERT",
           "price": null
         }
       ]
