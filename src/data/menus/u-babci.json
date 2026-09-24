@@ -3,34 +3,18 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-23T13:54:38.545Z",
+  "scrapedAt": "2026-09-24T13:52:05.224Z",
   "menus": [
     {
       "date": "2026-09-23",
       "items": [
         {
-          "name": "barszcz zabielany z jajkiem",
+          "name": "Barszcz zabielany z jajkiem",
           "price": null
         },
         {
-          "name": "gołąbek w sosie pomidorowym",
+          "name": "Gołąbek w sosie pomidorowym",
           "price": 31
-        },
-        {
-          "name": "Krupnik",
-          "price": null
-        },
-        {
-          "name": "wątróbka, ziemniaki, ogórek kiszony",
-          "price": 33
-        },
-        {
-          "name": "Zupa ogórkowa",
-          "price": null
-        },
-        {
-          "name": "Bitki w sosie z ziemniakami i surówkami",
-          "price": null
         }
       ]
     },
@@ -38,12 +22,38 @@
       "date": "2026-09-25",
       "items": [
         {
-          "name": "krupniczek",
+          "name": "Krupniczek",
           "price": null
         },
         {
-          "name": "dorsz z ziemniakami i surówkami",
+          "name": "Dorsz z ziemniakami i surówkami",
           "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "items": [
+        {
+          "name": "Krupnik",
+          "price": null
+        },
+        {
+          "name": "Wątróbka z ziemniakami i ogórkiem kiszonym",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "items": [
+        {
+          "name": "Zupa ogórkowa",
+          "price": null
+        },
+        {
+          "name": "Bitki w sosie z ziemniakami i surówkami",
+          "price": null
         }
       ]
     }
