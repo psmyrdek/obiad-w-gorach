@@ -3,31 +3,18 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-24T13:52:05.224Z",
+  "scrapedAt": "2026-09-25T14:14:23.230Z",
   "menus": [
-    {
-      "date": "2026-09-23",
-      "items": [
-        {
-          "name": "Barszcz zabielany z jajkiem",
-          "price": null
-        },
-        {
-          "name": "Gołąbek w sosie pomidorowym",
-          "price": 31
-        }
-      ]
-    },
     {
       "date": "2026-09-25",
       "items": [
         {
-          "name": "Krupniczek",
+          "name": "zupa koperkowa",
           "price": null
         },
         {
-          "name": "Dorsz z ziemniakami i surówkami",
-          "price": 35
+          "name": "kotleciki rybne, góra ziemniaków i surówki",
+          "price": 36
         }
       ]
     },
@@ -35,25 +22,38 @@
       "date": "2026-09-24",
       "items": [
         {
-          "name": "Krupnik",
+          "name": "krem z dyni",
           "price": null
         },
         {
-          "name": "Wątróbka z ziemniakami i ogórkiem kiszonym",
+          "name": "duszonki",
           "price": 33
         }
       ]
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "items": [
         {
-          "name": "Zupa ogórkowa",
+          "name": "barszcz zabielany z jajkiem",
           "price": null
         },
         {
-          "name": "Bitki w sosie z ziemniakami i surówkami",
+          "name": "gołąbek w sosie pomidorowym",
+          "price": 31
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "items": [
+        {
+          "name": "krupniczek",
           "price": null
+        },
+        {
+          "name": "dorsz z ziemniakami i surówkami",
+          "price": 35
         }
       ]
     }
