@@ -3,17 +3,17 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-28T17:05:41.886Z",
+  "scrapedAt": "2026-09-29T15:10:14.444Z",
   "menus": [
     {
       "date": "2026-10-02",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "name": "Filet z morszczuka w panierce",
           "price": 34
         },
         {
-          "name": "Filet z dorsza atlantyckiego w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "name": "Filet z dorsza atlantyckiego w panierce",
           "price": 42
         },
         {
@@ -26,7 +26,7 @@
       "date": "2026-10-01",
       "items": [
         {
-          "name": "Filet z udka kurczaka po hawajsku zapiekany z ananasem, żurawiną i mozzarellą, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Filet z udka kurczaka po hawajsku",
           "price": 25
         },
         {
@@ -39,7 +39,7 @@
       "date": "2026-09-30",
       "items": [
         {
-          "name": "Kotlet Pasterski wieprzowy zawijany z boczkiem i serem, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Kotlet Pasterski wieprzowy",
           "price": 25
         },
         {
@@ -52,7 +52,7 @@
       "date": "2026-09-29",
       "items": [
         {
-          "name": "Sznycel mielony drobiowy, ziemniaki, duszona marchewka, kapusta słodka zasmażana lub zestaw surówek",
+          "name": "Sznycel mielony drobiowy",
           "price": 25
         },
         {
