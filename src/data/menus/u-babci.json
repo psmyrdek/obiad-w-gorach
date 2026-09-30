@@ -3,52 +3,57 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-29T15:10:18.949Z",
+  "scrapedAt": "2026-09-30T15:25:52.915Z",
   "menus": [
     {
-      "date": "2026-10-02",
+      "date": "2026-09-30",
       "items": [
         {
-          "name": "zupa koperkowa",
+          "name": "Żurek z jajkiem",
           "price": null
         },
         {
-          "name": "kotleciki rybne, góra ziemniaków i surówki",
-          "price": 36
-        },
-        {
-          "name": "krupniczek",
+          "name": "Tradycyjne gołąbki",
           "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "items": [
+        {
+          "name": "Krem z cukinii",
+          "price": 35
         },
         {
-          "name": "dorsz z ziemniakami i surówkami",
+          "name": "Potrawka z kurczaka z ryżem",
           "price": 35
         }
       ]
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-09-28",
       "items": [
         {
-          "name": "krem z dyni",
-          "price": null
+          "name": "Kapuśniak na wędzonce",
+          "price": 41
         },
         {
-          "name": "duszonki",
-          "price": 33
+          "name": "Kotlet schabowy z patelni z ziemniakami i kapustą zasmażaną",
+          "price": 41
         }
       ]
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-09-25",
       "items": [
         {
-          "name": "barszcz zabielany z jajkiem",
-          "price": null
+          "name": "Zupa koperkowa",
+          "price": 36
         },
         {
-          "name": "gołąbek w gęstym sosie pomidorowym",
-          "price": 31
+          "name": "Kotleciki rybne, ziemniaki i surówki",
+          "price": 36
         }
       ]
     }

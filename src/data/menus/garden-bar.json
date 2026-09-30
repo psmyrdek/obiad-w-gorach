@@ -3,48 +3,18 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-09-29T15:10:14.444Z",
+  "scrapedAt": "2026-09-30T15:25:43.008Z",
   "menus": [
-    {
-      "date": "2026-10-02",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce",
-          "price": 34
-        },
-        {
-          "name": "Filet z dorsza atlantyckiego w panierce",
-          "price": 42
-        },
-        {
-          "name": "Zupa dnia: Jarzynowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "items": [
-        {
-          "name": "Filet z udka kurczaka po hawajsku",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Ogórkowa z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
     {
       "date": "2026-09-30",
       "items": [
         {
-          "name": "Kotlet Pasterski wieprzowy",
+          "name": "Schab z pieca pod leczo",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Szpinakowa z ryżem",
-          "price": 8
+          "name": "Zupa dnia : Barszcz chrzanowy z ziemniakami",
+          "price": 3
         }
       ]
     },
@@ -52,12 +22,25 @@
       "date": "2026-09-29",
       "items": [
         {
-          "name": "Sznycel mielony drobiowy",
+          "name": "Burger wieprzowy z pieczarkami serem zapiekany",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem dyniowo-pomidorowy z grzanką",
-          "price": 8
+          "name": "Zupa dnia: Krem warzywny z grzanką",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "items": [
+        {
+          "name": "Kotlet schabowy przesmarowany musztardą, chrzanem i majonezem",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia : Pomidorowa",
+          "price": 3
         }
       ]
     }

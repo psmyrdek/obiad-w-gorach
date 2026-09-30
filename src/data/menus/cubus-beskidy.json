@@ -3,51 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-29T15:10:33.920Z",
+  "scrapedAt": "2026-09-30T15:26:07.354Z",
   "menus": [
     {
-      "date": "2026-10-02",
+      "date": "2026-09-28",
       "items": [
         {
-          "name": "KREM Z KUKURYDZY",
+          "name": "ZUPA KOPERKOWA Z RYŻEM",
           "price": null
         },
         {
-          "name": "MORSZCZUK , ZIEMNIAKI , KISZONA KAPUSTA LUB NALEŚNIKI Z SEREM",
-          "price": null
-        },
-        {
-          "name": "ZUPA POMIDOROWA",
-          "price": null
-        },
-        {
-          "name": "ŁOSOŚ Z PIECA Z RISOTTO I MIXEM SAŁAT Z VINEGERT",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "items": [
-        {
-          "name": "BARSZCZ ZABIELANY",
-          "price": null
-        },
-        {
-          "name": "LASAGNE",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "items": [
-        {
-          "name": "ZUPA OGÓRKOWA",
-          "price": null
-        },
-        {
-          "name": "SCHAB W SOSIE CEBULOWYM, ZAPIEKANKA ZIEMNIACZANA I BURAKI",
+          "name": "FILET Z KURCZAKA ZAPIEKANY Z SEREM I POMIDOREM, FRYTKI, SURÓWKA COLESLAW",
           "price": null
         }
       ]
@@ -56,11 +22,45 @@
       "date": "2026-09-29",
       "items": [
         {
-          "name": "ZUPA GULASZOWA",
+          "name": "ZUPA FASOLOWA",
           "price": null
         },
         {
-          "name": "SAŁATKA ZE STRIPSAMI Z KURCZAKA Z SOSEM MIODOWO-MUSZTARDOWYM",
+          "name": "PIECZEŃ WIEPRZOWA Z KLUSKAMI ŚLĄSKIMI I CZERWONĄ KAPUSTĄ",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "items": [
+        {
+          "name": "ZUPA KREM PAPRYKOWO-POMIDOROWY",
+          "price": null
+        },
+        {
+          "name": "SAŁATKA FARMERSKA Z KURCZAKIEM",
+          "price": null
+        },
+        {
+          "name": "PODUDZIE Z KURCZAKA W SOSIE HOISIN, RISOTTO, SURÓWKA SZWEDZKA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "items": [
+        {
+          "name": "KREM Z KUKURYDZY",
+          "price": null
+        },
+        {
+          "name": "MORSZCZUK , ZIEMNIAKI , KISZONA KAPUSTA",
+          "price": null
+        },
+        {
+          "name": "NALEŚNIKI Z SEREM",
           "price": null
         }
       ]
