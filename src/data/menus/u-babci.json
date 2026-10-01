@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-09-30T15:25:52.915Z",
+  "scrapedAt": "2026-10-01T15:46:22.550Z",
   "menus": [
     {
       "date": "2026-09-30",
@@ -23,7 +23,7 @@
       "items": [
         {
           "name": "Krem z cukinii",
-          "price": 35
+          "price": null
         },
         {
           "name": "Potrawka z kurczaka z ryżem",
@@ -36,24 +36,11 @@
       "items": [
         {
           "name": "Kapuśniak na wędzonce",
-          "price": 41
+          "price": null
         },
         {
-          "name": "Kotlet schabowy z patelni z ziemniakami i kapustą zasmażaną",
+          "name": "Schaboszczak z patelni z ziemniakami i kapustą zasmażaną",
           "price": 41
-        }
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "items": [
-        {
-          "name": "Zupa koperkowa",
-          "price": 36
-        },
-        {
-          "name": "Kotleciki rybne, ziemniaki i surówki",
-          "price": 36
         }
       ]
     }

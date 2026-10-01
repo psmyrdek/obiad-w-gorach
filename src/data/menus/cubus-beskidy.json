@@ -3,21 +3,8 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-09-30T15:26:07.354Z",
+  "scrapedAt": "2026-10-01T15:46:35.141Z",
   "menus": [
-    {
-      "date": "2026-09-28",
-      "items": [
-        {
-          "name": "ZUPA KOPERKOWA Z RYŻEM",
-          "price": null
-        },
-        {
-          "name": "FILET Z KURCZAKA ZAPIEKANY Z SEREM I POMIDOREM, FRYTKI, SURÓWKA COLESLAW",
-          "price": null
-        }
-      ]
-    },
     {
       "date": "2026-09-29",
       "items": [
@@ -49,18 +36,14 @@
       ]
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-01",
       "items": [
         {
-          "name": "KREM Z KUKURYDZY",
+          "name": "ZUPA PIECZARKOWA Z MAKARONEM",
           "price": null
         },
         {
-          "name": "MORSZCZUK , ZIEMNIAKI , KISZONA KAPUSTA",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z SEREM",
+          "name": "KULKA DROBIOWA Z MOZZARELLĄ, ZIEMNIAKI I MIZERIA",
           "price": null
         }
       ]
