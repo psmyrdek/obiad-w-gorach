@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-01T15:46:18.373Z",
+  "scrapedAt": "2026-10-02T15:07:42.875Z",
   "menus": [
     {
       "date": "2026-10-01",
@@ -13,7 +13,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Zielona Jarzynowa z makaronem",
+          "name": "Zielona Jarzynowa z makaronem",
           "price": 8
         }
       ]
@@ -26,7 +26,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Barszcz chrzanowy z ziemniakami",
+          "name": "Barszcz chrzanowy z ziemniakami",
           "price": 8
         }
       ]
@@ -39,8 +39,8 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem warzywny z grzanką",
-          "price": 8
+          "name": "Krem warzywny z grzanką",
+          "price": null
         }
       ]
     },
@@ -54,19 +54,6 @@
         {
           "name": "Zupa dnia : Pomidorowa",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "items": [
-        {
-          "name": "Kotlet Góralski z piersi kurczaka wypełniony serkiem wędzonym plus żurawina",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
         }
       ]
     }

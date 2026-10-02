@@ -3,8 +3,17 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-01T15:46:22.550Z",
+  "scrapedAt": "2026-10-02T15:07:45.851Z",
   "menus": [
+    {
+      "date": "2026-10-01",
+      "items": [
+        {
+          "name": "Domowy obiad",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "items": [
@@ -27,7 +36,7 @@
         },
         {
           "name": "Potrawka z kurczaka z ryżem",
-          "price": 35
+          "price": null
         }
       ]
     },

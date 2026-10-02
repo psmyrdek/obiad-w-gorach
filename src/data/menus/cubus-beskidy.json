@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-01T15:46:35.141Z",
+  "scrapedAt": "2026-10-02T15:07:57.145Z",
   "menus": [
     {
       "date": "2026-09-29",
       "items": [
         {
-          "name": "ZUPA FASOLOWA",
+          "name": "Zupa fasolowa",
           "price": null
         },
         {
-          "name": "PIECZEŃ WIEPRZOWA Z KLUSKAMI ŚLĄSKIMI I CZERWONĄ KAPUSTĄ",
+          "name": "Pieczeń wieprzowa z kluskami śląskimi i czerwoną kapustą",
           "price": null
         }
       ]
@@ -22,15 +22,15 @@
       "date": "2026-09-30",
       "items": [
         {
-          "name": "ZUPA KREM PAPRYKOWO-POMIDOROWY",
+          "name": "Zupa krem paprykowo-pomidorowy",
           "price": null
         },
         {
-          "name": "SAŁATKA FARMERSKA Z KURCZAKIEM",
+          "name": "Sałatka farmerska z kurczakiem",
           "price": null
         },
         {
-          "name": "PODUDZIE Z KURCZAKA W SOSIE HOISIN, RISOTTO, SURÓWKA SZWEDZKA",
+          "name": "Podudzie z kurczaka w sosie hoisin, risotto, surówka szwedzka",
           "price": null
         }
       ]
@@ -39,11 +39,11 @@
       "date": "2026-10-01",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA Z MAKARONEM",
+          "name": "Zupa pieczarkowa z makaronem",
           "price": null
         },
         {
-          "name": "KULKA DROBIOWA Z MOZZARELLĄ, ZIEMNIAKI I MIZERIA",
+          "name": "Kulka drobiowa z mozzarellą, ziemniaki i mizeria",
           "price": null
         }
       ]
