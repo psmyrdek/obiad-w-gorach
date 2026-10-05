@@ -3,47 +3,47 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-02T15:07:57.145Z",
+  "scrapedAt": "2026-10-05T17:30:22.538Z",
   "menus": [
     {
-      "date": "2026-09-29",
+      "date": "2026-10-05",
       "items": [
         {
-          "name": "Zupa fasolowa",
+          "name": "ZUPA POMIDOROWA",
           "price": null
         },
         {
-          "name": "Pieczeń wieprzowa z kluskami śląskimi i czerwoną kapustą",
+          "name": "KOTLET MIELONY Z ZIEMNIAKAMI I KAPUSTĄ ZASMAŻANA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-08",
       "items": [
         {
-          "name": "Zupa krem paprykowo-pomidorowy",
+          "name": "ZUPA PIECZARKOWA Z MAKARONEM",
           "price": null
         },
         {
-          "name": "Sałatka farmerska z kurczakiem",
-          "price": null
-        },
-        {
-          "name": "Podudzie z kurczaka w sosie hoisin, risotto, surówka szwedzka",
+          "name": "KULKA DROBIOWA Z MOZZARELLĄ, ZIEMNIAKI I MIZERIA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-09",
       "items": [
         {
-          "name": "Zupa pieczarkowa z makaronem",
+          "name": "ŻUREK",
           "price": null
         },
         {
-          "name": "Kulka drobiowa z mozzarellą, ziemniaki i mizeria",
+          "name": "MORSZCZUK W TEMPURZE Z ZIEMNIAKAMI OPIEKANYMI I MIXEM SAŁAT Z SOSEM MIODOWO-MUSZTARDOWYM",
+          "price": null
+        },
+        {
+          "name": "NALEŚŃNIKI Z SEREM",
           "price": null
         }
       ]

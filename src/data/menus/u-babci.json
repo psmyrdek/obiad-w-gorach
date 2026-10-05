@@ -3,20 +3,19 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-02T15:07:45.851Z",
+  "scrapedAt": "2026-10-05T17:30:10.187Z",
   "menus": [
     {
-      "date": "2026-10-01",
+      "date": "2026-10-05",
       "items": [
         {
-          "name": "Domowy obiad",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "items": [
+          "name": "Grochówka z majerankiem",
+          "price": 41
+        },
+        {
+          "name": "Kotlet schabowy z ziemniakami i surówką",
+          "price": 41
+        },
         {
           "name": "Żurek z jajkiem",
           "price": null
@@ -24,32 +23,14 @@
         {
           "name": "Tradycyjne gołąbki",
           "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "items": [
+        },
         {
           "name": "Krem z cukinii",
-          "price": null
+          "price": 35
         },
         {
           "name": "Potrawka z kurczaka z ryżem",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "items": [
-        {
-          "name": "Kapuśniak na wędzonce",
-          "price": null
-        },
-        {
-          "name": "Schaboszczak z patelni z ziemniakami i kapustą zasmażaną",
-          "price": 41
+          "price": 35
         }
       ]
     }

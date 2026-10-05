@@ -3,57 +3,79 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-02T15:07:42.875Z",
+  "scrapedAt": "2026-10-05T17:30:05.655Z",
   "menus": [
     {
-      "date": "2026-10-01",
+      "date": "2026-10-05",
       "items": [
         {
-          "name": "Rolada wieprzowa z boczkiem i cebulą",
+          "name": "Kotlet Garden",
           "price": 25
         },
         {
-          "name": "Zielona Jarzynowa z makaronem",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem",
+          "price": 12
+        },
+        {
+          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany",
+          "price": 35
+        },
+        {
+          "name": "Bitki z polędwiczki wieprzowej w sosie kurkowym",
+          "price": 40
+        },
+        {
+          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym",
+          "price": 40
+        },
+        {
+          "name": "Schab z grilla z maslem czosnkowym",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Rosół z pierożkami Pielmieni",
+          "price": 15
+        },
+        {
+          "name": "Kotlet Drwal wieprzowy z pieczarkami z patelni i mozzarellą",
+          "price": 40
+        },
+        {
+          "name": "Filet z piersi kurczaka lub schab z grilla z masłem czosnkowym",
+          "price": 40
         }
       ]
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-09",
       "items": [
         {
-          "name": "Schab z pieca pod leczo",
-          "price": 25
+          "name": "Filet z morszczuka w panierce",
+          "price": 34
         },
         {
-          "name": "Barszcz chrzanowy z ziemniakami",
+          "name": "Filet z dorsza atlantyckiego w panierce",
+          "price": 42
+        },
+        {
+          "name": "Zupa dnia: Soljanka",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "items": [
-        {
-          "name": "Burger wieprzowy z pieczarkami serem zapiekany",
-          "price": 25
         },
         {
-          "name": "Krem warzywny z grzanką",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "items": [
-        {
-          "name": "Kotlet schabowy przesmarowany musztardą, chrzanem i majonezem",
-          "price": 25
+          "name": "Kartacze z mięsem 4 szt",
+          "price": 27
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
-          "price": 8
+          "name": "Kaszanka z cebulką, ziemniaki i kapusta kiszona zasmażana",
+          "price": 25
         }
       ]
     }
