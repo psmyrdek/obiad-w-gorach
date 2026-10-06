@@ -3,13 +3,13 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-05T17:30:05.655Z",
+  "scrapedAt": "2026-10-06T15:30:19.474Z",
   "menus": [
     {
       "date": "2026-10-05",
       "items": [
         {
-          "name": "Kotlet Garden",
+          "name": "Kotlet Garden z fileta kurczaka obłożony plastrem boczku, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
@@ -17,23 +17,24 @@
           "price": 8
         },
         {
-          "name": "Gołąbki z mięsem i ryżem",
+          "name": "Gołąbki z mięsem i ryżem w kapustie zawijane + sos pomidorowy",
           "price": 12
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "items": [
         {
-          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany",
-          "price": 35
-        },
-        {
-          "name": "Bitki z polędwiczki wieprzowej w sosie kurkowym",
+          "name": "Bitki z polędwiczki wieprzowej w sosie kurkowym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta zasmażana",
           "price": 40
         },
         {
-          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym",
+          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
           "price": 40
         },
         {
-          "name": "Schab z grilla z maslem czosnkowym",
+          "name": "Schab z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
           "price": 40
         },
         {
@@ -41,15 +42,11 @@
           "price": 10
         },
         {
-          "name": "Rosół z pierożkami Pielmieni",
+          "name": "Rosół z pierożkami Pielmieni (12 szt)",
           "price": 15
         },
         {
-          "name": "Kotlet Drwal wieprzowy z pieczarkami z patelni i mozzarellą",
-          "price": 40
-        },
-        {
-          "name": "Filet z piersi kurczaka lub schab z grilla z masłem czosnkowym",
+          "name": "Kotlet Drwal wieprzowy z pieczarkami z patelni i mozzarellą, frytki lub ziemniaki, surówki lub kapusta zasmażana",
           "price": 40
         }
       ]
@@ -58,11 +55,11 @@
       "date": "2026-10-09",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce",
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
           "price": 34
         },
         {
-          "name": "Filet z dorsza atlantyckiego w panierce",
+          "name": "Filet z dorsza atlantyckiego w panierce, frytki scoopsy lub ziemniaki, surówki lub kapusta kiszona zasmażana",
           "price": 42
         },
         {
@@ -70,7 +67,7 @@
           "price": 8
         },
         {
-          "name": "Kartacze z mięsem 4 szt",
+          "name": "Kartacze z mięsem 4 szt + zestaw surówek",
           "price": 27
         },
         {
