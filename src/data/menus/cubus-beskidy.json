@@ -3,8 +3,34 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-06T15:30:33.611Z",
+  "scrapedAt": "2026-10-07T15:51:53.033Z",
   "menus": [
+    {
+      "date": "2026-10-07",
+      "items": [
+        {
+          "name": "ZUPA MEKSYKAŃSKA",
+          "price": null
+        },
+        {
+          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "items": [
+        {
+          "name": "KREM Z FASOLKI SZPARAGOWEJ",
+          "price": null
+        },
+        {
+          "name": "FILET Z KURCZAKA Z GRILLA W SOSIE SEROWYM, RYŻ, SAŁATKA SZWEDZKA",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "items": [
@@ -14,19 +40,6 @@
         },
         {
           "name": "KOTLET MIELONY Z ZIEMNIAKAMI I KAPUSTĄ ZASMAŻANĄ",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "items": [
-        {
-          "name": "ZUPA PIECZARKOWA Z MAKARONEM",
-          "price": null
-        },
-        {
-          "name": "KULKA DROBIOWA Z MOZZARELLĄ, ZIEMNIAKI I MIZERIA",
           "price": null
         }
       ]

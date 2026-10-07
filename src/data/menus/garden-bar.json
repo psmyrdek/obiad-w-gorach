@@ -3,22 +3,18 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-06T15:30:19.474Z",
+  "scrapedAt": "2026-10-07T15:51:33.669Z",
   "menus": [
     {
-      "date": "2026-10-05",
+      "date": "2026-10-07",
       "items": [
         {
-          "name": "Kotlet Garden z fileta kurczaka obłożony plastrem boczku, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "name": "Pieczeń wieprzowa z karczku, placki Rosti lub ziemniaki, sos ciemny, zestaw surówek lub kapusta słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Kapuśniak z ziemniakami",
           "price": 8
-        },
-        {
-          "name": "Gołąbki z mięsem i ryżem w kapustie zawijane + sos pomidorowy",
-          "price": 12
         }
       ]
     },
@@ -26,53 +22,25 @@
       "date": "2026-10-06",
       "items": [
         {
-          "name": "Bitki z polędwiczki wieprzowej w sosie kurkowym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta zasmażana",
-          "price": 40
+          "name": "Filet z kurczaka w cieście piwno-serowym, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "price": 25
         },
         {
-          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Schab z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rosół z pierożkami Pielmieni (12 szt)",
-          "price": 15
-        },
-        {
-          "name": "Kotlet Drwal wieprzowy z pieczarkami z patelni i mozzarellą, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
+          "name": "Ogórkowa z ziemniakami",
+          "price": 8
         }
       ]
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-05",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
-          "price": 34
-        },
-        {
-          "name": "Filet z dorsza atlantyckiego w panierce, frytki scoopsy lub ziemniaki, surówki lub kapusta kiszona zasmażana",
-          "price": 42
-        },
-        {
-          "name": "Zupa dnia: Soljanka",
-          "price": 8
-        },
-        {
-          "name": "Kartacze z mięsem 4 szt + zestaw surówek",
-          "price": 27
-        },
-        {
-          "name": "Kaszanka z cebulką, ziemniaki i kapusta kiszona zasmażana",
+          "name": "Kotlet \"Garden\" z fileta kurczaka obłożony plastrem boczku panierowany i smażony, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
           "price": 25
+        },
+        {
+          "name": "Pomidorowa",
+          "price": 8
         }
       ]
     }
