@@ -3,8 +3,21 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-07T15:51:33.669Z",
+  "scrapedAt": "2026-10-08T15:54:47.029Z",
   "menus": [
+    {
+      "date": "2026-10-08",
+      "items": [
+        {
+          "name": "Kotlet drobiowy Szwajcar z serem żółtym, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Jarzynowa",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "items": [
@@ -13,7 +26,7 @@
           "price": 25
         },
         {
-          "name": "Kapuśniak z ziemniakami",
+          "name": "Zupa dnia: Kapuśniak z ziemniakami",
           "price": 8
         }
       ]
@@ -26,7 +39,7 @@
           "price": 25
         },
         {
-          "name": "Ogórkowa z ziemniakami",
+          "name": "Zupa dnia: Ogórkowa z ziemniakami",
           "price": 8
         }
       ]
@@ -39,7 +52,7 @@
           "price": 25
         },
         {
-          "name": "Pomidorowa",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]

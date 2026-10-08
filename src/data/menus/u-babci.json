@@ -3,26 +3,31 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-07T15:51:38.453Z",
+  "scrapedAt": "2026-10-08T15:54:52.225Z",
   "menus": [
+    {
+      "date": "2026-10-08",
+      "items": [
+        {
+          "name": "Piekielna kwaśnica",
+          "price": null
+        },
+        {
+          "name": "Micha duszonek",
+          "price": 33
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "items": [
         {
-          "name": "Barszcz z jajkiem",
-          "price": 31
-        },
-        {
           "name": "Gołąbek",
+          "price": null
+        },
+        {
+          "name": "Kwaśny barszcz z jajkiem",
           "price": 31
-        },
-        {
-          "name": "Żurek z jajkiem",
-          "price": null
-        },
-        {
-          "name": "Tradycyjne gołąbki",
-          "price": null
         }
       ]
     },
@@ -30,8 +35,8 @@
       "date": "2026-10-05",
       "items": [
         {
-          "name": "Grochówka z majerankiem",
-          "price": 41
+          "name": "Dymna grochówka z majerankiem",
+          "price": null
         },
         {
           "name": "Schabowy z ziemniakami i surówką",

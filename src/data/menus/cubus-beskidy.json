@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-07T15:51:53.033Z",
+  "scrapedAt": "2026-10-08T15:55:05.292Z",
   "menus": [
     {
-      "date": "2026-10-07",
+      "date": "2026-10-05",
       "items": [
         {
-          "name": "ZUPA MEKSYKAŃSKA",
+          "name": "ZUPA POMIDOROWA",
           "price": null
         },
         {
-          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
+          "name": "KOTLET MIELONY Z ZIEMNIAKAMI I KAPUSTĄ ZASMAŻANĄ",
           "price": null
         }
       ]
@@ -32,31 +32,27 @@
       ]
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-07",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "ZUPA MEKSYKAŃSKA",
           "price": null
         },
         {
-          "name": "KOTLET MIELONY Z ZIEMNIAKAMI I KAPUSTĄ ZASMAŻANĄ",
+          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-08",
       "items": [
         {
-          "name": "ŻUREK",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "MORSZCZUK W TEMPURZE Z ZIEMNIAKAMI OPIEKANYMI I MIXEM SAŁAT Z SOSEM MIODOWO-MUSZTARDOWYM",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z SEREM",
+          "name": "ŻEBERKO WIEPRZOWE W SOSIE BBQ Z FRYTKAMI BELGIJSKIMI I SURÓWKĄ Z BIAŁEJ KAPUSTY",
           "price": null
         }
       ]
