@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-08T15:54:52.225Z",
+  "scrapedAt": "2026-10-09T15:37:22.802Z",
   "menus": [
     {
       "date": "2026-10-08",
@@ -22,11 +22,11 @@
       "date": "2026-10-07",
       "items": [
         {
-          "name": "Gołąbek",
+          "name": "Kwaśny barszcz z jajkiem",
           "price": null
         },
         {
-          "name": "Kwaśny barszcz z jajkiem",
+          "name": "Parujący gołąbek",
           "price": 31
         }
       ]
@@ -35,7 +35,7 @@
       "date": "2026-10-05",
       "items": [
         {
-          "name": "Dymna grochówka z majerankiem",
+          "name": "Grochówka z majerankiem",
           "price": null
         },
         {

@@ -3,30 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-08T15:55:05.292Z",
+  "scrapedAt": "2026-10-09T15:37:34.810Z",
   "menus": [
     {
-      "date": "2026-10-05",
+      "date": "2026-10-08",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "ZUPA JARZYNOWA",
           "price": null
         },
         {
-          "name": "KOTLET MIELONY Z ZIEMNIAKAMI I KAPUSTĄ ZASMAŻANĄ",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "items": [
-        {
-          "name": "KREM Z FASOLKI SZPARAGOWEJ",
-          "price": null
-        },
-        {
-          "name": "FILET Z KURCZAKA Z GRILLA W SOSIE SEROWYM, RYŻ, SAŁATKA SZWEDZKA",
+          "name": "ŻEBERKO WIEPRZOWE W SOSIE BBQ Z FRYTKAMI BELGIJSKIMI I SURÓWKĄ Z BIAŁEJ KAPUSTY",
           "price": null
         }
       ]
@@ -45,14 +32,27 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-06",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "KREM Z FASOLKI SZPARAGOWEJ",
           "price": null
         },
         {
-          "name": "ŻEBERKO WIEPRZOWE W SOSIE BBQ Z FRYTKAMI BELGIJSKIMI I SURÓWKĄ Z BIAŁEJ KAPUSTY",
+          "name": "FILET Z KURCZAKA Z GRILLA W SOSIE SEROWYM, RYŻ, SAŁATKA SZWEDZKA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "items": [
+        {
+          "name": "ZUPA POMIDOROWA",
+          "price": null
+        },
+        {
+          "name": "KOTLET MIELONY Z ZIEMNIAKAMI I KAPUSTĄ ZASMAŻANĄ",
           "price": null
         }
       ]

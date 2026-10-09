@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-08T15:54:47.029Z",
+  "scrapedAt": "2026-10-09T15:37:19.912Z",
   "menus": [
     {
       "date": "2026-10-08",
@@ -13,7 +13,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Jarzynowa",
+          "name": "Zupa dnia : Jarzynowa",
           "price": 8
         }
       ]
@@ -22,7 +22,7 @@
       "date": "2026-10-07",
       "items": [
         {
-          "name": "Pieczeń wieprzowa z karczku, placki Rosti lub ziemniaki, sos ciemny, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Pieczeń wieprzowa z karczku placki Rosti lub ziemniaki, sos ciemny, zestaw surówek lub kapusta słodka zasmażana",
           "price": 25
         },
         {
@@ -39,7 +39,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Ogórkowa z ziemniakami",
+          "name": "Zupa dnia : Ogórkowa z ziemniakami",
           "price": 8
         }
       ]
@@ -48,11 +48,11 @@
       "date": "2026-10-05",
       "items": [
         {
-          "name": "Kotlet \"Garden\" z fileta kurczaka obłożony plastrem boczku panierowany i smażony, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "name": "Kotlet \" Garden\" z fileta kurczaka obłożony plastrem boczku panierowany i smażony, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Pomidorowa",
           "price": 8
         }
       ]
