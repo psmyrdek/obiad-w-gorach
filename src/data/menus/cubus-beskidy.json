@@ -3,36 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-09T15:37:34.810Z",
+  "scrapedAt": "2026-10-12T18:17:33.626Z",
   "menus": [
     {
-      "date": "2026-10-08",
+      "date": "2026-10-12",
       "items": [
         {
-          "name": "ZUPA JARZYNOWA",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "ŻEBERKO WIEPRZOWE W SOSIE BBQ Z FRYTKAMI BELGIJSKIMI I SURÓWKĄ Z BIAŁEJ KAPUSTY",
+          "name": "ESKALOPKI W CIEŚCIE PIWNYM,FRYTKI ,MARCHEWKA Z BRZOSKWINIĄ",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-10-07",
-      "items": [
-        {
-          "name": "ZUPA MEKSYKAŃSKA",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
+      "date": "2026-10-13",
       "items": [
         {
           "name": "KREM Z FASOLKI SZPARAGOWEJ",
@@ -45,14 +32,40 @@
       ]
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-14",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "ZUPA MEKSYKAŃSKA",
           "price": null
         },
         {
-          "name": "KOTLET MIELONY Z ZIEMNIAKAMI I KAPUSTĄ ZASMAŻANĄ",
+          "name": "NALEŚNIKI Z KURCZKAIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "items": [
+        {
+          "name": "ZUPA JARZYNOWA",
+          "price": null
+        },
+        {
+          "name": "ŻEBERKO WIEPRZOWE W SOSIE BBQ Z FRYTKAMI BELGIJSKIMI I SURÓWKĄ Z BIAŁEJ KAPUSTY",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "items": [
+        {
+          "name": "KREM Z CEBULI",
+          "price": null
+        },
+        {
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KAPUSTĄ KISZONĄ",
           "price": null
         }
       ]
