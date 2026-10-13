@@ -3,42 +3,47 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-12T18:17:20.894Z",
+  "scrapedAt": "2026-10-13T16:31:47.700Z",
   "menus": [
     {
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "items": [
         {
-          "name": "Grochówka z majerankiem",
-          "price": 41
+          "name": "Pomidorowa",
+          "price": null
         },
         {
-          "name": "Kotlet schabowy z ziemniakami i surówką",
-          "price": 41
+          "name": "Dwa chrupiące kotlety rybne",
+          "price": 36
         },
         {
-          "name": "Barszcz z jajkiem",
-          "price": 31
-        },
-        {
-          "name": "Gołąbek",
-          "price": 31
-        },
-        {
-          "name": "Kwaśnica",
-          "price": 33
+          "name": "Piekielna kwaśnica",
+          "price": null
         },
         {
           "name": "Micha duszonek",
           "price": 33
         },
         {
-          "name": "Pomidorowa",
-          "price": 36
+          "name": "Parujący gołąbek",
+          "price": null
         },
         {
-          "name": "Kotlety rybne",
-          "price": 36
+          "name": "Kwaśny barszcz z jajkiem",
+          "price": 31
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "items": [
+        {
+          "name": "Grochówka z majerankiem",
+          "price": null
+        },
+        {
+          "name": "Schabowy z ziemniakami i surówką",
+          "price": 41
         }
       ]
     }
