@@ -3,47 +3,44 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-13T16:31:44.704Z",
+  "scrapedAt": "2026-10-14T14:06:24.546Z",
   "menus": [
     {
-      "date": "2026-10-12",
+      "date": "2026-10-14",
       "items": [
         {
-          "name": "Kotlet schabowy przekladany boczkiem, dodatki",
+          "name": "Zraz mielony wieprzowy nadziewany brokułami plus sos śmietanowy, placki Rosti lub ziemniaki, surówki lub słodka kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Krupnik z ziemniakami",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia: Pomidorowa (do dania głównego)",
-          "price": 3
-        },
-        {
-          "name": "Gołąbki z mięsem i ryżem",
-          "price": 12
         }
       ]
     },
     {
-      "date": "2026-10-16",
+      "date": "2026-10-13",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, dodatki",
-          "price": 34
+          "name": "Frykadelka drobiowa z serem, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "price": 25
         },
         {
-          "name": "Filet z dorsza atlantyckiego w panierce, dodatki",
-          "price": 45
-        },
-        {
-          "name": "Zupa dnia: Pieczarkowa",
+          "name": "Zupa dnia : Barszcz ukraiński",
           "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "items": [
+        {
+          "name": "Kotlet schabowy przekladany boczkiem, ziemniaki lub frytki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
         },
         {
-          "name": "Zupa dnia: Pieczarkowa (do dania głównego)",
-          "price": 3
+          "name": "Zupa dnia : Pomidorowa",
+          "price": 8
         }
       ]
     }
