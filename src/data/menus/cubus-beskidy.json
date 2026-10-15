@@ -3,8 +3,34 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-13T16:32:11.933Z",
+  "scrapedAt": "2026-10-15T13:45:06.119Z",
   "menus": [
+    {
+      "date": "2026-10-14",
+      "items": [
+        {
+          "name": "KWAŚNICA",
+          "price": null
+        },
+        {
+          "name": "MAKARON PENNE Z KURCZAKIEM W SOSIE GRZYBOWYM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "items": [
+        {
+          "name": "KREM Z GROSZKU",
+          "price": null
+        },
+        {
+          "name": "ROLADKA ZE SCHABU FASZEROWANA OSCYPKIEM I BOCZKIEM Z ZIEMNIAKAMI I SAŁATKĄ WIOSENNĄ",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "items": [
@@ -19,27 +45,14 @@
       ]
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-16",
       "items": [
         {
-          "name": "KREM Z FASOLKI SZPARAGOWEJ",
+          "name": "KREM Z CEBULI",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA Z GRILLA W SOSIE SEROWYM, RYŻ, SAŁATKA SZWEDZKA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "items": [
-        {
-          "name": "ZUPA MEKSYKAŃSKA",
-          "price": null
-        },
-        {
-          "name": "NALEŚNIKI Z KURCZAKIEM I SZPINAKIEM W SOSIE BESZAMELOWYM",
+          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KAPUSTĄ KISZONĄ",
           "price": null
         }
       ]
@@ -53,19 +66,6 @@
         },
         {
           "name": "ŻEBERKO WIEPRZOWE W SOSIE BBQ Z FRYTKAMI BELGIJSKIMI I SURÓWKĄ Z BIAŁEJ KAPUSTY",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "items": [
-        {
-          "name": "KREM Z CEBULI",
-          "price": null
-        },
-        {
-          "name": "MORSZCZUK PANIEROWANY Z ZIEMNIAKAMI I KAPUSTĄ KISZONĄ",
           "price": null
         }
       ]
