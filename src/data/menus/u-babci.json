@@ -3,39 +3,18 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-15T13:44:53.948Z",
+  "scrapedAt": "2026-10-16T13:34:56.054Z",
   "menus": [
-    {
-      "date": "2026-10-14",
-      "items": [
-        {
-          "name": "Jarzynowa",
-          "price": null
-        },
-        {
-          "name": "Miękki gołąbek w pomidorowym",
-          "price": 31
-        },
-        {
-          "name": "Kwaśny barszcz z jajkiem",
-          "price": null
-        },
-        {
-          "name": "Parujący gołąbek",
-          "price": 31
-        }
-      ]
-    },
     {
       "date": "2026-10-16",
       "items": [
         {
-          "name": "Pomidorowa",
+          "name": "Zupa koperkowa",
           "price": null
         },
         {
-          "name": "Dwa chrupiące kotlety rybne",
-          "price": 36
+          "name": "Dorsz z ziemniakami i surówkami",
+          "price": 35
         }
       ]
     },
@@ -43,12 +22,38 @@
       "date": "2026-10-15",
       "items": [
         {
-          "name": "Piekielna kwaśnica",
+          "name": "Barszcz ukraiński",
           "price": null
         },
         {
-          "name": "Micha duszonek",
+          "name": "Wątróbka z cebulką, ziemniaki i ogórki kiszone",
           "price": 33
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "items": [
+        {
+          "name": "Zupa jarzynowa",
+          "price": null
+        },
+        {
+          "name": "Gołąbek w pomidorowym",
+          "price": 31
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "items": [
+        {
+          "name": "Zupa pomidorowa",
+          "price": null
+        },
+        {
+          "name": "Dwa chrupiące kotlety rybne",
+          "price": 36
         }
       ]
     }
