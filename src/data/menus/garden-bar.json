@@ -3,10 +3,35 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-16T13:34:50.527Z",
+  "scrapedAt": "2026-10-19T15:56:05.315Z",
   "menus": [
     {
-      "date": "2026-10-16",
+      "date": "2026-10-19",
+      "items": [
+        {
+          "name": "Kotlet schabowy nacierany chrzanem i mysztardą, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Pomidorowa (solo)",
+          "price": 8
+        },
+        {
+          "name": "Pomidorowa (do dania głównego)",
+          "price": 3
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem w kapuście zawijane",
+          "price": 12
+        },
+        {
+          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany, ziemniaki, zestaw surówek",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
       "items": [
         {
           "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
@@ -17,47 +42,28 @@
           "price": 45
         },
         {
-          "name": "Zupa dnia: Krem warzywny",
+          "name": "Krem warzywny (solo)",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "items": [
+        },
         {
-          "name": "Pieczeń wieprzowa z karczku w sosie cebulowym, kasza gryczana lub ziemniaki, zestaw surówek lub słodka kapusta zasmażna",
+          "name": "Krem warzywny (do dania głównego)",
+          "price": 3
+        },
+        {
+          "name": "Kluski na parze nadziewane czekoladą, sos waniliowy, dekoracja z owoców",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Solferino jarzynowo-pomidorowa",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "items": [
+          "name": "Kartacze z mięsem 4 szt, zestaw surówek",
+          "price": 27
+        },
         {
-          "name": "Zraz mielony wieprzowy nadziewany brokułami plus sos śmietanowy, placki Rosti lub ziemniaki, surówki lub słodka kapusta zasmażana",
+          "name": "Kaszanka z cebulką, ziemniaki i kapusta kiszona zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krupnik z ziemniakami",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "items": [
-        {
-          "name": "Frykadelka drobiowa z serem, frytki lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Zupa dnia: Barszcz ukraiński",
-          "price": 8
+          "name": "Wątrobki drobiowe z boczkiem i cebulką, ziemniaki i kapusta kiszona",
+          "price": 33
         }
       ]
     }

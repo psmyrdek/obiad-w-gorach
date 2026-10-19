@@ -3,23 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-16T13:35:10.174Z",
+  "scrapedAt": "2026-10-19T15:56:25.620Z",
   "menus": [
     {
-      "date": "2026-10-12",
+      "date": "2026-10-19",
       "items": [
         {
-          "name": "KAPUŚNIAK",
+          "name": "KREM ZE SZPINAKU",
           "price": null
         },
         {
-          "name": "ESKALOPKI W CIEŚCIE PIWNYM, FRYTKI, MARCHEWKA Z BRZOSKWINIĄ",
+          "name": "SCHAB SOUTE ZAPIEKANY PIECZARKAMI I SEREM , ZIEMNIAKI OPIEKANE , ZESTAW SURÓWEK",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-20",
       "items": [
         {
           "name": "KREM Z GROSZKU",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-21",
       "items": [
         {
           "name": "KWAŚNICA",
@@ -45,20 +45,20 @@
       ]
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-22",
       "items": [
         {
           "name": "ZUPA KALAFIOROWA",
           "price": null
         },
         {
-          "name": "PANIEROWANY FILET Z KURCZAKA, ZIEMNIAKI PUREE, SAŁATKA Z MARCHEWKI I OGÓRKA KISZONEGO",
+          "name": "PANIEROWANY FILET Z KURCZAKA , ZIEMNIAKI PUREE , SAŁATKA Z MARCHEWKI I OGÓRKA KISZONEGO",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-10-16",
+      "date": "2026-10-23",
       "items": [
         {
           "name": "ZUPA OGÓRKOWA",
