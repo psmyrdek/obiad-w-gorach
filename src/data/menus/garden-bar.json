@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-19T15:56:05.315Z",
+  "scrapedAt": "2026-10-20T13:54:49.566Z",
   "menus": [
     {
       "date": "2026-10-19",
@@ -13,11 +13,11 @@
           "price": 25
         },
         {
-          "name": "Pomidorowa (solo)",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         },
         {
-          "name": "Pomidorowa (do dania głównego)",
+          "name": "Pomidorowa (do dania drugiego)",
           "price": 3
         },
         {
@@ -27,6 +27,31 @@
         {
           "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany, ziemniaki, zestaw surówek",
           "price": 35
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "items": [
+        {
+          "name": "Bitka z polędwiczki wieprzowej w sosie ciemnym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 10
+        },
+        {
+          "name": "Rosół z makaronem (do dania drugiego)",
+          "price": 5
+        },
+        {
+          "name": "Rosół z pierożkami Pielmieni (12 szt)",
+          "price": 15
+        },
+        {
+          "name": "Kotlet ze schabu zawijany z camembertem i boczkiem plus żurawina, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 40
         }
       ]
     },
@@ -42,11 +67,11 @@
           "price": 45
         },
         {
-          "name": "Krem warzywny (solo)",
+          "name": "Zupa dnia: Krem warzywny",
           "price": 8
         },
         {
-          "name": "Krem warzywny (do dania głównego)",
+          "name": "Krem warzywny (do dania drugiego)",
           "price": 3
         },
         {
