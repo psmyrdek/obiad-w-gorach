@@ -3,8 +3,34 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-20T13:55:02.906Z",
+  "scrapedAt": "2026-10-21T14:11:30.774Z",
   "menus": [
+    {
+      "date": "2026-10-21",
+      "items": [
+        {
+          "name": "BARSZCZ ZABIELANY",
+          "price": null
+        },
+        {
+          "name": "ROLADKA Z KURCZAKA FASZEROWANA FASOLKĄ SZPARAGOWĄ Z RISOTTO I MIZERIĄ",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "items": [
+        {
+          "name": "ZUPA POMIDOROWA",
+          "price": null
+        },
+        {
+          "name": "UDKO Z KURCZAKA, ZIEMNIAKI, SURÓWKA Z KAPUSTY PEKIŃSKIEJ",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "items": [
@@ -19,27 +45,14 @@
       ]
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-23",
       "items": [
         {
-          "name": "KREM Z GROSZKU",
+          "name": "ZUPA OGÓRKOWA",
           "price": null
         },
         {
-          "name": "ROLADKA ZE SCHABU FASZEROWANA OSCYPKIEM I BOCZKIEM Z ZIEMNIAKAMI I SAŁATKĄ WIOSENNĄ",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "items": [
-        {
-          "name": "KWAŚNICA",
-          "price": null
-        },
-        {
-          "name": "MAKARON PENNE Z KURCZAKIEM W SOSIE GRZYBOWYM",
+          "name": "MORSZCZUK, RYŻ I COLESŁAW Z BIAŁEJ KAPUSTY",
           "price": null
         }
       ]
@@ -53,19 +66,6 @@
         },
         {
           "name": "PANIEROWANY FILET Z KURCZAKA , ZIEMNIAKI PUREE , SAŁATKA Z MARCHEWKI I OGÓRKA KISZONEGO",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "items": [
-        {
-          "name": "ZUPA OGÓRKOWA",
-          "price": null
-        },
-        {
-          "name": "MORSZCZUK, RYŻ I COLESŁAW Z BIAŁEJ KAPUSTY",
           "price": null
         }
       ]
