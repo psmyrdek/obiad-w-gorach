@@ -3,26 +3,18 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-21T14:11:12.447Z",
+  "scrapedAt": "2026-10-22T14:09:07.165Z",
   "menus": [
     {
       "date": "2026-10-21",
       "items": [
         {
-          "name": "Galantyna drobiowa pieczona pod duszonymi brokułami",
+          "name": "Galantyna drobiowa pieczona pod duszonymi brokułami, frytki lub ziemniaki, surowki lub słodka kapusta zasmażana",
           "price": 25
         },
         {
           "name": "Zupa kalafiorowo porowa",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia",
-          "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     },
@@ -30,20 +22,12 @@
       "date": "2026-10-20",
       "items": [
         {
-          "name": "Kotlet mielony wieprzowy nadziewany pieczarkami",
+          "name": "Kotlet mielony wieprzowy nadziewany pieczarkami, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
           "price": 25
         },
         {
           "name": "Zupa jarzynowa z makaronem",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia",
-          "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     },
@@ -51,20 +35,12 @@
       "date": "2026-10-19",
       "items": [
         {
-          "name": "Kotlet schabowy nacierany chrzanem i musztardą",
+          "name": "Kotlet schabowy nacierany chrzanem i mysztardą, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
           "name": "Zupa pomidorowa",
           "price": 8
-        },
-        {
-          "name": "Zupa dnia",
-          "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     }
