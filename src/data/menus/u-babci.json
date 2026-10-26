@@ -3,10 +3,10 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-23T13:52:37.865Z",
+  "scrapedAt": "2026-10-26T15:32:44.663Z",
   "menus": [
     {
-      "date": "2026-10-23",
+      "date": "2026-10-30",
       "items": [
         {
           "name": "Żurek",
@@ -19,41 +19,28 @@
       ]
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-29",
       "items": [
         {
           "name": "Pomidorowa",
           "price": null
         },
         {
-          "name": "Porządna porcja duszonek",
+          "name": "Duszonki",
           "price": 33
         }
       ]
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-26",
       "items": [
         {
           "name": "Grochówka",
           "price": null
         },
         {
-          "name": "Pieczone udko",
+          "name": "Pieczone udko, ziemniaki, surówki",
           "price": 34
-        }
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "items": [
-        {
-          "name": "Zupa koperkowa",
-          "price": null
-        },
-        {
-          "name": "Dorsz z ziemniakami i surówkami",
-          "price": 35
         }
       ]
     }

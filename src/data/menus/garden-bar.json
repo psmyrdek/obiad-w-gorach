@@ -3,10 +3,39 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-23T13:52:31.815Z",
+  "scrapedAt": "2026-10-26T15:32:39.411Z",
   "menus": [
     {
-      "date": "2026-10-23",
+      "date": "2026-10-26",
+      "items": [
+        {
+          "name": "Kotlet schabowy z serem gouda, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Pomidorowa (solo)",
+          "price": 8
+        },
+        {
+          "name": "Pomidorowa (do dania drugiego)",
+          "price": 3
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem w kapuście zawijane",
+          "price": 12
+        },
+        {
+          "name": "Zupa dnia",
+          "price": 8
+        },
+        {
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
       "items": [
         {
           "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
@@ -17,47 +46,20 @@
           "price": 45
         },
         {
-          "name": "Zupa dnia: Szpinakowa z ryżem",
+          "name": "Szpinakiwa z ryżem (solo)",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "items": [
-        {
-          "name": "Gulasz Segedyński z karczku i słodkiej kapusty, kasza gryczana lub ziemniaki, zestaw surówek",
-          "price": 25
         },
         {
-          "name": "Zupa dnia: Grochowa z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "items": [
-        {
-          "name": "Galantyna drobiowa pieczona pod duszonymi brokułami, frytki lub ziemniaki, surowki lub słodka kapusta zasmażana",
-          "price": 25
+          "name": "Szpinakiwa z ryżem (do dania drugiego)",
+          "price": 3
         },
         {
-          "name": "Zupa kalafiorowo porowa",
+          "name": "Zupa dnia",
           "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "items": [
-        {
-          "name": "Kotlet mielony wieprzowy nadziewany pieczarkami, frytki lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
-          "price": 25
         },
         {
-          "name": "Zupa dnia: Jarzynowa z makaronem",
-          "price": 8
+          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
+          "price": 12
         }
       ]
     }
