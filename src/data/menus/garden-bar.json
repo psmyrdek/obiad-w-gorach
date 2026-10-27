@@ -3,34 +3,64 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-26T15:32:39.411Z",
+  "scrapedAt": "2026-10-27T15:03:15.142Z",
   "menus": [
     {
       "date": "2026-10-26",
       "items": [
         {
-          "name": "Kotlet schabowy z serem gouda, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "name": "Kotlet schabowy z serem gouda",
           "price": 25
         },
         {
-          "name": "Pomidorowa (solo)",
+          "name": "Pomidorowa",
           "price": 8
         },
         {
-          "name": "Pomidorowa (do dania drugiego)",
-          "price": 3
-        },
-        {
-          "name": "Gołąbki z mięsem i ryżem w kapuście zawijane",
+          "name": "Gołąbki z mięsem i ryżem",
           "price": 12
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "items": [
+        {
+          "name": "Rolada drobiowa z szynką i serem w sosie śmietanowym",
+          "price": 40
         },
         {
-          "name": "Zupa dnia",
-          "price": 8
+          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym",
+          "price": 40
         },
         {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
+          "name": "Schab z grilla z masłem czosnkowym",
+          "price": 40
+        },
+        {
+          "name": "Rosół z makaronem",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "items": [
+        {
+          "name": "Kotlet Drwal wieprzowy z pieczarkami i cebulką zapiekany mozzarellą",
+          "price": 40
+        },
+        {
+          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym",
+          "price": 40
+        },
+        {
+          "name": "Schab z grilla z masłem czosnkowym",
+          "price": 40
+        },
+        {
+          "name": "Rosół z makaronem",
+          "price": 10
         }
       ]
     },
@@ -38,28 +68,16 @@
       "date": "2026-10-30",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "name": "Filet z morszczuka w panierce",
           "price": 34
         },
         {
-          "name": "Filet z dorsza atlantyckiego w panierce, frytki scoopsy lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "name": "Filet z dorsza atlantyckiego w panierce",
           "price": 45
         },
         {
-          "name": "Szpinakiwa z ryżem (solo)",
+          "name": "Szpinakowa z ryżem",
           "price": 8
-        },
-        {
-          "name": "Szpinakiwa z ryżem (do dania drugiego)",
-          "price": 3
-        },
-        {
-          "name": "Zupa dnia",
-          "price": 8
-        },
-        {
-          "name": "Żurek z kiełbasą, jajkiem i ziemniakami",
-          "price": 12
         }
       ]
     }
