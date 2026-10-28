@@ -3,80 +3,43 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-27T15:03:15.142Z",
+  "scrapedAt": "2026-10-28T15:32:51.643Z",
   "menus": [
+    {
+      "date": "2026-10-28",
+      "items": [
+        {
+          "name": "Kotlet mielony wieprzowy z cebulką, ziemniaki, buraczki na ciepło lub zestaw surówek albo zasmażana słodka",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Kapuśniak z ziemniakami",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "items": [
+        {
+          "name": "Kotlet drobiowy szarpany w cieście z warzywami, ziemniaki lub frytki, fasolka zielona z mini marchewką",
+          "price": 25
+        },
+        {
+          "name": "Zupa dnia: Krem z dyni z grzanką",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "items": [
         {
-          "name": "Kotlet schabowy z serem gouda",
+          "name": "Kotlet schabowy z serem gouda, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Pomidorowa",
-          "price": 8
-        },
-        {
-          "name": "Gołąbki z mięsem i ryżem",
-          "price": 12
-        }
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "items": [
-        {
-          "name": "Rolada drobiowa z szynką i serem w sosie śmietanowym",
-          "price": 40
-        },
-        {
-          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym",
-          "price": 40
-        },
-        {
-          "name": "Schab z grilla z masłem czosnkowym",
-          "price": 40
-        },
-        {
-          "name": "Rosół z makaronem",
-          "price": 10
-        }
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "items": [
-        {
-          "name": "Kotlet Drwal wieprzowy z pieczarkami i cebulką zapiekany mozzarellą",
-          "price": 40
-        },
-        {
-          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym",
-          "price": 40
-        },
-        {
-          "name": "Schab z grilla z masłem czosnkowym",
-          "price": 40
-        },
-        {
-          "name": "Rosół z makaronem",
-          "price": 10
-        }
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce",
-          "price": 34
-        },
-        {
-          "name": "Filet z dorsza atlantyckiego w panierce",
-          "price": 45
-        },
-        {
-          "name": "Szpinakowa z ryżem",
+          "name": "Zupa dnia: Pomidorowa",
           "price": 8
         }
       ]

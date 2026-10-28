@@ -3,44 +3,57 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-27T15:03:17.756Z",
+  "scrapedAt": "2026-10-28T15:32:55.027Z",
   "menus": [
     {
-      "date": "2026-10-30",
+      "date": "2026-10-28",
       "items": [
         {
-          "name": "Żurek",
+          "name": "kwaśnica",
           "price": null
         },
         {
-          "name": "Rybne kotleciki",
+          "name": "gołąbki",
+          "price": 31
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "items": [
+        {
+          "name": "krem z dyni",
+          "price": null
+        },
+        {
+          "name": "schabowy, ziemniaczki i kapusta zasmażana",
+          "price": 41
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "items": [
+        {
+          "name": "żurek",
+          "price": null
+        },
+        {
+          "name": "rybne kotleciki",
           "price": 36
         }
       ]
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-22",
       "items": [
         {
-          "name": "Pomidorowa",
+          "name": "zupa pomidorowa",
           "price": null
         },
         {
-          "name": "Porcja duszonek",
+          "name": "duszonki",
           "price": 33
-        }
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "items": [
-        {
-          "name": "Grochówka",
-          "price": null
-        },
-        {
-          "name": "Pieczone udko, ziemniaki, surówki",
-          "price": 34
         }
       ]
     }

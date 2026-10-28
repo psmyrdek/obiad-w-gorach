@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-27T15:03:28.922Z",
+  "scrapedAt": "2026-10-28T15:33:04.299Z",
   "menus": [
     {
       "date": "2026-10-26",
       "items": [
         {
-          "name": "KREM Z KUKURYDZY",
+          "name": "Krem z kukurydzy",
           "price": null
         },
         {
-          "name": "PULPETY WIEPRZOWE W SOSIE PAPRYKOWO-POMIDOROWYM, KASZA, SAŁATKA SZWEDZKA",
+          "name": "Pulpety wieprzowe w sosie paprykowo-pomidorowym, kasza, sałatka szwedzka",
           "price": null
         }
       ]
@@ -22,11 +22,15 @@
       "date": "2026-10-27",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "Żurek",
           "price": null
         },
         {
-          "name": "UDKO Z KURCZAKA, ZIEMNIAKI, SURÓWKA Z KAPUSTY PEKIŃSKIEJ",
+          "name": "Devolay, ziemniaki, fasolka szparagowa z bułką tartą",
+          "price": null
+        },
+        {
+          "name": "Sałatka cezar",
           "price": null
         }
       ]
@@ -35,37 +39,11 @@
       "date": "2026-10-28",
       "items": [
         {
-          "name": "BARSZCZ ZABIELANY",
+          "name": "Kapuśniak",
           "price": null
         },
         {
-          "name": "ROLADKA Z KURCZAKA FASZEROWANA FASOLKĄ SZPARAGOWĄ Z RISOTTO I MIZERIĄ",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "items": [
-        {
-          "name": "ZUPA ZIEMNIACZANA",
-          "price": null
-        },
-        {
-          "name": "ROLADKA ZE SCHABU Z POREM I BEKONEM , ZIEMNIAKI OPIEKANE , COLESLAW Z BIAŁEJ I CZERWONEJ KAPUSTY",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "items": [
-        {
-          "name": "ZUPA GRZYBOWA",
-          "price": null
-        },
-        {
-          "name": "MORSZCZUK , ZIEMNIAKI PUREE , SURÓWKA Z KISZONEJ KAPUSTY",
+          "name": "Cukinia faszerowana mięsem mielonym i kaszą kuskus",
           "price": null
         }
       ]
