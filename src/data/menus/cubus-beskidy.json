@@ -3,34 +3,21 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-10-28T15:33:04.299Z",
+  "scrapedAt": "2026-10-29T15:41:20.228Z",
   "menus": [
-    {
-      "date": "2026-10-26",
-      "items": [
-        {
-          "name": "Krem z kukurydzy",
-          "price": null
-        },
-        {
-          "name": "Pulpety wieprzowe w sosie paprykowo-pomidorowym, kasza, sałatka szwedzka",
-          "price": null
-        }
-      ]
-    },
     {
       "date": "2026-10-27",
       "items": [
         {
-          "name": "Żurek",
+          "name": "ŻUREK",
           "price": null
         },
         {
-          "name": "Devolay, ziemniaki, fasolka szparagowa z bułką tartą",
+          "name": "DEVOLAY, ZIEMNIAKI, FASOLKA SZPARAGOWA Z BUŁKĄ TARTĄ",
           "price": null
         },
         {
-          "name": "Sałatka cezar",
+          "name": "SAŁATKA CEZAR",
           "price": null
         }
       ]
@@ -39,11 +26,24 @@
       "date": "2026-10-28",
       "items": [
         {
-          "name": "Kapuśniak",
+          "name": "KAPUŚNIAK",
           "price": null
         },
         {
-          "name": "Cukinia faszerowana mięsem mielonym i kaszą kuskus",
+          "name": "CUKINIA FASZEROWANA MIĘSEM MIELONYM I KASZĄ KUSKUS",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "items": [
+        {
+          "name": "ZUPA PIECZARKOWA",
+          "price": null
+        },
+        {
+          "name": "GULASZ WIEPRZOWY ,KLUSKI ŚLĄSKIE , BURACZKI Z PAPRYKĄ",
           "price": null
         }
       ]

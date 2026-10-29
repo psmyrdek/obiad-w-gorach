@@ -3,7 +3,7 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-28T15:32:55.027Z",
+  "scrapedAt": "2026-10-29T15:41:08.251Z",
   "menus": [
     {
       "date": "2026-10-28",
@@ -14,6 +14,10 @@
         },
         {
           "name": "gołąbki",
+          "price": null
+        },
+        {
+          "name": "Zestaw dnia: kwaśnica i gołąbki",
           "price": 31
         }
       ]
@@ -26,7 +30,7 @@
           "price": null
         },
         {
-          "name": "schabowy, ziemniaczki i kapusta zasmażana",
+          "name": "Zestaw dnia: krem z dyni, schabowy, ziemniaczki i kapusta zasmażana",
           "price": 41
         }
       ]
@@ -40,20 +44,11 @@
         },
         {
           "name": "rybne kotleciki",
-          "price": 36
-        }
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "items": [
-        {
-          "name": "zupa pomidorowa",
           "price": null
         },
         {
-          "name": "duszonki",
-          "price": 33
+          "name": "Zestaw dnia: żurek i rybne kotleciki",
+          "price": 36
         }
       ]
     }
