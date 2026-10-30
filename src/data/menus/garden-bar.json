@@ -3,17 +3,30 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-28T15:32:51.643Z",
+  "scrapedAt": "2026-10-30T15:23:22.325Z",
   "menus": [
+    {
+      "date": "2026-10-29",
+      "items": [
+        {
+          "name": "Zraz drobiowy mielony w sosie koperkowym, kasza gryczana lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "price": 25
+        },
+        {
+          "name": "Barszcz ukraiński",
+          "price": 8
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "items": [
         {
-          "name": "Kotlet mielony wieprzowy z cebulką, ziemniaki, buraczki na ciepło lub zestaw surówek albo zasmażana słodka",
+          "name": "Kotlet mielony wieprzowy z cebulką, ziemniaki, buraczki na ciepło, lub zestaw surówek albo zasmażana słodka",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Kapuśniak z ziemniakami",
+          "name": "Kapuśniak z ziemniakami",
           "price": 8
         }
       ]
@@ -26,7 +39,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem z dyni z grzanką",
+          "name": "Krem z dyni z grzanką",
           "price": 8
         }
       ]
@@ -39,7 +52,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Pomidorowa",
           "price": 8
         }
       ]
