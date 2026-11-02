@@ -3,57 +3,76 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-10-30T15:23:22.325Z",
+  "scrapedAt": "2026-11-02T18:54:37.714Z",
   "menus": [
     {
-      "date": "2026-10-29",
+      "date": "2026-11-02",
       "items": [
         {
-          "name": "Zraz drobiowy mielony w sosie koperkowym, kasza gryczana lub ziemniaki, zestaw surówek lub kapusta słodka zasmażana",
+          "name": "Kotlet schabowy nacierany musztardą i majonezem, ziemniaki lub frytki, surówki, kapusta słodka zasmażana",
           "price": 25
         },
         {
-          "name": "Barszcz ukraiński",
+          "name": "Zupa dnia: Pomidorowa (do dania głównego)",
+          "price": 3
+        },
+        {
+          "name": "Zupa dnia: Pomidorowa (solo)",
           "price": 8
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem w kapustie zawijane z sosem pomidorowym",
+          "price": 12
         }
       ]
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-31",
       "items": [
         {
-          "name": "Kotlet mielony wieprzowy z cebulką, ziemniaki, buraczki na ciepło, lub zestaw surówek albo zasmażana słodka",
-          "price": 25
+          "name": "Filet z piersi kurczaka w sosie śmietanowym z parmezanem i żurawiną, kluski śląskie lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 40
         },
         {
-          "name": "Kapuśniak z ziemniakami",
-          "price": 8
+          "name": "Zupa dnia: Rosół z makaronem (do dania głównego)",
+          "price": 5
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem (solo)",
+          "price": 10
+        },
+        {
+          "name": "Rosół z pierożkami Pielmieni",
+          "price": 15
         }
       ]
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-10-30",
       "items": [
         {
-          "name": "Kotlet drobiowy szarpany w cieście z warzywami, ziemniaki lub frytki, fasolka zielona z mini marchewką",
-          "price": 25
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "price": 34
         },
         {
-          "name": "Krem z dyni z grzanką",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "items": [
-        {
-          "name": "Kotlet schabowy z serem gouda, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
-          "price": 25
+          "name": "Filet z dorsza atlantyckiego w panierce, frytki scoopsy lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
+          "price": 45
         },
         {
-          "name": "Pomidorowa",
+          "name": "Zupa dnia: Ogórkowa z ryżem (do dania głównego)",
+          "price": 3
+        },
+        {
+          "name": "Zupa dnia: Ogórkowa z ryżem (solo)",
           "price": 8
+        },
+        {
+          "name": "Kartacze z mięsem 4 szt, zestaw surówek",
+          "price": 27
+        },
+        {
+          "name": "Wątróbki drobiowe z boczkiem i cebulką, ziemniaki i kapusta kiszona",
+          "price": 33
         }
       ]
     }

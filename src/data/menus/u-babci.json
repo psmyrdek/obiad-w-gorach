@@ -3,56 +3,39 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-10-30T15:23:25.756Z",
+  "scrapedAt": "2026-11-02T18:54:42.155Z",
   "menus": [
     {
-      "date": "2026-10-28",
+      "date": "2026-11-02",
       "items": [
         {
-          "name": "Kwaśnica",
+          "name": "zupa koperkowa",
           "price": null
         },
         {
-          "name": "Gołąbki",
+          "name": "złocisty schabowy z ziemniakami i świeżą surówką",
+          "price": 41
+        },
+        {
+          "name": "krem z dyni",
           "price": null
         },
         {
-          "name": "Zestaw dnia: kwaśnica i gołąbki",
-          "price": 31
-        }
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "items": [
-        {
-          "name": "Krem z dyni",
-          "price": null
-        },
-        {
-          "name": "Schabowy, ziemniaczki i kapusta zasmażana",
-          "price": null
-        },
-        {
-          "name": "Cały zestaw: krem z dyni i schabowy",
+          "name": "złocisty schabowy, ziemniaczki i kapusta zasmażana",
           "price": 41
         }
       ]
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-11-04",
       "items": [
         {
-          "name": "Żurek",
+          "name": "kwaśnica",
           "price": null
         },
         {
-          "name": "Rybne kotleciki",
-          "price": null
-        },
-        {
-          "name": "Zestaw dnia: żurek i rybne kotleciki",
-          "price": 36
+          "name": "gołąbki",
+          "price": 31
         }
       ]
     }
