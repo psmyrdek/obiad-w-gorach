@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-11-04T16:38:52.291Z",
+  "scrapedAt": "2026-11-05T16:54:20.407Z",
   "menus": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-05",
       "items": [
         {
-          "name": "KWAőNICA",
+          "name": "ZUPA FASOLOWA",
           "price": null
         },
         {
-          "name": "FILET Z KURCZAKA W PANKO Z ZIEMNIAKAMI OPIEKANYMI I COLESLAWEM",
+          "name": "POLICZKI WIEPRZOWE, KNEDEL, BURACZKI GLAZUROWANE",
           "price": null
         }
       ]
@@ -22,37 +22,37 @@
       "date": "2026-11-04",
       "items": [
         {
-          "name": "KAPUőNIAK",
+          "name": "KREM MARCHEWKOWO-DYNIOWY",
           "price": null
         },
         {
-          "name": "CUKINIA FASZEROWANA MIĘSEM MIELONYM I KASZĄ KUSKUS",
+          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW , FRYTKI BELGIJSKIE , SAŁATKA WIOSENNA Z SOSEM VINEGRETT",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-03",
       "items": [
         {
-          "name": "ZUPA PIECZARKOWA",
+          "name": "ZUPA KOPERKOWA",
           "price": null
         },
         {
-          "name": "GULASZ WIEPRZOWY ,KLUSKI őLĄSKIE , BURACZKI Z PAPRYKĄ",
+          "name": "ROLADKA DROBIOWA Z PIECZARKAMI W OMLECIE, ZIEMNIAKI I ZESTAW SURÓWEK",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-02",
       "items": [
         {
-          "name": "KREM BROKUŁOWY",
+          "name": "KWAŚNICA",
           "price": null
         },
         {
-          "name": "BURGER Z ŁOSOSIEM LUB DUSZONKI",
+          "name": "FILET Z KURCZAKA W PANKO Z ZIEMNIAKAMI OPIEKANYMI I COLESLAWEM",
           "price": null
         }
       ]

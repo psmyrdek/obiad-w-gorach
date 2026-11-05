@@ -3,64 +3,44 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-11-04T16:38:40.283Z",
+  "scrapedAt": "2026-11-05T16:54:04.322Z",
   "menus": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-05",
       "items": [
         {
-          "name": "Kotlet schabowy nacierany musztardą i majonezem, ziemniaki lub frytki, surówki, kapusta słodka zasmażana",
+          "name": "Pieczeń drobiowa z sosem serowym żurawiną i parmezanem, ziemniaki, zestaw surówek",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Pomidorowa",
+          "name": "Zupa dnia : Jarzynowa",
           "price": 8
-        },
-        {
-          "name": "Gołąbki z mięsem i ryżem",
-          "price": 12
         }
       ]
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-11-04",
       "items": [
         {
-          "name": "Filet z piersi kurczaka w sosie śmietanowym z parmezanem i żurawiną, kluski śląskie lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
+          "name": "Kotlet drobiowy z pomidorami i wędzonym serem zapiekany, frytki lub ziemniaki, duszona marchewka",
+          "price": 25
         },
         {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rosół z pierożkami Pielmieni 12 szt",
-          "price": 15
+          "name": "Zupa dnia : Barszcz biały z ziemniakami",
+          "price": 8
         }
       ]
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-03",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
-          "price": 34
+          "name": "Stek drobiowy mielony z cebulką, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "price": 25
         },
         {
-          "name": "Filet z dorsza atlantyckiego w panierce, frytki scoopsy lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 45
-        },
-        {
-          "name": "Zupa dnia : Ogórkowa z ryżem",
+          "name": "Zupa dnia: Krem z zielonego groszku z grzanką",
           "price": 8
-        },
-        {
-          "name": "Kartacze z mięsem 4 szt, zestaw surówek",
-          "price": 27
-        },
-        {
-          "name": "Wątróbki drobiowe z boczkiem i cebulką, ziemniaki i kapusta kiszona",
-          "price": 33
         }
       ]
     }
