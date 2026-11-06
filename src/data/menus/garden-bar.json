@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-11-05T16:54:04.322Z",
+  "scrapedAt": "2026-11-06T16:23:05.693Z",
   "menus": [
     {
       "date": "2026-11-05",
@@ -13,7 +13,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Jarzynowa",
+          "name": "Zupa dnia: Jarzynowa",
           "price": 8
         }
       ]
@@ -26,7 +26,7 @@
           "price": 25
         },
         {
-          "name": "Zupa dnia : Barszcz biały z ziemniakami",
+          "name": "Zupa dnia: Barszcz biały z ziemniakami",
           "price": 8
         }
       ]
