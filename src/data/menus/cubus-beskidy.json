@@ -3,10 +3,23 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-11-06T16:23:21.292Z",
+  "scrapedAt": "2026-11-09T19:15:49.131Z",
   "menus": [
     {
-      "date": "2026-11-05",
+      "date": "2026-11-09",
+      "items": [
+        {
+          "name": "KREM Z BURAKA",
+          "price": null
+        },
+        {
+          "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE, CZERWONA KAPUSTA",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
       "items": [
         {
           "name": "ZUPA FASOLOWA",
@@ -19,40 +32,18 @@
       ]
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-13",
       "items": [
         {
-          "name": "KREM MARCHEWKOWO-DYNIOWY",
+          "name": "ZUPA POMIDOROWA",
           "price": null
         },
         {
-          "name": "POLĘDWICZKA WIEPRZOWA W SOSIE Z SUSZONYCH POMIDORÓW , FRYTKI BELGIJSKIE , SAŁATKA WIOSENNA Z SOSEM VINEGRETT",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "items": [
-        {
-          "name": "ZUPA KOPERKOWA",
+          "name": "MORSZCZUK W PANIERCE, ZIEMNIAKI, SURÓWKA Z KISZONEJ KAPUSTY",
           "price": null
         },
         {
-          "name": "ROLADKA DROBIOWA Z PIECZARKAMI W OMLECIE, ZIEMNIAKI I ZESTAW SURÓWEK",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "items": [
-        {
-          "name": "KWAŚNICA",
-          "price": null
-        },
-        {
-          "name": "FILET Z KURCZAKA W PANKO Z ZIEMNIAKAMI OPIEKANYMI I COLESLAWEM",
+          "name": "NALEŚNIKI Z SEREM",
           "price": null
         }
       ]
