@@ -3,17 +3,8 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-11-09T19:15:37.420Z",
+  "scrapedAt": "2026-11-10T16:38:49.412Z",
   "menus": [
-    {
-      "date": "2026-11-09",
-      "items": [
-        {
-          "name": "Smaczny początek tygodnia na Dojazdowej",
-          "price": null
-        }
-      ]
-    },
     {
       "date": "2026-11-06",
       "items": [
@@ -22,7 +13,7 @@
           "price": null
         },
         {
-          "name": "Zestaw: Złocisty dorsz, ziemniaki i surówki",
+          "name": "Zestaw dnia: Pomidorowa, złocisty dorsz, ziemniaki i surówki",
           "price": 35
         }
       ]
@@ -35,7 +26,7 @@
           "price": null
         },
         {
-          "name": "Wątróbka z ziemniakami i ogórkiem kiszonym",
+          "name": "Zestaw dnia: Krupnik, wątróbka z ziemniakami i ogórkiem kiszonym",
           "price": 33
         }
       ]
@@ -44,11 +35,11 @@
       "date": "2026-11-04",
       "items": [
         {
-          "name": "Pieczarkowa",
+          "name": "Zupa pieczarkowa",
           "price": null
         },
         {
-          "name": "Gołąbki",
+          "name": "Zestaw dnia: Pieczarkowa i gołąbki",
           "price": 31
         }
       ]
@@ -61,7 +52,7 @@
           "price": null
         },
         {
-          "name": "Potrawka z kurczaka z ryżem w sosie",
+          "name": "Zestaw dnia: Grochówka, potrawka z kurczaka z ryżem w sosie",
           "price": 35
         }
       ]

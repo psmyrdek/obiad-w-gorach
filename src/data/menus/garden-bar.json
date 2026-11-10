@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-11-09T19:15:33.387Z",
+  "scrapedAt": "2026-11-10T16:38:34.009Z",
   "menus": [
     {
       "date": "2026-11-09",
@@ -17,62 +17,8 @@
           "price": 8
         },
         {
-          "name": "Gołąbki z mięsem i ryżem w kapuście zawijane",
-          "price": 12
-        }
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "items": [
-        {
-          "name": "Rolada wołowa śląska w sosie ciemnym kluski śląskie lub ziemniaki, zestaw surówek lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Schab z grilla z maslem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Rumsztyk wołowy z grilla z pieczarkami i cebulką, frytki scoopsy, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rosół z pierożkami Pielmieni 12 szt na porcje",
-          "price": 15
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "items": [
-        {
-          "name": "Polędwiczki wieprzowe w sosie szparagowym z parmezanem i boczkiem kluski slaskie lub ziemniaki surówki kub kapusta słodka zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Schab z grilla z maslem czosnkowym frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia : Rosół z makaronem",
-          "price": 10
-        },
-        {
-          "name": "Rosół z pierożkami Pielmieni 12 szt na porcje",
-          "price": 15
+          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany, ziemniaki, zestaw surówek",
+          "price": 35
         }
       ]
     },
@@ -80,7 +26,7 @@
       "date": "2026-11-13",
       "items": [
         {
-          "name": "Filet z morszczuka w panierce frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
+          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
           "price": 34
         },
         {
@@ -92,11 +38,11 @@
           "price": 8
         },
         {
-          "name": "Kaszanka z cebulką ziemniaki i kiszona zasmażana",
+          "name": "Kaszanka z cebulką, ziemniaki i kiszona zasmażana",
           "price": 25
         },
         {
-          "name": "Kartacze z mięsem 4 szt zestaw surówek",
+          "name": "Kartacze z mięsem 4 szt, zestaw surówek",
           "price": 27
         },
         {
