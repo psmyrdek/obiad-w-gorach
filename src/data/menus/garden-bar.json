@@ -3,7 +3,7 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-11-10T16:38:34.009Z",
+  "scrapedAt": "2026-11-11T16:42:01.830Z",
   "menus": [
     {
       "date": "2026-11-09",
@@ -15,10 +15,52 @@
         {
           "name": "Zupa dnia: Pomidorowa",
           "price": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "items": [
+        {
+          "name": "Rolada wołowa śląska w sosie ciemnym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta zasmażana",
+          "price": 40
         },
         {
-          "name": "Kotlet Drwal ze schabu z pieczarkami i mozzarellą zapiekany, ziemniaki, zestaw surówek",
-          "price": 35
+          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Schab z grilla z maslem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Rumsztyk wołowy z grilla z pieczarkami i cebulką, frytki scoopsy, surówki lub kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "items": [
+        {
+          "name": "Polędwiczki wieprzowe w sosie szparagowym z parmezanem i boczkiem, kluski slaskie lub ziemniaki, surówki lub kapusta słodka zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Schab z grilla z maslem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
+          "price": 40
+        },
+        {
+          "name": "Zupa dnia: Rosół z makaronem",
+          "price": 10
         }
       ]
     },
@@ -34,20 +76,8 @@
           "price": 45
         },
         {
-          "name": "Zupa dnia : Pieczarkowa",
+          "name": "Zupa dnia: Pieczarkowa",
           "price": 8
-        },
-        {
-          "name": "Kaszanka z cebulką, ziemniaki i kiszona zasmażana",
-          "price": 25
-        },
-        {
-          "name": "Kartacze z mięsem 4 szt, zestaw surówek",
-          "price": 27
-        },
-        {
-          "name": "Wątróbki drobiowe z boczkiem i cebulką, ziemniaki i kapusta kiszona",
-          "price": 33
         }
       ]
     }

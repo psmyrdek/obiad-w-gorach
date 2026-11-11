@@ -3,8 +3,21 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-11-10T16:39:00.407Z",
+  "scrapedAt": "2026-11-11T16:42:16.517Z",
   "menus": [
+    {
+      "date": "2026-11-10",
+      "items": [
+        {
+          "name": "ZUPA OGÓRKOWA",
+          "price": null
+        },
+        {
+          "name": "SAŁATKA ZE STRIPSAMI Z KURCZAKA Z SOSEM MIODOWO-MUSZTARDOWYM",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "items": [
@@ -14,19 +27,6 @@
         },
         {
           "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE, CZERWONA KAPUSTA",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "items": [
-        {
-          "name": "ZUPA FASOLOWA",
-          "price": null
-        },
-        {
-          "name": "POLICZKI WIEPRZOWE, KNEDEL, BURACZKI GLAZUROWANE",
           "price": null
         }
       ]
@@ -44,6 +44,19 @@
         },
         {
           "name": "NALEŚNIKI Z SEREM",
+          "price": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "items": [
+        {
+          "name": "ZUPA FASOLOWA",
+          "price": null
+        },
+        {
+          "name": "POLICZKI WIEPRZOWE, KNEDEL, BURACZKI GLAZUROWANE",
           "price": null
         }
       ]
