@@ -3,80 +3,30 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-11-11T16:42:01.830Z",
+  "scrapedAt": "2026-11-12T17:10:26.557Z",
   "menus": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-12",
       "items": [
         {
-          "name": "Kotlet schabowy marynowany w mleku i cebuli, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "name": "Filet z udźca kurczaka po bolońsku zapiekany z miesem bolognesse i serem, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Pomidorowa",
+          "name": "Zupa dnia : Barszcz ukraiński",
           "price": 8
         }
       ]
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-10",
       "items": [
         {
-          "name": "Rolada wołowa śląska w sosie ciemnym, kluski śląskie lub ziemniaki, zestaw surówek lub kapusta zasmażana",
-          "price": 40
+          "name": "Sznycel mielony wieprzowy w sosie musztardowym, ziemniaki lub frytki, surówki lub kapusta słodka zasmażana",
+          "price": 25
         },
         {
-          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Schab z grilla z maslem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Rumsztyk wołowy z grilla z pieczarkami i cebulką, frytki scoopsy, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem",
-          "price": 10
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "items": [
-        {
-          "name": "Polędwiczki wieprzowe w sosie szparagowym z parmezanem i boczkiem, kluski slaskie lub ziemniaki, surówki lub kapusta słodka zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Filet z piersi kurczaka z grilla z masłem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Schab z grilla z maslem czosnkowym, frytki lub ziemniaki, surówki lub kapusta zasmażana",
-          "price": 40
-        },
-        {
-          "name": "Zupa dnia: Rosół z makaronem",
-          "price": 10
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "items": [
-        {
-          "name": "Filet z morszczuka w panierce, frytki lub ziemniaki, surówki lub kapusta kiszona zasmażana",
-          "price": 34
-        },
-        {
-          "name": "Filet z dorsza atlantyckiego w panierce, frytki scoopsy lub ziemniaki, zestaw surówek lub kapusta kiszona zasmażana",
-          "price": 45
-        },
-        {
-          "name": "Zupa dnia: Pieczarkowa",
+          "name": "Zupa dnia: Krem kalafiorowo-ziemniaczany z grzanką",
           "price": 8
         }
       ]

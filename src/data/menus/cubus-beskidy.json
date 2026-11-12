@@ -3,17 +3,30 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-11-11T16:42:16.517Z",
+  "scrapedAt": "2026-11-12T17:10:42.768Z",
   "menus": [
+    {
+      "date": "2026-11-12",
+      "items": [
+        {
+          "name": "Żurek",
+          "price": null
+        },
+        {
+          "name": "Kotlet schabowy, ziemniaki puree, kapusta zasmażana",
+          "price": null
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "items": [
         {
-          "name": "ZUPA OGÓRKOWA",
+          "name": "Zupa ogórkowa",
           "price": null
         },
         {
-          "name": "SAŁATKA ZE STRIPSAMI Z KURCZAKA Z SOSEM MIODOWO-MUSZTARDOWYM",
+          "name": "Sałatka ze stripsami z kurczaka z sosem miodowo-musztardowym",
           "price": null
         }
       ]
@@ -22,11 +35,11 @@
       "date": "2026-11-09",
       "items": [
         {
-          "name": "KREM Z BURAKA",
+          "name": "Krem z buraka",
           "price": null
         },
         {
-          "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE, CZERWONA KAPUSTA",
+          "name": "Schab w sosie myśliwskim, kluski śląskie, czerwona kapusta",
           "price": null
         }
       ]
@@ -35,28 +48,15 @@
       "date": "2026-11-13",
       "items": [
         {
-          "name": "ZUPA POMIDOROWA",
+          "name": "Zupa pomidorowa",
           "price": null
         },
         {
-          "name": "MORSZCZUK W PANIERCE, ZIEMNIAKI, SURÓWKA Z KISZONEJ KAPUSTY",
+          "name": "Morszczuk w panierce, ziemniaki, surówka z kiszonej kapusty",
           "price": null
         },
         {
-          "name": "NALEŚNIKI Z SEREM",
-          "price": null
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "items": [
-        {
-          "name": "ZUPA FASOLOWA",
-          "price": null
-        },
-        {
-          "name": "POLICZKI WIEPRZOWE, KNEDEL, BURACZKI GLAZUROWANE",
+          "name": "Naleśniki z serem",
           "price": null
         }
       ]
