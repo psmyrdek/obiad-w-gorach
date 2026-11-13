@@ -3,17 +3,17 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-11-12T17:10:42.768Z",
+  "scrapedAt": "2026-11-13T16:49:15.775Z",
   "menus": [
     {
-      "date": "2026-11-12",
+      "date": "2026-11-09",
       "items": [
         {
-          "name": "Żurek",
+          "name": "Krem z buraka",
           "price": null
         },
         {
-          "name": "Kotlet schabowy, ziemniaki puree, kapusta zasmażana",
+          "name": "Schab w sosie myśliwskim, kluski śląskie, czerwona kapusta",
           "price": null
         }
       ]
@@ -32,14 +32,14 @@
       ]
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-12",
       "items": [
         {
-          "name": "Krem z buraka",
+          "name": "Żurek",
           "price": null
         },
         {
-          "name": "Schab w sosie myśliwskim, kluski śląskie, czerwona kapusta",
+          "name": "Kotlet schabowy, ziemniaki puree, kapusta zasmażana",
           "price": null
         }
       ]
