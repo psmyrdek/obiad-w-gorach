@@ -3,60 +3,60 @@
   "name": "Cubus Beskidy",
   "url": "https://www.facebook.com/CubusBeskidy",
   "phone": "+48 33 863 13 05",
-  "scrapedAt": "2026-11-13T16:49:15.775Z",
+  "scrapedAt": "2026-11-16T18:59:16.729Z",
   "menus": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-19",
       "items": [
         {
-          "name": "Krem z buraka",
+          "name": "ŻUREK",
           "price": null
         },
         {
-          "name": "Schab w sosie myśliwskim, kluski śląskie, czerwona kapusta",
+          "name": "KOTLET SCHABOWY, ZIEMNIAKI PUREE, KAPUSTA ZASMAŻANA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-17",
       "items": [
         {
-          "name": "Zupa ogórkowa",
+          "name": "ZUPA OGÓRKOWA",
           "price": null
         },
         {
-          "name": "Sałatka ze stripsami z kurczaka z sosem miodowo-musztardowym",
+          "name": "SAŁATKA ZE STRIPSAMI Z KURCZAKA Z SOSEM MIODOWO-MUSZTARDOWYM",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "items": [
         {
-          "name": "Żurek",
+          "name": "KREM Z BURAKA",
           "price": null
         },
         {
-          "name": "Kotlet schabowy, ziemniaki puree, kapusta zasmażana",
+          "name": "SCHAB W SOSIE MYŚLIWSKIM, KLUSKI ŚLĄSKIE, CZERWONA KAPUSTA",
           "price": null
         }
       ]
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-20",
       "items": [
         {
-          "name": "Zupa pomidorowa",
+          "name": "ZUPA POMIDOROWA",
           "price": null
         },
         {
-          "name": "Morszczuk w panierce, ziemniaki, surówka z kiszonej kapusty",
+          "name": "MORSZCZUK W PANIERCE, ZIEMNIAKI, SURÓWKA Z KISZONEJ KAPUSTY",
           "price": null
         },
         {
-          "name": "Naleśniki z serem",
+          "name": "NALEŚNIKI Z SEREM",
           "price": null
         }
       ]
