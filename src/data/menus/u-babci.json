@@ -3,11 +3,19 @@
   "name": "U Babci",
   "url": "https://www.facebook.com/ubabcikuchniadomowa",
   "phone": "+48 574 428 628",
-  "scrapedAt": "2026-11-17T17:56:56.585Z",
+  "scrapedAt": "2026-11-18T17:38:50.674Z",
   "menus": [
     {
-      "date": "2026-11-19",
+      "date": "2026-11-18",
       "items": [
+        {
+          "name": "Krem z dyni",
+          "price": null
+        },
+        {
+          "name": "Gołąbki",
+          "price": 31
+        },
         {
           "name": "Zupa jarzynowa",
           "price": null
@@ -15,14 +23,6 @@
         {
           "name": "Stek z karczku, ziemniaki i modra kapusta",
           "price": 34
-        },
-        {
-          "name": "Krupnik",
-          "price": null
-        },
-        {
-          "name": "Wątróbka z ziemniakami i ogórkiem kiszonym",
-          "price": 33
         }
       ]
     },
@@ -30,12 +30,25 @@
       "date": "2026-11-17",
       "items": [
         {
-          "name": "Barszcz zabielany z jajkiem",
+          "name": "Żurek",
           "price": null
         },
         {
-          "name": "Schabowy, ziemniaki i kapusta zasmażana",
-          "price": 41
+          "name": "Porcja porządnych duszonek",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "items": [
+        {
+          "name": "Zupa serowo-porowa",
+          "price": null
+        },
+        {
+          "name": "Schabowy z kapustą zasmażaną",
+          "price": null
         }
       ]
     },
@@ -43,11 +56,11 @@
       "date": "2026-11-20",
       "items": [
         {
-          "name": "Zupa pomidorowa z ryżem lub makaronem",
+          "name": "Barszcz ukraiński",
           "price": null
         },
         {
-          "name": "Dorsz złocisty, ziemniaki i surówki",
+          "name": "Dorsz z ziemniakami i surówkami",
           "price": 35
         }
       ]

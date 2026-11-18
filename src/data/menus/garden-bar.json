@@ -3,18 +3,22 @@
   "name": "Garden Bar",
   "url": "https://www.facebook.com/126626397494420",
   "phone": "+48 691 409 510",
-  "scrapedAt": "2026-11-17T17:56:53.248Z",
+  "scrapedAt": "2026-11-18T17:38:43.519Z",
   "menus": [
     {
-      "date": "2026-11-19",
+      "date": "2026-11-18",
       "items": [
         {
-          "name": "Filet z udźca kurczaka po bolońsku zapiekany z miesem bolognesse i serem",
+          "name": "Kotlet drobiowy szarpany w cieście piwno-serowym, frytki lub ziemniaki, surówki lub kapusta slodka zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia : Barszcz ukraiński",
+          "name": "Zupa Kalafiorowo-porowa",
           "price": 8
+        },
+        {
+          "name": "Jadło Drwala: dwa placki ziemniaczane z gulaszem wieprzowym, plus zestaw surówek",
+          "price": 37
         }
       ]
     },
@@ -22,12 +26,20 @@
       "date": "2026-11-17",
       "items": [
         {
-          "name": "Sznycel mielony wieprzowy w sosie musztardowym",
+          "name": "Frykadelka drobiowa mielona z dodatkiem wędzonego sera, frytki lub ziemniaki, surówki lub słodka kapusta zasmażana",
           "price": 25
         },
         {
-          "name": "Zupa dnia: Krem kalafiorowo-ziemniaczany z grzanką",
+          "name": "Zupa Krem warzywny z grzanką",
           "price": 8
+        },
+        {
+          "name": "Wątróbki drobiowe z boczkiem i cebulą, ziemniaki lub frytki, surówki lub zasmażana",
+          "price": 33
+        },
+        {
+          "name": "Gołąbki z mięsem i ryżem w kapuście zawijane",
+          "price": 12
         }
       ]
     }
