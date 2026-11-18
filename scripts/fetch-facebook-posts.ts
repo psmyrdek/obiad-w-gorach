@@ -9,11 +9,11 @@ interface FacebookPage {
 }
 
 const PAGES: FacebookPage[] = [
-  { id: "126626397494420", name: "Garden Bar" },
-  { id: "ubabcikuchniadomowa", name: "U Babci" },
-  { id: "MagiaSmakuStolowka", name: "Magia Smaku" },
-  { id: "61551705328071", name: "Smakuj Życie" },
-  { id: "CubusBeskidy", name: "Cubus Beskidy" },
+  {id: "126626397494420", name: "Garden Bar"},
+  {id: "ubabcikuchniadomowa", name: "U Babci"},
+  {id: "MagiaSmakuStolowka", name: "Magia Smaku"},
+  {id: "61551705328071", name: "Smakuj Życie"},
+  {id: "CubusBeskidy", name: "Cubus Beskidy"},
 ];
 
 interface FacebookPost {
@@ -26,7 +26,7 @@ interface FacebookPost {
 
 interface FacebookResponse {
   data: FacebookPost[];
-  error?: { message: string; type: string; code: number };
+  error?: {message: string; type: string; code: number};
 }
 
 function getTodaySinceTimestamp(): number {
@@ -37,7 +37,7 @@ function getTodaySinceTimestamp(): number {
 
 async function fetchTodaysPosts(
   pageId: string,
-  accessToken: string
+  accessToken: string,
 ): Promise<FacebookResponse> {
   const since = getTodaySinceTimestamp();
   const fields = "id,message,created_time,full_picture,permalink_url";
@@ -48,7 +48,7 @@ async function fetchTodaysPosts(
 
   if (!response.ok) {
     throw new Error(
-      `Facebook API error for ${pageId}: ${JSON.stringify(json.error ?? json)}`
+      `Facebook API error for ${pageId}: ${JSON.stringify(json.error ?? json)}`,
     );
   }
 
@@ -63,7 +63,7 @@ async function main() {
   }
 
   console.log(
-    `Fetching today's posts (since ${new Date(getTodaySinceTimestamp() * 1000).toISOString()})...\n`
+    `Fetching today's posts (since ${new Date(getTodaySinceTimestamp() * 1000).toISOString()})...\n`,
   );
 
   for (const page of PAGES) {
@@ -89,7 +89,7 @@ async function main() {
       }
     } catch (error) {
       console.error(
-        `Error: ${error instanceof Error ? error.message : error}\n`
+        `Error: ${error instanceof Error ? error.message : error}\n`,
       );
     }
   }
